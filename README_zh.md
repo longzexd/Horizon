@@ -140,11 +140,25 @@ cp data/config.example.json data/config.json  # 自定义信息源
   "filtering": {
     "ai_score_threshold": 6.0,
     "time_window_hours": 24
+  },
+  "notifications": {
+    "telegram": {
+      "enabled": true,
+      "bot_token_env": "TELEGRAM_BOT_TOKEN",
+      "chat_id_env": "TELEGRAM_CHAT_ID"
+    }
   }
 }
 ```
 
 完整配置参考请查看[配置指南](docs/configuration.md)。
+
+如果开启 Telegram 推送，请在 `.env` 中设置：
+
+```bash
+TELEGRAM_BOT_TOKEN=123456789:AA...
+TELEGRAM_CHAT_ID=123456789
+```
 
 ### 3. 运行
 

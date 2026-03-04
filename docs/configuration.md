@@ -154,6 +154,30 @@ Content is scored 0-10:
 - `ai_score_threshold`: Only include content scoring >= this value
 - `time_window_hours`: Fetch content from last N hours
 
+## Notifications
+
+Horizon can push generated summaries to Telegram using a bot.
+
+```json
+{
+  "notifications": {
+    "telegram": {
+      "enabled": true,
+      "bot_token_env": "TELEGRAM_BOT_TOKEN",
+      "chat_id_env": "TELEGRAM_CHAT_ID",
+      "disable_notification": false
+    }
+  }
+}
+```
+
+Environment variables:
+
+```bash
+TELEGRAM_BOT_TOKEN=123456789:AA...
+TELEGRAM_CHAT_ID=123456789
+```
+
 ## Environment Variable Substitution
 
 RSS feed URLs support `${VAR_NAME}` syntax for secrets. The variable is expanded at runtime from environment variables (or `.env` file):

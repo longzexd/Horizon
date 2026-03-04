@@ -112,12 +112,22 @@ def print_config_template():
   "filtering": {
     "ai_score_threshold": 7.0,
     "time_window_hours": 24
+  },
+  "notifications": {
+    "telegram": {
+      "enabled": false,
+      "bot_token_env": "TELEGRAM_BOT_TOKEN",
+      "chat_id_env": "TELEGRAM_CHAT_ID",
+      "disable_notification": false
+    }
   }
 }
 
 Also create a .env file with:
 ANTHROPIC_API_KEY=your_api_key_here
 GITHUB_TOKEN=your_github_token_here (optional but recommended)
+TELEGRAM_BOT_TOKEN=your_bot_token_here (for Telegram push)
+TELEGRAM_CHAT_ID=your_chat_id_here (for Telegram push)
 """
     console.print(template)
 

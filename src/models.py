@@ -121,6 +121,19 @@ class TelegramConfig(BaseModel):
     channels: List[TelegramChannelConfig] = Field(default_factory=list)
 
 
+class TelegramNotificationConfig(BaseModel):
+    """Telegram notification configuration."""
+    enabled: bool = False
+    bot_token_env: str = "TELEGRAM_BOT_TOKEN"
+    chat_id_env: str = "TELEGRAM_CHAT_ID"
+    disable_notification: bool = False
+
+
+class NotificationsConfig(BaseModel):
+    """Outgoing notification configuration."""
+    telegram: TelegramNotificationConfig = Field(default_factory=TelegramNotificationConfig)
+
+
 class SourcesConfig(BaseModel):
     """All sources configuration."""
 
@@ -145,3 +158,4 @@ class Config(BaseModel):
     ai: AIConfig
     sources: SourcesConfig
     filtering: FilteringConfig
+    notifications: NotificationsConfig = Field(default_factory=NotificationsConfig)

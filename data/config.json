@@ -4,10 +4,13 @@
     "provider": "openai",
     "model": "deepseek-chat",
     "base_url": "https://api.deepseek.com",
-    "api_key_env": "OPENAI_API_KEY",
+    "api_key_env": "DEEPSEEK_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
-    "languages": ["zh", "en"]
+    "languages": [
+      "zh",
+      "en"
+    ]
   },
   "sources": {
     "github": [
@@ -97,5 +100,13 @@
   "filtering": {
     "ai_score_threshold": 7.0,
     "time_window_hours": 24
+  },
+  "notifications": {
+    "telegram": {
+      "enabled": true,
+      "bot_token_env": "TELEGRAM_BOT_TOKEN",
+      "chat_id_env": "TELEGRAM_CHAT_ID",
+      "disable_notification": false
+    }
   }
 }

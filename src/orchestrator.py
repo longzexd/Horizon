@@ -4,6 +4,7 @@ import asyncio
 import re
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 from typing import List, Dict
 from urllib.parse import urlparse
 import httpx
@@ -20,6 +21,7 @@ from .ai.client import create_ai_client
 from .ai.analyzer import ContentAnalyzer
 from .ai.summarizer import DailySummarizer
 from .ai.enricher import ContentEnricher
+from .notifiers import TelegramNotifier
 
 
 class HorizonOrchestrator:
@@ -35,6 +37,7 @@ class HorizonOrchestrator:
         self.config = config
         self.storage = storage
         self.console = Console()
+        self.telegram_notifier = TelegramNotifier(self.config.notifications.telegram)
 
     async def run(self, force_hours: int = None) -> None:
         """Execute the complete workflow.
@@ -104,6 +107,7 @@ class HorizonOrchestrator:
 
             # 7. Generate and save daily summaries for each configured language
             today = datetime.utcnow().strftime("%Y-%m-%d")
+            selected_count = len(important_items)
             for lang in self.config.ai.languages:
                 summary = await self._generate_summary(important_items, today, len(all_items), language=lang)
 
@@ -113,8 +117,6 @@ class HorizonOrchestrator:
 
                 # Copy to docs/ for GitHub Pages
                 try:
-                    from pathlib import Path
-
                     post_filename = f"{today}-summary-{lang}.md"
                     posts_dir = Path("docs/_posts")
                     posts_dir.mkdir(parents=True, exist_ok=True)
@@ -145,6 +147,14 @@ class HorizonOrchestrator:
                     self.console.print(f"📄 Copied {lang.upper()} summary to GitHub Pages: {dest_path}\n")
                 except Exception as e:
                     self.console.print(f"[yellow]⚠️  Failed to copy {lang.upper()} summary to docs/: {e}[/yellow]\n")
+
+                await self._push_summary_to_telegram(
+                    summary_path=summary_path,
+                    date=today,
+                    language=lang,
+                    selected_count=selected_count,
+                    fetched_count=len(all_items),
+                )
 
             self.console.print("[bold green]✅ Horizon completed successfully![/bold green]")
 
@@ -438,3 +448,28 @@ class HorizonOrchestrator:
         summarizer = DailySummarizer()
 
         return await summarizer.generate_summary(items, date, total_fetched, language=language)
+
+    async def _push_summary_to_telegram(
+        self,
+        summary_path: Path,
+        date: str,
+        language: str,
+        selected_count: int,
+        fetched_count: int,
+    ) -> None:
+        """Send generated summary to Telegram if notifications are enabled."""
+        if not self.telegram_notifier.is_enabled():
+            return
+
+        self.console.print(f"📨 Pushing {language.upper()} summary to Telegram...")
+        try:
+            await self.telegram_notifier.send_summary(
+                summary_path=summary_path,
+                date=date,
+                language=language,
+                selected_count=selected_count,
+                fetched_count=fetched_count,
+            )
+            self.console.print("   Telegram push sent\n")
+        except Exception as e:
+            self.console.print(f"[yellow]⚠️  Telegram push failed: {e}[/yellow]\n")

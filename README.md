@@ -129,11 +129,25 @@ Here's what a config looks like:
   "filtering": {
     "ai_score_threshold": 6.0,
     "time_window_hours": 24
+  },
+  "notifications": {
+    "telegram": {
+      "enabled": true,
+      "bot_token_env": "TELEGRAM_BOT_TOKEN",
+      "chat_id_env": "TELEGRAM_CHAT_ID"
+    }
   }
 }
 ```
 
 For the full reference, see the [Configuration Guide](docs/configuration.md).
+
+If Telegram push is enabled, set these env vars in `.env`:
+
+```bash
+TELEGRAM_BOT_TOKEN=123456789:AA...
+TELEGRAM_CHAT_ID=123456789
+```
 
 ### 3. Run
 
