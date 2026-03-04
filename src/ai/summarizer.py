@@ -20,6 +20,8 @@ def _pangu(text: str) -> str:
 LABELS = {
     "en": {
         "header": "Horizon Daily",
+        "macro_section": "Politics & Finance",
+        "tech_section": "Technology",
         "source": "Source",
         "background": "Background",
         "discussion": "Discussion",
@@ -38,6 +40,8 @@ LABELS = {
     },
     "zh": {
         "header": "Horizon 每日速递",
+        "macro_section": "政治与金融",
+        "tech_section": "科技",
         "source": "来源",
         "background": "背景",
         "discussion": "社区讨论",
@@ -65,7 +69,8 @@ class DailySummarizer:
 
     async def generate_summary(
         self,
-        items: List[ContentItem],
+        macro_items: List[ContentItem],
+        tech_items: List[ContentItem],
         date: str,
         total_fetched: int,
         language: str = "en",
@@ -85,28 +90,53 @@ class DailySummarizer:
         """
         labels = LABELS.get(language, LABELS["en"])
 
+        items = macro_items + tech_items
         if not items:
             return self._generate_empty_summary(date, total_fetched, labels)
 
+        if language == "zh":
+            selected_line = (
+                f"> 从 {total_fetched} 条内容中筛选出 {len(items)} 条重点信息"
+                f"（政治/金融 {len(macro_items)}，科技 {len(tech_items)}）"
+            )
+        else:
+            selected_line = (
+                f"> From {total_fetched} items, {len(items)} important content pieces were selected "
+                f"(Politics/Finance {len(macro_items)}, Technology {len(tech_items)})"
+            )
+
         header = (
             f"# {labels['header']} - {date}\n\n"
-            f"> From {total_fetched} items, {len(items)} important content pieces were selected\n\n"
+            f"{selected_line}\n\n"
             "---\n\n"
         )
 
-        # TOC
-        toc_entries = []
+        parts = []
+        idx = 1
+        idx = self._append_section(parts, labels["macro_section"], macro_items, labels, language, idx)
+        idx = self._append_section(parts, labels["tech_section"], tech_items, labels, language, idx)
+
+        return header + "".join(parts)
+
+    def _append_section(
+        self,
+        parts: List[str],
+        section_title: str,
+        items: List[ContentItem],
+        labels: dict,
+        language: str,
+        start_index: int,
+    ) -> int:
+        """Append one thematic section to the markdown summary."""
+        parts.append(f"## {section_title}\n\n")
+        if not items:
+            parts.append(("- 暂无入选内容\n\n" if language == "zh" else "- No selected items\n\n"))
+            parts.append("---\n\n")
+            return start_index
+
         for i, item in enumerate(items):
-            t = (item.metadata.get(f"title_{language}") or item.title).replace("[", "(").replace("]", ")")
-            if language == "zh":
-                t = _pangu(t)
-            score = item.ai_score or "?"
-            toc_entries.append(f"{i + 1}. [{t}](#item-{i + 1}) \u2b50\ufe0f {score}/10")
-        toc = "\n".join(toc_entries) + "\n\n---\n\n"
-
-        parts = [self._format_item(item, labels, language, i + 1) for i, item in enumerate(items)]
-
-        return header + toc + "".join(parts)
+            parts.append(self._format_item(item, labels, language, start_index + i))
+        return start_index + len(items)
 
     def _format_item(self, item: ContentItem, labels: dict, language: str, index: int) -> str:
         """Format a single ContentItem into Markdown."""

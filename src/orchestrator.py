@@ -26,6 +26,11 @@ from .notifiers import TelegramNotifier
 
 class HorizonOrchestrator:
     """Orchestrates the complete workflow for content aggregation and analysis."""
+    CATEGORY_MINIMUMS = {
+        "politics": 2,
+        "finance": 2,
+    }
+    TECH_CATEGORIES = {"technology", "ai-tools", "github-trending", "linux-kernel"}
 
     def __init__(self, config: Config, storage: StorageManager):
         """Initialize orchestrator.
@@ -74,24 +79,17 @@ class HorizonOrchestrator:
 
             # 5. Filter by score threshold
             threshold = self.config.filtering.ai_score_threshold
-            important_items = [
-                item for item in analyzed_items
-                if item.ai_score and item.ai_score >= threshold
-            ]
-            important_items.sort(key=lambda x: x.ai_score or 0, reverse=True)
+            macro_candidates = [item for item in analyzed_items if self._is_macro_item(item)]
+            tech_candidates = [item for item in analyzed_items if not self._is_macro_item(item)]
+
+            macro_items = self._select_macro_items(macro_candidates, threshold)
+            tech_items = self._select_tech_items(tech_candidates, threshold)
+            important_items = macro_items + tech_items
 
             self.console.print(
-                f"⭐️ {len(important_items)} items scored ≥ {threshold}\n"
+                f"⭐️ Selected {len(important_items)} items "
+                f"(Macro {len(macro_items)} + Tech {len(tech_items)})\n"
             )
-
-            # 5.5 Semantic deduplication: drop items covering the same topic
-            deduped_items = self._merge_topic_duplicates(important_items)
-            if len(deduped_items) < len(important_items):
-                self.console.print(
-                    f"🧹 Removed {len(important_items) - len(deduped_items)} topic duplicates "
-                    f"→ {len(deduped_items)} unique items\n"
-                )
-            important_items = deduped_items
 
             # Show per-sub-source selection breakdown
             selected_counts: Dict[str, int] = defaultdict(int)
@@ -109,7 +107,13 @@ class HorizonOrchestrator:
             today = datetime.utcnow().strftime("%Y-%m-%d")
             selected_count = len(important_items)
             for lang in self.config.ai.languages:
-                summary = await self._generate_summary(important_items, today, len(all_items), language=lang)
+                summary = await self._generate_summary(
+                    macro_items=macro_items,
+                    tech_items=tech_items,
+                    date=today,
+                    total_fetched=len(all_items),
+                    language=lang,
+                )
 
                 # Save to data/summaries/
                 summary_path = self.storage.save_daily_summary(today, summary, language=lang)
@@ -149,7 +153,13 @@ class HorizonOrchestrator:
                     self.console.print(f"[yellow]⚠️  Failed to copy {lang.upper()} summary to docs/: {e}[/yellow]\n")
 
                 await self._push_summary_to_telegram(
-                    summary_path=summary_path,
+                    summary_text=self._build_telegram_push_text(
+                        macro_items=macro_items,
+                        tech_items=tech_items,
+                        date=today,
+                        total_fetched=len(all_items),
+                        language=lang,
+                    ),
                     date=today,
                     language=lang,
                     selected_count=selected_count,
@@ -313,6 +323,98 @@ class HorizonOrchestrator:
 
         return merged
 
+    def _ensure_category_minimums(
+        self,
+        analyzed_items: List[ContentItem],
+        selected_items: List[ContentItem],
+        threshold: float,
+    ) -> tuple[List[ContentItem], List[ContentItem]]:
+        """Add high-scoring candidates so key categories aren't starved out.
+
+        This keeps the original score-threshold behavior, but allows a small
+        number of near-threshold politics/finance items into the final list.
+        """
+        selected_ids = {item.id for item in selected_items}
+        min_score = max(threshold - 1.5, 5.5)
+        scored_pool = sorted(
+            [i for i in analyzed_items if (i.ai_score or 0) >= min_score],
+            key=lambda x: x.ai_score or 0,
+            reverse=True,
+        )
+        added: List[ContentItem] = []
+
+        for category, min_count in self.CATEGORY_MINIMUMS.items():
+            current_count = sum(1 for i in selected_items if i.metadata.get("category") == category)
+            needed = max(0, min_count - current_count)
+            if needed == 0:
+                continue
+
+            candidates = [
+                i for i in scored_pool
+                if i.id not in selected_ids and i.metadata.get("category") == category
+            ]
+            for candidate in candidates[:needed]:
+                selected_items.append(candidate)
+                selected_ids.add(candidate.id)
+                added.append(candidate)
+
+        if added:
+            selected_items.sort(key=lambda x: x.ai_score or 0, reverse=True)
+        return selected_items, added
+
+    def _is_macro_item(self, item: ContentItem) -> bool:
+        category = str(item.metadata.get("category", "")).strip().lower()
+        if not category:
+            return False
+        return category not in self.TECH_CATEGORIES
+
+    def _select_macro_items(
+        self,
+        candidates: List[ContentItem],
+        threshold: float,
+    ) -> List[ContentItem]:
+        """Select politics/finance items with separate logic.
+
+        Logic:
+        1) relaxed threshold (threshold - 1.5, floor at 5.5)
+        2) topic dedup in macro lane
+        3) guarantee minimum coverage by category
+        """
+        macro_threshold = max(threshold - 1.5, 5.5)
+        selected = [
+            item for item in candidates
+            if item.ai_score and item.ai_score >= macro_threshold
+        ]
+        selected.sort(key=lambda x: x.ai_score or 0, reverse=True)
+        selected = self._merge_topic_duplicates(selected)
+        selected, quota_added = self._ensure_category_minimums(
+            analyzed_items=candidates,
+            selected_items=selected,
+            threshold=threshold,
+        )
+
+        if quota_added:
+            quota_counts: Dict[str, int] = defaultdict(int)
+            for item in quota_added:
+                quota_counts[item.metadata.get("category", "unknown")] += 1
+            for cat, count in sorted(quota_counts.items()):
+                self.console.print(f"   🧩 macro quota added {count} item(s) for {cat}")
+        return selected
+
+    def _select_tech_items(
+        self,
+        candidates: List[ContentItem],
+        threshold: float,
+    ) -> List[ContentItem]:
+        """Select technology items with strict original threshold."""
+        selected = [
+            item for item in candidates
+            if item.ai_score and item.ai_score >= threshold
+        ]
+        selected.sort(key=lambda x: x.ai_score or 0, reverse=True)
+        selected = self._merge_topic_duplicates(selected)
+        return selected
+
     @staticmethod
     def _title_tokens(title: str) -> set:
         tokens = set()
@@ -427,7 +529,8 @@ class HorizonOrchestrator:
 
     async def _generate_summary(
         self,
-        items: List[ContentItem],
+        macro_items: List[ContentItem],
+        tech_items: List[ContentItem],
         date: str,
         total_fetched: int,
         language: str = "en",
@@ -447,11 +550,83 @@ class HorizonOrchestrator:
 
         summarizer = DailySummarizer()
 
-        return await summarizer.generate_summary(items, date, total_fetched, language=language)
+        return await summarizer.generate_summary(
+            macro_items=macro_items,
+            tech_items=tech_items,
+            date=date,
+            total_fetched=total_fetched,
+            language=language,
+        )
+
+    def _build_telegram_push_text(
+        self,
+        macro_items: List[ContentItem],
+        tech_items: List[ContentItem],
+        date: str,
+        total_fetched: int,
+        language: str,
+    ) -> str:
+        """Build a Telegram-friendly plain text summary.
+
+        We avoid HTML/anchor-heavy Markdown because Telegram renders it poorly.
+        """
+        is_zh = language == "zh"
+        total_items = len(macro_items) + len(tech_items)
+        header = (
+            f"Horizon 每日速递 {date}\n"
+            f"入选: {total_items} / {total_fetched} "
+            f"(政经 {len(macro_items)} | 科技 {len(tech_items)})"
+            if is_zh
+            else (
+                f"Horizon Daily {date}\n"
+                f"Selected: {total_items} / {total_fetched} "
+                f"(Macro {len(macro_items)} | Tech {len(tech_items)})"
+            )
+        )
+        lines = [header, ""]
+        section_defs = [
+            ("【政治 / 金融】" if is_zh else "[Politics / Finance]", macro_items),
+            ("【科技】" if is_zh else "[Technology]", tech_items),
+        ]
+        idx = 1
+        for section_title, section_items in section_defs:
+            lines.append(section_title)
+            if not section_items:
+                lines.append("（无）" if is_zh else "(none)")
+                lines.append("")
+                continue
+
+            for item in section_items:
+                meta = item.metadata
+                title = (meta.get(f"title_{language}") or item.title).replace("\n", " ").strip()
+                summary = (
+                    meta.get(f"detailed_summary_{language}")
+                    or meta.get("detailed_summary")
+                    or item.ai_summary
+                    or ""
+                ).replace("\n", " ").strip()
+                if len(summary) > 180:
+                    summary = summary[:177] + "..."
+
+                score = item.ai_score or 0
+                source = self._sub_source_label(item)
+
+                lines.append(f"{idx}. {title}")
+                if is_zh:
+                    lines.append(f"评分: {score}/10 | 来源: {source}")
+                else:
+                    lines.append(f"Score: {score}/10 | Source: {source}")
+                if summary:
+                    lines.append(summary)
+                lines.append(str(item.url))
+                lines.append("")
+                idx += 1
+
+        return "\n".join(lines).strip()
 
     async def _push_summary_to_telegram(
         self,
-        summary_path: Path,
+        summary_text: str,
         date: str,
         language: str,
         selected_count: int,
@@ -464,7 +639,7 @@ class HorizonOrchestrator:
         self.console.print(f"📨 Pushing {language.upper()} summary to Telegram...")
         try:
             await self.telegram_notifier.send_summary(
-                summary_path=summary_path,
+                summary_text=summary_text,
                 date=date,
                 language=language,
                 selected_count=selected_count,

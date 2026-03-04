@@ -6,8 +6,26 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn, MofNCompleteColumn
 
 from .client import AIClient
-from .prompts import CONTENT_ANALYSIS_SYSTEM, CONTENT_ANALYSIS_USER
+from .prompts import CONTENT_ANALYSIS_SYSTEM, CONTENT_ANALYSIS_USER, NON_TECH_ANALYSIS_SYSTEM
 from ..models import ContentItem
+
+NON_TECH_CATEGORIES = {
+    "politics",
+    "finance",
+    "economy",
+    "business",
+    "policy",
+    "geopolitics",
+    "world",
+    "markets",
+}
+
+TECH_CATEGORIES = {
+    "technology",
+    "ai-tools",
+    "github-trending",
+    "linux-kernel",
+}
 
 
 class ContentAnalyzer:
@@ -111,10 +129,11 @@ class ContentAnalyzer:
             content_section=content_section,
             discussion_section=discussion_section
         )
+        system_prompt = self._select_system_prompt(item)
 
         # Get AI completion
         response = await self.client.complete(
-            system=CONTENT_ANALYSIS_SYSTEM,
+            system=system_prompt,
             user=user_prompt,
             temperature=0.3
         )
@@ -138,3 +157,39 @@ class ContentAnalyzer:
         item.ai_reason = result.get("reason", "")
         item.ai_summary = result.get("summary", item.title)
         item.ai_tags = result.get("tags", [])
+
+    @classmethod
+    def _select_system_prompt(cls, item: ContentItem) -> str:
+        """Use a dedicated rubric for non-technology content."""
+        if cls._is_non_tech_item(item):
+            return NON_TECH_ANALYSIS_SYSTEM
+        return CONTENT_ANALYSIS_SYSTEM
+
+    @classmethod
+    def _is_non_tech_item(cls, item: ContentItem) -> bool:
+        meta = item.metadata or {}
+        category = str(meta.get("category", "")).strip().lower()
+        if category in NON_TECH_CATEGORIES:
+            return True
+        if category in TECH_CATEGORIES:
+            return False
+
+        # Fallback: infer from feed/source naming for RSS-like items.
+        source_hint = " ".join([
+            str(meta.get("feed_name", "")),
+            str(item.title or ""),
+        ]).lower()
+        non_tech_keywords = (
+            "politic",
+            "election",
+            "finance",
+            "market",
+            "econom",
+            "central bank",
+            "fed",
+            "policy",
+            "geopolit",
+            "fiscal",
+            "trade",
+        )
+        return any(k in source_hint for k in non_tech_keywords)

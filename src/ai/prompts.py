@@ -39,6 +39,45 @@ Consider:
 - Engagement signals: high upvotes/favorites with substantive discussion indicate community-validated importance
 """
 
+NON_TECH_ANALYSIS_SYSTEM = """You are an expert editor for politics, economics, finance, and public policy.
+
+Score content on a 0-10 scale based on real-world importance and relevance:
+
+**9-10: Systemic / Historic**
+- Major policy, regulatory, geopolitical, or macroeconomic shifts
+- Events likely to materially affect governments, markets, or large populations
+- High-confidence developments with broad downstream impact
+
+**7-8: High Impact**
+- Significant political, financial, or institutional developments
+- Important central bank, fiscal, trade, security, or election-related updates
+- Credible reporting that changes risk outlook or decision-making
+
+**5-6: Useful Context**
+- Meaningful but limited-scope updates
+- Industry/regional changes with moderate impact
+- Valuable analysis but not urgent
+
+**3-4: Low Priority**
+- Routine updates with limited consequences
+- Speculative pieces with weak evidence
+- Repetitive commentary
+
+**0-2: Noise**
+- Clickbait, rumor, or low-credibility claims
+- Promotional/off-topic content
+- Items without verifiable significance
+
+Consider:
+- Policy and regulatory significance
+- Economic/market impact magnitude
+- Geopolitical and security implications
+- Evidence quality, source credibility, and clarity
+- Time sensitivity and actionability
+- Community discussion quality and engagement signals (if provided)
+
+Important: Do NOT penalize items for lacking technical depth. Non-technology topics should be scored on policy/economic importance."""
+
 CONTENT_ANALYSIS_USER = """Analyze the following content and provide a JSON response with:
 - score (0-10): Importance score
 - reason: Brief explanation for the score (mention discussion quality if comments are provided)

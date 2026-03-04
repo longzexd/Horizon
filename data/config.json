@@ -8,8 +8,7 @@
     "temperature": 0.3,
     "max_tokens": 8192,
     "languages": [
-      "zh",
-      "en"
+      "zh"
     ]
   },
   "sources": {
@@ -61,6 +60,102 @@
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
         "enabled": true,
         "category": "linux-kernel"
+      },
+      {
+        "name": "BBC Politics",
+        "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+        "enabled": true,
+        "category": "politics"
+      },
+      {
+        "name": "NYTimes Politics",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+        "enabled": true,
+        "category": "politics"
+      },
+      {
+        "name": "WSJ World News",
+        "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+        "enabled": true,
+        "category": "politics"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
+        "enabled": true,
+        "category": "technology"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+        "enabled": true,
+        "category": "technology"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "enabled": true,
+        "category": "technology"
+      },
+      {
+        "name": "NYTimes Technology",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "enabled": true,
+        "category": "technology"
+      },
+      {
+        "name": "Bloomberg Markets",
+        "url": "https://feeds.bloomberg.com/markets/news.rss",
+        "enabled": true,
+        "category": "finance"
+      },
+      {
+        "name": "WSJ Markets",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "enabled": true,
+        "category": "finance"
+      },
+      {
+        "name": "CNBC Finance",
+        "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+        "enabled": true,
+        "category": "finance"
+      },
+      {
+        "name": "Federal Reserve Press Releases",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "enabled": true,
+        "category": "finance"
+      },
+      {
+        "name": "MarketWatch Top Stories",
+        "url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+        "enabled": true,
+        "category": "finance"
+      },
+      {
+        "name": "WIRED",
+        "url": "https://www.wired.com/feed/rss",
+        "enabled": true,
+        "category": "technology"
+      },
+      {
+        "name": "CNET News",
+        "url": "https://www.cnet.com/rss/news/",
+        "enabled": true,
+        "category": "technology"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://www.engadget.com/rss.xml",
+        "enabled": true,
+        "category": "technology"
+      },
+      {
+        "name": "VentureBeat",
+        "url": "https://feeds.feedburner.com/venturebeat/SZYF",
+        "enabled": true,
+        "category": "technology"
       }
     ],
     "reddit": {
