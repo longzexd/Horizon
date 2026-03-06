@@ -19,8 +19,8 @@ class TelegramNotifier:
         return self.config.enabled
 
     def _credentials(self) -> tuple[str, str]:
-        token = os.getenv(self.config.bot_token_env)
-        chat_id = os.getenv(self.config.chat_id_env)
+        token = (os.getenv(self.config.bot_token_env) or "").strip()
+        chat_id = (os.getenv(self.config.chat_id_env) or "").strip()
         if not token:
             raise ValueError(
                 f"Missing Telegram bot token env: {self.config.bot_token_env}"

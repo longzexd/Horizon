@@ -12,6 +12,18 @@ from google.genai import types
 from ..models import AIConfig, AIProvider
 
 
+def _get_required_env(name: str) -> str:
+    """Read an env var and trim accidental surrounding whitespace/newlines."""
+    raw = os.getenv(name)
+    if raw is None:
+        raise ValueError(f"Missing API key: {name}")
+
+    value = raw.strip()
+    if not value:
+        raise ValueError(f"Missing API key: {name}")
+    return value
+
+
 class AIClient(ABC):
     """Abstract base class for AI clients."""
 
@@ -46,9 +58,7 @@ class AnthropicClient(AIClient):
         Args:
             config: AI configuration
         """
-        api_key = os.getenv(config.api_key_env)
-        if not api_key:
-            raise ValueError(f"Missing API key: {config.api_key_env}")
+        api_key = _get_required_env(config.api_key_env)
 
         kwargs = {"api_key": api_key}
         if config.base_url:
@@ -96,9 +106,7 @@ class OpenAIClient(AIClient):
         Args:
             config: AI configuration
         """
-        api_key = os.getenv(config.api_key_env)
-        if not api_key:
-            raise ValueError(f"Missing API key: {config.api_key_env}")
+        api_key = _get_required_env(config.api_key_env)
 
         kwargs = {"api_key": api_key}
         if config.base_url:
@@ -148,9 +156,7 @@ class GeminiClient(AIClient):
         Args:
             config: AI configuration
         """
-        api_key = os.getenv(config.api_key_env)
-        if not api_key:
-            raise ValueError(f"Missing API key: {config.api_key_env}")
+        api_key = _get_required_env(config.api_key_env)
 
         self.client = genai.Client(api_key=api_key)
         self.model = config.model

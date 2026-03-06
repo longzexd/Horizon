@@ -524,8 +524,16 @@ class HorizonOrchestrator:
 
         ai_client = create_ai_client(self.config.ai)
         analyzer = ContentAnalyzer(ai_client)
+        analyzed_items = await analyzer.analyze_batch(items)
 
-        return await analyzer.analyze_batch(items)
+        total = len(analyzed_items)
+        failed = sum(1 for item in analyzed_items if item.ai_reason == "Analysis failed")
+        if total > 0 and failed == total:
+            raise RuntimeError(
+                "AI analysis failed for all items. Check the configured model API key/secret formatting in the runtime environment."
+            )
+
+        return analyzed_items
 
     async def _generate_summary(
         self,
