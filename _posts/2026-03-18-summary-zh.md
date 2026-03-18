@@ -5,921 +5,1049 @@ date: 2026-03-18
 lang: zh
 ---
 
-> 从 112 条内容中筛选出 46 条重点信息（政治/金融 31，科技 15）
+> 从 182 条内容中筛选出 53 条重点信息（政治/金融 31，科技 22）
 
 ---
 
 ## 政治与金融
 
 <a id="item-1"></a>
-## [报告分析美国潜在行动：夺取伊朗核燃料的风险](https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html) ⭐️ 9.0/10
+## [伊朗南帕尔斯气田遭袭，引发全球能源价格飙升。](https://www.nytimes.com/2026/03/18/business/energy-environment/israel-strikes-south-pars-gas-oil-prices.html) ⭐️ 9.0/10
 
-一份最新报告审视了美国可能做出的夺取或摧毁伊朗核燃料库存这一决定所蕴含的极端风险和历史影响。该行动被认为是现代美国历史上风险最高的军事任务之一。 这一潜在决定代表着美国外交政策和核不扩散战略的重大系统性转变，将对全球安全和地缘政治产生严重后果。针对一个主权国家核计划的直接军事行动可能引发地区冲突、扰乱能源市场，并从根本上改变有关主权国家核计划的国际规范。 专家指出，此类任务需要精英作战部队、专业工程师和核科学家进行复杂协同才能成功执行。行动在定位、保护和运输高度敏感的核材料方面面临重大技术挑战，同时还需避免灾难性污染或局势升级。
+2026 年 3 月 18 日（周三），一场重大军事打击袭击了伊朗的南帕尔斯气田，该气田是与卡塔尔共享的全球最大天然气储层的一部分。袭击发生后，伊朗据称警告可能通过打击波斯湾沿岸的石油设施进行报复，全球油价随之上涨近 4%。 此次袭击直接针对全球最关键能源资产之一，威胁全球天然气供应，并使正在进行的地区军事冲突升级。价格的即时飙升以及更广泛报复的威胁，给全球能源安全、市场稳定以及中东本已紧张的地缘政治局势带来了重大风险。 仅南帕尔斯气田（伊朗部分）就约占全球天然气总储量的 10%。此次袭击被描述为自 2026 年 2 月 28 日美以对伊朗空战开始以来，对能源设施最重大的攻击之一。
 
-rss · NYTimes Politics · Mar 18, 06:35
+rss · NYTimes Politics · Mar 18, 16:46
 
-**背景**: 伊朗的核计划涉及铀浓缩过程，该过程提高了可裂变同位素 U-235 的浓度，可能用于核反应堆或武器。根据《不扩散核武器条约》（NPT），像伊朗这样的无核武器国家必须接受国际原子能机构（IAEA）的保障监督，以核实核材料未被转用于武器计划。军事拦截是指使用武力阻止大规模杀伤性武器材料的转移或发展。
+**背景**: 南帕尔斯/北穹天然气田是全球最大的天然气田，位于波斯湾近海，由伊朗（称南帕尔斯）和卡塔尔（称北穹）共享。该气田的主要储层是上达兰组（相当于胡夫组），位于海床下约 3000 米处。自 2026 年 2 月下旬以来，美国和以色列一直对伊朗进行持续空袭，标志着长期紧张局势的重大升级。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Enriched_uranium">Enriched uranium - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons">Treaty on the Non-Proliferation of Nuclear Weapons - Wikipedia</a></li>
-<li><a href="https://www.news18.com/explainers/why-us-seizure-of-irans-nuclear-material-would-be-largest-special-forces-operation-in-history-ws-kl-9962786.html">Why US Seizure Of Iran’s Nuclear Material Would Be ... - News18</a></li>
+<li><a href="https://en.wikipedia.org/wiki/South_Pars/North_Dome_Gas-Condensate_field">South Pars/North Dome Gas-Condensate field - Wikipedia</a></li>
+<li><a href="https://www.offshore-technology.com/projects/southpars/">South Pars Oil and Gas Field, Persian Gulf, Offshore Iran</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war">Timeline of the 2026 Iran war - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Geopolitics`, `#Nuclear Non-Proliferation`, `#U.S. Foreign Policy`, `#Military Strategy`, `#Iran`
+**标签**: `#Geopolitics`, `#Energy Markets`, `#Middle East`, `#Military Conflict`, `#Economic Security`
 
 ---
 
 <a id="item-2"></a>
-## [伊朗战争正在重塑全球天然气供应版图](https://www.bloomberg.com/news/articles/2026-03-18/global-natural-gas-supply-lines-are-redrawn-by-war-in-iran-ukraine) ⭐️ 9.0/10
+## [特朗普考虑高风险军事行动以夺取或摧毁伊朗核燃料](https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html) ⭐️ 9.0/10
 
-伊朗战争和霍尔木兹海峡事实上的关闭，几乎完全切断了拥有世界最大天然气田的卡塔尔与全球市场的联系，并损坏了核心天然气基础设施。与此同时，随着产气国寻找替代路线以绕过被封锁的水道，美国正迅速提升其作为天然气供应国的角色。 这标志着全球能源供应链的根本性重组，直接影响了严重依赖海湾天然气的欧洲和亚洲的能源安全与价格。这一转变迫使全球贸易路线迅速调整，并加速了美国等替代供应国的地缘政治重要性。 此次中断不仅仅是运输通道被封锁；海湾地区关键的生产和出口基础设施也遭受了物理损坏，需要大量时间修复。领先的市场分析公司 Energy Aspects 已强调了这些事件对欧洲和亚洲天然气价格的具体影响。
+据报道，未来的特朗普政府正在考虑一项潜在的美国军事行动，以夺取或摧毁伊朗的核材料，专家称这可能是"历史上规模最大的特种部队行动"。据报道，美国国防部正在向该地区调动资产，以便执行此类任务。 这一决定具有极高的风险，可能引发重大的地区冲突，从根本上重塑美国的外交政策和中东稳定。其成败将对全球防扩散努力产生历史性影响，并可能为军事干预核计划开创先例。 专家指出，仅靠空袭不足以消除伊朗的核威胁，因此需要一场涉及精英作战部队、专业工程师和核科学家的复杂地面行动。该行动的目标是伊朗的浓缩铀库存，其数量已超过 2015 年核协议（JCPOA）设定的限制。
 
-rss · Bloomberg Markets · Mar 18, 08:00
+rss · NYTimes Politics · Mar 18, 17:07
 
-**背景**: 霍尔木兹海峡是连接波斯湾和公海的狭窄咽喉要道，全球约 20%的石油和大量液化天然气（LNG）出口都经过此地。卡塔尔的北方气田是世界上最大的非伴生气田的一部分，使该国成为顶级 LNG 出口国。长期以来，该海峡周围的地缘政治紧张局势一直是全球能源市场稳定的主要风险。
+**背景**: 伊朗的核计划长期以来一直是国际社会关注的问题。2015 年的《联合全面行动计划》（JCPOA）对伊朗的铀浓缩水平和库存规模施加了限制。自 2018 年美国退出该协议以来，伊朗逐步突破了这些限制，将铀浓缩到更高水平并积累了更大的库存，引发了对其可能发展核武器的担忧。相关的核燃料包括浓缩铀，可用于民用能源，或在更高浓缩水平下用于武器。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance, Conflict and Closure ... Why is the Strait of Hormuz so important? How Iranian attacks ... The Strategic Importance of the Strait of Hormuz from ... Strait of Hormuz – Why This Narrow Waterway Holds Global Power What Is the Strait of Hormuz and Why Is Iran Blocking It ... The Strategic Importance of the Strait of Hormuz Strait of Hormuz | Map, Importance , Conflict and Closure, Control, Oil Strait of Hormuz – Why This Narrow Waterway Holds Global Power Strait of Hormuz – Why This Narrow Waterway Holds Global Power Strait of Hormuz – Why This Narrow Waterway Holds Global Power The Strait of Hormuz: Global Economic Shock and the Limits of ...</a></li>
-<li><a href="https://www.independent.co.uk/news/world/middle-east/iran-war-strait-of-hormuz-attacks-oil-gas-b2936107.html">Why is the Strait of Hormuz so important? How Iranian attacks ...</a></li>
-<li><a href="https://www.qatarenergylng.qa/english/about-us/north-field">NORTH FIELD - QatarEnergy LNG - About Us</a></li>
+<li><a href="https://www.news18.com/explainers/why-us-seizure-of-irans-nuclear-material-would-be-largest-special-forces-operation-in-history-ws-kl-9962786.html">Why US Seizure Of Iran’s Nuclear Material Would Be ‘Largest ...</a></li>
+<li><a href="https://www.csis.org/analysis/trump-may-seize-irans-nuclear-stockpile-why-airstrikes-alone-arent-enough">Trump May Seize Iran’s Nuclear Stockpile: Why Airstrikes ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nuclear_program_of_Iran">Nuclear program of Iran - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Geopolitics`, `#Energy Markets`, `#Natural Gas`, `#Global Trade`, `#Security`
+**标签**: `#Geopolitics`, `#National Security`, `#Nuclear Proliferation`, `#US Foreign Policy`, `#Middle East`
 
 ---
 
 <a id="item-3"></a>
-## [伊朗高级安全官员遭以色列空袭身亡，特朗普放弃联盟努力，霍尔木兹海峡危机持续](https://www.bloomberg.com/news/videos/2026-03-18/horizons-middle-east-africa-3-18-2026-video) ⭐️ 9.0/10
+## [美联储维持利率不变，预计 2026 年仅有一次降息](https://www.bloomberg.com/news/videos/2026-03-18/fed-leaves-rates-unchanged-projects-one-cut-in-2026-video) ⭐️ 9.0/10
 
-伊朗于 2026 年 3 月 18 日证实，其高级安全官员阿里·拉里贾尼在一次以色列空袭中身亡。与此同时，美国总统唐纳德·特朗普放弃了为伊朗冲突招募国际伙伴的努力，并批评了那些拒绝其呼吁以应对霍尔木兹海峡实际关闭的盟友。 一名伊朗高级官员的遇刺标志着地区冲突的重大升级，直接威胁到区域稳定与安全。结合美国政策转变和持续的霍尔木兹海峡关闭，这一事件对全球能源安全、航运路线和地缘政治联盟具有深远影响，很可能冲击石油市场和国际商贸。 阿里·拉里贾尼是一位 67 岁的资深政治家，曾帮助领导伊朗对抗美国和以色列的战时努力。据报道，霍尔木兹海峡的关闭已导致通过这一关键水道的航运量暴跌 90%，迫使马士基和长荣等主要承运商暂停服务，船只滞留。
+美联储联邦公开市场委员会以 11 比 1 的投票结果，决定将基准利率维持在 3.5%至 3.75%的区间不变。在其前瞻指引中，央行预计在整个 2026 年仅会实施一次降息。 这一决定和长期预测表明，美联储认为高利率需要持续更长时间才能完全抑制通胀，这代表了政策前景的重大转变。它为未来两年的借贷成本设定了预期，将影响从抵押贷款利率、商业投资到全球资本流动的方方面面。 这一决定并非一致通过，有一位 FOMC 成员持不同意见，支持采取不同的政策行动。主席杰罗姆·鲍威尔将美联储的立场描述为“困难局面”，突显了在平衡通胀风险与经济增长风险方面持续面临的挑战。
 
-rss · Bloomberg Markets · Mar 18, 07:03
+rss · Bloomberg Markets · Mar 18, 18:31
 
-**背景**: 霍尔木兹海峡是全球石油和天然气运输的关键咽喉要道，大约全球五分之一的石油供应需经由此地。该海峡的关闭或严重中断直接威胁能源供应，推高全球燃料价格，并可能波及整个全球经济，影响从金属到农业的各个行业。像 RANE 这样的地缘政治风险分析公司会对这类事件进行评估，为战略决策提供信息，而像 Energy Aspects 这样的公司则分析其对全球天然气和电力市场的影响。
+**背景**: 美联储是美国的中央银行，其联邦公开市场委员会负责设定联邦基金利率的目标，这是银行间隔夜拆借的利率。这一基准利率影响着广泛的消费者和企业利率，使其成为管理通胀、刺激或冷却经济的主要工具。为应对高通胀，美联储在 2022 年将利率从接近零的水平大幅上调，市场密切关注其声明，以寻找未来政策路径的信号。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/03/11/strait-of-hormuz-closure-shipping-economy-oil.html">Strait of Hormuz closure tipping point for global economy may ...</a></li>
-<li><a href="https://container-mag.com/2026/03/08/strait-of-hormuz-shipping-crisis-global-trade-disruption/">Strait of Hormuz Crisis Disrupts Global Shipping as Carriers ...</a></li>
-<li><a href="https://www.ranenetwork.com/platform/products/geopolitical-intelligence">Geopolitical Intelligence | Global Risk & Insight Analysis</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitical Conflict`, `#Middle East Security`, `#Energy Security`, `#US Foreign Policy`, `#Regional Escalation`
+**标签**: `#Monetary Policy`, `#Federal Reserve`, `#Interest Rates`, `#Macroeconomics`, `#Central Banks`
 
 ---
 
 <a id="item-4"></a>
-## [泽连斯基警告：中东战争转移供应，乌克兰面临导弹短缺](https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
+## [美联储发布 3 月 FOMC 会议后政策声明](https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm) ⭐️ 9.0/10
 
-乌克兰总统泽连斯基在接受 BBC 独家采访时表示，由于西方军事供应被转移至支持中东冲突，乌克兰正面临防空导弹等关键弹药的严重短缺。他还指控俄罗斯总统普京希望美国与伊朗之间的冲突长期化。 这一警告凸显了乌克兰防御俄罗斯持续导弹和无人机攻击的能力面临直接且迫切的威胁，可能削弱其前线防御。它还揭示了相互竞争的全球危机如何消耗西方的武器库存并影响其援助协调，进而冲击欧洲的战略平衡。 泽连斯基的声明直接将乌克兰的战场所面临的挑战与更广泛的地缘政治紧张局势联系起来，特别是以色列-哈马斯战争以及潜在的美伊冲突。关于普京意图的指控表明，俄罗斯可能从西方注意力和资源的分散以及长期的不稳定中获取战略利益。
+美联储发布了其于 2025 年 3 月 17 日至 18 日举行的联邦公开市场委员会（FOMC）会议的官方声明，概述了其货币政策决定和经济展望。该声明包含了委员会更新的经济预测。 FOMC 声明是全球最具影响力的经济政策公告之一，直接影响利率、金融市场和通胀预期。其中概述的决策会影响消费者和企业的借贷成本、投资流向以及所有行业的整体经济活动。 声明中的具体内容，包括对联邦基金利率目标或前瞻性指引的任何调整，在提供的摘要中未详细说明。其全部影响和市场反应取决于完整文件中包含的精确政策立场和措辞。
 
-rss · BBC Politics · Mar 18, 07:56
+rss · Federal Reserve Press Releases · Mar 18, 18:00
 
-**背景**: 自俄罗斯 2022 年 2 月全面入侵以来，乌克兰严重依赖西方军事援助，包括“爱国者”和 NASAMS 等防空系统以及用于拦截俄军打击的导弹。中东地区，特别是哈马斯 10 月 7 日袭击以色列后引发的冲突，同样需要西方大量的军事支持，这导致了对有限国防生产能力的竞争。
+**背景**: 联邦公开市场委员会（FOMC）是美国联邦储备系统的货币政策制定机构。它每年举行八次定期会议，以设定联邦基金利率的目标范围，该利率是存款机构之间隔夜拆借准备金余额的利率。FOMC 声明传达了委员会对经济的评估及其政策决定，这些决定旨在促进最大就业和物价稳定。
 
-**标签**: `#Ukraine War`, `#Military Aid`, `#Geopolitics`, `#Defense Policy`, `#US Foreign Policy`
+**标签**: `#Monetary Policy`, `#Federal Reserve`, `#FOMC`, `#Interest Rates`, `#Macroeconomics`
 
 ---
 
 <a id="item-5"></a>
-## [美国将 AI 初创公司 Anthropic 列为'不可接受'的国家安全风险](https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html) ⭐️ 8.0/10
+## [美国情报主管作证：战前伊朗导弹能力未发生变化](https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html) ⭐️ 8.0/10
 
-美国政府在一份法律文件中宣布 AI 初创公司 Anthropic 为'不可接受'的国家安全风险，质疑其能否成为五角大楼在战时的'可信赖合作伙伴'。这导致该公司被正式指定为供应链风险。 这一正式指定标志着重大的政策转变，可能阻止 Anthropic 获得国防部合同，并禁止任何美国军事承包商或合作伙伴与其开展业务。这表明政府对 AI 公司国防应用可靠性的审查正在加强，并可能重塑国防工业基础与前沿 AI 开发商的关系。 这一指定似乎基于 10 USC 3252 的授权，并通过 DFARS 252.239-7018 合同条款实施，该条款要求承包商降低供应链风险。值得注意的是，根据近期报道，微软和一群退役军事领导人正在法庭上支持 Anthropic 挑战这一指定。
+在周三的参议院听证会上，美国国家情报总监和中央情报局局长作证称，在战争爆发前，美国情报界并未观察到伊朗的导弹能力发生变化。这一证词直接反驳了特朗普政府此前为对伊朗发动攻击所提供的一个关键理由。 这一披露挑战了美国领导的对伊朗军事行动的法律和道德基础，可能损害政府的公信力，并对导致战争的决策过程提出严重质疑。它对美国外交政策、中东地缘政治稳定以及未来对冲突的追责都具有重大影响。 此次作证发生在一场参议院听证会上，议员们预计将质询在美以对伊朗战争前提供给特朗普政府的情报。关于导弹能力未变的这一具体说法，直接削弱了政府此前宣称的开战理由之一。
 
-rss · NYTimes Politics · Mar 18, 03:51
+rss · NYTimes Politics · Mar 18, 18:47
 
-**背景**: Anthropic 是一家美国 AI 安全与研究公司，由前 OpenAI 员工于 2021 年创立，以开发 Claude 系列大语言模型而闻名。该公司强调基于宪法 AI 原则构建可靠、可解释和可操控的 AI 系统。在国防承包中，'供应链风险'指定指的是对提供给政府的产品或服务的可靠性和安全性的担忧，特别是出于国家安全目的。
+**背景**: 特朗普政府曾以包括来自伊朗的感知威胁在内的各种理由，为发动军事打击进行辩护。一个国家的导弹能力是其军事威胁评估的关键组成部分，此类能力的变化常被用作先发制人行动或加强防御姿态的理由。美国情报界的职责是为决策者提供客观评估，这些评估有时会与政治叙事相冲突。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Anthropic">Anthropic - Wikipedia</a></li>
-<li><a href="https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/">Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’ | WIRED</a></li>
-<li><a href="https://www.justsecurity.org/132851/anthropic-supply-chain-risk-designation/">What Hegseth’s “Supply Chain Risk” Designation of Anthropic Does and Doesn’t Mean</a></li>
-
-</ul>
-</details>
-
-**标签**: `#National Security`, `#Artificial Intelligence`, `#Defense Policy`, `#Supply Chain Risk`, `#Technology Regulation`
+**标签**: `#Geopolitics`, `#U.S. Foreign Policy`, `#Military Conflict`, `#Intelligence`, `#Middle East`
 
 ---
 
 <a id="item-6"></a>
-## [法官下令美国之音恢复所有新闻业务](https://www.nytimes.com/2026/03/17/us/politics/voice-of-america-news.html) ⭐️ 8.0/10
+## [策划特朗普 1 月 6 日集会的公司获得非竞标合同](https://www.nytimes.com/2026/03/18/us/politics/jan-6-contracts.html) ⭐️ 8.0/10
 
-一名法官已下令美国之音（VOA）恢复所有新闻业务，并要求超过 1000 名全职记者和支持人员在 3 月 23 日前返岗工作。 此次司法干预意义重大，因为它直接对抗了美国一家关键政府资助的国际广播机构遭遇的重大机构性中断，可能维护了其运营使命以及政府与编辑独立性之间的防火墙原则。该命令影响了一家以近 50 种语言为全球每周超过 3.54 亿受众提供服务的广播机构。 该命令明确要求超过 1000 名员工返岗并恢复广播，表明其业务曾遭到严重削减或停止。此前经历了一段剧烈的裁员期，在 2025 年 3 月至 7 月期间，美国全球媒体总署（USAGM）及其子公司（包括美国之音）85%的员工被裁撤。
+《纽约时报》于 2026 年 3 月 18 日报道，参与策划 1 月 6 日集会的公司 Event Strategies Inc.从现任政府获得了价值数百万美元的非竞标合同。这些合同未经竞争性招标程序授予，且该公司由总统的政治盟友组成。 这引发了人们对潜在腐败、政治偏袒以及滥用政府采购程序的严重担忧。将利润丰厚的合同授予与 1 月 6 日这样具有重大历史意义且具争议性事件相关的公司，破坏了公众对政府合同授予公平性和问责制的信任。 这些合同被描述为“非竞标”合同，意味着它们是在没有标准竞争性采购程序的情况下授予的。该公司由总统的盟友组成，这表明合同可能受到政治关系的影响，而非基于资质或竞争性定价。
 
-rss · NYTimes Politics · Mar 18, 00:38
+rss · NYTimes Politics · Mar 18, 09:01
 
-**背景**: 美国之音（VOA）是美国最大、历史最悠久的国际广播机构，由联邦政府资助，成立于 1942 年。它由美国全球媒体总署（USAGM）监督，这是一个独立的联邦机构，其使命是向新闻自由度较低地区的受众提供信息。美国国际广播的法律框架包括 1994 年的《国际广播法》。
+**背景**: 非竞标合同是政府在特定情况下（如紧急需求、国家安全考虑或仅有一个可用来源时）使用的一种合法采购方法。然而，它们具有争议性，因为它们绕过了旨在确保公平、透明和为纳税人资金创造价值的竞争性招标程序。1 月 6 日集会指的是 2021 年 1 月 6 日在华盛顿特区举行的“停止偷窃”集会，该集会发生在冲击美国国会大厦事件之前。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Voice_of_America">Voice of America - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/U.S._Agency_for_Global_Media">U.S. Agency for Global Media</a></li>
-<li><a href="https://en.wikipedia.org/wiki/International_Broadcasting_Act">International Broadcasting Act</a></li>
+<li><a href="https://www.nytimes.com/2026/03/18/us/politics/jan-6-contracts.html">Firm That Planned Trump’s Jan. 6 Rally Received No-Bid Contracts - The New York Times</a></li>
+<li><a href="https://legalclarity.org/what-situations-allow-for-a-no-bid-government-contract/">What Situations Allow for a No-Bid Government Contract?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Planning_of_the_January_6_United_States_Capitol_attack">Planning of the January 6 United States Capitol attack - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#media`, `#judicial`, `#government`, `#first-amendment`, `#international-broadcasting`
+**标签**: `#Government Contracts`, `#Political Corruption`, `#January 6th`, `#Accountability`, `#Public Procurement`
 
 ---
 
 <a id="item-7"></a>
-## [哈尔克岛：美国针对伊朗行动的高风险目标](https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html) ⭐️ 8.0/10
+## [美联储维持利率不变叠加伊朗战争不确定性，美股下跌](https://www.bloomberg.com/news/articles/2026-03-18/us-stock-futures-extend-rally-ahead-of-fed-rate-decision) ⭐️ 8.0/10
 
-近期分析指出，美国针对伊朗哈尔克岛石油终端的潜在军事行动（例如攻击或占领）可能摧毁伊朗主要的石油出口收入来源。此前，美国前总统特朗普于 2026 年 3 月 13 日发表声明，称美军打击了该岛的军事设施，但避开了石油基础设施。 此事至关重要，因为哈尔克岛处理着伊朗约 90-94%的原油出口，是伊朗经济的支柱，也是伊朗伊斯兰革命卫队（IRGC）的主要收入来源。扰乱这一关键节点可能严重打击伊朗的财政，但也可能引发全球油价急剧飙升，影响全球能源安全和宏观经济稳定。 哈尔克岛终端可同时为 10 艘超级油轮装载，并拥有约 3000 万桶石油的储存能力。虽然美国的打击可能以军事资产为目标以向伊朗施压，但伊朗出口基础设施高度集中于此单一岛屿，使其成为一个极其脆弱的目标，任何重大损坏都可能立即严重扰乱全球石油流动。
+周三，在美联储维持其基准利率不变后，美国股市大幅下跌。主席杰罗姆·鲍威尔表示，现在评估能源价格上涨对经济的影响“为时过早”，并指出了伊朗战争带来的不确定性以及持续的通胀数据。 这很重要，因为它表明美联储在地缘政治冲突和通胀并存的“滞胀”风险面前更加谨慎，这可能会推迟预期的降息并延长市场波动。这一决定直接影响投资者预期、企业借贷成本和更广泛的经济前景。 市场下跌发生在美联储宣布决定后的交易时段，表明市场立即做出了负面反应。鲍威尔明确将不确定性归因于伊朗战争对能源价格的影响，这表明这一地缘政治因素已成为货币政策的主要考量。
 
-rss · NYTimes Politics · Mar 17, 21:58
+rss · Bloomberg Markets · Mar 18, 12:07
 
-**背景**: 哈尔克岛是位于波斯湾、距伊朗海岸约 15 英里的一座珊瑚岛。它是伊朗主要的石油出口终端，处理该国绝大部分的原油出口，是政府收入的关键来源。该终端的战略重要性和脆弱性长期以来一直被分析人士所认识，尤其是在伊朗、以色列、美国及海湾国家之间紧张局势升级的背景下。
+**背景**: 美联储是美国的中央银行，负责制定货币政策，主要通过调整联邦基金利率来影响经济增长和通胀。美联储此前一直处于加息周期以对抗高通胀，但最近已暂停加息，市场预期未来会降息。像伊朗战争这样的地缘政治事件可能扰乱全球能源供应，推高价格，使央行对抗通胀的任务复杂化。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Kharg_Island">Kharg Island - Wikipedia</a></li>
-<li><a href="https://www.bbc.com/news/articles/c8jxzlwvd8ro">Kharg Island: Why has it been targeted by the US?</a></li>
-<li><a href="https://www.kpler.com/blog/explainer-why-kharg-island-is-the-backbone-of-irans-oil-economy---and-its-greatest-vulnerability">Kharg Island: Iran's Oil Backbone & Greatest Vulnerability ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitics`, `#Energy Security`, `#U.S. Foreign Policy`, `#Iran`, `#Oil Markets`
+**标签**: `#Federal Reserve`, `#US Markets`, `#Geopolitical Risk`, `#Monetary Policy`, `#Inflation`
 
 ---
 
 <a id="item-8"></a>
-## [特朗普政府提出有限移民政策调整，以结束国土安全部停摆](https://www.nytimes.com/2026/03/17/us/politics/trump-immigration-dhs-shutdown.html) ⭐️ 8.0/10
+## [美联储主席鲍威尔承诺将留任至司法部调查结束。](https://www.bloomberg.com/news/videos/2026-03-18/powell-no-intention-to-leave-fed-until-doj-probe-over-video) ⭐️ 8.0/10
 
-特朗普政府已提出数项有限的移民政策调整，试图与民主党达成协议，以结束国土安全部的停摆。这些提议是对民主党要求对特朗普总统的移民打击政策进行重大修改的回应。 此事至关重要，因为国土安全部停摆直接影响国家安全行动、边境执法及其他关键联邦职能。此次谈判的结果可能为未来预算僵局中如何解决移民政策争端树立先例。 所提议的调整被描述为“有限”的，这表明它们未能达到民主党所要求的主要改革。内容显示，政府的提议被明确框定为重新开放国土安全部的交换条件。
+在联邦公开市场委员会（FOMC）决定维持利率不变的会议后举行的新闻发布会上，美联储主席杰罗姆·鲍威尔明确表示，他打算留任至司法部的一项调查完成。这一表态直接回应了外界关于他可能在此次调查期间离任的猜测。 这一承诺对于在面临法律审查的时期维持美国货币政策的稳定性和市场信心至关重要。鲍威尔的领导连续性被视为引导美联储完成抗通胀最后阶段、并确保央行运作独立性不因调查而受损的关键。 该声明是在一次决定维持利率不变的 FOMC 会议后作出的，鲍威尔同时指出，尽管通胀已有所缓解，但相对于美联储 2%的长期目标仍处于较高水平。所提供的新闻内容未详细说明司法部对美联储进行调查的具体性质和焦点。
 
-rss · NYTimes Politics · Mar 17, 21:48
+rss · Bloomberg Markets · Mar 18, 19:19
 
-**背景**: 政府停摆发生在国会未能通过或总统拒绝签署拨款法案时，导致非必要的联邦雇员被迫休假，许多政府服务暂停。国土安全部是一个联邦机构，其职责包括边境安全、移民执法和反恐。移民政策一直是特朗普政府与国会民主党人之间极具争议的问题。
+**背景**: 联邦公开市场委员会（FOMC）是美联储的主要货币政策制定机构，负责设定利率和管理货币供应，以实现最大就业和物价稳定的目标。美国司法部（DOJ）是负责执行联邦法律和司法的联邦行政部门，相当于其他国家的司法部或内政部。此新闻暗示司法部正在对与美联储相关的事项进行调查，其具体细节是公众和市场关注的焦点。
 
-**标签**: `#US Politics`, `#Immigration Policy`, `#Government Shutdown`, `#Homeland Security`, `#Political Negotiation`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Federal_Open_Market_Committee">Federal Open Market Committee - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States_Department_of_Justice">United States Department of Justice - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Federal Reserve`, `#Monetary Policy`, `#Central Banking`, `#Regulatory Investigation`, `#Financial Stability`
 
 ---
 
 <a id="item-9"></a>
-## [特朗普称美国无需盟友即可重新开放霍尔木兹海峡。](https://www.nytimes.com/2026/03/17/us/politics/trump-nato-iran-strait-of-hormuz.html) ⭐️ 8.0/10
+## [特朗普支持 FCC 主席就伊朗战争报道对广播公司发出警告](https://www.bloomberg.com/news/videos/2026-03-18/trump-thrilled-with-fcc-s-carr-warning-video) ⭐️ 8.0/10
 
-美国总统特朗普表示，美国无需其盟友协助即可重新开放霍尔木兹海峡这一全球关键的石油运输通道。此番声明是在其盟友乃至其政府内部对近期美以针对伊朗的军事行动提出批评的背景下作出的。 这一表态标志着美国可能在一个高度动荡的地区转向单边军事行动，这可能损害北约等联盟关系，并引发更广泛冲突的风险。鉴于全球约 20%的石油需经该海峡运输，任何军事行动都可能导致全球能源市场严重中断并推高油价。 霍尔木兹海峡是一条狭窄水道，宽仅 35 至 60 英里，将伊朗与阿曼分隔开来。尽管美国采取军事行动重新开放海峡在技术上可能可行，但专家警告称，这将代价高昂、耗时长久，并可能引发全球经济冲击，持续的威胁可能需要数周甚至数月才能平息。
+美国前总统唐纳德·特朗普公开支持联邦通信委员会（FCC）主席布伦丹·卡尔对广播公司发出的警告，即他们应就伊朗战争的新闻报道进行'路线修正'，否则可能面临执照被吊销的风险。特朗普在周日的一篇社交媒体帖子中指责媒体歪曲战争进展并传播伊朗的虚假信息。 这标志着对媒体机构的政治压力显著升级，可能利用 FCC 对广播执照的监管权来影响新闻内容。此类行为引发了关于政府干预新闻自由的严重第一修正案担忧，并可能开创利用监管权力惩罚不利报道的先例。 FCC 主席布伦丹·卡尔是特朗普任命的官员，此前曾暗示利用监管权向电视网施压，提及了一项很少使用的政策。广播执照的续期本应基于电台是否服务于'公共利益、便利性或必要性'，而非基于对其新闻报道的政治认可。
 
-rss · NYTimes Politics · Mar 17, 22:24
+rss · Bloomberg Markets · Mar 18, 17:23
 
-**背景**: 霍尔木兹海峡是全球最关键的海上咽喉要道之一，连接波斯湾和阿曼湾。它是全球能源安全的生命线，估计全球五分之一的石油供应和大量液化天然气出口需经此通过。该地区长期以来一直是地缘政治的热点，任何航运中断都会立即对全球油价产生影响。近期美以针对伊朗的军事协调，包括将以色列纳入美国中央司令部的作战区域，标志着两国在中东的联盟关系显著深化。
+**背景**: 联邦通信委员会（FCC）是美国政府机构，负责监管通过广播、电视、有线、卫星和电缆进行的州际和国际通信。FCC 向电视台和广播电台颁发广播执照，这些执照必须定期更新。历史上，执照续期基于技术合规性和服务'公共利益'，尽管曾经要求对有争议问题进行平衡报道的公平原则已于 1987 年被废除。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance, Conflict and Closure ... Why is the Strait of Hormuz so important? How Iranian attacks ... The Strategic Importance of the Strait of Hormuz from ... Strait of Hormuz – Why This Narrow Waterway Holds Global Power What Is the Strait of Hormuz and Why Is Iran Blocking It ... The Strategic Importance of the Strait of Hormuz Strait of Hormuz | Map, Importance , Conflict and Closure, Control, Oil Strait of Hormuz – Why This Narrow Waterway Holds Global Power Strait of Hormuz – Why This Narrow Waterway Holds Global Power Strait of Hormuz – Why This Narrow Waterway Holds Global Power The Strait of Hormuz: Global Economic Shock and the Limits of ...</a></li>
-<li><a href="https://www.nytimes.com/2026/03/13/us/politics/trumps-war-alliance-with-israel-is-reshaping-the-middle-east-but-it-carries-risks.html">Trump's war alliance with Israel is reshaping the Middle East ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Federal_Communications_Commission">Federal Communications Commission - Wikipedia</a></li>
+<li><a href="https://www.theunpopulist.net/p/trumps-fcc-uses-its-regulatory-authority">Trump's FCC Uses its Regulatory Authority to Shut Down Negative...</a></li>
+<li><a href="https://www.fcc.gov/media/radio/public-and-broadcasting">The Public and Broadcasting | Federal Communications Commission</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Geopolitics`, `#U.S. Foreign Policy`, `#Energy Security`, `#Middle East`, `#Military Affairs`
+**标签**: `#media regulation`, `#First Amendment`, `#FCC`, `#political pressure`, `#broadcast licensing`
 
 ---
 
 <a id="item-10"></a>
-## [共和党推动《SAVE 法案》，要求投票时提供公民身份证明和带照片身份证件](https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html) ⭐️ 8.0/10
+## [美联储主席鲍威尔淡化美国经济陷入 1970 年代式滞胀的风险。](https://www.bloomberg.com/news/live-blog/2026-03-18/fomc-rate-decision-and-fed-chair-news-conference) ⭐️ 8.0/10
 
-拟议的《SAVE 法案》将要求选民在登记时亲自提供美国公民身份的文件证明，禁止在投票站使用不带照片的身份证件，并对未能执行这些要求的选举官员设立刑事处罚。共和党领导层承认难以克服参议院的阻挠议事，但计划强行推动投票，让民主党人记录在案反对该法案。 这项立法代表了全国范围内向更严格选民身份要求的重要转变，可能对选民登记流程和投票站准入产生重大影响。如果颁布，它将把目前各州不一的选民身份标准联邦化，可能影响数百万选民，并引发关于投票权的法律挑战。 该法案特别修订了 1993 年的《全国选民登记法》，要求为联邦选举登记提供“美国公民身份的文件证明”。目前各州的选民身份法差异很大，有 36 个州要求某种形式的身份证明，但只有部分州要求带照片的身份证件，这使得这项联邦要求比许多现有的州法律更为严格。
+在 2026 年 3 月 18 日联邦公开市场委员会（FOMC）会议后的新闻发布会上，美联储主席杰罗姆·鲍威尔明确表示，他不认为美国经济会进入类似 1970 年代的滞胀时期。 这位央行领导人的直接表态是一个高影响力的信号，它塑造了市场对未来利率和货币政策的预期，旨在平息对高通胀与增长停滞并存这一最坏经济情景的担忧。 鲍威尔的言论是在标准的 FOMC 会后新闻发布会上发表的，这是沟通政策理由和经济前景的关键平台，不过他的评估是一种前瞻性判断，可能随着后续经济数据的变化而调整。
 
-rss · NYTimes Politics · Mar 18, 02:48
+rss · Bloomberg Markets · Mar 18, 16:45
 
-**背景**: 《SAVE 法案》（《保障美国选民资格法案》）是一项拟议的立法，将为选民身份识别和公民身份验证建立联邦要求。选民身份法目前存在于州一级，要求从严格的带照片身份证件规定到完全无需身份证件不等。阻挠议事是参议院的一项程序，允许少数参议员通过延长辩论来延迟或阻止对立法进行投票，通常需要 60 票才能通过终止辩论来克服。
+**背景**: 滞胀是一种以持续高通胀、经济增长停滞和高失业率为特征的经济状况，在 1970 年代因石油价格冲击等问题而广为人知。联邦公开市场委员会（FOMC）是美联储的货币政策制定机构，负责设定利率目标以实现物价稳定和最大限度的可持续就业。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Safeguard_American_Voter_Eligibility_Act">Safeguard American Voter Eligibility Act - Wikipedia</a></li>
-<li><a href="https://ballotpedia.org/Voter_identification_laws_by_state">Voter identification laws by state - Ballotpedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate">Filibuster in the United States Senate - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Stagflation">Stagflation - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/terms/f/fomc.asp">Federal Open Market Committee (FOMC): What It Is and Does Introduction to the FOMC (Federal Open Market Committee) Federal Open Market Committee (FOMC) - What Is It, Roles Federal Open Market Committee (FOMC) | History, Functions ... Federal Open Market Committee (FOMC): What It Is and Does Understanding the Role and Impact of the Federal Open Market Com… Understanding the Role and Impact of the Federal Open Market Com… Introduction to the FOMC ( Federal Open Market Committee ) Understanding the Role and Impact of the Federal Open Market ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Election Policy`, `#Voting Rights`, `#Legislation`, `#Political Reform`, `#US Politics`
+**标签**: `#Monetary Policy`, `#Federal Reserve`, `#Macroeconomics`, `#Inflation`, `#US Economy`
 
 ---
 
 <a id="item-11"></a>
-## [特朗普政府高级反恐官员乔·肯特因伊朗战争担忧辞职](https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html) ⭐️ 8.0/10
+## [英国政府在艺术家抗议后撤回 AI 版权政策](https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
 
-特朗普政府高级反恐官员乔·肯特已辞去职务。他辞职的原因是反对政府可能升级与伊朗的冲突。 此次辞职意义重大，因为据报道肯特是因这一具体政策分歧而离开特朗普政府的最高级别官员。这表明国家安全机构内部在可能导致战争的重大外交政策方向上存在深刻分歧。 除了他的官方角色，乔·肯特还以与各种阴谋论有关联并表示支持而闻名，这为他的人物形象及其辞职的背景增添了一个值得注意的维度。
+英国政府在主要艺术家抗议后，改变了其在 AI 与版权政策上的立场，并表示对于下一步行动'不再有首选方案'。这使得政府在 AI 训练数据和版权例外方面的监管方法变得不明确。 这一政策逆转表明政府对创意产业利益相关者的高度响应，同时也给 AI 开发者使用受版权保护作品进行训练的合法性带来了不确定性。其结果将影响英国在全球 AI 竞争中的地位，并需要在创新与创作者权利之间取得平衡。 政府此前的立场可能涉及为 AI 训练创建版权例外，类似于其他司法管辖区考虑的方法。此次逆转使英国缺乏明确的 AI 训练数据监管框架，给 AI 公司和内容创作者都带来了法律上的不确定性。
 
-rss · NYTimes Politics · Mar 17, 23:29
+rss · BBC Politics · Mar 18, 13:24
 
-**背景**: 特朗普政府对伊朗一直保持强硬立场，退出了 2015 年的核协议（JCPOA）并通过制裁施加最大压力。紧张局势时有升级，例如 2020 年 1 月美国无人机袭击导致伊朗将军卡西姆·苏莱曼尼身亡的事件，曾将两国推向直接军事冲突的边缘。反恐官员是评估和管理该地区国家支持的组织及非国家行为体威胁的关键角色。
+**背景**: 像大型语言模型和图像生成器这样的 AI 模型，通常是在包含受版权保护材料的大规模数据集上进行训练的。许多国家正在辩论是否要为 AI 训练创建版权例外，这将允许开发者在未经许可或付费的情况下使用受版权保护的作品。英国的《国家 AI 战略》旨在使该国成为全球 AI 领导者，同时应对这些复杂的知识产权问题。
 
-**标签**: `#US Politics`, `#National Security`, `#Iran Policy`, `#Administration Resignation`, `#Foreign Policy`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://scholarlycommons.law.emory.edu/elj/vol74/iss5/4/">The Globalization of Copyright Exceptions for AI Training</a></li>
+<li><a href="https://gdprlocal.com/uk-artificial-intelligence-regulation/">UK Artificial Intelligence Regulation : Complete Guide for... - GDPR Local</a></li>
+<li><a href="https://www.dentons.com/en/insights/articles/2025/january/10/ai-trends-for-2025-ai-regulation-governance-and-ethics">Dentons - AI trends for 2025: AI regulation , governance and ethics</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Regulation`, `#Copyright Policy`, `#Intellectual Property`, `#Creative Industries`, `#Government Policy`
 
 ---
 
 <a id="item-12"></a>
-## [伊朗袭击波斯湾能源设施，欧洲天然气价格上涨](https://www.bloomberg.com/news/videos/2026-03-18/european-gas-rises-as-iran-war-spurs-uncertainty-video) ⭐️ 8.0/10
+## [特朗普提名的国土安全部部长人选穆林在确认听证会上暗示移民政策可能转向](https://www.nytimes.com/2026/03/18/us/politics/trump-mullin-dhs-hearing-immigration.html) ⭐️ 7.0/10
 
-由于伊朗袭击波斯湾能源基础设施引发供应不确定性，欧洲天然气价格正在上涨。此次供应中断恰逢欧洲官方储气季节开始前几周，威胁到该地区在下一个冬季前补充已耗尽储气设施的能力。 这很重要，因为欧洲正以远低于正常水平的天然气库存结束冬季，使得即将到来的夏季补充期对能源安全至关重要。波斯湾液化天然气（LNG）流量若长期中断（约占全球 LNG 贸易的 20%），可能显著收紧全球供应，推高价格，并危及欧洲满足下一个冬季供暖和电力需求的能力。 袭击已导致关键的霍尔木兹海峡航运通道流量骤降，扰乱了全球相当大一部分的 LNG 供应。欧洲今年夏季需要购买更多 LNG 的需求，正与此次供应冲击同时发生，为价格波动和潜在短缺创造了完美风暴。
+在担任国土安全部部长的确认听证会上，参议员马克韦恩·穆林在移民问题上采用了比特朗普总统通常使用的更为温和的语调。这是政府可能寻求在移民政策上展现更温和立场的最新迹象。 这很重要，因为它暗示了特朗普政府内部移民立场可能出现战略性转变，而该立场历来以强硬言论和政策为特征。如果获得确认，穆林的领导可能意味着在边境安全和移民执法方面采取更务实或对抗性较低的方法，这将影响数百万移民、联邦机构以及美国与邻国的关系。 此次听证会是参议院确认程序的一部分，该程序针对的是监督国家安全和移民执法的关键内阁职位。该新闻基于听证会上观察到的语调差异，而非具体的政策公告，因此实际的政策变化仍有待观察。
 
-rss · Bloomberg Markets · Mar 18, 07:18
+rss · NYTimes Politics · Mar 18, 17:57
 
-**背景**: 自俄罗斯入侵乌克兰后大幅减少从俄罗斯的管道天然气进口以来，欧洲越来越依赖海运 LNG 来满足其能源需求。欧盟已实施强制性的天然气储气填充目标以确保能源安全，要求成员国在夏季补充地下储气设施。波斯湾，特别是卡塔尔，是全球主要的 LNG 出口中心，而霍尔木兹海峡是这些运输的关键咽喉要道。
+**背景**: 美国国土安全部（DHS）是 9/11 事件后成立的联邦机构，负责公共安全，包括边境管制、移民执法、网络安全和灾难预防。参议院确认听证会是关键步骤，被提名人需在参议院委员会面前回答问题，委员会随后投票决定是否向全体参议院推荐确认。移民政策在特朗普政府期间一直是一个核心且极具分裂性的议题，通常涉及行政命令、边境墙建设以及庇护规则的变更。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">2026 Strait of Hormuz crisis - Wikipedia</a></li>
-<li><a href="https://think.ing.com/articles/energy-markets-bracing-for-a-prolonged-supply-disruption160326/">Energy markets brace for a prolonged supply disruption | articles | ING THINK</a></li>
-<li><a href="https://www.reuters.com/business/energy/europe-faces-gas-storage-scramble-iran-conflict-tightens-supply-2026-03-05/">Europe faces gas storage scramble as Iran conflict tightens supply | Reuters</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitical Risk`, `#Energy Markets`, `#Commodities`, `#European Economy`, `#Supply Chain Security`
+**标签**: `#US Politics`, `#Immigration Policy`, `#Cabinet Appointments`, `#Department of Homeland Security`, `#Trump Administration`
 
 ---
 
 <a id="item-13"></a>
-## [特朗普因伊朗冲突推迟与习近平的峰会，贸易谈判被延迟。](https://www.bloomberg.com/news/videos/2026-03-18/trump-expects-xi-meeting-in-five-or-six-weeks-amid-war-video) ⭐️ 8.0/10
+## [ICE 突袭扰乱南德克萨斯州建筑业，凸显政策冲突](https://www.nytimes.com/video/us/politics/100000010742128/trump-ice-raids-texas-economy-immigration.html) ⭐️ 7.0/10
 
-美国总统唐纳德·特朗普宣布，由于伊朗持续的冲突，他计划与中国国家主席习近平举行的峰会将推迟。这一延迟使得两国之间关键的贸易谈判被推后。 在地缘政治紧张局势加剧的时期，这次推迟是一次重大的外交中断，可能影响全球贸易稳定和安全协调。推迟领导人级别的会谈可能会减缓解决重大经济争端和管理伊朗冲突更广泛影响的进程。 根据特朗普的声明，峰会预计将在大约五到六周后重新安排。被推迟的具体贸易谈判内容未详细说明，但被描述为对双边关系'至关重要'。
+美国移民和海关执法局（ICE）在南德克萨斯州的突袭行动正在直接扰乱建筑业，导致特朗普政府的移民执法优先事项与其经济目标之间发生冲突。这些突袭正在造成劳动力短缺，并使该地区的工人和企业感到沮丧。 这很重要，因为它展示了移民执法政策对一个关键区域产业产生的切实经济后果。它凸显了在确保边境安全与为历史上依赖移民工人的行业维持稳定劳动力之间的根本性紧张关系，这可能会影响住房成本、项目时间表和当地经济增长。 这种干扰正发生在南德克萨斯州，该地区的建筑行业尤其容易受到劳动力市场冲击。该新闻报道将此定性为特朗普政府两个既定优先事项之间的直接冲突：强有力的移民执法和强劲的经济。
 
-rss · Bloomberg Markets · Mar 18, 04:51
+rss · NYTimes Politics · Mar 18, 09:00
 
-**背景**: 美中关系的特点是战略竞争与复杂的经济相互依存并存。美中领导人之间的高级别峰会是管理争端和设定双边关系方向的关键论坛，通常涵盖贸易不平衡、技术竞争和地缘政治结盟等问题。伊朗冲突是一场重大的国际安全危机，需要全球大国的关注，并可能打乱计划中的外交活动。
+**背景**: ICE（美国移民和海关执法局）是负责在美国境内执行移民法的联邦机构，其行动包括开展行动以逮捕和驱逐未经授权滞留在美国的人员。美国建筑业长期面临劳动力短缺，历史上一直依赖大量移民工人。特朗普政府推行了旨在加强移民执法并减少合法及非法移民的政策。
 
-**标签**: `#US-China Relations`, `#Geopolitics`, `#Trade Negotiations`, `#Diplomacy`, `#Iran Conflict`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.ice.gov/newsroom">News Releases and Statements | ICE</a></li>
+<li><a href="https://hias.org/news/ice-raids-what-you-need-know/">The ICE Raids — What You Need to Know | HIAS</a></li>
+<li><a href="https://www.nahb.org/blog/2025/10/hbi-labor-market-report">HBI Report Reveals Economic Impact of Labor Shortages on ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Immigration Policy`, `#Labor Market`, `#Economic Impact`, `#US Politics`, `#Law Enforcement`
 
 ---
 
 <a id="item-14"></a>
-## [苏格兰议会经过激烈辩论后否决安乐死合法化提案](https://www.bbc.com/news/articles/c5y5d2g3wgxo?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
+## [亚利桑那州对 Kalshi 提起刑事指控，州级法律抵制升级](https://www.bloomberg.com/news/articles/2026-03-18/criminal-charges-amp-up-growing-state-resistance-to-kalshi) ⭐️ 7.0/10
 
-苏格兰议会议员在经过一场情绪激烈的辩论后，投票否决了将安乐死在苏格兰合法化的立法提案。如果该提案获得通过，苏格兰将成为英国首个允许安乐死的地区。 此次否决是一项重大的政策决定，维持了苏格兰目前对安乐死的法律禁令，直接影响绝症患者的临终关怀选择。这一结果也为英格兰和威尔士正在进行的、关于可能修改相关法律的平行辩论树立了重要先例并产生影响。 此次投票是在苏格兰议会议员之间一场极具争议且情绪激烈的辩论之后进行的，突显了围绕该议题深刻的伦理和道德分歧。拟议的立法专门设计为仅适用于苏格兰，因为卫生政策是下放给苏格兰议会的权力。
+亚利桑那州成为首个对预测市场平台 Kalshi 提起刑事指控的州，指控其经营非法赌博业务。此举加剧了州级法律抵制的浪潮，此前已有包括康涅狄格州和田纳西州在内的多个州对 Kalshi 提起了诉讼或发布了停止令。 从民事诉讼升级为刑事指控，标志着围绕预测市场属于赌博还是合法金融工具的法律斗争显著加剧。其结果可能决定预测市场在美国的生存能力，影响金融科技创新、市场结构以及州与联邦金融监管之间的权力平衡。 Kalshi 是一个受联邦监管的交易所，允许对现实世界事件的结果进行交易，并将自身定位为合法的金融平台。亚利桑那州的刑事指控特别针对其选举投注市场，监管机构认为这些市场构成非法赌博，而非允许的事件合约。
 
-rss · BBC Politics · Mar 18, 06:44
+rss · Bloomberg Markets · Mar 18, 19:02
 
-**背景**: 安乐死，在某些语境下也称为医生协助自杀或安乐术，指的是为身患绝症的成年人提供医疗协助以结束其生命的过程。根据英国 1961 年的《自杀法》，该做法目前在整个英国都是非法的。相关辩论涉及复杂的伦理考量，需要在个人自主权和有尊严死亡的权利，与对患者安全、胁迫以及医疗专业人员角色的担忧之间取得平衡。
+**背景**: 预测市场是参与者可以基于未来事件（如选举或经济指标）结果进行合约交易的平台。在美国，它们在一个存在争议的双重管辖框架下运作，像 CFTC 这样的联邦监管机构有时会批准，而州监管机构则通常将其视为无执照的赌博。Kalshi 是此类最大的平台之一，已获得 CFTC 注册，成为指定的合约市场。
 
-**标签**: `#Healthcare Policy`, `#Legislation`, `#Social Policy`, `#UK Politics`, `#Ethics`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://apnews.com/article/arizona-kalshi-criminal-charges-prediction-markets-gambling-3687ec3ea6725fa53389d9d594433580">Arizona files criminal charges against prediction market ...</a></li>
+<li><a href="https://sccgmanagement.com/sccg-articles/2026/3/16/prediction-market-regulation-state-by-state-breakdown/">Prediction Market Regulation: State-by-State Breakdown</a></li>
+<li><a href="https://www.yahoo.com/news/articles/connecticut-issues-cease-desist-prediction-161100131.html">Connecticut Issues Cease-and-Desist to Prediction Markets; Kalshi Countersues</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Financial Regulation`, `#Prediction Markets`, `#Legal Action`, `#State Policy`, `#Fintech`
 
 ---
 
 <a id="item-15"></a>
-## [美国邮政总局局长警告机构现金或在一年内耗尽，寻求提高借款上限。](https://www.nytimes.com/2026/03/17/us/politics/usps-postal-service-finances.html) ⭐️ 7.0/10
+## [贸易限制放宽，委内瑞拉对美石油出口翻倍](https://www.bloomberg.com/news/articles/2026-03-18/venezuela-oil-exports-to-us-double-on-easing-trade-restrictions) ⭐️ 7.0/10
 
-邮政总局局长 David Steiner 在国会作证时表示，美国邮政总局的现金储备可能在一年内耗尽，最早可能在 2027 年 2 月，并请求立法者提高该机构的法定借款上限。他警告称，若不采取行动，USPS 可能无法支付员工和供应商款项，严重扰乱邮件投递。 这一警告标志着一个关键的国家基础设施服务即将面临财务危机，该服务每年处理数十亿件邮件，对商业、通信和政府运作至关重要。现金短缺可能导致投递服务停止，扰乱供应链，并影响数百万依赖邮政服务的美国民众和企业。 具体请求是提高或取消自 1990 年起实施的 150 亿美元借款上限，Steiner 认为这一上限现已无法满足该机构的规模和债务义务。尽管 USPS 已实施一项为期 10 年、旨在实现财务可持续性的改革计划超过三年，但现金危机仍被预测会发生。
+委内瑞拉对美国的石油出口量已翻倍，达到一年多来的最高水平。这一激增是在美国政府放宽贸易限制之后发生的。 这一转变意义重大，标志着美委贸易关系的显著变化，并影响了全球石油流动，尤其是在中东冲突重塑能源市场的背景下。它对两国的经济都有实质性影响，并波及更广泛的地缘政治能源格局。 采购量的增加是由美国燃料制造商推动的。这一进展符合特朗普政府在全球供应动态变化之际从委内瑞拉获取更多原油的既定目标。
 
-rss · NYTimes Politics · Mar 18, 01:32
+rss · Bloomberg Markets · Mar 18, 18:52
 
-**背景**: 美国邮政总局是美国联邦政府的一个独立机构，其主要资金来源于邮资销售和服务，而非纳税人税款。它在国会设定的法定借款限额下运营，该限额限制了其能从美国财政部承担的债务额度。由于邮件量下降、法律规定的退休人员医疗福利预付费义务以及运营成本上升，USPS 长期面临财务挑战。
+**背景**: 美国此前对委内瑞拉石油行业实施了广泛制裁，严重限制了其出口和进入全球市场的能力。这些制裁是针对尼古拉斯·马杜罗政府更广泛施压行动的一部分。委内瑞拉拥有全球最大的已探明石油储量，但由于多年的投资不足、管理不善和制裁，其产量已大幅下降。限制的放宽代表了一种政策转变，通常受到全球油价波动和地缘政治考量的影响。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://apnews.com/article/postal-service-budget-cuts-mail-delivery-congress-d44d9d156aad4aefb9b867cd415cd5ac">US Postal Service faces cash crisis by 2027, postmaster ...</a></li>
-<li><a href="https://federalnewsnetwork.com/agency-oversight/2024/10/usps-seeks-higher-borrowing-limit-from-treasury-in-10-year-plan-update/">USPS seeks higher borrowing limit from Treasury in 10-year ... USPS General Says Service Will Be ‘Out of Cash’ in Under a ... US Postal Service on brink of financial collapse, chief tells ... US Postal Service expects to run out of cash in a year without help fro… US Postal Service expects to run out of cash in a year without help fro… US Postal Service expects to run out of cash in a year without help fro… US Postal Service expects to run out of cash in a year without help fro… USPS Loss for Fiscal Year 2025 Reaches $9 Billion: Leade ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#US Politics`, `#Fiscal Policy`, `#Government Services`, `#Infrastructure`, `#Public Finance`
+**标签**: `#Energy Policy`, `#Geopolitics`, `#International Trade`, `#Venezuela`, `#Oil Markets`
 
 ---
 
 <a id="item-16"></a>
-## [香港监管整顿危及 IPO 市场复苏](https://www.bloomberg.com/news/videos/2026-03-18/hong-kong-regulatory-crackdown-puts-ipo-recovery-at-risk-video) ⭐️ 7.0/10
+## [伊朗天然气设施遇袭后油价飙升，欧洲股市应声下跌](https://www.bloomberg.com/news/articles/2026-03-18/european-stocks-advance-for-third-day-as-oil-prices-retreat) ⭐️ 7.0/10
 
-香港日益加强的监管审查正迫使银行和律师在交易中采取更谨慎的态度，直接威胁到该地区首次公开募股（IPO）市场的复苏。这种加强的监管正在扰乱金融行业，并增加了股票销售放缓的可能性。 这很重要，因为香港是亚洲主要的融资中心，其 IPO 市场放缓将严重影响全球资本流动、投资银行业务收入以及该地区的经济信心。这种监管转变可能会改变香港相对于新加坡和上海等其他金融中心的竞争地位。 此次监管整顿特别针对金融行业的交易行为，导致专业人士重新评估风险。虽然内容未明确说明具体的监管变化，但其影响已通过银行和法律顾问日益增强的谨慎态度显现出来。
+在伊朗能源设施遇袭后，欧洲股市抹去了早前的涨幅并转为下跌，同时油价被急剧推高。这一事件重新引发了市场对通胀的担忧，并导致交易员开始押注欧洲央行（ECB）今年将进行两次加息。 这之所以重要，是因为油价的持续飙升会直接推高通胀，使欧洲央行在管理物价稳定和经济增长方面的任务变得更加复杂。市场预期转向更激进的加息，可能会收紧欧洲的金融环境，影响企业和消费者的借贷成本。 报道特别提到，交易员现在预计欧洲央行今年将加息两次，这是地缘政治事件引发的货币政策预期的重大转变。市场的初步反应是欧洲股市回吐涨幅，表明油价冲击与股市情绪之间存在直接且负面的关联。
 
-rss · Bloomberg Markets · Mar 18, 07:22
+rss · Bloomberg Markets · Mar 18, 08:22
 
-**背景**: 香港历来是全球最大的 IPO 市场之一，是中国公司获取国际资本的重要门户。IPO（首次公开募股）是指一家私人公司首次向公众发行股票，从而能够从公众投资者那里筹集资金。该地区金融市场的复苏指的是其从先前因各种经济和地缘政治因素导致的 IPO 活动减少中恢复过来。
+**背景**: 欧洲央行（ECB）是欧元区的中央银行，负责制定包括关键利率在内的货币政策。油价上涨是经济体的主要投入成本，并且可能引发更广泛的通胀，因为能源成本会波及运输、制造业和消费品等领域。像欧洲央行这样的中央银行通常会通过加息来对抗高通胀，但此举也可能减缓经济增长。
 
-**标签**: `#Financial Regulation`, `#Hong Kong`, `#Capital Markets`, `#IPOs`, `#Geopolitical Risk`
+**标签**: `#Geopolitical Risk`, `#Energy Markets`, `#Monetary Policy`, `#European Markets`, `#Inflation`
 
 ---
 
 <a id="item-17"></a>
-## [中国准备动用商业原油库存以应对伊朗危机影响](https://www.bloomberg.com/news/articles/2026-03-18/china-set-to-tap-massive-oil-stockpiles-to-offset-iran-crisis) ⭐️ 7.0/10
+## [伊朗战争与冬季天气加剧通胀担忧，小麦价格飙升](https://www.bloomberg.com/news/articles/2026-03-18/wheat-jumps-as-iran-war-wintry-weather-stoke-inflation-concerns) ⭐️ 7.0/10
 
-根据咨询公司 FGE NexantECA 的分析，中国正准备动用其庞大的商业原油库存，以缓解中东持续冲突造成的供应中断。作为全球最大的原油进口国，中国正面临这场旷日持久战争可能带来的短缺风险。 此举意义重大，因为中国释放商业原油库存有助于在重大地缘政治危机期间稳定全球石油市场，可能防止影响全球消费者和工业的价格飙升。作为最大进口国，中国对其储备的战略性使用展示了主要经济体如何在供应紧急情况下利用库存作为市场干预工具。 报告特别提到了中国的商业原油储备，而非战略石油储备，这表明了不同层次的库存管理。FGE NexantECA 是一家拥有超过 50 年经验的领先能源咨询公司，这为其对中国潜在政策回应的分析增添了可信度。
+由于伊朗持续不断的战争继续推高油价，引发了对农民可能因燃料和化肥成本飙升而减少种植的担忧，小麦价格正在大幅上涨。具有破坏性的冬季天气状况也加剧了农产品面临通胀压力。 这很重要，因为小麦是主要粮食商品，其价格飙升直接影响全球食品通胀和粮食安全。影响能源投入的地缘政治冲突与扰乱供应的恶劣天气相结合，造成了双重冲击，可能会波及整个农业供应链和全球消费者价格。 主要驱动因素是战争导致的油价飙升（这增加了农民的生产成本）以及影响作物状况的破坏性冬季天气。该新闻特别强调了农民因投入成本上升而可能减少播种的风险。
 
-rss · Bloomberg Markets · Mar 18, 06:54
+rss · Bloomberg Markets · Mar 18, 16:49
 
-**背景**: 全球石油储备通常包括政府为国家安全紧急情况持有的战略储备和私营行业维持的商业储备。持续的中东冲突威胁石油供应，因为全球约 20%的石油运输需经过霍尔木兹海峡，这是阿曼和伊朗之间的关键咽喉要道，可能因地区敌对行动而中断。作为全球最大原油进口国，中国多年来建立了大量石油库存以加强其能源安全。
+**背景**: 小麦是世界上最重要的谷类作物之一，用于人类消费和动物饲料。其价格对影响能源市场（如石油和天然气，它们是化肥生产和农业机械的关键投入）的地缘政治事件以及影响作物产量的天气模式高度敏感。当基本主食成本上涨时，就会引发通胀担忧，因为它可能导致整个经济出现更广泛的价格上涨。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Global_strategic_petroleum_reserves">Global strategic petroleum reserves - Wikipedia</a></li>
-<li><a href="https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price">What is the strait of Hormuz and why is it crucial for oil supplies ? | Oil</a></li>
-<li><a href="http://nexanteca.com/">FGE NexantECA, the Energy and Chemicals Advisory company</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Energy Policy`, `#Geopolitics`, `#Oil Markets`, `#China`, `#Middle East`
+**标签**: `#commodities`, `#geopolitics`, `#inflation`, `#agriculture`, `#energy`
 
 ---
 
 <a id="item-18"></a>
-## [PIMCO 警告：私人信贷市场压力暴露流动性风险](https://www.bloomberg.com/news/articles/2026-03-18/pimco-sees-private-credit-strains-triggering-wake-up-call-on-liquidity-risks) ⭐️ 7.0/10
+## [鲍威尔承诺若继任者五月前未获确认，将以“临时主席”身份留任](https://www.marketwatch.com/story/powell-delivers-his-most-definitive-answer-yet-on-how-long-hell-stay-on-as-fed-chair-1b2a5787?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-太平洋投资管理公司（PIMCO）发出警告称，规模达 1.8 万亿美元的私人信贷市场日益加剧的压力，正迫使投资者正视该资产类别固有的非流动性，并重新评估他们是否获得了与风险相匹配的足够补偿。 来自一家主要机构投资者的这一警告，突显了一个快速增长但不透明的市场中的关键脆弱性，该市场已成为企业重要的资本来源。这预示着风险可能被重新定价，可能影响金融稳定和机构投资组合，并引发更严格的监管审查。 私人信贷市场规模约为 1.8 万亿美元，其最常见的投资工具是具有资本催缴结构的封闭式基金，这本身就限制了流动性。PIMCO 的分析表明，当前的市场压力正在考验该行业的风险回报状况，而此前因其收益率高于流动性更强的公开市场而颇具吸引力。
+美联储主席杰罗姆·鲍威尔周三表示，如果其提名的继任者凯文·沃什在五月中旬鲍威尔当前任期结束时仍未获得参议院确认，他将以“临时主席”身份留任。这是鲍威尔迄今为止关于领导层过渡时间表最明确的表态。 这一表态直接回应了全球金融市场和货币政策面临的一个重大不确定性，确保了全球最具影响力的中央银行领导层的连续性。它避免了在关键经济时期可能出现的领导层真空，这种真空本可能引发市场波动和政策混乱。 “临时主席”这一指定是一个临时角色，允许鲍威尔在其正式任期结束后，在继任者获得确认前，继续履行主席职责。据报道，凯文·沃什的确认程序面临延迟，部分原因是一位共和党参议员要求在推进确认前，先结束司法部对鲍威尔的一项刑事调查。
 
-rss · Bloomberg Markets · Mar 18, 06:12
+rss · MarketWatch Top Stories · Mar 18, 19:26
 
-**背景**: 私人信贷涉及非银行贷款机构直接向公司提供贷款，通常是作为传统银行银团贷款的替代方案。这些贷款通常由非公开、非流动性的基金持有，意味着投资者无法轻易出售其头寸。投资者传统上接受这种非流动性，以换取潜在的'非流动性溢价'——即更高的预期回报。自 2008 年金融危机后银行从某些贷款活动中退出以来，该市场已显著增长。
+**背景**: 美联储主席由总统从现任理事会成员中提名，并必须经参议院确认，任期四年。被提名人凯文·沃什是前美联储理事（2006-2011 年），曾担任美联储与 G-20 的联络人。“pro tem”是“pro tempore”的缩写，这是一个拉丁短语，意为“临时”，指的是在正式任职者缺席或无法履职时，临时担任该职务的人。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.federalreserve.gov/econres/notes/feds-notes/private-credit-characteristics-and-risks-20240223.html">The Fed - Private Credit: Characteristics and Risks</a></li>
-<li><a href="https://www.garp.org/risk-intelligence/credit/hidden-risks-private-credit-251017">The Hidden Risks of Private Credit – and How to Spot Them</a></li>
-<li><a href="https://www.imf.org/-/media/files/publications/gfsr/2024/april/english/ch2.pdf">2 THE RISE AND RISKS OF PRIVATE CREDIT - IMF</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Chair_of_the_Federal_Reserve">Chair of the Federal Reserve - Wikipedia Federal Reserve Board - Board Members Tillis ‘optimistic’ roadblock to Fed chair confirmation will ... Trump’s Federal Reserve pick makes DC rounds as GOP senator ... Powell plans to stay on Fed board through DOJ probe - report The Road to Fed Chair Confirmation - The DRL Group</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kevin_Warsh">Kevin Warsh - Wikipedia</a></li>
+<li><a href="https://www.merriam-webster.com/dictionary/pro+tem">PRO TEM Definition & Meaning - Merriam-Webster</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Private Credit`, `#Financial Risk`, `#Liquidity`, `#Asset Management`, `#Market Analysis`
+**标签**: `#Federal Reserve`, `#Monetary Policy`, `#Central Banking`, `#Leadership`, `#Financial Markets`
 
 ---
 
 <a id="item-19"></a>
-## [对冲基金押注日本央行将因伊朗战争通胀风险转向鹰派](https://www.bloomberg.com/news/articles/2026-03-18/hedge-funds-bet-boj-to-lift-yen-jgb-yields-with-hawkish-hints) ⭐️ 7.0/10
+## [美国国债市场发出滞胀风险上升信号](https://www.marketwatch.com/story/treasury-market-flashes-sign-of-growing-stagflation-risks-52bc33e0?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-越来越多的对冲基金正在为日本央行可能发出的鹰派信号进行布局，押注伊朗战争将加剧这个能源进口国的通胀风险。这一头寸布局具体押注于日元和日本国债收益率将因此上涨。 这之所以重要，是因为作为全球最后几个主要鸽派央行之一的日本央行转向鹰派，可能引发长期存在的日元套利交易大规模平仓，进而可能导致全球债券和股票市场波动。这代表着日本资产的一次重大潜在重新定价，以及全球资本流动的转变。 这些押注聚焦于日本央行发出政策转向的信号，而不一定是立即加息。具体的催化剂是伊朗战争加剧的通胀风险，这直接影响作为主要能源进口国的日本，迫使央行重新考虑其超宽松的货币政策立场。
+规模约 30 万亿美元的美国国债市场出现令人担忧的交易模式，表明投资者对美国经济出现滞胀（即高通胀与经济停滞并存）的风险日益加剧。 来自全球最大、最具影响力的债券市场的这一信号至关重要，因为滞胀会带来严重的政策困境，使央行难以在不加剧通胀的情况下刺激经济增长。这可能导致长期借贷成本上升、市场波动性加剧，并迫使所有资产类别的投资策略进行重新评估。 具体的交易模式涉及不同期限国债收益率之间的关系，这反映了对未来增长和通胀预期的变化。美国国债市场拥有近 30 万亿美元的可流通债务，是全球金融状况的关键基准，也是美联储实施货币政策的主要工具。
 
-rss · Bloomberg Markets · Mar 18, 05:22
+rss · MarketWatch Top Stories · Mar 18, 17:19
 
-**背景**: 日本央行多年来一直维持超宽松的货币政策，包括负利率和收益率曲线控制（YCC），以对抗通缩。这种环境使日元成为“套利交易”的热门融资货币，即投资者借入低成本的日元，投资于海外高收益资产。日本国债收益率是日本金融状况的关键基准，直接受日本央行政策影响。“鹰派”转向意味着转向更紧缩的政策，例如加息或减少资产购买，这通常会推高本币币值和债券收益率。
+**背景**: 美国国债市场是全球最大的证券市场，美国政府债务在此交易；其规模和流动性使其成为经济情绪和风险的主要指标。滞胀是一种经济状况，其特征是高通胀、经济增长乏力和失业率上升同时发生，这与认为通胀和失业率呈反向关系的传统经济模型相矛盾。国债收益率，尤其是短期和长期债券之间的利差，受到密切关注，因为它们反映了投资者对未来利率、增长和通胀的预期。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.reuters.com/business/boj-chiefs-dogged-caution-tempers-boards-hawkish-instincts-2025-08-20/">BOJ chief's dogged caution tempers board's hawkish instincts</a></li>
-<li><a href="https://stapletonam.com/the-unwind-of-the-yen-carry-trade-understanding-the-reverse-carry-trade-and-its-global-consequences/">The Unwind of the Yen Carry Trade: Understanding the Reverse ...</a></li>
-<li><a href="https://www.boj.or.jp/en/mopo/mpmdeci/state_2022/k221220a.htm">Statement on Monetary Policy : 日本銀行 Bank of Japan</a></li>
+<li><a href="https://libertystreeteconomics.newyorkfed.org/2025/11/how-has-treasury-market-liquidity-fared-in-2025/">How Has Treasury Market Liquidity Fared in 2025? - Liberty Street Economics</a></li>
+<li><a href="https://www.usatoday.com/story/money/economy/2026/03/10/stagflation-inflation-recession-economy/89068891007/">What is stagflation? The worry looming over the economy</a></li>
+<li><a href="https://govfacts.org/money/broader-economy/economic-indicators/what-is-stagflation-and-why-does-it-matter-when-inflation-and-unemployment-rise-together/">What is Stagflation and Why Does It Matter? When Inflation ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Monetary Policy`, `#Bank of Japan`, `#Foreign Exchange`, `#Hedge Funds`, `#Geopolitical Risk`
+**标签**: `#Treasury Market`, `#Stagflation`, `#Economic Indicators`, `#Monetary Policy`, `#Market Risk`
 
 ---
 
 <a id="item-20"></a>
-## [现金短缺迫使尼日利亚电力生产商停止运营](https://www.bloomberg.com/news/articles/2026-03-18/cash-crunch-drives-nigerian-power-producers-out-of-business) ⭐️ 7.0/10
+## [中国中产阶级进行'影子储蓄'，囤积现金而非消费](https://www.marketwatch.com/story/instead-of-shopping-theyre-quietly-stockpiling-cash-shadow-saving-and-it-could-short-circuit-the-global-economy-5ebc81a6?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-尼日利亚多家负债累累的电力生产商已停止运营，原因是其客户未支付电费，导致这些公司无力承担必要的设备维护和天然气供应费用。这次运营中断是现金流严重危机的直接结果。 这一事态发展可能加剧尼日利亚长期存在的电力短缺问题，直接影响企业、家庭和经济生产力。它暴露了电力行业资金链中一个关键的系统性故障，可能导致更广泛的基础设施崩溃和社会动荡。 生产商无力支付天然气供应费用尤为关键，因为尼日利亚许多发电厂都是燃气电厂。这场危机凸显了从终端用户到发电公司的支付链条已经崩溃，而电价补贴和收费效率低下等问题常常使这一链条更加复杂。
+报告显示，尽管现有数据表明中国中产阶级并未陷入财务困境，但他们正表现出显著的行为转变，即囤积现金而非进行消费。这种现象被称为'影子储蓄'，代表着预防性储蓄的显著增加。 这一转变至关重要，因为中国庞大的中产阶级一直是全球消费需求和经济增长的主要引擎。他们支出的持续减少可能会削弱全球贸易，抑制世界经济增长，并对国际供应链和金融市场产生连锁反应。 文章指出，这是一种由消费意愿下降而非消费能力不足驱动的行为转变，表明心理和预防性动机在起作用。然而，关于这种行为可能'使全球经济短路'的说法可能有些耸人听闻，尽管其对全球需求的核心影响具有实质性重要意义。
 
-rss · Bloomberg Markets · Mar 18, 04:00
+rss · MarketWatch Top Stories · Mar 18, 17:00
 
-**背景**: 尼日利亚电力行业采用部分私有化的模式运营，发电公司（GenCos）将电力出售给政府支持的大宗电力采购商——尼日利亚大宗电力交易公司（NBET），然后 NBET 再出售给负责向客户收费的配电公司（DisCos）。长期存在的挑战是配电公司向客户的收费率低，随后又无法向上游的 NBET 和发电公司全额支付费用，从而造成了流动性危机。这种结构，加上电价往往不能反映真实的生产成本，使得该行业在财务上非常脆弱。
+**背景**: 家庭储蓄是指可支配收入中未用于消费的部分。高储蓄率可能预示着经济不确定性，因为家庭会为抵御未来风险建立财务缓冲——这一概念被称为预防性储蓄。中国中产阶级估计有数亿人，在中国向消费驱动型经济转型的过程中一直至关重要。行为经济学研究心理因素如何导致决策偏离传统经济模型，例如当未来收入似乎不确定时增加储蓄。
 
-**标签**: `#Energy Policy`, `#Economic Crisis`, `#Infrastructure`, `#Nigeria`, `#Business Failure`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://libertystreeteconomics.newyorkfed.org/2025/04/how-household-saving-affects-monetary-policy-spillovers/">How Household Saving Affects Monetary Policy Spillovers ...</a></li>
+<li><a href="https://news.uchicago.edu/explainer/what-is-behavioral-economics">What is behavioral economics ? | University of Chicago News</a></li>
+
+</ul>
+</details>
+
+**标签**: `#China Economy`, `#Consumer Behavior`, `#Macroeconomics`, `#Global Trade`, `#Savings Rate`
 
 ---
 
 <a id="item-21"></a>
-## [三个信号将揭示伊朗石油冲击是暂时波动还是新常态](https://www.marketwatch.com/story/3-signals-that-reveal-if-the-iran-oil-shock-is-just-a-blip-or-the-new-normal-3202c511?mod=mw_rss_topstories) ⭐️ 7.0/10
+## [协助死亡立法在英国各区域面临不同路径](https://www.bbc.com/news/articles/c5y5d2g3wgxo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-MarketWatch 的分析指出了三个关键信号，这些信号将揭示近期与伊朗相关的石油市场动荡是暂时性波动还是持久的供应冲击。文章重点在于区分石油供应的短期波动和可能产生更广泛经济影响的结构性变化。 这很重要，因为来自伊朗的持续石油供应中断可能引发显著的二次通胀效应，影响从消费者价格到工资谈判和企业盈利的方方面面。判断这是一次暂时冲击还是新常态，对于全球的投资决策、货币政策应对和经济规划都至关重要。 该分析超越了每桶 100 美元的价格门槛，着眼于更广泛的传导机制。它特别警告了'二次效应'，即最初的能源价格上涨会通过工资-物价螺旋上升和整个经济生产成本的增加，蔓延至核心通胀。
+苏格兰议会议员最近投票否决了在苏格兰将协助死亡合法化的提案。与此同时，一项关于协助死亡的独立法案正在英格兰和威尔士接受审议。 这一进展凸显了英国各地临终政策的分歧性和争议性，对患者自主权、医学伦理和法律框架具有重大影响。每个司法管辖区的结果将直接影响绝症患者、医疗保健提供者，以及关于死亡权的更广泛社会辩论。 该新闻条目未提供关于英格兰和威尔士正在审议的法案的具体条款、提案人或时间表等细节。苏格兰的否决对于该国协助死亡改革的支持者来说是一次重大挫折。
 
-rss · MarketWatch Top Stories · Mar 17, 21:07
+rss · BBC Politics · Mar 18, 14:05
 
-**背景**: '负面供应冲击'是指石油等关键商品的突然短缺导致整个经济的生产成本上升。'二次效应'指的是某个部门（如能源）的初始价格上涨，随着企业转嫁更高的成本以及工人要求更高的工资，导致更广泛的通胀压力。伊朗是主要的石油生产国，其出口中断会对全球石油市场产生重大影响。
+**背景**: 协助死亡，在某些语境下也称为协助自杀或安乐死，指的是一个人在接受帮助的情况下结束自己生命的行为，通常是在患有绝症或不治之症时。协助死亡的合法性在世界各地差异很大，一些国家和州在严格的保障措施下已将其合法化。在英国，根据《1961 年自杀法》，协助他人死亡目前是非法的，这导致了持续不断的立法改革运动。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2666143825000183">Second-round effects and asymmetry in oil and food price ...</a></li>
-<li><a href="https://theconversation.com/why-surging-oil-prices-are-a-shock-for-the-global-economy-but-not-yet-a-crisis-277228">Why surging oil prices are a shock for the global economy ...</a></li>
-<li><a href="https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html">Fallout From Iran War and Oil Shock Deliver Another Blow to ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Geopolitical Risk`, `#Oil Markets`, `#Macroeconomics`, `#Investment Strategy`, `#Energy Security`
+**标签**: `#Public Policy`, `#Healthcare`, `#Legislation`, `#Ethics`, `#UK Politics`
 
 ---
 
 <a id="item-22"></a>
-## [特朗普未在德州参议院初选中表态，迫使科宁与帕克斯顿进入决选](https://www.nytimes.com/2026/03/17/us/politics/texas-senate-trump-cornyn-paxton.html) ⭐️ 6.0/10
+## [美国联邦航空管理局终止直升机在繁忙机场的'目视避让'做法](https://www.nytimes.com/2026/03/18/us/politics/faa-visual-separation-policy.html) ⭐️ 6.0/10
 
-前总统唐纳德·特朗普未能在初选背书截止日期前，为现任参议员约翰·科宁或德州总检察长肯·帕克斯顿中的任何一方背书。这一决定意味着两位候选人均未获得特朗普背书带来的决定性优势，迫使他们进入一场代价高昂且充满个人攻击的五月决选。 特朗普的背书在共和党基层选民中具有重要影响力，拒绝表态使得任何一位候选人都无法获得这个巩固支持与筹款的强大工具。这延长了党内斗争，将消耗大量资源，并可能加深德州共和党内的分裂，而胜出者在进入大选时可能处于相对弱势的地位。 初选中没有候选人获得超过 50%的选票，根据德州选举规则，这触发了决选。决选定于五月举行，延长了这两位共和党重要人物之间本就充满争议且耗资巨大的竞选活动。
+美国联邦航空管理局（FAA）已暂停允许直升机飞行员在繁忙机场附近依靠目视间隔与其他航空器保持距离的做法。这一政策变化源于去年在华盛顿特区附近发生的一起致命空中相撞事故，促使该机构强制要求空中交通管制员现在必须使用雷达来确保安全间隔。 这标志着运行安全政策的一次重大转变，直接影响到繁忙机场的直升机运行和空中交通管制程序。它解决了一个公认的系统性缺陷，即目视间隔准则在防止直升机与固定翼飞机在繁忙的进离场航路上相撞方面被证明是不充分的。 新规定要求空中交通管制员对直升机与飞机之间应用雷达间隔标准，而不是建议飞行员保持目视间隔。这一变化特别针对繁忙机场周边的运行，因为对华盛顿相撞事故的调查发现，此前的航路设计未能提供足够的程序间隔。
 
-rss · NYTimes Politics · Mar 17, 23:38
+rss · NYTimes Politics · Mar 18, 17:00
 
-**背景**: 约翰·科宁是来自德州的美国资深参议员，曾任参议院多数党党鞭，代表共和党内更为传统的建制派。肯·帕克斯顿是现任德州总检察长，是与党内亲特朗普的民粹主义派系结盟的重要人物，尽管面临法律挑战，但在基层选民中仍很受欢迎。当初选没有候选人获得多数选票时，就会举行决选。
+**背景**: 目视间隔是一种空中交通管制程序，管制员向飞行员通报附近交通情况，并授权他们通过目视避让其他航空器来保持间隔。这种做法曾被普遍使用，特别是对于在目视飞行规则（VFR）下运行的直升机。交通告警与防撞系统（TCAS）是一个独立的机载系统，提供告警，但不能防范应答机未工作的航空器，它被视为飞行员警觉性的补充。
 
-**标签**: `#US Politics`, `#Elections`, `#Republican Party`, `#Texas`, `#Primary Elections`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap7_section_2.html">Section 2. Visual Separation - Federal Aviation Administration</a></li>
+<li><a href="https://apnews.com/article/aviation-safety-dc-plane-crash-faa-helicopters-ebab15b224cdb1b9f81665f6bb8f818f">FAA mandates radar separation for helicopters and planes ...</a></li>
+<li><a href="https://www.ntsb.gov/news/press-releases/Pages/NR20260127.aspx">Systemic Failures Led to Midair Collision Over Potomac River ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Aviation Safety`, `#Regulatory Policy`, `#Transportation`, `#FAA`, `#Helicopters`
 
 ---
 
 <a id="item-23"></a>
-## [两党法案提议为外国医护工作者免除 10 万美元 H-1B 签证费](https://www.nytimes.com/2026/03/17/us/politics/h1b-visa-fees-doctors-nurses-waived-bill.html) ⭐️ 6.0/10
+## [参议员马克韦恩·穆林将出席国土安全部部长提名确认听证会](https://www.nytimes.com/2026/03/18/us/politics/markwayne-mullin-homeland-security-confirmation-hearing.html) ⭐️ 6.0/10
 
-美国众议院一个由两名共和党人和两名民主党人组成的跨党派团体提出了一项法案，提议专门为外国医生和护士免除 10 万美元的 H-1B 签证费。这项立法提案旨在通过为寻求雇用国际医疗专业人员的医院和卫生系统消除一个重大的财务障碍，来直接应对美国医疗保健劳动力的严重短缺。 这项法案之所以重要，是因为它针对的是美国医疗保健领域一个持续存在且日益严重的危机——预计医生短缺数量在 37,800 至 124,000 名之间，护士每年缺口超过 177,000 个。通过使医疗保健雇主在经济上能够负担得起赞助 H-1B 签证，该立法可能为填补全国医院和诊所的关键职位提供一个直接、实用的渠道，从而可能改善患者获得医疗服务的机会。 拟议的 10 万美元费用豁免针对性很强，仅适用于医生和护士，而非所有 H-1B 签证类别。这笔费用是由特朗普政府于 2025 年 9 月的一项行政命令设立的，与之前的成本相比大幅增加，从根本上改变了受影响雇主通过 H-1B 计划招聘的经济考量。
+俄克拉荷马州参议员马克韦恩·穆林已被选定接替被罢免的部长克里斯蒂·诺姆，并将于周三出席参议院的确认听证会。此次听证会是任命新任国土安全部部长的关键步骤。 国土安全部部长的确认至关重要，因为该部门负责监管边境安全、移民执法和网络安全等关键领域。此次听证会的结果将决定一个承担广泛国内职责的主要联邦机构的领导层和政策方向。 听证会定于周三举行，穆林需要获得参议院多数批准才能获得确认。作为现任参议员，他的确认过程可能会涉及对其立法记录以及与国土安全相关的政策立场的审查。
 
-rss · NYTimes Politics · Mar 17, 20:17
+rss · NYTimes Politics · Mar 18, 09:03
 
-**背景**: H-1B 签证是一种非移民签证，允许美国公司在需要理论或技术专长的专业职位上雇用外国工人。一项针对某些 H-1B 申请、每位雇员 10 万美元的新费用于 2025 年 9 月下旬生效，极大地增加了雇主的成本。美国面临严重的医疗保健劳动力短缺，预测显示未来十年医生缺口将达到数万名，护士缺口将达到数十万名，这带来了寻找解决方案的压力。
+**背景**: 美国国土安全部成立于 2002 年，是在 9/11 袭击事件后整合了众多联邦机构而设立的。其使命包括预防恐怖主义、保卫边境、执行移民法律和加强网络安全。国土安全部部长是一个内阁级别的职位，由总统提名并经参议院确认。确认听证会是标准流程的一部分，被提名人需要在听证会上回答参议员关于其资格和观点的质询。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nytimes.com/interactive/2025/09/25/business/economy/h1b-visa-fee.html">$100,000 Per Employee: How the H - 1 B Visa Fee Could Reshape Work...</a></li>
-<li><a href="https://healthcareworkforce.org/wp-content/uploads/2024/03/HWC-Number-Stats-Mar2024_FINAL.pdf">AMERICA’S HEALTHCARE WORKFORCE BY THE NUMBERS</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Immigration Policy`, `#Healthcare Workforce`, `#Legislation`, `#Bipartisan`, `#Visa Reform`
+**标签**: `#US Politics`, `#Cabinet Appointments`, `#Homeland Security`, `#Confirmation Hearings`, `#Government`
 
 ---
 
 <a id="item-24"></a>
-## [瑞士央行将展示遏制瑞郎升值的决心，料避免重返负利率](https://www.bloomberg.com/news/articles/2026-03-18/snb-interest-rate-decision-central-bank-to-reveal-its-resolve-on-franc-strength) ⭐️ 6.0/10
+## [特朗普接管一年后，美国和平研究所已沦为摆设](https://www.nytimes.com/2026/03/17/us/politics/institute-of-peace-trump.html) ⭐️ 6.0/10
 
-瑞士国家银行（SNB）预计将在其即将公布的政策决议中，展示其遏制瑞郎升值的承诺，分析师普遍预期它将避免重新采取负利率这一更为激进的措施。该央行的汇率干预立场将成为此次声明的焦点。 这一决定至关重要，因为强势瑞郎会提高瑞士出口商品在国外的价格，损害出口商利益，并可能抑制通胀，使瑞士央行的货币政策目标复杂化。该行选择的工具表明，它有信心通过负利率这一非常规且有争议的政策之外的手段来管理汇率压力，这将影响全球外汇市场对避险资产的看法。 瑞士央行此前曾在 2011 年至 2015 年间维持瑞郎/欧元汇率上限，之后认为该政策不再必要而放弃。尽管该行从 2021 年中开始允许瑞郎一定程度升值以抑制输入性通胀，但其近期活动表明，它现在可能进行干预以防止瑞郎过度走强，这标志着单边升值压力的局面已经改变。
+美国和平研究所（USIP）前员工提起的诉讼仍在进行中，这凸显了在特朗普政府时期的人事和政策变动后，该机构的角色和运作已严重萎缩。这个曾经活跃于冲突地区和政策分析的机构，如今已基本丧失原有功能。 这一案例说明了特朗普政府外交政策方针对机构产生的持久影响，该方针常常将传统外交与和平建设机构边缘化，转而优先考虑其他事项。这是一个具体例证，表明行政决策如何掏空政府附属组织，并可能影响美国预防和解决冲突的能力。 诉讼的核心指控涉及政府的成本削减措施及其偏离 USIP 核心和平建设使命的转变。该研究所位于华盛顿特区国家广场的显赫总部大楼，如今已成为其运作角色被削弱的象征性标志。
 
-rss · Bloomberg Markets · Mar 18, 05:15
+rss · NYTimes Politics · Mar 18, 15:51
 
-**背景**: 瑞士法郎被视为避险货币，这意味着其价值通常在全球经济不确定性时期上升。瑞士国家银行有干预外汇市场以管理瑞郎价值的历史，曾著名地实施了对欧元的汇率上限政策多年。负利率政策（NIRP）是一种非常规工具，央行将政策利率设定在零以下以刺激贷款和经济活动，瑞士央行过去曾使用过该工具，但在全球通胀上升后已退出。
+**背景**: 美国和平研究所（USIP）是一个由国会于 1984 年成立的联邦资助机构。其使命是通过研究、分析、教育、培训以及直接参与冲突地区事务，来预防、缓解和解决国际暴力冲突。USIP 所代表的传统和平建设方法，通常涉及包括高层外交、中层机构工作和基层社区倡议在内的多层次参与。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.snb.ch/en/snb-explained/swiss-franc">What determines the Swiss franc exchange rate? - SNB</a></li>
-<li><a href="https://sgp.fas.org/crs/misc/IN10230.pdf">The Swiss National Bank's Recent Currency Actions</a></li>
-<li><a href="https://www.investopedia.com/terms/n/negative-interest-rate-policy-nirp.asp">Understanding Negative Interest Rate Policy: Definition ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/United_States_Institute_of_Peace">United States Institute of Peace - Wikipedia</a></li>
+<li><a href="https://www.usip.org/sites/default/files/files/About-USIP.pdf">About USIP - United States Institute of Peace</a></li>
+<li><a href="https://egyankosh.ac.in/bitstream/123456789/63389/2/Unit-14.pdf">Approaches to Peacebuilding - eGyanKosh</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Central Banks`, `#Monetary Policy`, `#Swiss Franc`, `#Currency Markets`, `#Interest Rates`
+**标签**: `#U.S. Politics`, `#Foreign Policy`, `#Government Institutions`, `#Administrative Legacy`, `#Legal Challenges`
 
 ---
 
 <a id="item-25"></a>
-## [韩国禁止关联公司双重上市以提升股东价值](https://www.bloomberg.com/news/articles/2026-03-18/korea-to-ban-double-listing-of-affiliates-to-boost-market-value) ⭐️ 6.0/10
+## [摩根大通 Michele 解读美联储信号：对油价和地缘政治风险“无需担忧”](https://www.bloomberg.com/news/articles/2026-03-18/jpmorgan-s-michele-says-fed-sent-don-t-worry-about-it-message) ⭐️ 6.0/10
 
-韩国金融服务委员会主席李亿远于周三宣布了新规，限制已上市的母公司将其子公司上市。这一监管举措立即引发了市场反弹，基准 Kospi 指数飙升 5%，并连续第三个交易日延续涨势。 此事意义重大，因为关联公司双重上市的做法长期以来被批评为稀释股东价值，并使得财阀内部的控制家族能够以牺牲少数股东利益为代价提取价值。这项禁令是韩国持续进行的公司治理改革中的重要一步，旨在通过与国际标准接轨，使其股票市场对全球投资者更具吸引力。 新规意味着，如果一家公司希望继续进行双重上市，它必须准备措施以确保所有股东得到公平对待。分析师，如斐波那契资产管理全球公司的首席执行官 Jung In Yun 认为，这一限制可能会导致更少的优质业务部门被分拆为独立的上市实体。
+摩根大通资产管理首席投资官 Bob Michele 表示，美联储近期的沟通向市场传递了一个安抚性的“无需担忧”信号，旨在缓解市场对伊朗冲突引发的油价飙升和地缘政治风险加剧的忧虑。 这一解读之所以重要，是因为它反映了大型机构投资者如何解析央行信号，以评估其对突发外部冲击的政策反应。这表明美联储当前可能优先考虑市场稳定，不太可能因暂时的商品价格波动而改变其货币政策路径，这会影响更广泛的投资策略和资产价格。 该评论是基于对美联储信号的解读，而非正式的政策声明，仅代表一位有影响力的分析师的观点。其背景具体涉及对油价飙升和伊朗冲突的担忧，这些都是典型的地缘政治风险来源，可能推高通胀预期。
 
-rss · Bloomberg Markets · Mar 18, 05:39
+rss · Bloomberg Markets · Mar 18, 18:30
 
-**背景**: 在韩国，被称为'财阀'（如三星或现代）的大型家族控制企业集团通常由多个公开上市的关联公司组成。'双重上市'或'母子公司上市'指的是已上市母公司的子公司也进行上市的做法。批评者认为，这种复杂的交叉持股结构可能掩盖真实价值、巩固控制权，并导致做出有利于控股股东而非少数投资者的决策。全球监管机构一直在推动更简单的公司结构，以提高透明度和治理水平。
+**背景**: 美联储（Fed）是美国的中央银行，其沟通信息被市场仔细审视，以寻找未来利率和货币政策决策的线索。地缘政治事件，特别是在中东等产油区，可能导致油价波动，央行会对此进行监控，因为它会影响通胀和经济增长。摩根大通是美国最大的银行，其资产管理部门的观点在金融市场具有重要影响力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://financialpost.com/pmn/business-pmn/korea-to-ban-double-listing-of-affiliates-to-boost-market-value">Korea to Ban Double Listing of Affiliates to Boost Market Value</a></li>
-<li><a href="https://www.theedgesingapore.com/news/markets/south-korean-stocks-extend-gains-after-move-ban-double-listings">South Korean stocks extend gains after move to ban double ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Chaebol">Chaebol - Wikipedia</a></li>
+<li><a href="https://www.ecb.europa.eu/press/economic-bulletin/focus/2024/html/ecb.ebbox202308_02~ed883ebf56.en.html">Geopolitical risk and oil prices - European Central Bank</a></li>
+<li><a href="https://en.wikipedia.org/wiki/JPMorgan_Chase">JPMorgan Chase - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Financial Regulation`, `#Corporate Governance`, `#Emerging Markets`, `#Equity Markets`, `#South Korea`
+**标签**: `#Federal Reserve`, `#Monetary Policy`, `#Market Commentary`, `#Geopolitical Risk`, `#Oil Prices`
 
 ---
 
 <a id="item-26"></a>
-## [金价持稳于 5000 美元附近，交易员权衡美联储降息路径与地缘政治风险](https://www.bloomberg.com/news/articles/2026-03-17/gold-holds-steady-near-5-000-as-traders-weigh-fed-rate-cut-path) ⭐️ 6.0/10
+## [联合利华据称正考虑分拆其食品业务](https://www.bloomberg.com/news/videos/2026-03-18/unilever-to-consider-potential-separation-of-food-video) ⭐️ 6.0/10
 
-金价在一个狭窄区间内交易，稳定在每盎司 5000 美元附近，市场参与者正在评估美联储潜在的降息路径与中东持续冲突引发的通胀压力之间的相互作用。 这很重要，因为金价在历史高位保持稳定，反映了金融市场在货币政策预期与地缘政治不确定性之间的一种关键平衡。这表明投资者正利用黄金来对冲潜在的经济宽松政策和冲突引发的通胀。 关键细节是每盎司 5000 美元这一具体价格水平，它代表了黄金市场一个重要的心理和技术门槛。消息强调价格波动被限制在一个狭窄区间内，表明交易员正处于一段盘整和犹豫不决的时期。
+据知情人士透露，联合利华正处于考虑分拆其食品资产（包括 Hellmann's 蛋黄酱等品牌）的早期阶段。此举是该公司战略的一部分，旨在更加专注于其美容、个人护理和健康品牌。 这一潜在的分拆可能导致全球最大的消费品公司之一进行重大重组，影响其投资组合战略，并可能创建一个新的独立食品实体。这标志着联合利华向美容和健康等高增长、高利润类别的战略转变，可能会影响整个消费品行业的关注重点。 相关考虑被描述为处于“早期阶段”，这意味着尚未做出最终决定，任何潜在分拆的确切结构仍不清楚。该报道源自彭博社这一可信的财经新闻来源，但基于匿名消息人士，凸显了信息的初步性和推测性。
 
-rss · Bloomberg Markets · Mar 17, 22:28
+rss · Bloomberg Markets · Mar 18, 18:52
 
-**背景**: 黄金是一种传统的避险资产，其价格通常与实际利率和美元走势呈反向关系。美联储的利率决策直接影响持有黄金等非收益资产的机会成本。中东冲突等地缘政治紧张局势，会因市场对通胀和动荡的担忧而推高作为价值储存手段的黄金需求。
+**背景**: 联合利华是一家英荷跨国消费品公司，拥有庞大的食品、饮料、家居护理以及美容与个人护理产品组合。该公司一直面临来自投资者的压力，要求其改善增长和股东回报，这导致了先前的战略审查和投资组合调整。分拆增长较慢的食品部门以专注于美容等增长更快的领域，是释放股东价值的常见企业战略。
 
-**标签**: `#Commodities`, `#Monetary Policy`, `#Geopolitical Risk`, `#Financial Markets`, `#Inflation`
+**标签**: `#Corporate Strategy`, `#M&A`, `#Consumer Goods`, `#Business Restructuring`, `#Market News`
 
 ---
 
 <a id="item-27"></a>
-## [伊拉克与库尔德斯坦签署管道出口协议后油价下跌](https://www.bloomberg.com/news/articles/2026-03-17/latest-oil-market-news-and-analysis-for-march-18) ⭐️ 6.0/10
+## [资深银行家表示，伊朗冲突可能推迟并购交易时间表，但不会终止整体活动](https://www.bloomberg.com/news/articles/2026-03-18/iran-war-may-delay-deal-timelines-not-derail-m-a-mcmaster-says) ⭐️ 6.0/10
 
-伊拉克与库尔德斯坦地区政府签署协议，将通过土耳其恢复管道石油出口，此举导致油价下跌。与此同时，美国加大了外交压力，要求重新开放全球关键的石油运输咽喉要道——霍尔木兹海峡。 这项协议之所以重要，是因为它为伊拉克提供了一条绕过局势动荡的霍尔木兹海峡的替代出口路线，可能增强地区能源安全和出口灵活性。这一进展，加上美国的外交努力，预示着历史上支撑高油价的供应路线限制可能得到缓解。 所涉及的具体管道是基尔库克-杰伊汉路线，它为伊拉克提供了直接进入地中海市场的通道。此前，库尔德当局曾以未解决的安全和经济挑战为由，拒绝允许联邦政府通过其管道基础设施出口石油，该协议正是在此紧张局势之后达成的。
+Lazard Inc.的全球并购业务主管表示，尽管与伊朗的潜在冲突可能延缓交易完成的时间表，但不太可能显著减少整体并购活动。这一评估来自一家主要金融机构的资深投资银行家。 这一观点很重要，因为它为市场参与者提供了关于地缘政治紧张局势如何影响企业交易的见解，表明即使在潜在冲突期间，并购活动也具有韧性。这有助于投资者和公司判断是否继续推进交易或调整时间预期。 该分析是推测性的，且以潜在冲突发生为前提条件，特别关注时间延迟而非交易取消。消息来源是 Lazard（一家在交易咨询方面经验丰富的主要投资银行）的资深并购银行家。
 
-rss · Bloomberg Markets · Mar 17, 22:03
+rss · Bloomberg Markets · Mar 18, 18:15
 
-**背景**: 霍尔木兹海峡是全球最重要的石油通道，是阿拉伯湾和阿曼湾之间的咽喉要道。全球约六分之一的石油产量和三分之一的液化天然气贸易需要通过这条仅 39 公里宽的海峡。土耳其因其战略位置已成为关键的能源转运枢纽，巴库-第比利斯-杰伊汉（BTC）等管道促进了东西向的石油流动，其海峡则处理着大量的南北向油轮运输。
+**背景**: 并购（M&A）指的是通过各种金融交易整合公司或资产。地缘政治风险，例如国家间的潜在冲突，可能造成市场不确定性，从而影响交易时间表、估值和融资条件。像 Lazard 这样的投资银行为公司提供并购交易咨询，使其资深银行家的观点在金融市场中具有影响力。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.aljazeera.com/economy/2019/7/11/why-is-the-strait-of-hormuz-so-strategically-important">Why is the Strait of Hormuz so strategically important ? | Al Jazeera</a></li>
-<li><a href="https://discoveryalert.com.au/geopolitical-chess-regional-infrastructure-energy-security-2026/">Iraq Eyes Ceyhan Pipeline as Export Route Alternative</a></li>
-<li><a href="https://www.meforum.org/middle-east-quarterly/turkey-at-the-energy-crossroads">Turkey at the Energy Crossroads - Middle East Forum Oil in Turkey - Wikipedia Turkey's quest to become a regional energy hub: Challenges ... Top Stories Overview of Industry Oil and Gas in Turkey & Developments How Turkey Turned Russian Sanctions into an Energy Empire Turkey 's quest to become a regional energy hub: Challenges and Country Analysis Brief: Turkey - U.S. Energy Information Administration Country Analysis Brief: Turkey - U.S. Energy Information Administration Overview of Industry Oil and Gas in Turkey & Developments How will the Hormuz Strait crisis impact Turkey?</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Energy Markets`, `#Geopolitics`, `#Middle East`, `#Oil Exports`, `#Trade Routes`
+**标签**: `#Geopolitical Risk`, `#Mergers and Acquisitions`, `#Investment Banking`, `#Market Sentiment`, `#Iran`
 
 ---
 
 <a id="item-28"></a>
-## [高盛预测印度卢比可能在一年内跌至 95 卢比兑 1 美元。](https://www.bloomberg.com/news/articles/2026-03-18/goldman-sees-india-rupee-sliding-to-95-putting-pressure-on-rbi) ⭐️ 6.0/10
+## [彭博《Deals》节目邀请行业领袖探讨区域性银行并购活动](https://www.bloomberg.com/news/videos/2026-03-18/bloomberg-deals-3-18-2026-video) ⭐️ 6.0/10
 
-高盛集团印度首席经济学家预测，受伊朗冲突引发的经济后果影响，印度卢比在未来一年内可能贬值至 95 卢比兑 1 美元。这一预测意味着，如果通胀因此加速，印度储备银行（RBI）将面临采取行动的压力。 这一预测之所以重要，是因为卢比若大幅贬值至 95，将意味着从当前水平显著走弱，可能通过提高石油等进口成本而输入通胀。它凸显了中东地缘政治风险如何直接威胁主要新兴市场货币的稳定，并迫使央行在支持增长和控制通胀之间做出艰难的政策选择。 该预测与伊朗冲突引发的后果直接相关，这场冲突已引发广泛的风险重估和新兴市场的资本外流。对印度储备银行的压力主要将在货币贬值导致通胀显著抬头时显现，届时央行可能需要动用其货币政策工具来应对。
+彭博于 2026 年 3 月 18 日播出的每周节目《Deals》围绕区域性银行领域的并购与交易活动进行了专题讨论。节目嘉宾包括 KBW 总裁兼首席执行官 Tom Michaud、Key Institutional Bank 总裁 Randy Paine、麦肯锡高级合伙人 Amit Garg、Andreessen Horowitz 普通合伙人 Angela Strange 以及 Lincoln International 首席执行官 Rob Brown。 此次讨论提供了关于塑造金融格局关键趋势的专家见解，因为区域性银行的整合会影响市场竞争、企业和消费者的信贷获取以及银行体系的整体稳定性。来自专业投行人士、主要区域性银行高管及咨询顾问的观点，全面揭示了当前并购活动的驱动因素及其潜在影响。 该节目是一个定期的、由编辑驱动的午间节目，专注于全球范围内具有重大影响的企业交易。嘉宾中包括专门从事私募资本市场并购咨询的 Lincoln International，以及专注于金融服务领域的投行 KBW，这表明节目对银行交易的技术性和行业特定层面进行了深入探讨。
 
-rss · Bloomberg Markets · Mar 18, 06:10
+rss · Bloomberg Markets · Mar 18, 18:05
 
-**背景**: 印度储备银行（RBI）使用政策利率、公开市场操作（OMOs）和存款准备金率等工具来管理货币政策，以控制通胀并确保金融稳定。伊朗战争等地缘政治冲突，会通过引发投资者的风险规避情绪来影响新兴市场货币，导致资本外流和货币贬值。本币走弱通常会使进口商品更加昂贵，从而可能推高通胀，给央行制造棘手的局面。
+**背景**: 区域性银行是在特定地理区域运营的金融机构，其规模大于社区银行但小于全国性的大型货币中心银行。银行业的并购是指一家银行收购或与另一家银行合并的战略性交易，其驱动因素通常包括实现规模经济、扩大地理覆盖范围或获取市场份额。像 Keefe, Bruyette & Woods (KBW) 这样的公司是知名的投资银行，专门为金融服务行业内的此类交易提供咨询。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.rbi.org.in/scripts/Annualpolicy.aspx">Monetary Policy - Reserve Bank of India</a></li>
-<li><a href="https://www.tcxfund.com/wp-content/uploads/2026/03/TCX-Spotlight-Iran-War.pdf">TCX Spotlight: The Iran War and Emerging Market Currencies</a></li>
-<li><a href="https://www.investopedia.com/ask/answers/022415/how-does-inflation-affect-exchange-rate-between-two-nations.asp">Inflation 's Impact on Exchange Rates: Understanding the Dynamics</a></li>
+<li><a href="https://www.housingwire.com/company/keefe-bruyette-woods/">Keefe , Bruyette & Woods - HousingWire</a></li>
+<li><a href="https://www.lincolninternational.com/people/kunal-kalra/">Kunal Kalra - Lincoln International LLC</a></li>
+<li><a href="https://www.key.com/businesses-institutions/index.html">Businesses & Institutions | Key</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Foreign Exchange`, `#Monetary Policy`, `#Geopolitical Risk`, `#Economic Forecast`, `#Emerging Markets`
+**标签**: `#Banking`, `#Mergers & Acquisitions`, `#Financial Markets`, `#Corporate Finance`
 
 ---
 
 <a id="item-29"></a>
-## [一艘俄罗斯油轮在航行途中从中国改道驶往印度](https://www.bloomberg.com/news/articles/2026-03-18/russian-oil-bound-for-china-is-diverted-as-india-grabs-more) ⭐️ 6.0/10
+## [Fisher Sand & Gravel 通过支持特朗普移民议程赢得超 80 亿美元政府合同](https://www.bloomberg.com/news/videos/2026-03-18/sand-and-gravel-firm-is-big-winner-of-immigration-spend-video) ⭐️ 6.0/10
 
-一艘载有俄罗斯原油的油轮在南中国海掉头，将其目的地从中国改为印度。此次改道发生在印度加大从俄罗斯进口石油力度之际。 这一单次货物改道是西方制裁下全球能源贸易流持续调整的一个具体信号。它突显了印度持续战略性地采购打折的俄罗斯石油，并暗示中国进口模式可能出现重新校准，从而影响全球石油市场动态。 此次改道发生在该船已航行于南中国海这一全球关键航道途中。作为一个孤立事件，在未确认更广泛的贸易流转变趋势之前，其直接的系统性影响有限。
+自 2025 年 7 月以来，砂石骨料公司 Fisher Sand & Gravel 通过积极支持并受益于特朗普政府的移民政策议程，已获得超过 80 亿美元的美国政府合同。该公司与"MAGA 移民议程"的结盟，使其成为相关联邦基础设施支出的主要受益者。 这一案例说明了特定的企业政治结盟如何能通过政府采购转化为巨大的经济利益，尤其是在移民执法和边境安全等政治敏感的政策领域。它凸显了政策执行、联邦支出和私营部门战略的交汇点，引发了关于公共资金分配以及政治关联合同可能性的讨论。 该公司最近的合同包括 2025 年 6 月获得的一份价值 3.09 亿美元的合同，用于在亚利桑那州建造约 27 英里的新边境墙。Fisher Sand & Gravel 有参与边境墙项目的历史，并且此前曾因其政府合同和私人边境墙建设努力而面临法律挑战。
 
-rss · Bloomberg Markets · Mar 18, 06:06
+rss · Bloomberg Markets · Mar 18, 16:46
 
-**背景**: 自俄罗斯入侵乌克兰以来，以美国为首的西方国家对俄罗斯能源部门实施了不断升级的制裁，包括在 2025 年底针对俄罗斯石油公司（Rosneft）和卢克石油公司（Lukoil）等主要石油企业。这些制裁旨在限制俄罗斯的石油收入，但也重塑了全球石油贸易，印度和中国成为打折俄罗斯原油的主要买家。南中国海是全球能源运输的重要海上通道，连接着中东和非洲的主要生产国与东北亚的大型消费国。
+**背景**: 特朗普总统领导下的"MAGA 移民议程"侧重于强硬的执法，包括大规模驱逐和扩大边境墙建设，并有大量联邦支出作为支持。在特朗普政府领导下，移民执法支出大幅增加，部分资金来自重大的税收和支出削减法案。Fisher Sand & Gravel 是一家历史悠久的建筑材料公司，此前在特朗普的第一个任期内曾因边境墙建设获得数十亿美元的合同，并以此经验作为进一步获取政府项目的平台。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://home.treasury.gov/news/press-releases/sb0290">Treasury Sanctions Major Russian Oil Companies, Calls on ...</a></li>
-<li><a href="https://www.reuters.com/business/energy/western-sanctions-russia-iran-energy-trade-2025-11-27/">Western sanctions on Russia, Iran energy trade | Reuters</a></li>
-<li><a href="https://en.wikipedia.org/wiki/South_China_Sea">South China Sea - Wikipedia</a></li>
+<li><a href="https://www.businessinsider.com/how-fisher-sand-gravel-secured-2bn-trump-border-wall-contracts-2020-10">How Fisher Sand & Gravel Secured $2bn Trump Border-Wall Contracts</a></li>
+<li><a href="https://www.valleynewslive.com/2026/02/03/dickinson-company-sues-federal-government-63m-unpaid-border-wall-work/">Dickinson company sues Federal Government for $6.3M in unpaid...</a></li>
+<li><a href="https://www.pbs.org/newshour/nation/trumps-ice-force-is-sweeping-america-billions-in-his-tax-and-spending-cuts-bill-are-paying-for-it">Trump's ICE force is sweeping America. Billions in his tax ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Energy Markets`, `#Geopolitics`, `#International Trade`, `#Russia Sanctions`, `#Supply Chains`
+**标签**: `#Government Contracts`, `#Immigration Policy`, `#Fiscal Policy`, `#Corporate Strategy`, `#Infrastructure`
 
 ---
 
 <a id="item-30"></a>
-## [欧盟委员会主席将访问澳大利亚，贸易协定谈判进入最后阶段](https://www.bloomberg.com/news/articles/2026-03-18/eu-leader-will-visit-australia-next-week-as-trade-deal-looms) ⭐️ 6.0/10
+## [过去 20 年影响退休福利的六大社保政策变化](https://www.marketwatch.com/story/the-6-biggest-changes-to-social-security-over-the-past-20-years-that-affect-how-much-money-youll-get-in-retirement-28f35e1b?mod=mw_rss_topstories) ⭐️ 6.0/10
 
-澳大利亚总理安东尼·阿尔巴尼斯宣布，欧盟委员会主席乌尔苏拉·冯德莱恩将于下周访问澳大利亚。此次访问是在冯德莱恩表示欧盟与澳大利亚之间的贸易协定谈判已进入"最后阶段"几天后进行的。 此次高层外交访问标志着一项重要的双边贸易协定即将完成，这可能重塑两大经济体之间的经济联系。最终达成的协议将减少贸易壁垒，增加企业的市场准入，并加强欧洲与印太地区之间的地缘政治合作。 该消息由澳大利亚总理安东尼·阿尔巴尼斯宣布，表明此次访问对两国政府都至关重要。这份简短的公告没有提供访问的具体日期，也没有说明剩余谈判障碍的细节。
+MarketWatch 的一篇文章概述了过去 20 年中实施的六项重大社会保障政策变化，这些变化直接影响美国人退休后将获得的金额。这些变化包括最高福利增加了 103%，但也突显了该计划面临的日益严峻的财务挑战。 这些政策转变之所以重要，是因为社会保障是大多数美国人的主要退休收入来源，影响着数百万当前和未来退休人员的财务安全。了解这些变化有助于个人更好地规划退休生活，并突显了系统性的压力，未来可能需要立法行动来确保该计划的偿付能力。 文章特别指出，在此期间社会保障最高福利增加了 103%，这对高收入者来说是一个关键的积极成果。然而，文章也警告该计划未来将面临'黑暗的日子'，指的是预计的资金短缺问题，如果不加以解决，可能会威胁到未来的福利水平。
 
-rss · Bloomberg Markets · Mar 18, 06:00
+rss · MarketWatch Top Stories · Mar 18, 19:32
 
-**背景**: 欧盟和澳大利亚就一项全面的自由贸易协定（FTA）已谈判数年。此类协定旨在消除或减少签署国之间的关税、配额和其他贸易壁垒。欧盟是澳大利亚最大的贸易伙伴之一，一项协议将涵盖农业、服务和数字贸易等领域。
+**背景**: 社会保障是美国的一项联邦计划，提供退休、残疾和遗属福利，资金主要来自工资税。由于人口结构变化，如人口老龄化和工作者与受益者比率下降，该计划长期面临财务担忧。多年来的政策变化，例如调整完全退休年龄和对福利征税，旨在解决其财务可持续性问题。
 
-**标签**: `#Trade Policy`, `#EU-Australia Relations`, `#Diplomacy`, `#Economic Agreements`
+**标签**: `#Social Security`, `#Retirement Policy`, `#Public Finance`, `#Personal Finance`, `#U.S. Economy`
 
 ---
 
 <a id="item-31"></a>
-## [观点：尽管霍尔木兹海峡局势紧张，市场仍展现韧性](https://www.bloomberg.com/opinion/newsletters/2026-03-18/iran-war-investors-can-handle-what-s-happening-in-hormuz) ⭐️ 6.0/10
+## [体育博彩丑闻频发，业界呼吁设立独立诚信专员以保护 1650 亿美元市场](https://www.marketwatch.com/story/wave-of-sports-betting-scandals-proves-the-need-for-an-independent-watchdog-to-protect-a-165-billion-market-08b15d7d?mod=mw_rss_topstories) ⭐️ 6.0/10
 
-彭博社于 2026 年 3 月 18 日发表的一篇观点文章认为，尽管霍尔木兹海峡存在地缘政治紧张局势和军事意外，但股票市场仍保持了韧性。该分析指出，即使在这种动荡的环境中，企业盈利预测仍在支撑股价。 这很重要，因为它挑战了关于关键石油运输咽喉要道的地缘政治危机会自动引发持续市场恐慌的传统观点。该分析表明，在驱动投资者决策时，企业盈利等基本面业绩指标目前可能比地缘政治风险溢价更重要，这可能会影响投资者和政策制定者对未来危机的评估方式。 这篇文章明确是一篇观点文章，其重点在于市场韧性，而非报道新的军事或政治事态发展。其核心论点是，市场对盈利的关注迄今为止起到了缓冲作用，抵御了此类地缘政治事件通常产生的负面情绪。
+近期一系列体育博彩丑闻和不断增加的起诉，已导致球迷和投资者对该市场严重丧失信任。作为回应，一项提案已经出现，即由职业体育联盟出资设立一个独立的体育诚信专员办公室，以恢复市场信心。 此事至关重要，因为价值 1650 亿美元的体育博彩市场的增长和合法性，完全依赖于公众对其公平性的信任。若缺乏有效监督，丑闻可能重创该行业，阻碍投资，并引发各州监管机构更严格、可能具有破坏性的打击。 提议中的诚信专员将由联盟出资，但独立运作，这种结构旨在避免利益冲突。监管改革的势头正在增强，具体讨论包括对球员 prop bets（球员表现投注）实施更严格的限制，这类投注是近期丑闻的焦点。
 
-rss · Bloomberg Markets · Mar 18, 04:00
+rss · MarketWatch Top Stories · Mar 18, 19:03
 
-**背景**: 霍尔木兹海峡是波斯湾和阿曼湾之间的狭窄海上通道，全球约五分之一的石油海运贸易需经由此地。涉及伊朗及其他地区大国的地缘政治紧张局势历来对这一至关重要的航运通道构成风险，可能扰乱全球能源供应并引发市场波动。投资者情绪通常对该地区的事件反应剧烈，这在过去的油轮扣押事件或航行威胁中都有体现。
+**背景**: 在美国，体育博彩在 2018 年之前基本在联邦层面被禁止。2018 年，最高法院对 Murphy 诉 NCAA 一案的裁决推翻了《职业与业余体育保护法案》（PASPA）。这项裁决允许各州自行将体育博彩合法化并加以监管，导致市场迅速扩张；目前已有 33 个州和华盛顿特区将其合法化。监管主要由州一级负责，北美有超过 35 个监管机构在体育博彩监管协会等伞形组织下运作。
 
-**标签**: `#Geopolitical Risk`, `#Financial Markets`, `#Middle East`, `#Investor Sentiment`, `#Market Analysis`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.morningstar.com/news/marketwatch/20260318193/wave-of-sports-betting-scandals-proves-the-need-for-an-independent-watchdog-to-protect-a-165-billion-market">Wave of sports-betting scandals proves the need for an ...</a></li>
+<li><a href="https://law.vanderbilt.edu/the-evolving-landscape-of-sports-betting-regulation/">The Evolving Landscape of Sports Betting Regulation -</a></li>
+<li><a href="https://sportsbettingregulators.com/">Home [sportsbettingregulators.com]</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Sports Betting`, `#Market Regulation`, `#Financial Markets`, `#Consumer Protection`, `#Corporate Governance`
 
 ---
 
 ## 科技
 
 <a id="item-32"></a>
-## [英伟达在 GTC 2026 发布 Vera CPU、NemoClaw AI 平台和 DLSS 5](https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/) ⭐️ 9.0/10
+## [图灵奖授予量子密码学先驱 Bennett 和 Brassard](https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html) ⭐️ 9.0/10
 
-在 GTC 2026 开发者大会上，英伟达发布了三大主要产品：面向数据中心的 Vera CPU 架构、开源的 NemoClaw 企业级 AI 智能体平台，以及用于游戏的 DLSS 5 神经渲染技术。Vera CPU 是一款基于 Arm 的 88 核设计，NemoClaw 支持安全地部署 AI 智能体，而 DLSS 5 则引入了实时神经渲染模型以实现电影级视觉效果。 这些发布标志着英伟达将其影响力从 GPU 显著扩展至高性能 CPU 和企业 AI 软件领域，巩固了其作为全栈计算公司的地位。Vera CPU 直接挑战传统的数据中心 CPU 供应商，NemoClaw 旨在为企业级安全 AI 智能体部署设定标准，而 DLSS 5 则可能为整个游戏行业重新定义实时图形保真度。 据报道，Vera CPU 能使软件环境的运行速度提升高达 50%，效率是传统 CPU 基础设施的两倍。DLSS 5 的'电影'模式利用 AI 为像素注入逼真的光照和材质，据报道已引发部分玩家的不满，他们担心这会改变游戏原有的艺术意图。
+Charles Bennett 和 Gilles Brassard 因其在 1984 年发明的量子密码学基础协议——BB84 协议，获得了 2026 年计算机科学最高荣誉图灵奖。这一认可距离他们开创这一全新安全通信领域已过去数十年。 该奖项肯定了这项理论工作的深远、长期影响，它为信息安全领域的范式转变奠定了基础。它突显了为后量子计算时代（届时传统加密方法可能变得脆弱）做准备的重要性日益增长。 BB84 协议是一种量子密钥分发方案，它使通信双方能够生成共享密钥，其安全性基于不可克隆定理等基本量子原理。其实际安全性依赖于完美的实现和一个经过认证的经典信道，并且它仍然容易受到利用非量子实现缺陷的侧信道攻击。
 
-rss · CNET News · Mar 17, 21:15
+rss · NYTimes Technology · Mar 18, 12:19
 
-**背景**: 英伟达的 GTC（GPU 技术大会）是其发布 AI、图形和高性能计算新产品的首要活动。DLSS（深度学习超级采样）是英伟达基于 AI 的升频和帧生成技术，已成为 PC 游戏中的标配。英伟达的 NeMo 是一个用于构建、定制和部署大语言模型的框架，该公司一直在通过 NIM（英伟达推理微服务）等工具扩展其企业 AI 部署的软件生态系统。
+**背景**: 图灵奖常被称为“计算机界的诺贝尔奖”。量子密码学，特别是量子密钥分发，利用量子力学原理（如叠加态和观测者效应）来实现安全通信。与依赖于数学问题计算难度的经典公钥密码学不同，QKD 提供了基于物理定律的信息论安全性，这意味着任何窃听尝试都必然会干扰量子态并被检测到。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/vera-cpu/">Next Gen Data Center CPU - NVIDIA Vera</a></li>
-<li><a href="https://www.nvidia.com/en-us/ai/nemoclaw/">Safer AI Agents & Assistants with OpenClaw | NVIDIA NemoClaw</a></li>
-<li><a href="https://www.nvidia.com/en-us/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/">NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BB84_protocol">BB84 protocol</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quantum_key_distribution">Quantum key distribution</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quantum_information_theory">Quantum information theory</a></li>
 
 </ul>
 </details>
 
-**标签**: `#hardware`, `#artificial-intelligence`, `#gpu`, `#nvidia`, `#deep-learning`
+**标签**: `#cryptography`, `#quantum-computing`, `#awards`, `#security`, `#theory`
 
 ---
 
 <a id="item-33"></a>
-## [Nvidia GTC 2026 主题演讲发布 Vera Rubin AI 平台及多项 AI/机器人技术进展](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/) ⭐️ 9.0/10
+## [俄罗斯黑客正通过网页浏览，利用 DarkSword iOS 18 漏洞链攻击 iPhone。](https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/) ⭐️ 9.0/10
 
-在 GTC 2026 主题演讲中，Nvidia CEO 黄仁勋发布了 Vera Rubin 平台，这是该公司下一代定制 AI 加速器，现已全面投产，接替 Blackwell 架构。这场超过两小时的演讲还发布了与 AI 工厂、智能体 AI、物理 AI 和机器人相关的公告，包括公司与 AI 推理芯片设计商 Groq 的收购式招聘协议。 Nvidia 的 GTC 主题演讲是行业顶级盛会，常常为 AI 和加速计算设定方向，因此其公告对开发者、研究人员和商业领袖至关重要。Vera Rubin 平台的发布以及对 AI 工厂和智能体系统的关注，标志着 Nvidia 旨在主导下一阶段 AI 基础设施和物理 AI 应用的战略。 Vera Rubin 平台被描述为本次主题演讲的硬件核心，其性能指标对 AI 数据中心市场具有变革性意义。演讲还涵盖了从加速计算、开放模型到智能体系统和物理 AI 的完整 AI 技术栈，反映了 Nvidia 正在构建超越硬件的更广泛生态系统。
+一个名为 DarkSword 的复杂 iOS 漏洞链被发现正被俄罗斯黑客积极利用，攻击至少从 2025 年 11 月开始。该攻击仅需用户访问恶意网站，即可完全控制运行 iOS 18.4 至 18.7 版本的 iPhone。 这对 iOS 系统是一次重大的安全漏洞，因为它允许攻击者通过网页浏览这种常见行为远程控制数亿台设备。该漏洞链已被国家背景的黑客用于真实攻击，这极大地提升了威胁等级，要求用户立即采取行动并安装补丁。 该漏洞链利用了多个零日漏洞来实现对设备的完全控制。苹果已在 iOS 26.3 中发布了针对这些漏洞的补丁，这意味着运行未打补丁的旧版 iOS 18 的设备仍然面临风险。
 
-rss · CNET News · Mar 17, 21:00
+rss · WIRED · Mar 18, 14:00
 
-**背景**: NVIDIA GTC（GPU 技术大会）是该公司顶级的全球 AI 会议，通常在此发布主要产品公告和技术路线图。CEO 黄仁勋的年度主题演讲是备受期待的活动，以展示影响整个科技行业的 AI、机器人和加速计算领域的突破而闻名。在 Vera Rubin 之前的旗舰架构是 Blackwell，而 Blackwell 本身又接替了 Hopper 架构。
+**背景**: 零日漏洞是软件供应商尚未知晓且没有补丁的软件缺陷，因此对攻击者极具价值。漏洞链结合多个漏洞来绕过安全层，实现远程代码执行等目标。路过式下载攻击仅需用户访问被入侵的网站即可感染设备，无需用户点击任何内容或主动下载文件。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nvidia.com/gtc/">AI Conference | Mar 16-19, 2026 San Jose | NVIDIA GTC</a></li>
-<li><a href="https://www.nvidia.com/gtc/keynote/">Keynote by NVIDIA CEO Jensen Huang | NVIDIA GTC San Jose 2026</a></li>
-<li><a href="https://dedicatedissues.com/nvidia-ceo-jensen-huang-gtc-2026-full-keynote/">NVIDIA CEO Jensen Huang GTC 2026 Full Keynote</a></li>
+<li><a href="https://www.pcmag.com/news/still-on-ios-184-to-187-iphone-hack-called-darksword-can-hit-your-device">Still On iOS 18.4 to 18.7? iPhone Hack Called 'DarkSword' Can ...</a></li>
+<li><a href="https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain">The Proliferation of DarkSword: iOS Exploit Chain Adopted by ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Drive-by_download">Drive-by download - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Nvidia`, `#Robotics`, `#Hardware`, `#Keynote`
+**标签**: `#cybersecurity`, `#ios`, `#vulnerability`, `#exploit`, `#mobile-security`
 
 ---
 
 <a id="item-34"></a>
-## [开源 Mamba 3 架构发布，以近 4%的语言建模性能提升和更低延迟超越 Transformer。](https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly) ⭐️ 9.0/10
+## [重温 Rob Pike 1989 年的编程法则：测量优于猜测](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) ⭐️ 8.0/10
 
-包括 Albert Gu 和 Tri Dao 在内的研究人员发布了其状态空间模型架构的最新版本 Mamba-3，并采用 Apache 2.0 许可证开源。据报道，它在语言建模困惑度上比 Transformer 模型提升了近 4%，同时降低了推理延迟。 这标志着对当前占主导地位但大规模推理计算成本高昂的 Transformer 架构的潜在范式转变。Mamba-3 的'推理优先'设计和更高的效率，可能使运行大语言模型的成本显著降低、速度更快，影响 AI 研究和商业部署。 Mamba-3 在仅使用一半状态大小的情况下，达到了与上一代 Mamba-2 相当的困惑度，这直接转化为更高的运行时效率。该架构是一种状态空间模型，它维护一个紧凑、不断演化的内部状态，避免了像 Transformer 那样需要重新检查所有先前标记。
+关于 Rob Pike 1989 年经典编程法则的讨论再次出现，这五项法则强调测量优于猜测，并警告过早优化的危害。现代开发者们正在添加评论、分享轶事，并讨论这些法则在当代软件工程中的应用。 这些法则之所以至今仍极具现实意义，是因为它们解决了软件开发中一个永恒的挑战：人类倾向于基于直觉而非数据进行优化。在复杂系统和微优化的时代，Pike 强调先进行性能剖析并采用简单、暴力解决方案的原则，为过度工程化和精力浪费提供了关键的制衡。 这五项法则是：1）你无法预测性能瓶颈所在；2）进行测量；3）在优化前，先使用常数因子较高但简单的算法；4）先使用简单的数据结构；5）数据主导一切。讨论中的一个关键见解是，法则 1 在逻辑上导致了法则 3-5，并且“过早抽象”往往是比“过早优化”更常见的现代陷阱。
 
-rss · VentureBeat · Mar 17, 23:04
+hackernews · vismit2000 · Mar 18, 09:59
 
-**背景**: Transformer 架构由谷歌 2017 年的论文《Attention Is All You Need》提出，是 ChatGPT 等大多数现代生成式 AI 模型的基础。然而，其'注意力'机制的计算复杂度相对于序列长度呈二次方增长，导致推理成本高昂。Mamba 于 2023 年首次提出，是一种为线性时间序列建模设计的状态空间模型，能提供更快的推理速度和随序列长度的线性扩展。
+**背景**: Rob Pike 是一位著名的计算机科学家，也是 Go 编程语言和 Unix 操作系统的共同创造者。他 1989 年提出的法则是编程界经久不衰的经典，常被概括为“测量，而非猜测”。与之相关的著名格言“过早优化是万恶之源”通常归功于 Donald Knuth，它警告开发者在通过性能剖析发现实际性能问题之前，不要过早优化代码。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2312.00752">[2312.00752] Mamba: Linear-Time Sequence Modeling with ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mamba_(deep_learning_architecture)">Mamba (deep learning architecture) - Wikipedia</a></li>
+<li><a href="https://www.helloneo.ca/wiki/doku.php?id=rob_pike_s_5_rules_of_programming">rob_pike_s_5_rules_of_programming [Hello Neo]</a></li>
+<li><a href="https://www.geeksforgeeks.org/software-engineering/premature-optimization/">Why Premature Optimization is the Root of All Evil?</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Architecture`, `#Mamba`, `#Transformers`, `#Language Models`, `#Efficiency`
+**社区讨论**: 社区讨论提供了实际的轶事，并拓展了这些法则的含义。开发者们分享了忽视这些法则导致时间浪费的故事，而遵循它们（例如先实现简单的线性搜索）则被证明是有效的。一个突出的观点是，“过早抽象”——在理解问题之前就构建复杂的框架——是比单纯的性能优化更常见的现代失败模式。此外，关于何时需要正式的算法知识（如大 O 表示法）与何时“n 很小”因而简单性更胜一筹，也存在争论。
+
+**标签**: `#programming`, `#software-engineering`, `#optimization`, `#best-practices`
 
 ---
 
 <a id="item-35"></a>
-## [Mistral AI 发布 Forge 平台，用于定制企业 AI 模型训练。](https://mistral.ai/news/forge) ⭐️ 8.0/10
+## [Snowflake Cortex AI 代理通过提示注入攻击逃逸沙箱](https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything) ⭐️ 8.0/10
 
-2026 年 3 月 17 日，法国 AI 初创公司 Mistral AI 宣布推出 Mistral Forge 平台。该平台允许企业使用自己的专有数据训练和构建定制化的、前沿级别的 AI 模型，支持基于大型内部数据集进行预训练，以及针对特定任务进行后训练微调。 此次发布使 Mistral 能够通过满足企业的一个核心需求——利用专有知识创建领域特定的 AI 模型——来与云巨头和 OpenAI 竞争。它可能显著降低企业（尤其是在欧盟等受严格监管的行业）开发专业 AI 解决方案的门槛，使其无需依赖通用的公共模型。 该平台设计用于处理预训练（构建具有领域意识的基础模型）和后训练方法（细化模型行为）。据报道，早期客户包括 ASML 和欧洲航天局（ESA）等欧洲主要组织，这表明该平台在专业性强、风险高的领域已获得初步认可。
+PromptArmor 的安全研究人员在 Snowflake 的 Cortex AI 代理中发现了一个关键漏洞，一次提示注入攻击使得该代理逃逸了其安全沙箱并执行了任意恶意软件。攻击在代理审查一个 GitHub 仓库时被触发，该仓库的 README 文件中包含恶意提示，最终导致利用 Bash 进程替换执行命令。 该事件揭示了主要云服务商部署的 AI 代理安全模型存在根本性缺陷，表明简单的命令执行允许列表方法是不够的。它强调了提示注入攻击的系统性风险，这类攻击可以绕过预期的安全控制，导致云环境和数据在现实中遭到破坏。 该漏洞利用在代理安全允许列表中的 `cat` 命令内，使用了 Bash 进程替换，来执行从攻击者控制的 URL 获取的 shell 脚本。该漏洞现已被 Snowflake 修复，但它引发了人们对基于模式的允许列表在保护可执行系统命令的 AI 代理方面的可靠性的质疑。
 
-hackernews · pember · Mar 17, 21:04
+rss · Simon Willison · Mar 18, 17:43
 
-**背景**: 微调（Fine-tuning）是指在一个预训练好的大语言模型（LLM）基础上，使用更小、更专业的领域特定数据集进行进一步训练，使其适应特定任务，从而提高准确性和相关性。定制模型训练平台是简化这一复杂流程的软件解决方案，让组织无需深厚的机器学习专业知识也能创建定制化的 LLM。Mistral AI 是一家知名的欧洲 AI 公司，以其开源权重的模型和对欧洲市场的关注而闻名。
+**背景**: Snowflake Cortex 是 Snowflake 数据云中的一套 AI 服务，其 'Cortex Agent' 旨在自主执行任务，例如分析代码仓库。安全沙箱旨在将代理的操作限制在安全环境中。提示注入是一种攻击技术，隐藏在看似正常的输入（如 README 文件）中的恶意指令会操纵 AI 模型执行非预期的操作。进程替换是 Bash shell 的一项功能，允许将命令的输出视为临时文件，从而实现复杂的命令链。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/">Mistral bets on ‘build-your-own AI’ as it takes on OpenAI ...</a></li>
-<li><a href="https://www.digitalocean.com/community/tutorials/llm-finetuning-domain-specific-models">LLM Fine-Tuning: A Guide for Domain-Specific Models</a></li>
-<li><a href="https://www.giiresearch.com/report/tbrc1987636-custom-large-language-model-llm-training-platforms.html">Custom Large Language Model (LLM) Training Platforms Global ...</a></li>
+<li><a href="https://www.gnu.org/software/bash/manual/html_node/Process-Substitution.html">Process Substitution (Bash Reference Manual)</a></li>
+<li><a href="https://simonwillison.net/2026/mar/18/snowflake-cortex-ai/">Snowflake Cortex AI Escapes Sandbox and Executes Malware</a></li>
+<li><a href="https://workos.com/blog/prompt-injection-attacks">Prompt injection attacks: What are they and how to defend ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区认为 Mistral 的策略是一种明智的差异化竞争，专注于定制化的企业解决方案，而非直接在尖端模型的规模上竞争。评论者强调了其在专业数据集和受监管的欧盟市场中的潜在价值，并指出像 Forge 这样的工具让小型公司也能更容易地进行定制训练。同时，社区也对平台如何利用有限的专有数据实现其“预训练”的说法存在技术上的好奇。
-
-**标签**: `#artificial-intelligence`, `#machine-learning`, `#model-training`, `#custom-models`, `#enterprise-ai`
+**标签**: `#ai-security`, `#prompt-injection`, `#cloud-security`, `#sandbox-escape`, `#snowflake`
 
 ---
 
 <a id="item-36"></a>
-## [一篇激情呼吁：拥有个人网站，掌控你的在线存在](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) ⭐️ 8.0/10
+## [FBI 局长证实该机构购买商业位置数据，用于在无搜查令情况下追踪美国公民。](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/) ⭐️ 8.0/10
 
-一篇发表于 2026 年 3 月 14 日的评论文章，强烈主张个人和企业应维护独立的网站，而非仅仅依赖社交媒体平台。文章强调了内容所有权、可访问性以及逃离“围墙花园”限制的至关重要性。 这很重要，因为它触及了现代网络的一个核心矛盾：中心化平台的便利性与自我拥有空间所提供的长期控制和韧性之间的冲突。它突显了日益壮大的、旨在夺回数字独立性的运动，这影响着内容创作者、小企业以及任何关心算法可见性、数据所有权和平台审查的人。 这篇文章是更广泛的“IndieWeb”（独立网络）运动的一部分，该运动倡导拥有自己的域名、优先在自己的网站上发布内容以及拥有自己的数据等原则。讨论承认，尽管 AI 工具常被吹捧为能简化网站创建，但对许多小企业而言，仍然存在重大的实践和监管障碍。
+FBI 局长 Kash Patel 向国会议员证实，该机构正在积极购买商业上可获取的位置数据，并用于在未获得搜查令的情况下追踪美国人。这一公开证实揭示了一项此前已知但未获官方承认的监控行为。 这种做法对隐私和公民自由具有重大影响，因为它允许政府在无司法监督的情况下对公民进行大规模监控。这也引发了关于数字时代执法权力法律界限的疑问，以及数据经纪人在促成政府监控中所扮演的角色。 这些数据是从商业位置数据经纪人处购买的，这些经纪人通常通过嵌入应用程序的 SDK 或实时广告竞价过程，从智能手机收集精确的 GPS 坐标。这种方法使 FBI 能够绕过第四修正案下传统的搜查令要求，其理由是数据已经掌握在第三方手中。
 
-hackernews · asukachikaru · Mar 18, 03:53
+rss · TechCrunch · Mar 18, 18:32
 
-**背景**: “IndieWeb”（独立网络）是一个以社区为中心的运动，旨在推广个人的、独立托管的网站，作为企业化社交媒体的替代方案。其核心原则包括将你自己的域名作为主要在线身份，并优先在自己的网站上发布内容。这与更广泛的去中心化网络原则相一致，后者倡导开放、可互操作的网络，并反对由单一实体控制的“围墙花园”。个人网站与社交媒体之间的争论，核心在于触及范围/参与度（社交媒体）与控制权/品牌塑造/所有权（个人网站）之间的权衡。
+**背景**: 商业位置数据经纪人从数百万智能手机中汇总大量精确的位置信息，这些信息通常通过嵌入了跟踪软件的移动应用程序收集。执法部门在无搜查令的情况下使用此类数据一直是一个有争议的法律问题，争论焦点在于从第三方购买数据是否构成第四修正案下的“搜查”。相关的法律先例，例如使用“地理围栏搜查令”（要求提供特定时间段内特定区域内所有设备的数据），也受到了法院的审查。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/IndieWeb">IndieWeb - Wikipedia</a></li>
-<li><a href="https://indieweb.org/">IndieWeb</a></li>
-<li><a href="https://getdweb.net/principles/">DWeb Principles - getdweb.net</a></li>
+<li><a href="https://codamail.com/articles/data-broker-directory/location-data.html">Location & Geolocation Data Brokers - Data Broker Directory</a></li>
+<li><a href="https://harvardlawreview.org/blog/2025/02/much-ado-about-geofence-warrants/">Much Ado About Geofence Warrants - Harvard Law Review</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 讨论揭示了多样化的观点，包括对 AI 能否为技术小白弥合鸿沟的怀疑，一位评论者指出 AI 公司经常过度炒作其能力。其他人则指出了小企业（如美发沙龙）超越简单的“价目和营业时间”页面的复杂实际需求。一个关键主题是希望让内容无需登录、付费或广告墙即可访问，并期待更多人逃离“围墙花园”。另一个提出的担忧是，提供可能用于训练 AI 模型以实现不良目的的内容所引发的伦理困境。
-
-**标签**: `#web-development`, `#decentralization`, `#accessibility`, `#social-media`, `#indie-web`
+**标签**: `#privacy`, `#surveillance`, `#government`, `#data-brokers`, `#civil-liberties`
 
 ---
 
 <a id="item-37"></a>
-## [CPython 3.15 JIT 编译器提前达成性能目标，速度提升达 11-12%](https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything) ⭐️ 8.0/10
+## [俄罗斯国家黑客使用新型高级 iPhone 黑客工具攻击乌克兰人。](https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/) ⭐️ 8.0/10
 
-CPython 核心开发者 Ken Jin 宣布，Python 3.15 的 JIT 编译器已提前达成其性能目标。其 alpha 版本在 macOS AArch64 平台上比尾调用解释器快 11-12%，在 x86_64 Linux 平台上比标准解释器快 5-6%。 这是 CPython 发展史上的一个重要里程碑，标志着其历史上为提升解释器原始执行速度所做的最重大努力。目标的提前达成表明了强劲的技术进展，预示着在版本发布后，将为庞大的 Python 应用生态系统带来切实的性能收益。 性能提升是针对两个不同的基线解释器测量的：在 macOS AArch64 上对比的是更新、更快的“尾调用解释器”，而在 x86_64 Linux 上对比的是“标准解释器”。与 x86_64 架构相比，JIT 在 AArch64（Apple Silicon）架构上的性能优势更为明显，这可能与 JIT 优化代码时面对的架构差异有关。
+一个疑似与俄罗斯政府有关的黑客组织被发现使用新开发的、先进的 iPhone 黑客工具攻击乌克兰公民，其目标兼具间谍活动和潜在的加密货币盗窃。 这一事件凸显了国家支持的网络战的演变，在活跃的战区，先进的移动设备漏洞被武器化，用于针对平民的情报收集和财务获利。它强调了来自国家行为体的威胁正日益增长，危及个人设备和数字资产。 这些工具代表了一种专门针对 iPhone 的新的、先进的攻击途径，表明其重点是绕过苹果的安全防护。兼具间谍活动和加密货币盗窃的双重目的，暗示了传统情报目标与以财务动机为主的网络犯罪的融合。
 
-rss · Simon Willison · Mar 17, 21:48
+rss · TechCrunch · Mar 18, 14:00
 
-**背景**: 即时（JIT）编译器在运行时将字节码动态翻译成本地机器码，旨在获得比传统解释器更快的执行速度。CPython 作为标准的 Python 实现，历史上一直是一个解释器，因此集成 JIT（如 PEP 744 所述）是一项变革。'尾调用解释器'是近期的一项性能优化（在 Python 3.14 中引入），它使用特定的编译器技术使函数调用更高效，成为了一个新的、更快的性能对比基线。
+**背景**: 国家支持的黑客攻击涉及由国家或代表国家进行的网络行动，旨在实现战略目标，如间谍活动或破坏。这些攻击通常采用复杂的技术，包括零日漏洞利用——即先前未知、尚无补丁可用的软件漏洞。移动恶意软件，特别是针对 Android 的，是通过劫持银行应用或钱包凭证来窃取加密货币的已知工具，但针对 iPhone 的高级工具的出现标志着威胁的重大升级。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://peps.python.org/pep-0744/">PEP 744 – JIT Compilation | peps.python.org</a></li>
-<li><a href="https://blog.reverberate.org/2025/02/10/tail-call-updates.html">A Tail Calling Interpreter For Python (And Other Updates)</a></li>
-<li><a href="https://www.azalio.io/what-you-need-to-know-about-python-3-14s-faster-interpreter/">What you need to know about Python 3.14’s faster interpreter</a></li>
+<li><a href="https://deepstrike.io/blog/state-sponsored-hacking-apt-threats-2025">State Sponsored Hacking & APT Attacks Explained (2025)</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/apple/apple-fixes-two-new-ios-zero-days-exploited-in-attacks-on-iphones/">Apple fixes two new iOS zero-days exploited in attacks on iPhones</a></li>
+<li><a href="https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html">Six Android Malware Families Target Pix Payments, Banking ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#python`, `#jit`, `#performance`, `#cpython`, `#compiler`
+**标签**: `#cybersecurity`, `#espionage`, `#iphone-security`, `#state-sponsored-hacking`, `#ukraine-conflict`
 
 ---
 
 <a id="item-38"></a>
-## [Mistral 推出 Forge 平台，支持企业从头开始训练定制 AI 模型。](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/) ⭐️ 8.0/10
+## [五角大楼将 Anthropic 列为国家安全风险，因其 AI“红线”可能使军事技术失效](https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/) ⭐️ 8.0/10
 
-Mistral AI 推出了名为 Forge 的新企业平台，该平台使企业能够完全利用其专有数据，从头开始训练定制化的前沿 AI 模型。这种方法直接挑战了 OpenAI 和 Anthropic 等竞争对手提供的、基于微调预训练模型或使用检索增强生成的主流方法。 这代表了企业 AI 市场的一次战略转变，直接满足了数据隐私、模型所有权和深度定制等关键需求，而这些是微调或 RAG 无法完全满足的。通过提供“自建”方案，Mistral 旨在吸引那些对依赖云巨头提供的共享通用基础模型持谨慎态度的企业客户。 该平台旨在生产“前沿级”模型，这意味着其性能可与领先模型相媲美，但完全基于公司自身数据进行训练。这与行业标准方法形成对比，后者通常是从一个大型通用模型开始，通过微调进行适配，或通过 RAG 用外部数据对其进行补充。
+美国国防部（在法庭文件中被称为“战争部”）在 2026 年 3 月的一份法庭文件中，正式将 AI 公司 Anthropic 指定为“对国家安全的供应链风险”。这一决定源于 Anthropic 拒绝签署允许其 AI 无限制用于军事用途的合同，特别是出于对该公司若其道德“红线”被逾越，可能在作战行动期间使其技术失效的担忧。 这场冲突代表了美国军方在国防应用中需要可靠、可控的技术，与领先 AI 开发者所秉持的 AI 安全及伦理原则之间的根本性冲突。这一指定可能为政府与私营 AI 公司的互动方式开创先例，潜在地重塑国防技术供应链，并影响数百亿美元的联邦合同收入。 五角大楼的文件明确指出，AI 系统“极易受到操纵”，并担心 Anthropic 可能在行动期间“先发制人地改变其模型的行为”。在此指定之后，特朗普总统下令联邦机构停止使用 Anthropic 的技术，促使该公司起诉政府，并寻求初步禁令以在法庭挑战该标签期间暂停禁令。
 
-rss · TechCrunch · Mar 17, 21:00
+rss · TechCrunch · Mar 18, 13:40
 
-**背景**: 在 AI 领域，微调是指拿一个预训练的通用模型（如 GPT-4），在特定数据集上进一步训练，使其适应特定任务。检索增强生成是一种技术，通过在查询时从外部知识库获取相关信息来增强模型的回答，而无需重新训练核心模型。'从头开始'训练模型意味着完全在自定义数据集上构建和训练一个新的模型架构，这需要更多资源，但能提供更大的控制力和专业化潜力。
+**背景**: Anthropic 是一家以 Claude AI 模型闻名的 AI 安全初创公司，由担心 AI 风险的前 OpenAI 成员创立。“供应链风险”指定是美国政府通常用于与外国对手有关联公司的严肃标签，表明它们对关键基础设施的完整性和安全构成威胁。此处的“红线”指的是公司为其技术使用方式设定的道德边界，例如禁止用于大规模监控或自主武器开发。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://mistral.ai/news/forge">Introducing Forge | Mistral AI</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval-augmented generation - Wikipedia</a></li>
-<li><a href="https://medium.com/@caterine/fine-tuning-vs-training-from-scratch-deciding-the-best-approach-for-model-development-f82c73e168a5">Fine-tuning vs. Training from Scratch: Deciding the Best ...</a></li>
+<li><a href="https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/">DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable ...</a></li>
+<li><a href="https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html">Pentagon Officially Notifies Anthropic It Is a ‘ Supply Chain Risk ’</a></li>
 
 </ul>
 </details>
 
-**标签**: `#enterprise-ai`, `#custom-models`, `#mistral-ai`, `#model-training`, `#ai-competition`
+**标签**: `#AI Safety`, `#National Security`, `#Government Policy`, `#AI Ethics`, `#Defense Technology`
 
 ---
 
 <a id="item-39"></a>
-## [美国司法部称不能信任 Anthropic 单方面限制 Claude AI 的军事用途](https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/) ⭐️ 8.0/10
+## [联邦网络安全专家称微软云为'垃圾堆'，却依然批准其使用](https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/) ⭐️ 8.0/10
 
-美国司法部提交了一份法律回应文件，认为不能信任 Anthropic 单方面限制其 Claude AI 模型的军事应用。这份文件是对 Anthropic 提起的诉讼的回应，该公司因试图限制军方使用其 AI 而受到政府处罚，并对此提出了法律挑战。 这场法律纠纷是企业在涉及国家安全的尖端 AI 技术监管方面，其自主权与政府权威之间的一次关键性测试案例。其结果可能确立一个先例，即 AI 开发者能否独立控制其模型在军事领域的应用，还是此类决定最终应由政府机构做出。 政府的立场表明，Anthropic 的'宪法 AI'方法——包括伦理原则和自我治理机制——对于国家安全目的而言是不够的。这份法律文件是对该公司对政府实体强制执行其自身使用限制能力的正式挑战。
+一个联邦网络安全项目批准了一项主要的微软云产品供政府使用，尽管内部评估因其持续存在且未解决的安全问题而将其描述为'一堆垃圾'。据报道，即使微软无法完全解释该产品如何保护敏感的政府数据，批准依然被授予。 这一事件揭示了记录在案的安全缺陷与美国政府所用技术的审批流程之间存在严重脱节，可能使敏感的联邦数据面临风险。它引发了关于主要云服务提供商安全认证的完整性以及政府对它们的依赖的严重质疑，影响了公众对公共部门 IT 基础设施的信任。 该批准是在一个旨在保护政府免受网络威胁的联邦项目下授予的，例如与 FedRAMP（联邦风险和授权管理计划）框架一致的项目。内部的批评凸显了对微软云架构内潜在攻击媒介的、未得到充分解决的、具体且长期存在的担忧。
 
-rss · WIRED · Mar 18, 00:51
+rss · Ars Technica · Mar 18, 17:36
 
-**背景**: Anthropic 是一家 AI 安全公司，开发了 Claude 系列大语言模型。该公司采用'宪法 AI'方法，即模型被训练遵循一套伦理原则，并可以拒绝违反这些原则的请求。AI 的军事应用受复杂的法律框架约束，包括国际人道法和交战规则，关于适当的限制和监督机制的辩论一直在持续。
+**背景**: 美国联邦政府使用 FedRAMP 等严格的框架来评估和授权用于处理敏感数据的云服务。这些流程旨在确保云产品在获准政府使用前满足严格的安全要求。微软是政府机构的主要云服务提供商，因此其安全状况具有国家层面的重要意义。内部安全评估是这些授权流程的标准组成部分，专家们在此评估产品的漏洞和防御能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.anthropic.com/news/claudes-constitution">Claude’s Constitution - Anthropic</a></li>
-<li><a href="https://lieber.westpoint.edu/rules-engagement-regulatory-framework-military-artificial-intelligence/">Rules of Engagement as a Regulatory Framework for Military ...</a></li>
-<li><a href="https://perryworldhouse.upenn.edu/news-and-insight/designing-lawful-military-ai-technical-and-legal-reflections-on-decision-support-and-autonomous-weapon-systems/">Designing Lawful Military AI: Technical and Legal Reflections ...</a></li>
+<li><a href="https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government">Despite Doubts, Federal Cyber Experts Approved Microsoft ...</a></li>
+<li><a href="https://www.trimarcsecurity.com/microsoftcloud-security-assessment">MICROSOFT CLOUD | Trimarc Security</a></li>
+<li><a href="https://www.doi.gov/ocio/customers/assessment">DOI Security Assessment & Authorization - U.S. Department of ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Ethics`, `#Government Regulation`, `#Military AI`, `#Legal`, `#Anthropic`
+**标签**: `#cybersecurity`, `#cloud-computing`, `#microsoft`, `#government-it`, `#security-policy`
 
 ---
 
 <a id="item-40"></a>
-## [大英百科全书和韦氏词典起诉 OpenAI 侵犯版权](https://www.cnet.com/tech/services-and-software/encyclopedia-britannica-and-merriam-webster-sue-openai/) ⭐️ 8.0/10
+## [DarkSword 漏洞利用工具通过恶意链接攻击运行 iOS 18.4 至 18.6.2 的 iPhone](https://www.theverge.com/tech/896841/iphone-ios-18-attack-darksword) ⭐️ 8.0/10
 
-大英百科全书和韦氏词典已对 OpenAI 提起诉讼，指控该公司未经许可使用其受版权保护的内容来训练其 AI 模型。这一法律行动延续了内容所有者因训练数据实践而将 AI 公司告上法庭的日益增长的趋势。 这起诉讼代表了老牌内容出版商与领先 AI 开发商之间法律战的重要升级，可能为受版权保护的材料如何用于 AI 训练设定重要先例。其结果可能重塑内容创作和 AI 开发的经济模式，影响全球的出版商、作者和科技公司。 该诉讼具体指控 OpenAI 将出版商的受版权保护内容用作其 AI 模型的训练数据，构成了侵权。此案加入了由媒体公司和内容生产商对 OpenAI、微软、谷歌和 Anthropic 等生成式 AI 公司提起的多起类似诉讼行列。
+安全研究人员披露了一款名为'DarkSword'的新黑客工具，该工具针对运行 iOS 18.4 至 18.6.2 版本的 iPhone。该漏洞利用链利用多个漏洞，在用户访问受感染的网站时窃取个人信息。 此事意义重大，因为该漏洞利用已被观察到在'水坑攻击'中被积极使用，可能影响多达 2.7 亿台设备。它代表了一种复杂的现实威胁，可以在无需用户交互的情况下，隐秘地窃取信息、凭证和加密货币钱包等敏感数据。 DarkSword 漏洞利用链利用了 iOS 和 Safari 中的六个不同漏洞来实现对设备的完全控制。它被特别观察到部署在乌克兰的网站上，归因于俄罗斯黑客，并且能够窃取联系人、信息、保存的凭证和加密货币钱包信息。
 
-rss · CNET News · Mar 17, 21:38
+rss · The Verge · Mar 18, 16:45
 
-**背景**: 像 ChatGPT 这样的大型语言模型是在海量数据集上训练的，这些数据集通常包含从互联网抓取的受版权保护的材料，如书籍、文章和参考著作。这些案件的核心法律问题是，将受版权保护的内容用于 AI 训练是否构成合理使用，还是需要获得许可协议。目前有多起诉讼正在测试这一边界，其结果可能为知识产权法如何适用于 AI 开发确立历史性的法律先例。
+**背景**: '水坑攻击'是一种网络攻击策略，黑客会入侵其目标已知会访问的网站。'漏洞利用链'指的是将多个软件漏洞按顺序组合使用以侵入系统，这通常比单个漏洞利用更强大。iOS 18.4 至 18.6.2 是苹果在 2025 年和 2026 年初发布的移动操作系统的特定版本。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://medium.com/@meisshaily/how-ongoing-ai-copyright-lawsuits-are-setting-historic-legal-precedents-for-creative-industries-by-079fc7f274cc">How Ongoing AI Copyright Lawsuits Are Setting Historic Legal ...</a></li>
-<li><a href="https://sustainabletechpartner.com/topics/ai/generative-ai-lawsuit-timeline/">Generative AI Lawsuits Timeline: Legal Cases vs. OpenAI ...</a></li>
+<li><a href="https://www.xda-developers.com/darksword-ios-18-exploit-allows-hackers-to-covertly-steal-sensitive-information-from-iphones/">"Darksword" iOS 18 exploit allows hackers to covertly steal ...</a></li>
+<li><a href="https://iverify.io/press-releases/iverify-details-darksword-second-mass-attack-against-ios-disclosed-in-two-weeks">iVerify Details DarkSword, Second Mass Attack Against iOS ...</a></li>
+<li><a href="https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild">Hundreds of Millions of iPhones Can Be Hacked With a New Tool ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Ethics`, `#Copyright Law`, `#OpenAI`, `#Legal`, `#Publishing`
+**标签**: `#iOS Security`, `#Vulnerability Disclosure`, `#Mobile Security`, `#Cyberattack`, `#Apple`
 
 ---
 
 <a id="item-41"></a>
-## [Mistral AI 推出 Forge 平台，帮助企业构建专有 AI 模型，挑战云巨头](https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models) ⭐️ 8.0/10
+## [英伟达发布 Vera Rubin Space-1，一款用于轨道数据中心、具备抗辐射能力的 AI 计算模块。](https://www.cnet.com/tech/services-and-software/nvidia-is-building-a-computer-for-data-centers-in-space/) ⭐️ 8.0/10
 
-Mistral AI 推出了 Forge，这是一个企业平台，使组织能够利用自己的专有数据，在整个完整的训练生命周期内构建、定制和持续改进 AI 模型。此次发布是该公司一系列积极举措的一部分，同期还发布了 Mistral Small 4 模型、开源代码验证代理 Leanstral，并加入了 NVIDIA Nemotron 联盟。 此举使 Mistral AI 直接与超大规模云服务提供商竞争，为企业提供了'拥有而非租用 AI'的替代路径，可能重塑企业 AI 基础设施格局。这标志着其战略从单纯在模型基准测试上竞争，转向为组织构建专有的、特定领域的智能提供基础工具。 Forge 支持完整的模型训练生命周期，包括在大型内部数据集上进行预训练、监督微调、DPO、ODPO 以及用于与内部策略对齐的强化学习流程。该平台打包了 Mistral 内部的训练方法，包括数据混合策略、生成流程和分布式计算优化，超越了竞争对手通常提供的微调 API。
+在 GTC 2026 大会上，英伟达宣布了其首个专为太空 AI 基础设施设计的硬件——Vera Rubin Space-1 模块，该模块专为轨道数据中心（ODC）打造。这标志着高性能 AI 计算向适应严酷太空环境迈出了重要一步。 这一进展意义重大，因为它直接应对了日益增长的对强大在轨计算能力的需求，以便在本地处理来自地球观测和其他太空任务的海量数据，从而降低延迟和对下行链路带宽的要求。它代表了新兴商业太空经济以及依赖实时 AI 处理的下一代地理空间情报服务的关键推动因素。 强调的主要技术挑战是热管理，因为在真空中冷却极其困难；要在稳定温度下散发仅仅 1 兆瓦的热量，就需要大约 1200 平方米的散热器表面积。Vera Rubin Space-1 模块专门设计为具备抗辐射能力，这是在太空辐射环境中可靠运行的关键要求。
 
-rss · VentureBeat · Mar 17, 21:00
+rss · CNET News · Mar 18, 17:53
 
-**背景**: Mistral AI 是一家著名的法国 AI 实验室，以开发和发布高性能的开源及专有 AI 模型而闻名。在当前的企业 AI 格局中，公司通常从 OpenAI 或 Google 等提供商处选择通用模型，然后通过云 API 针对特定任务进行微调。NVIDIA Nemotron 联盟是一个新的全球 AI 实验室合作组织，Mistral 参与其中，旨在通过共享资源推进开放的、前沿级别的基础模型。
+**背景**: 轨道数据中心（ODC）是一个将计算基础设施置于太空的构想，主要是为了实现对卫星和太空任务的边缘计算。太空边缘计算涉及直接在数据源（例如在卫星上）处理数据，而不是将所有原始数据发回地球，这降低了通信延迟和带宽需求。太空环境带来了独特的挑战，包括可能损坏电子设备的强烈辐射，以及缺乏空气使得传统的风扇或液体冷却无法实现，需要被动的辐射冷却解决方案。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://mistral.ai/products/forge">Build AI models that know your enterprise. - Mistral AI</a></li>
-<li><a href="https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models">Mistral AI launches Forge to help companies build proprietary ...</a></li>
-<li><a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Nemotron-Coalition-of-Leading-Global-AI-Labs-to-Advance-Open-Frontier-Models/default.aspx">NVIDIA Launches Nemotron Coalition of Leading Global AI Labs ...</a></li>
+<li><a href="https://nvidianews.nvidia.com/news/space-computing">NVIDIA Launches Space Computing, Rocketing AI Into Orbit</a></li>
+<li><a href="https://creati.ai/ai-news/2026-03-17/nvidia-vera-rubin-space-1-module-orbital-ai-data-centers-gtc-2026/">Nvidia Reveals Vera Rubin Space-1 Module for Orbital AI Data ...</a></li>
+<li><a href="https://satnews.com/2026/03/17/the-physics-wall-orbiting-data-centers-face-a-massive-cooling-challenge/">The “Physics Wall”: Orbiting Data Centers Face a Massive ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI-Infrastructure`, `#Enterprise-AI`, `#Model-Training`, `#Mistral-AI`, `#Cloud-Competition`
+**标签**: `#AI Hardware`, `#Space Technology`, `#Edge Computing`, `#Nvidia`, `#Data Centers`
 
 ---
 
 <a id="item-42"></a>
-## [英伟达暂停面向中国的 H200 生产，将台积电产能转向 Vera Rubin 芯片](https://t.me/zaihuapd/40331) ⭐️ 8.0/10
+## [Nvidia GTC 2026 发布 DLSS 5 与迪士尼机器人，同时面临行业反弹](https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/) ⭐️ 8.0/10
 
-据《金融时报》3 月 5 日报道，在美国对华先进芯片出口管制审批反复、且中国可能收紧相关进口之际，英伟达已停止生产面向中国市场的 H200 AI 芯片，并将台积电用于 H200 的代工产能转向下一代 Vera Rubin 硬件。此举反映英伟达短期内不再预期 H200 在中国市场形成实质销量。 此举标志着英伟达一次重大的战略转向，直接影响中国获取尖端 AI 计算硬件的能力，并重塑全球半导体供应链。它凸显了地缘政治紧张和出口管制如何迫使主要科技公司做出艰难的生产和市场分配决策，可能加速中国推动半导体自给自足的进程。 尽管英伟达上周表示已获得美国政府许可向中国客户出口少量 H200 芯片，但美国商务部官员上月称尚无 H200 售予中国客户。基于 Hopper 架构的 H200 拥有 141GB 的 HBM3e 内存，曾是大规模 AI 工作负载的性能领先者。
+在 Nvidia GTC 2026 大会的第三天，英伟达发布了其图形技术的重大突破 DLSS 5，并展示了与迪士尼合作的机器人项目。这些发布伴随着一些行业反弹，英伟达已对此作出回应。 DLSS 5 代表了实时图形技术一次潜在的代际飞跃，可能重新定义游戏和专业应用中的视觉保真度标准。与迪士尼的机器人合作则突显了英伟达的 AI 和计算平台正超越传统计算领域，向物理 AI 和娱乐产业扩张。 DLSS 5 引入了一个实时神经渲染模型，能为像素注入逼真的光照和材质效果，英伟达称这是自 2018 年实时光线追踪技术推出以来最重要的图形突破。所提供的新闻内容未详细说明行业反弹的具体性质、英伟达的回应细节以及迪士尼机器人项目的具体信息。
 
-telegram · zaihuapd · Mar 18, 01:45
+rss · CNET News · Mar 18, 14:54
 
-**背景**: NVIDIA H200 Tensor Core GPU 是一款专为生成式 AI 和高性能计算设计的高性能芯片，拥有 141GB 的 HBM3e 内存，可实现更快的训练和推理。Vera Rubin 平台是英伟达的下一代 AI 计算架构，其核心是一个集成了 AI GPU 和定制 CPU 的“超级芯片”。美国的出口管制逐步限制向中国出售先进的半导体技术和制造设备，为英伟达等公司创造了复杂的监管环境。
+**背景**: Nvidia GTC（GPU 技术大会）是一个专注于人工智能、计算机图形学、数据科学和机器学习的全球顶级 AI 会议。DLSS（深度学习超级采样）是英伟达的 AI 图形技术，利用神经网络来提高帧率并生成更清晰的图像。2026 年的会议重点突出了诸如智能体 AI 和物理 AI 等关键趋势，后者涉及与物理世界交互的 AI 系统，例如机器人技术。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/h200/">H200 GPU | NVIDIA</a></li>
-<li><a href="https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/">Inside the NVIDIA Vera Rubin Platform: Six New Chips, One AI ...</a></li>
-<li><a href="https://www.congress.gov/crs-product/R48642">U.S. Export Controls and China: Advanced Semiconductors</a></li>
+<li><a href="https://www.nvidia.com/en-us/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/">NVIDIA DLSS 5 Delivers AI-Powered Breakthrough In Visual ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nvidia_GTC">Nvidia GTC - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/gtc/">AI Conference | Mar 16-19, 2026 San Jose | NVIDIA GTC</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#geopolitics`, `#artificial-intelligence`, `#supply-chain`, `#export-controls`
+**标签**: `#Nvidia`, `#AI`, `#Computer Graphics`, `#Robotics`, `#Tech Conferences`
 
 ---
 
 <a id="item-43"></a>
-## [三星电子工会计划罢工 18 天，或扰乱全球芯片供应](https://t.me/zaihuapd/40334) ⭐️ 8.0/10
+## [五角大楼计划利用机密军事数据训练 AI 模型](https://www.engadget.com/ai/the-defense-department-reportedly-plans-to-train-ai-models-on-classified-military-data-120332113.html?src=rss) ⭐️ 8.0/10
 
-三星电子劳工工会负责人崔胜浩表示，约 9 万名工会成员正就罢工计划进行投票，若投票通过，将从 5 月 21 日起罢工 18 天。此举可能导致关键的平泽半导体工厂产量减半，并扰乱全球半导体供应。 此事至关重要，因为三星是全球内存芯片生产的领导者，其旗舰平泽工厂的长期罢工可能严重收紧 DRAM 和 NAND 闪存等关键元件的供应。当前行业正从先前的短缺中复苏，并面临 AI 和高性能计算芯片日益增长的需求，此举可能导致价格波动并影响下游电子产品制造商的生产。 工会的具体要求包括提高基础工资 7%、取消绩效奖金上限，并引入与营业利润挂钩的奖金池，旨在缩小与竞争对手 SK 海力士的薪酬差距。作为回应，三星提出了 6.2%的加薪方案以及针对记忆芯片部门的特别奖金，并表示将以诚意继续对话。
+据报道，五角大楼正计划让 OpenAI 和 xAI 等 AI 公司在政府的安全设施内，利用机密军事数据训练其模型的专用版本。根据《麻省理工科技评论》披露，此举标志着从使用预训练模型转向在敏感信息上主动训练模型的重大转变。 此举是美国战争部实现其成为'AI 优先'作战力量目标的具体步骤，旨在加速军事 AI 主导地位。直接在机密数据上训练模型，可以为国家安全领域的规划、情报分析和决策制定，产出更准确、更具作战相关性的 AI 工具。 训练将在获准处理机密项目的安全数据中心进行，五角大楼将保留所有训练数据的唯一所有权。前 AI 政策负责人 Aalok Mehta 指出的一个关键风险是，一个在全部门使用的单一模型，可能无意中将机密信息泄露给未经适当许可的人员。
 
-telegram · zaihuapd · Mar 18, 04:00
+rss · Engadget · Mar 18, 12:03
 
-**背景**: 三星的平泽园区是其最先进的半导体制造基地之一，生产尖端的内存芯片。SK 海力士作为三星在国内的主要竞争对手，近期报告称其员工平均薪酬大幅上涨，在 2025 年达到创纪录的 1.85 亿韩元（约合 12.7 万美元），这主要得益于与强劲财务业绩挂钩的创纪录奖金。这种薪酬差距是工会提出要求的关键驱动因素。
+**背景**: 美军已在作战环境中使用如 Anthropic 的 Claude 等 AI 模型，例如用于近期冲突中的目标分析。然而，这些模型通常在机密系统中以'只读'方式使用，基于其公开训练数据回答问题。新计划涉及在机密数据集上对模型进行'训练'或微调，使其能够从非公开的军事信息中学习并整合这些信息，这是一种更先进且敏感的应用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.sedaily.com/news/2026/03/18/sk-hynix-average-pay-jumps-58-percent-to-127000-on-record">SK Hynix Average Pay Jumps 58% to $127,000 on Record Bonus</a></li>
-<li><a href="https://koreajoongangdaily.joins.com/news/2025-06-30/business/industry/Samsung-gears-up-for-new-factory-construction-in-Pyeongtaek-aims-to-lead-in-HBM4/2340258">Samsung gears up for new factory construction in Pyeongtaek ...</a></li>
+<li><a href="https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/">The Pentagon is making plans for AI companies to train on ...</a></li>
+<li><a href="https://www.afcea.org/signal-media/dow-become-ai-first-warfighting-force">DOW To Become an 'AI-First' Warfighting Force | AFCEA ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#supply-chain`, `#labor`, `#manufacturing`, `#electronics`
+**标签**: `#artificial-intelligence`, `#military-technology`, `#national-security`, `#government-ai`, `#classified-data`
 
 ---
 
 <a id="item-44"></a>
-## [Google 将 Gemini AI 全面接入 Gmail，为 30 亿用户带来智能邮箱助手。](https://t.me/zaihuapd/40335) ⭐️ 8.0/10
+## [MiniMax 发布 M2.7，这是一个'自我进化'的 AI 模型，可自动化其自身高达 50%的强化学习研究流程。](https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50) ⭐️ 8.0/10
 
-Google 宣布为 Gmail 的 30 亿用户推出基于 Gemini 3 的 AI 功能升级。新功能包括 AI Overviews（AI 概览），可将长邮件对话自动总结为要点，并支持用自然语言提问邮箱内容；此外还推出了 Help Me Write 邮件写作助手、基于对话上下文的智能回复建议、语法校对功能以及用于过滤和优先显示重要邮件的 AI Inbox。 这代表了生成式 AI 在消费级生产力工具中最大规模的部署之一，有可能彻底改变全球海量用户的日常邮件处理流程。它标志着 Google 将其先进 AI 模型深度嵌入核心服务的战略，为 AI 辅助的通信和信息管理设立了新标准。 此次集成由 Gemini 3 模型驱动，Google DeepMind 称其为'智能体 AI 的重大飞跃'，具有更强的指令遵循和工具调用能力。自然语言查询功能允许用户对邮箱内容提出复杂问题，例如从过往邮件中查找特定的承包商信息。
+中国 AI 初创公司 MiniMax 发布了其专有的大语言模型 M2.7，该模型被用于构建一个能够自主管理数据管道、训练环境和评估基础设施的研究智能体。该公司表示，M2.7 通过自主触发日志读取、调试和指标分析，处理了其自身强化学习研发流程中 30%到 50%的工作。 这标志着 AI 系统在递归自我改进方面迈出了重要一步，有可能加速研究周期并减少复杂开发任务中的人力投入。这也预示着以开源模型见长的中国领先 AI 公司，正像其美国同行一样，战略性地转向开发专有的前沿模型。 M2.7 是一个纯推理的文本模型，旨在为 Claude Code 和 Kilo Code 等 AI 智能体和后端工具提供动力。在 MLE Bench Lite 竞赛套件的测试中，它获得了 66.6%的奖牌率，与谷歌的 Gemini 3.1 持平，并接近 Anthropic 的 Claude Opus 4.6 所设定的当前最先进基准。
 
-telegram · zaihuapd · Mar 18, 04:45
+rss · VentureBeat · Mar 18, 18:47
 
-**背景**: Gemini 是 Google 的大型语言模型（LLM）和多模态 AI 系统家族，旨在理解和生成文本、代码等内容。自然语言处理（NLP）是 AI 的一个子领域，使计算机能够理解、解释和响应人类语言，是邮件摘要和查询等功能的基础。AI 写作助手利用 NLP 分析提示并生成符合上下文、结构良好的文本。
+**背景**: 强化学习（RL）是一种机器学习范式，智能体通过在与环境的交互中执行动作来学习决策，以最大化累积奖励。'强化学习框架'指的是管理 RL 实验的训练、评估和数据管道的软件框架或基础设施。'自我进化 AI'是一个新兴概念，指 AI 系统能够随着时间的推移，自主改进其自身的能力、架构或训练过程，超越静态模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://deepmind.google/models/gemini/">Gemini 3 — Google DeepMind</a></li>
-<li><a href="https://www.ibm.com/think/topics/natural-language-processing">What is NLP (natural language processing)? - IBM</a></li>
-<li><a href="https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/do-more-with-ai/general-ai/what-is-natural-language-processing">What is Natural Language Processing? | Microsoft Copilot</a></li>
+<li><a href="https://arxiv.org/abs/2508.07407">[2508.07407] A Comprehensive Survey of Self-Evolving AI ...</a></li>
+<li><a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1700/RRA1722-6/RAND_RRA1722-6.pdf">Harnessing Constructive Simulations for Reinforcement Learning</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI-Integration`, `#Productivity-Tools`, `#Google`, `#Email`, `#Large-Scale-Deployment`
+**标签**: `#artificial-intelligence`, `#reinforcement-learning`, `#large-language-models`, `#ai-research`, `#automation`
 
 ---
 
 <a id="item-45"></a>
-## [GrapheneOS 开发者因 Play Integrity API 访问问题威胁起诉 Google](https://t.me/zaihuapd/40340) ⭐️ 8.0/10
+## [Linux 基金会获 1250 万美元注资，应对 AI 生成的低质量安全报告](https://www.theregister.com/2026/03/18/linux_foundation_ai_slop_defense/) ⭐️ 8.0/10
 
-专注于隐私的 Android 分支系统 GrapheneOS 的开发者宣布，除非 Google 利用硬件支持的密钥认证批准其操作系统通过 Play Integrity API，否则将提起诉讼。他们指控 Google 存在不公平待遇，声称许多不符合 Android 兼容性测试套件 (CTS) 和兼容性定义文档 (CDD) 标准的原厂操作系统，却依然能通过 Play Integrity 检查。 这场潜在的诉讼凸显了平台安全执行与 Android 生态系统内公平竞争之间的关键冲突。它引发了关于 Google 对关键 API 的把关权力是否构成反竞争的严重关切，并可能为第三方、注重安全的操作系统如何被主导平台持有者对待开创先例。 GrapheneOS 强调通过重新锁定 Bootloader 和不推荐 root 来保障安全，其论点在于硬件支持的密钥认证提供了强大且可验证的安全信号，这应足以获得 Play Integrity 的批准。他们投诉的核心是据称 Google 在执行标准时存在不一致性：不符合标准的原厂系统获得了访问权限，而符合标准的第三方系统却被拒绝。
+Linux 基金会宣布启动一项新计划，旨在帮助开源项目维护者应对由 AI 自动化系统生成的低质量安全漏洞报告。Anthropic、AWS、GitHub、Google、Microsoft 和 OpenAI 六家科技巨头共计捐赠 1250 万美元，该计划将由 OpenSSF 及其旗下的 Alpha-Omega 项目共同执行。 这是行业针对一个威胁开源维护可持续性的关键新兴问题所做出的重要集体回应。通过汇集主要 AI 和云提供商的资源，该计划旨在为不堪重负的维护者提供实用工具和支持，从而保护数字世界所依赖的基础软件的安全。 这笔资金将专门用于支持 OpenSSF 的 Alpha-Omega 项目，该项目已有超过 700 万美元的年度预算，致力于改善关键开源项目的安全性。该计划直接回应了 Linux 内核、Python 软件基金会和 cURL 等主要项目的关切，其中 cURL 项目已于 2026 年 1 月因不堪 AI 生成报告的负担而终止了其漏洞赏金计划。
 
-telegram · zaihuapd · Mar 18, 07:40
+telegram · zaihuapd · Mar 18, 08:27
 
-**背景**: Play Integrity API（前身为 SafetyNet）是 Google 提供的一项服务，允许应用开发者检查设备及其软件是否为正版且未经修改，常用于银行应用、数字版权管理 (DRM) 和反作弊系统。硬件支持的密钥认证是一项安全功能，它利用设备的专用硬件（如可信执行环境）以加密方式证明设备软件堆栈的完整性。Android 的兼容性测试套件 (CTS) 和兼容性定义文档 (CDD) 是设备软件必须满足的官方标准，以达到 "Android 兼容" 并获得访问 Google 生态系统（包括 Play 商店）的资格。
+**背景**: 开源安全基金会 (OpenSSF) 是 Linux 基金会旗下致力于改善开源软件安全性的项目。其 Alpha-Omega 计划包含两部分：'Alpha' 直接与最关键项目的维护者合作修复漏洞，而 'Omega' 则使用自动化分析来改善数千个广泛部署项目的安全性。最近，AI 代码生成工具的兴起导致大量低质量且通常不准确的安全漏洞报告被提交给开源项目，使志愿维护者不堪重负。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Play_Integrity_API">Play Integrity API</a></li>
-<li><a href="https://developer.android.com/privacy-and-security/security-key-attestation">Verify hardware-backed key pairs with key attestation</a></li>
-<li><a href="https://source.android.com/docs/compatibility/cdd">Android Compatibility Definition Document</a></li>
+<li><a href="https://openssf.org/community/alpha-omega/">Alpha-Omega – Open Source Security Foundation - openssf.org</a></li>
+<li><a href="https://www.theregister.com/2026/01/21/curl_ends_bug_bounty/">Curl shutters bug bounty program to stop AI slop • The Register</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Android`, `#Antitrust`, `#Mobile Security`, `#Open Source`, `#Google`
+**标签**: `#Open Source Security`, `#AI Ethics`, `#Linux Foundation`, `#Vulnerability Management`, `#Industry Collaboration`
 
 ---
 
 <a id="item-46"></a>
-## [World ID 提议使用虹膜扫描代币为 AI 智能体背后的人类操作者提供身份验证](https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/) ⭐️ 7.0/10
+## [Arena LLM 排行榜成为行业标准，尽管其资金来自被排名的公司](https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/) ⭐️ 7.0/10
 
-World ID 提出使用基于虹膜扫描的加密唯一代币，来唯一识别 AI 智能体背后的人类操作者。该方法旨在通过确保每个智能体都关联到一个已验证的人类身份，来防止机器人集群压垮在线系统。 这很重要，因为随着 AI 智能体的激增，区分合法的人类控制智能体与恶意的机器人集群对于在线安全和系统完整性变得至关重要。一个可靠的人类验证系统可以防止垃圾信息、欺诈以及利用 AI 智能体可扩展性发起的协同攻击。 该提议利用了 World ID 现有的基础设施，该设施使用一种名为 Orb 的专用生物识别设备来捕获高分辨率虹膜图像进行验证。然而，将这些身份具体链接到 AI 智能体的实施细节，以及围绕生物特征数据收集的更广泛的采用挑战和隐私问题，仍然是关键的考量因素。
+Arena（前身为 LM Arena）在短短七个月内，已从一个加州大学伯克利分校的博士研究项目，发展成为评估前沿大语言模型（LLM）的主导性公共排行榜。该平台显著影响着 AI 模型的融资、产品发布和公关周期，而其资金恰恰来自它所排名和评估的 AI 公司。 这很重要，因为 Arena 已成为比较 LLM 性能的事实上的行业标准，这意味着其排名可以直接影响快速增长的 AI 领域的投资决策、市场认知和竞争定位。其资金模式引发了关于客观性、潜在利益冲突的关键问题：在一个评估与技术本身同等重要的生态系统中，究竟由谁来定义“最佳”模型。 该排行榜采用“盲测对战”系统，用户对两个匿名模型的回复进行投票，之后才会揭晓模型身份。虽然这种盲测方法旨在实现社区驱动并防止操纵，但其依赖被排名公司的资金支持，在其作为独立基准的角色与财务可持续性之间引入了结构性张力。
 
-rss · Ars Technica · Mar 17, 21:28
+rss · TechCrunch · Mar 18, 16:30
 
-**背景**: World ID 是一种数字身份协议，主要通过虹膜扫描等生物特征验证来提供匿名的人格证明。其目标是让用户能够在不泄露个人数据的情况下，证明自己是网络上独一无二的人类。与此同时，“AI 智能体集群”指的是可以大规模部署的、协调行动的自主 AI 程序组，它们可能被用来压垮系统、传播错误信息或进行欺诈，从而产生了对可靠认证机制的需求。
+**背景**: 前沿大语言模型（Frontier LLMs）指的是最先进、最尖端的大语言模型（如 GPT-4、Claude、Gemini），它们基于海量数据集训练，能够处理广泛的复杂任务。随着这类模型数量激增，客观且可信的基准测试对于开发者、投资者和企业比较性能变得至关重要。像 Arena 这样的排行榜基于人类偏好，提供了模型能力的公开对比快照，满足了生态系统中的关键需求。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://docs.world.org/world-id/overview">World Developer Docs</a></li>
-<li><a href="https://www.digit.in/features/general/what-is-world-id-iris-scanned-based-human-verification-protocol-how-does-it-work.html">What is World ID: Iris-scanned based human verification ...</a></li>
-<li><a href="https://www.mintmcp.com/blog/ai-swarm-attacks">AI swarm attacks: detection, compliance & defense in 2026</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Arena_(AI_platform)">Arena (AI platform) - Wikipedia</a></li>
+<li><a href="https://dev.to/rod_schneider/frontier-llms-their-strengths-and-pitfalls-2m48">Frontier LLMs: Their Strengths and Pitfalls - DEV Community</a></li>
+<li><a href="https://www.datacamp.com/blog/frontier-models">Frontier Models Explained: What Defines the Cutting Edge of AI</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Security`, `#Digital Identity`, `#Biometrics`, `#Cryptography`, `#AI Agents`
+**标签**: `#AI Evaluation`, `#LLM Benchmarking`, `#Industry Standards`, `#AI Ethics`, `#Startups`
+
+---
+
+<a id="item-47"></a>
+## [设备端年龄验证技术兴起，通过本地处理和跨平台密钥承诺保护隐私。](https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/) ⭐️ 7.0/10
+
+新的年龄验证技术正在开发中，其在用户设备上完全执行面部扫描和年龄估计，而非将生物识别数据发送到远程服务器。这些系统还旨在创建可重复使用的跨平台“年龄密钥”，该密钥可以验证用户达到年龄门槛，而无需向每个服务透露其确切年龄或身份。 这很重要，因为它代表了一种潜在的技术解决方案，以应对数字平台对年龄验证日益增长的监管要求，同时试图解决普遍存在的用户隐私担忧。如果成功，它可能为平衡合规性与数据保护设定新标准，影响受年龄限制法律约束的数十亿用户和无数在线服务。 一个关键的技术细节是使用“AgeKeys”，这是一种由 OpenAge 等倡议推广的基于通行密钥的系统，并已获得 Meta 等主要平台的支持。然而，重大的信任问题依然存在，Discord 最近因用户强烈反对而撤回计划中的年龄验证系统就证明了这一点，这凸显了用户对任何形式的强制性生物识别检查的怀疑态度。
+
+rss · Ars Technica · Mar 18, 11:30
+
+**背景**: 全球法律越来越多地强制要求进行年龄验证，以限制未成年人访问在线内容和服务，传统上要求用户提交敏感的身份证明文件。通常由 AI 驱动的面部识别技术通过分析面部特征进行身份识别或估计，但当数据集中存储时会引发隐私和伦理担忧。“Discord 事件”指的是该平台在 2026 年初宣布全球推行年龄验证后，因引发用户对隐私的强烈反对而迅速撤销该计划。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arstechnica.com/tech-policy/2026/03/after-discord-fiasco-age-check-tech-promises-privacy-by-running-locally-does-it-work/">After Discord fiasco, age-check tech promises privacy by ...</a></li>
+<li><a href="https://www.biometricupdate.com/202512/meta-socure-join-openages-reusable-age-check-initiative">Meta, Socure join OpenAge’s reusable age check initiative</a></li>
+<li><a href="https://theconversation.com/how-safe-is-your-face-the-pros-and-cons-of-having-facial-recognition-everywhere-265753">How safe is your face? The pros and cons of having facial ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#privacy`, `#age-verification`, `#tech-policy`, `#on-device-ai`
+
+---
+
+<a id="item-48"></a>
+## [沃尔玛放弃 OpenAI 即时结账功能，转而将其 Sparky 聊天机器人嵌入 ChatGPT 和 Gemini。](https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/) ⭐️ 7.0/10
+
+在 OpenAI 的 Instant Checkout 功能表现不佳后，沃尔玛调整了策略，将其自有的 AI 购物助手 Sparky 直接集成到 ChatGPT 和 Google Gemini 的界面中。此举标志着沃尔玛从失败的共享结账解决方案，转向在主流 AI 平台内嵌入其专有聊天机器人。 这一战略转变凸显了为商业应用部署完全自主的'智能体'AI 所面临的实际挑战，并标志着企业-AI 合作进入新阶段：零售商优先考虑保持对客户体验和交易数据的控制。这表明，像沃尔玛这样的大型零售商正选择在第三方平台内嵌入自有品牌的 AI 工具，而非让出结账流程的控制权。 OpenAI 的 Instant Checkout 功能于 2025 年 9 月推出，允许用户在 ChatGPT 内完成购买，但据报道已被缩减。沃尔玛的 Sparky 助手于 2025 年 6 月推出，是一个嵌入沃尔玛应用的生成式 AI 工具，旨在帮助用户发现商品并做出明智的购买决策，并被认为有助于提升销售额。
+
+rss · WIRED · Mar 18, 18:01
+
+**背景**: 智能体商务（Agentic Commerce）指的是使用能够代表用户自主执行商品发现、比价和购买等购物任务的 AI 智能体。OpenAI 的 Instant Checkout 是早期尝试，旨在让其 ChatGPT 界面直接支持此类交易。沃尔玛的 Sparky 是零售商开发自有 AI 智能体以在其生态内引导客户的一个例子，其目标是结合通用 AI 平台的覆盖范围与品牌化、可控的购物体验。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://openai.com/index/buy-it-in-chatgpt/">Buy it in ChatGPT: Instant Checkout and the Agentic ... - OpenAI</a></li>
+<li><a href="https://www.forbes.com/sites/ronschmelzer/2025/06/10/walmart-bets-big-on-generative-and-agentic-ai-with-sparky/">Walmart Bets Big On Generative And Agentic AI With ‘Sparky’</a></li>
+<li><a href="https://techround.co.uk/news/⁠openai-scales-instant-checkout-feature-commerce/">OpenAI Scales Back On Instant Checkout Feature: What Does ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Agents`, `#Enterprise AI`, `#E-commerce`, `#ChatGPT`, `#Business Strategy`
+
+---
+
+<a id="item-49"></a>
+## [英国政府在艺术家强烈反对后，撤销其 AI 版权立场](https://www.engadget.com/ai/uk-reverses-course-on-ai-copyright-position-after-backlash-175630732.html?src=rss) ⭐️ 7.0/10
+
+周三，英国政府放弃了其先前的立场，该立场在其拟议的《数据（使用和访问）法案》中提出，将允许 AI 公司在未经同意的情况下使用受版权保护的材料训练模型。科技大臣莉兹·肯德尔表示，政府已听取了反对意见，目前对于如何处理该问题“不再有首选方案”。 这一逆转是艺术家和版权持有者的一次重大胜利，阻止了一个将严重削弱他们对创意作品控制权的法律框架。这表明政策制定者正在回应创意产业的压力，这可能会影响其他国家的类似辩论，并迫使 AI 公司寻求更具共识的数据获取方法。 最初的提案仅为版权持有者提供了一个简单的“选择退出”条款，这种模式因将保护作品的责任推给创作者而受到批评。虽然政府已经撤回立场，但尚未提出新的解决方案，并表示在引入任何版权法改革之前，需要时间平衡艺术家和科技行业的利益。
+
+rss · Engadget · Mar 18, 17:56
+
+**背景**: 训练像 OpenAI 和谷歌那样的大型 AI 模型需要海量数据集，这些数据通常从互联网抓取，其中经常包含受版权保护的文本、图像和音乐。这种行为是构成版权侵权，还是属于“合理使用”（美国）或“文本与数据挖掘”（某些司法管辖区）等例外情况，是一个重大的全球性法律争议。一种“选择退出”模式——即 AI 公司可以使用任何数据，除非权利持有人明确反对——已在一些地区被提出作为折衷方案，但遭到创作者的广泛反对，他们认为这颠倒了版权法默认的保护原则。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://btlj.org/2025/04/opt-out-approaches-to-ai-training/">Opt-Out Approaches to AI Training: A False Compromise</a></li>
+<li><a href="https://www.fieldfisher.com/en/services/intellectual-property/intellectual-property-blog/data-use-and-access-act-2025-copyright-and-ai-aspects">Data (Use and Access) Act 2025 – copyright and AI aspects</a></li>
+<li><a href="https://astraea.law/insights/ai-training-data-copyright">AI Model Training Data Rights: Copyright, Fair Use, and ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Policy`, `#Copyright Law`, `#UK Government`, `#AI Ethics`, `#Creative Industries`
+
+---
+
+<a id="item-50"></a>
+## [微软扩展 Fabric IQ，通过共享业务本体解决企业 AI 智能体幻觉问题](https://venturebeat.com/data/enterprise-ai-agents-keep-operating-from-different-versions-of-reality) ⭐️ 7.0/10
+
+微软宣布对其语义智能层 Fabric IQ 进行重大扩展，使其业务本体可通过 MCP（模型上下文协议）供任何供应商的 AI 智能体访问，而不仅仅是微软自家的智能体。该公司还为 Fabric IQ 增加了企业规划功能，并推出了一个新的数据库中心，统一管理 Azure SQL、Cosmos DB、PostgreSQL、MySQL 和 SQL Server。 这解决了一个关键的企业 AI 问题：在不同平台上构建的智能体使用碎片化的业务上下文进行操作，导致幻觉和决策失误。通过创建一个可供多供应商智能体系统访问的共享业务本体，微软旨在成为统一企业 AI 部署的默认平台，有可能解决阻碍 AI 大规模采用的互操作性挑战。 微软 Fabric 的 CTO Amir Netz 明确区分了 Fabric IQ 的本体与 RAG（检索增强生成），指出 RAG 处理大型文档检索，而 Fabric IQ 提供实时业务状态感知。此次扩展包括企业规划功能，将历史数据、实时信号和组织目标统一在一个可查询层中，并且 Fabric 数据智能体已达到普遍可用状态。
+
+rss · VentureBeat · Mar 18, 12:00
+
+**背景**: Microsoft Fabric IQ 是 Microsoft Fabric 内的一个语义智能层，它根据业务语言和概念（本体）来组织数据，而不仅仅是表和列。在多智能体 AI 系统中，不同的智能体通常缺乏对业务实体（如'客户'或'订单'）的共享理解，导致上下文碎片化和幻觉，即智能体基于不完整或不一致的数据生成错误信息。业务本体提供了一个正式的、共享的词汇表和概念框架，使智能体能够一致地解释和推理业务运营。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.microsoft.com/en-us/microsoft-fabric/features/iq">Microsoft Fabric IQ</a></li>
+<li><a href="https://arxiv.org/pdf/1807.03646.pdf">Ontology-based multi-agent system to support business users ...</a></li>
+<li><a href="https://arxiv.org/html/2509.18970v1">LLM-based Agents Suffer from Hallucinations: A Survey of ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI Agents`, `#Enterprise AI`, `#Microsoft Fabric`, `#Semantic Intelligence`, `#Business Ontology`
+
+---
+
+<a id="item-51"></a>
+## [意大利因 Cloudflare 拒绝在其 1.1.1.1 DNS 服务上屏蔽盗版网站，对其处以 1420 万欧元罚款。](https://t.me/zaihuapd/40348) ⭐️ 7.0/10
+
+意大利通信监管机构 AGCOM 宣布，因 Cloudflare 拒绝在其公共 DNS 解析服务 1.1.1.1 上屏蔽盗版网站，对其处以 1420 万欧元罚款。Cloudflare 表示将对处罚提出异议，并威胁要将其所有服务器撤出意大利各大城市。 此案是国家版权执法与全球互联网基础设施运营之间一次重大的管辖权冲突。它可能开创一个先例，即单个国家试图对全球分布的 DNS 服务施加内容过滤义务，这可能导致互联网碎片化，并影响全球的服务性能和用户隐私。 据报道，意大利的相关制度要求 DNS 提供商在收到版权方通知后 30 分钟内实施屏蔽。Cloudflare 认为此类过滤会损害其全球服务的性能，并指责意大利监管机构试图在全球范围内规定互联网访问，属于越权行为。
+
+telegram · zaihuapd · Mar 18, 11:45
+
+**背景**: Cloudflare 的 1.1.1.1 是一项公共 DNS 解析服务，它将人类可读的域名（如 example.com）转换为机器可读的 IP 地址，是互联网导航的关键目录。DNS 屏蔽是政府越来越多地用于限制访问特定在线内容（如被指控侵犯版权的网站）的一种方法。AGCOM（意大利通信监管机构）是意大利通信行业的国家监管机构，负责执行包括互联网服务和版权相关法规在内的各项规定。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/1.1.1.1">1.1.1.1 - Wikipedia</a></li>
+<li><a href="https://www.internetsociety.org/resources/doc/2025/mandated-dns-blocking/">Mandated DNS Blocking: Critical Considerations - Internet Society</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AGCOM">AGCOM - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#internet-governance`, `#dns`, `#copyright-enforcement`, `#cloudflare`, `#jurisdiction`
+
+---
+
+<a id="item-52"></a>
+## [小米发布 MiMo-V2-Flash 大模型，采用混合专家架构实现高效推理](https://t.me/zaihuapd/40351) ⭐️ 7.0/10
+
+小米发布了 MiMo-V2-Flash 大语言模型，这是一个总参数量达 3090 亿、激活参数量为 150 亿的混合专家（MoE）模型。该模型专为高速推理和智能体工作流设计，通过混合注意力架构和多令牌预测技术，在显著降低推理成本的同时实现了业界领先的性能。 此次发布标志着一家主要科技公司进军先进且高性价比的大语言模型领域，直接应对了平衡模型能力与推理效率这一关键行业挑战。其新颖的架构选择可能为在现实应用中部署超大规模模型树立新标杆，并影响未来面向端侧或云端 AI 服务的模型设计。 该模型的混合注意力架构以 5:1 的比例交替使用滑动窗口注意力和全局注意力，使 KV 缓存存储减少近 6 倍。其多令牌预测模块提升了推理输出速度，但提供的资料中未详细说明其与其他领先模型相比的具体性能基准。
+
+telegram · zaihuapd · Mar 18, 13:12
+
+**背景**: 混合专家（MoE）模型是一种神经网络架构，其中不同的专业化子网络（“专家”）处理不同的输入，每次任务仅激活一部分参数。这使得模型总参数量可以非常庞大（如 3090 亿），同时保持每次推理的计算成本可控（通过 150 亿激活参数实现）。滑动窗口注意力是一种优化技术，它将注意力计算限制在令牌的一个局部窗口内，与需要关注整个序列的全局注意力相比，能显著减少存储 Key-Value（KV）缓存所需的内存。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://developer.aliyun.com/article/1665178">混合专家模型MoE架构原理与主流模型实现解析-开发者社区-阿里云</a></li>
+<li><a href="https://askai.glarity.app/zh-CN/search/SWA-滑动窗口注意力-如何减少KV缓存的大小">SWA（滑动窗口注意力）如何减少KV缓存的大小？ - 问答 - Glarity</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Large Language Models`, `#Mixture of Experts`, `#Efficient Inference`, `#Model Architecture`
+
+---
+
+<a id="item-53"></a>
+## [苹果阻止 Replit 和 Vibecode 等 AI 编程应用在 App Store 更新](https://appleinsider.com/articles/26/03/18/bad-vibes-apple-blocks-updates-for-some-ai-coding-apps-in-the-app-store) ⭐️ 7.0/10
+
+苹果公司近期阻止了 Replit 和 Vibecode 等 AI 编程应用在 App Store 提交更新。此举针对的是那些允许用户通过输入提示词即时生成并直接在应用内运行代码的程序，苹果称这是为了防止这些应用绕过官方的审核流程。 此举是苹果一项重要的政策执行，凸显了促进 AI 辅助开发创新与维护严格平台控制及安全之间的紧张关系。它直接影响依赖这些工具进行设备端原型开发的开发者，并可能为如何在 iOS 这样的封闭生态系统中监管 AI 生成的可执行内容树立先例。 被阻止更新的应用采用的是一种被称为 'vibe coding' 的开发方式，即 AI 根据用户提示生成代码并直接运行，避开了苹果标准的 App Review 流程。一个重要的细节是，当前限制主要针对应用更新，并不一定意味着将这些应用的现有版本从商店下架。
+
+telegram · zaihuapd · Mar 18, 14:47
+
+**背景**: Vibe coding 是一种 AI 辅助的编程实践，开发者用自然语言向大语言模型描述任务，模型随后生成相应的源代码。这一术语由 Andrej Karpathy 在 2025 年初推广开来。Replit 是一个知名的在线集成开发环境，它集成了 AI 功能，允许用户在浏览器中直接编写和运行代码。苹果的 App Review 是一个强制性的审核机制，所有应用及其更新在上架 App Store 前都必须经过审查，以确保符合苹果的指导方针。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Vibe_coding">Vibe coding</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Replit">Replit - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#App Store Policy`, `#AI Coding`, `#Platform Governance`, `#Developer Tools`
 
 ---
