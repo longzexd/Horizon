@@ -5,958 +5,1450 @@ date: 2026-04-28
 lang: zh
 ---
 
-> 从 106 条内容中筛选出 57 条重点信息（政治/金融 44，科技 13）
+> 从 189 条内容中筛选出 81 条重点信息（政治/金融 55，科技 26）
 
 ---
 
 ## 政治与金融
 
 <a id="item-1"></a>
-## [特朗普遇刺未遂案：基于弹壳和宣言提出指控](https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html) ⭐️ 9.0/10
+## [特朗普政府因贝壳帖子起诉前 FBI 局长科米](https://www.nytimes.com/2026/04/28/us/politics/james-comey-indictment.html) ⭐️ 9.0/10
 
-当局指控科尔·托马斯·艾伦在黑衣晚宴上企图刺杀特朗普总统，证据包括一枚霰弹弹壳和一份书面宣言。 此案凸显了针对知名政治人物的暴力威胁持续存在，并对公共活动的安保措施提出了紧迫质疑。 联邦调查人员还在核实艾伦是否以“coldforce”账号在 Bluesky 上发帖，该账号表达了该平台常见的自由主义观点。
+特朗普政府已获得对前联邦调查局（FBI）局长詹姆斯·科米的新起诉，理由是他发布了一张北卡罗来纳州海滩上的贝壳照片，该照片被定性为对总统的威胁。 此次起诉标志着美国司法系统政治化的历史性升级——一位前 FBI 局长因被批评者称为微不足道的借口而受到他曾效力的政府起诉，这引发了对民主规范、法治以及公众对联邦机构信任的深切担忧。 该案源于一张显示北卡罗来纳州海滩上贝壳的社交媒体帖子，特朗普政府将其解读为对总统的威胁。具体法律指控的细节尚未公布，但此次起诉代表了对前高级执法官员极为罕见的刑事法律运用。
 
-rss · NYTimes Politics · Apr 27, 21:59
+rss · NYTimes Politics · Apr 28, 20:35
 
-**标签**: `#assassination attempt`, `#Trump`, `#political violence`, `#national security`, `#law enforcement`
+**背景**: 詹姆斯·科米于 2013 年至 2017 年担任 FBI 局长，并在 2017 年 5 月因俄罗斯调查事件被特朗普总统解雇。此后他成为特朗普频繁批评的目标，此次起诉是特朗普政府对被视为政治对手的人采取的一系列法律行动中的最新一起。
+
+**标签**: `#US politics`, `#rule of law`, `#justice system`, `#Trump administration`, `#political scandal`
 
 ---
 
 <a id="item-2"></a>
-## [特朗普遇刺未遂事件重燃国土安全部之争](https://www.nytimes.com/2026/04/27/us/politics/trump-ballroom-white-house-dinner-shooting.html) ⭐️ 9.0/10
+## [特朗普遇刺未遂案嫌疑人被起诉](https://www.nytimes.com/2026/04/27/us/politics/trump-assassination-attempt-cole-allen-charges.html) ⭐️ 9.0/10
 
-在华盛顿一场新闻晚宴上发生的针对特朗普总统的未遂刺杀事件，重新引发了关于是否重启国土安全部的政治斗争。 这起系统性事件立即引发国家安全后果，并加剧了围绕国土安全部运作的党派冲突，影响美国政治稳定和制度信任。 袭击发生在华盛顿特区的一场新闻晚宴上，被官方定性为针对现任总统的未遂刺杀，直接将该事件与关于国土安全部未来的持续辩论联系起来。
+当局指控一名加州男子在周六的一场正式晚宴上企图刺杀特朗普总统，证据包括一枚霰弹枪弹壳和一份书面檄文。 此事件表明一场高规格活动出现了严重安全漏洞，并凸显了针对现任及前任美国总统的政治暴力威胁持续存在，对国家安全和执法规程具有广泛影响。 嫌疑人被指控冲入晚宴试图杀害总统，起诉的关键证据是一枚霰弹枪弹壳和一份檄文。该事件立即引发了对此类集会安保规程的质疑。
 
-rss · NYTimes Politics · Apr 27, 23:10
+rss · NYTimes Politics · Apr 28, 10:55
 
-**背景**: 国土安全部（DHS）是在 9/11 袭击后成立的，旨在协调国内安全事务。近年来，政治辩论的焦点在于是否重组或关闭该部门，共和党人通常支持其扩张，而一些民主党人则呼吁改革或缩减。
+**背景**: 在此语境中，“screed”（檄文）指一篇冗长、充满怒气的文字，通常表达极端政治观点。这场正式晚宴本应是高度安保的活动，而嫌疑人能够接近总统，引发了对特勤局及场地安保措施有效性的重大担忧。
 
-**标签**: `#assassination attempt`, `#Trump`, `#Homeland Security`, `#national security`, `#US politics`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.usatoday.com/story/news/politics/2026/04/26/trump-white-house-correspondents-association-dinner-shooting-security/89804205007/">Security after White House Correspondents Association dinner ...</a></li>
+<li><a href="https://www.latimes.com/politics/story/2026-04-26/shooters-path-to-white-house-press-gala-prompts-security-questions">Shooter's path to White House press gala prompts security ...</a></li>
+<li><a href="https://www.merriam-webster.com/dictionary/screed">SCREED Definition & Meaning - Merriam-Webster</a></li>
+
+</ul>
+</details>
+
+**标签**: `#assassination attempt`, `#Trump`, `#national security`, `#political violence`, `#law enforcement`
 
 ---
 
 <a id="item-3"></a>
-## [特朗普出席的白宫晚宴发生枪击事件](https://www.nytimes.com/live/2026/04/27/us/white-house-dinner-trump-shooting/heres-the-latest) ⭐️ 9.0/10
+## [美国警告中国炼油商因伊朗石油面临制裁风险](https://www.bloomberg.com/news/articles/2026-04-28/us-warns-of-sanctions-risks-for-chinese-refiners-of-iranian-oil) ⭐️ 9.0/10
 
-一场白宫晚宴发生枪击事件，当时美国总统特朗普正在现场，随即触发紧急安全封锁和紧迫的政治回应。 该事件对国家安全和政治稳定构成直接威胁，可能重塑安保规程，并在未来数日主导政策讨论。 《纽约时报》以突发新闻形式报道了该事件，多名知名记者参与报道；目前尚无关于伤亡或嫌疑人的进一步细节。
+美国财政部对大连恒力石化运营的一家中国“茶壶炼油厂”实施制裁，因其购买了价值数十亿美元的伊朗原油，并警告金融机构注意与伊朗有关联的其他中国炼油厂的制裁风险。 此次制裁升级直接威胁到计划中的特朗普与习近平峰会前的美中关系，并可能通过收紧伊朗原油流向其最大买家之一来扰乱全球石油市场。 被制裁的炼油厂是所谓的“茶壶炼油厂”——一种小型独立中国炼油厂，在维持伊朗石油经济中发挥关键作用。美国财政部外国资产控制办公室（OFAC）还针对伊朗的影子银行系统，该系统利用兑换所和外国公司规避制裁。
 
-rss · NYTimes Politics · Apr 27, 22:01
+rss · Bloomberg Markets · Apr 28, 19:46
 
-**背景**: 白宫晚宴是高级官员和政要出席的高安保级别活动。在此类活动中发生枪击极为罕见，会立即触发特勤局和执法部门的响应，并引发全国媒体关注。
+**背景**: 伊朗依赖位于伊朗的兑换所和外国公司组成的影子银行网络来销售石油、洗钱和资助军事项目，同时绕过国际制裁。中国的“茶壶炼油厂”已成为打折伊朗原油的主要买家，帮助德黑兰在美国限制下维持石油出口。
 
-**标签**: `#breaking news`, `#national security`, `#White House`, `#Trump`, `#shooting`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.breitbart.com/asia/2026/04/27/u-s-sanctions-chinese-refinery-buying-iranian-oil/">U.S. Sanctions Chinese Refinery for Buying Iranian Oil</a></li>
+<li><a href="https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil">US sanctions China’s ‘teapot’ refinery for buying Iranian oil | US-Israel war on Iran News | Al Jazeera</a></li>
+<li><a href="https://www.fincen.gov/system/files/2025-10/FTA-Iranian-Shadow-Banking.pdf">FinCEN Financial Trend Analysis, Iranian Shadow Banking : Trends in...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#geopolitics`, `#sanctions`, `#oil markets`, `#US-China relations`, `#Iran`
 
 ---
 
 <a id="item-4"></a>
-## [外交努力推动结束伊朗战争，黄金价格回落](https://www.bloomberg.com/news/articles/2026-04-27/gold-steadies-as-traders-weigh-diplomatic-push-to-end-iran-war) ⭐️ 9.0/10
+## [加拿大启动首个主权财富基金](https://www.bloomberg.com/news/videos/2026-04-28/canada-launches-sovereign-wealth-fund-for-major-projects-video) ⭐️ 9.0/10
 
-尽管外交努力试图通过谈判解决美伊战争，但霍尔木兹海峡仍基本关闭航运，黄金价格因此下跌。这场战争已扰乱能源供应并加剧通胀风险。 霍尔木兹海峡的关闭对全球能源市场和贸易稳定构成系统性风险，直接影响通胀和黄金等金融资产。交易员正密切关注外交进展，因为任何解决方案都可能缓解供应中断并降低对黄金的避险需求。 BP 报告称，由于伊朗战争引发的能源价格飙升和市场动荡，其第一季度盈利激增，尤其是来自石油交易业务的利润。霍尔木兹海峡的关闭仍是影响全球石油运输的关键瓶颈。
+总理马克·卡尼宣布设立加拿大首个主权财富基金——加拿大强大基金，联邦政府初始注资 250 亿加元（约 184 亿美元），用于资助重大基础设施项目和国内企业。 这标志着加拿大重大政策转变，为国家建设项目提供新的商业化资本来源，并可能重塑该国大规模投资的融资方式。该基金旨在与私营部门共同投资，也表明了高层对长期经济转型的承诺。 加拿大强大基金将由专业团队管理，独立于政府，以完全商业化的方式与私营部门共同投资。加拿大投资者也将有机会购买该基金份额。
 
-rss · Bloomberg Markets · Apr 27, 22:27
+rss · Bloomberg Markets · Apr 28, 18:37
 
-**背景**: 霍尔木兹海峡是位于伊朗和阿曼之间的一条狭窄水道，全球约 20%的石油运输经过此处。美伊战争导致该海峡关闭，切断了主要能源供应路线，引发油价和金融市场波动。黄金在地缘政治危机期间常被视为避险资产，但如果外交进展降低了不确定性，其价格可能下跌。
+**背景**: 主权财富基金是一种国有投资基金，投资于股票、债券、房地产或基础设施等资产。许多国家，如挪威、中国和阿联酋，都运营着大型主权财富基金，以管理国家储蓄并为后代创造回报。加拿大此前缺乏此类基金，因此这一宣布具有历史意义。
 
-**标签**: `#geopolitics`, `#gold`, `#energy markets`, `#inflation`, `#US-Iran conflict`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bbc.com/news/articles/c98m800r28qo">Canada's Carney launches a sovereign wealth fund . What is it?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Canada_Strong_Fund">Canada Strong Fund</a></li>
+<li><a href="https://www.canada.ca/en/department-finance/news/2026/04/canada-strong-fund.html">Canada Strong Fund - Canada.ca</a></li>
+
+</ul>
+</details>
+
+**标签**: `#sovereign wealth fund`, `#Canada`, `#infrastructure`, `#fiscal policy`, `#investment`
 
 ---
 
 <a id="item-5"></a>
-## [日本超级油轮首次尝试驶出霍尔木兹海峡](https://www.bloomberg.com/news/articles/2026-04-28/japanese-crude-supertanker-attempts-hormuz-exit-in-war-s-first) ⭐️ 9.0/10
+## [英国选民 5 月 7 日参加关键选举投票](https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
 
-一艘满载的日本关联超级油轮正在尝试通过霍尔木兹海峡驶出波斯湾，这是自 2026 年 2 月 28 日伊朗战争爆发以来首次有日本油轮进行此类尝试。 此次通行是对海上安全的关键考验，可能标志着全球石油供应路线风险评估的转变，对能源市场和中东地缘政治稳定具有重大影响。 霍尔木兹海峡正常情况下处理全球每日 20%的石油和液化天然气供应，但自战争开始以来，航运交通基本被伊朗封锁。伊朗依靠导弹和无人机袭击船只，其快艇群也构成进一步威胁。
+数百万英格兰、苏格兰和威尔士选民将于 5 月 7 日参加议会和地方选举，决定政治代表和政策方向。 这些选举将影响英国三个地区的治理和政党格局，对全国政策及地方服务产生深远影响。 苏格兰和威尔士将举行议会选举，英格兰将举行地方选举，影响数百万选民。
 
-rss · Bloomberg Markets · Apr 28, 09:01
+rss · BBC Politics · Apr 28, 16:19
 
-**背景**: 2026 年霍尔木兹海峡危机始于 2026 年 2 月 28 日，当时美国和以色列对伊朗发动空战并暗杀了伊朗关键人物。此后，伊朗宣称控制海峡，封锁了大部分航运交通，并摧毁了超过 100 艘船只。这艘超级油轮的尝试是自冲突爆发以来日本油轮首次进行此类通行。
+**背景**: 英国定期举行选举，选举国家和地方议会的代表。这些选举对于决定哪个政党控制政策制定和公共支出至关重要。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">2026 Strait of Hormuz crisis - Wikipedia</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/iran-fast-boat-swarms-add-hormuz-threats-shipping-2026-04-23/">Iran fast-boat swarms add to Hormuz threats for shipping | Reuters</a></li>
-
-</ul>
-</details>
-
-**标签**: `#geopolitics`, `#energy markets`, `#Strait of Hormuz`, `#Iran war`, `#oil tanker`
+**标签**: `#UK elections`, `#politics`, `#Scotland`, `#Wales`, `#local elections`
 
 ---
 
 <a id="item-6"></a>
-## [欧元区消费者通胀预期 3 月大幅上升](https://www.bloomberg.com/news/articles/2026-04-28/ecb-says-consumer-inflation-expectations-rose-sharply-in-march) ⭐️ 9.0/10
+## [最高法院对法轮功诉思科案持怀疑态度](https://www.nytimes.com/2026/04/28/us/politics/supreme-court-falun-gong-tech.html) ⭐️ 8.0/10
 
-根据欧洲央行数据，3 月份欧元区消费者通胀预期在所有衡量期限上均大幅上升，表明在伊朗战争的经济影响下，公众情绪发生了急剧转变。 通胀预期的飙升可能迫使欧洲央行重新考虑其货币政策立场，可能推迟降息甚至加息，这将对欧元区经济增长、金融市场和公共福利产生广泛影响。 该数据涵盖 3 月调查期，恰逢伊朗战争爆发，显示所有人口群体和预测期限（包括一年和三年预期）均出现广泛增长。
+2026 年 4 月 28 日，美国最高法院在口头辩论中对依据《外国人侵权法》追究思科系统公司与中国法轮功相关涉嫌侵犯人权行为的责任表示怀疑。 此案可能确立重要先例，限制《外国人侵权法》的适用范围，使外国原告更难就海外侵犯人权行为起诉美国公司。裁决将影响跨国公司的法律风险以及美国在企业问责方面的外交政策。 该诉讼指控思科向中国提供监控技术，用于针对法轮功修炼者，但大法官们质疑《外国人侵权法》是否适用于企业责任。预计裁决将于 2026 年 6 月底前作出。
 
-rss · Bloomberg Markets · Apr 28, 08:00
+rss · NYTimes Politics · Apr 28, 19:05
 
-**背景**: 欧洲央行（ECB）密切监测消费者通胀预期，将其作为制定货币政策的关键指标，因为如果家庭和企业预期价格上涨，这些预期可能自我实现。2026 年初爆发的伊朗战争扰乱了全球能源供应并推高了油价，给欧元区带来了滞胀冲击——即通胀上升与经济增长放缓并存。
+**背景**: 《外国人侵权法》（ATS）于 1789 年颁布，允许外国人在美国法院就违反国际法的行为提起诉讼。自 1980 年以来，法院利用该法追究个人和企业在海外侵犯人权的责任，但最高法院近期的裁决已缩小其适用范围。法轮功是一种精神运动，自 1999 年起在中国被禁止，修炼者声称受到中国当局的严重迫害。
 
-**标签**: `#ECB`, `#inflation expectations`, `#euro area`, `#monetary policy`, `#geopolitics`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Alien_Tort_Statute">Alien Tort Statute</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Falun_Gong">Falun Gong</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Supreme Court`, `#human rights`, `#corporate liability`, `#Alien Tort Statute`, `#Falun Gong`
 
 ---
 
 <a id="item-7"></a>
-## [伊朗提议重开霍尔木兹海峡，油价飙升至 110 美元以上](https://www.bloomberg.com/news/articles/2026-04-27/latest-oil-market-news-and-analysis-for-april-28) ⭐️ 9.0/10
+## [上诉法院裁定特朗普拘留政策违法，形成司法分歧](https://www.nytimes.com/2026/04/28/us/politics/appeals-court-trump-detention.html) ⭐️ 8.0/10
 
-伦敦市场油价升至三周高点，每桶超过 110 美元，市场正等待美国对伊朗提出的结束战争并重新开放霍尔木兹海峡的提议作出回应。 此次油价飙升反映了霍尔木兹海峡巨大的全球经济利害关系——全球约 20%的石油通过该海峡运输；任何解决方案或局势升级都可能显著重塑全球能源供应链和通胀预期。 6 月交割的布伦特原油期货价格升至约每桶 111 美元，与此同时，美国总统唐纳德·特朗普召集其国家安全团队讨论德黑兰的提议，此时冲突已进入第三个月。
+一家联邦上诉法院裁定特朗普政府的无证移民拘留政策违法，导致不同巡回法院之间出现司法分歧，这为最高法院介入审查铺平了道路。 这一裁决直接影响移民执法、宪法权利和行政权力范围，对数百万无证移民和联邦政策产生重大影响。巡回法院之间的分歧增加了最高法院受理此案的可能性，可能确立全国性的判例。 该裁决导致不同联邦上诉法院在无证移民是否可被无保释听证拘留的问题上产生法律冲突。这种司法分歧是最高法院受理案件的典型触发因素，意味着最终裁决可能重塑联邦拘留实践。
 
-rss · Bloomberg Markets · Apr 27, 22:07
+rss · NYTimes Politics · Apr 28, 17:58
 
-**背景**: 霍尔木兹海峡是伊朗与阿曼之间的一条狭窄水道，是全球石油和液化天然气运输的关键咽喉要道。自 2026 年 3 月以来，美国与以色列对伊朗的战争扰乱了能源供应并推高了燃料价格，伊朗将海峡通行权作为筹码。布伦特原油是全球主要石油基准，用于定价全球三分之二的原油供应。
+**背景**: 特朗普政府实施了一项政策，允许无限期拘留无证移民而无需进行个别保释听证。下级法院对此做法是否违反宪法正当程序保护存在分歧，导致了当前的巡回法院意见冲突。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.britannica.com/place/Strait-of-Hormuz">Strait of Hormuz | Map, Importance, Conflict and Closure ... The Strategic Importance of the Strait of Hormuz: a ... The Strait of Hormuz: Geography, Strategic Importance, and ... Why is the Strait of Hormuz so important in the US-Iran ... Top Stories Why is the Strait of Hormuz so important? How Iranian attacks ... Explainer: What is the Strait of Hormuz and why is it so ... The Strait of Hormuz: From Geographic Reality to Iran’s Most ...</a></li>
-<li><a href="https://tradingeconomics.com/commodity/brent-crude-oil">Brent crude oil - Price - Chart - Historical Data - News</a></li>
-
-</ul>
-</details>
-
-**标签**: `#oil`, `#geopolitics`, `#energy markets`, `#Iran`, `#Strait of Hormuz`
+**标签**: `#immigration`, `#judicial`, `#executive power`, `#Supreme Court`, `#policy`
 
 ---
 
 <a id="item-8"></a>
-## [日本央行分歧投票、默茨评伊朗、斯塔默调查](https://www.bloomberg.com/news/videos/2026-04-28/daybreak-europe-4-28-2026-video) ⭐️ 9.0/10
+## [特朗普政策分裂福音派支持基础](https://www.nytimes.com/2026/04/28/us/politics/trump-christian-evangelical-faith.html) ⭐️ 8.0/10
 
-日本央行以 6 比 3 的分歧投票决定维持基准利率不变，三名政策委员反对加息，这是自植田和男行长上任以来最鹰派的分歧。德国总理弗里德里希·默茨表示，在特朗普总统艰难谈判结束战争的背景下，美国正被伊朗“羞辱”；英国首相基尔·斯塔默则面临议会可能就其是否在任命彼得·曼德尔森为美国大使一事上误导议会展开调查。 日本央行的分歧投票表明，在伊朗战争引发通胀上升和地缘政治风险的背景下，内部推动利率正常化的压力日益增大，6 月加息的可能性上升，这可能影响全球债券市场。默茨对美国直言不讳的批评反映了跨大西洋在伊朗政策上的紧张关系加剧，而斯塔默可能面临的调查则有可能在关键时刻动摇英国政府的稳定。 日本央行还将本财年的核心通胀预测上调至 2.8%，高于预期，同时将 GDP 增长预测从 1%下调至 0.5%。6 比 3 的投票结果是自 2016 年以来最显著的分歧，也是植田行长任内首次出现如此大的异议，凸显了在控制通胀与应对战争带来的经济风险之间平衡的内部分歧。
+特朗普总统在移民问题上的强硬政策、关于宗教的言论以及美国对伊朗的战争，导致其福音派基督徒支持者群体出现分裂，这一关键选民群体曾帮助他重返白宫。 福音派基督徒是特朗普选举联盟的关键组成部分，这一基础的任何分裂都可能严重影响他的政治前途及美国政治的总体格局。这一发展预示着未来选举中选民结盟可能发生转变。 文章明确指出，特朗普关于宗教的言论、强硬的移民政策以及美国对伊朗的战争是导致分裂的三个主要问题。这种分裂正发生在曾助他重返白宫的基督徒选民联盟内部。
 
-rss · Bloomberg Markets · Apr 28, 07:28
+rss · NYTimes Politics · Apr 28, 17:09
 
-**背景**: 日本央行多年来一直维持超宽松货币政策以对抗通缩，但全球通胀上升和日元贬值增加了利率正常化的压力。伊朗战争推高了能源价格，促使欧盟国家承诺投入超过 100 亿欧元来保护消费者和企业。彼得·曼德尔森是工党资深人物，曾于 2025 年担任英国驻美国大使，其任命已成为斯塔默的政治争议焦点。
+**背景**: 自 2016 年竞选以来，福音派基督徒一直是特朗普忠诚的选民群体，主要因为他在宗教自由和保守派司法任命方面的承诺。然而，其政府在移民和外交政策上的行动有时与部分福音派领袖和信徒所秉持的人道主义及和平价值观相冲突。据报道，这种紧张关系现已发展到公开分裂的地步。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://finance.yahoo.com/economy/policy/articles/bojs-split-vote-rates-marks-072329813.html?fr=sycsrp_catchall">BOJ's Split Vote on Rates Marks Most Hawkish Divide of Ueda Era</a></li>
-<li><a href="https://www.cnbc.com/2026/04/28/bank-of-japan-keeps-policy-rate-steady-cpi-iran-war-gdp.html">Bank of Japan keeps policy rate steady while raising ...</a></li>
-<li><a href="https://www.theguardian.com/politics/2026/apr/20/peter-mandelson-a-timeline-of-his-appointment-as-uk-ambassadorto-the-us">Peter Mandelson: a timeline of his appointment as UK ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#central banks`, `#geopolitics`, `#monetary policy`, `#UK politics`, `#Iran`
+**标签**: `#US Politics`, `#Evangelical Voters`, `#Trump Coalition`, `#Immigration Policy`, `#Iran War`
 
 ---
 
 <a id="item-9"></a>
-## [共和党因特朗普支持率下滑备战中期选举失利](https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html) ⭐️ 8.0/10
+## [特朗普再遇刺，美国政治暴力是否抬头？](https://www.nytimes.com/2026/04/28/us/politics/political-violence-data-trump-dinner-shooting.html) ⭐️ 8.0/10
 
-随着特朗普总统支持率下滑，共和党正在为即将到来的中期选举可能遭受严重失利做准备，不过部分党内成员认为仍有时间挽回局面。 共和党在中期选举中失利可能改变立法重点、影响经济和监管议程，并重塑美国政治格局，对治理和政策方向产生深远影响。 距离选举仍有六个月时间，部分共和党人仍抱有希望，认为该党能在 11 月前扭转局面。
+在唐纳德·特朗普遭遇第二次暗杀企图后，达特茅斯学院教授肖恩·韦斯特伍德依据追踪数据和公众认知研究，探讨美国政治暴力是否正在上升。 这一分析意义重大，因为它探讨了美国政治暴力这一关键且紧迫的问题，对政治稳定、公共安全和民主规范具有广泛影响，涉及政策制定者、安全分析师和普通公众。 文章引用了达特茅斯学院教授肖恩·韦斯特伍德的专家评论，他追踪政治暴力及美国民众对其的认知，为近期事件提供了数据驱动的背景。
 
-rss · NYTimes Politics · Apr 28, 09:04
+rss · NYTimes Politics · Apr 28, 18:29
 
-**背景**: 美国中期选举在总统任期中期举行，通常被视为对现任政府的公投。特朗普总统支持率下滑可能激发民主党选民投票热情，同时降低共和党投票率，可能导致国会控制权易手。
+**背景**: 美国政治暴力日益令人担忧，例如 1 月 6 日国会山袭击事件以及针对公众人物的多次威胁。此次针对前总统的最新暗杀企图凸显了持续的紧张局势，并引发了对这类暴力趋势的质疑。
 
-**标签**: `#U.S. politics`, `#midterm elections`, `#Republican Party`, `#Donald Trump`, `#political risk`
+**标签**: `#political violence`, `#U.S. politics`, `#public safety`, `#assassination attempt`, `#democracy`
 
 ---
 
 <a id="item-10"></a>
-## [特朗普官员推动全面放松儿童保育监管](https://www.nytimes.com/2026/04/28/us/politics/child-care-regulations.html) ⭐️ 8.0/10
+## [美军悄然加速秘密快艇打击行动](https://www.nytimes.com/2026/04/28/us/politics/us-boat-strikes.html) ⭐️ 8.0/10
 
-特朗普的最高儿童保育官员亚历克斯·亚当斯提出了一项重大的放松监管和削减开支计划，旨在降低不断上涨的儿童保育成本，但批评者认为这可能伤害儿童并迫使许多日托中心关闭。 这一政策转变可能重塑影响数百万美国家庭的儿童保育行业，可能降低成本，但也引发了对儿童安全和质量标准的严重担忧。 该提案旨在放松对儿童保育提供者的联邦和州监管，同时收紧开支，批评者警告这可能导致监督减少，增加儿童在保育中受到伤害的风险。
+据两名知情人士透露，美国军方已悄然增加用于快艇打击的秘密固定翼攻击机和武装 MQ-9“死神”无人机的部署数量。 此次升级标志着美军秘密行动显著加速，可能发生在冲突区域，对地缘政治稳定和冲突扩大风险具有潜在影响。 报道特别提到固定翼攻击机和 MQ-9“死神”无人机数量均有增加，但未披露具体增派数量或行动区域。
 
-rss · NYTimes Politics · Apr 28, 09:00
+rss · NYTimes Politics · Apr 28, 16:11
 
-**背景**: 美国儿童保育成本急剧上升，给家庭带来经济压力。监管旨在确保安全和质量，但有些人认为它们也推高了成本。该提案反映了可负担性与保护之间的更广泛辩论。
+**背景**: MQ-9“死神”是一种中空长航时无人机，可携带精确制导武器并执行持续监视任务。固定翼攻击机（如 AC-130 炮艇机）是重型武装平台，专为对地攻击和近距离空中支援设计。秘密快艇打击通常用于在敏感海域拦截走私、海盗或敌对海军活动。
 
-**标签**: `#child care`, `#deregulation`, `#public policy`, `#US politics`, `#social welfare`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/General_Atomics_MQ-9_Reaper">General Atomics MQ-9 Reaper - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lockheed_AC-130">Lockheed AC-130 - Wikipedia</a></li>
+<li><a href="https://defensefeeds.com/military-tech/air-force/air-force-uavs/mq-9-reaper/">MQ-9 Reaper: The World's Most Lethal Hunter-Killer Drone MQ-9 Reaper > Air Force > Fact Sheet Display MQ-9A Reaper (Predator B) | General Atomics Aeronautical ... MQ-9 Reaper Drone Specifications, Cost, Weapons & Global ... Guide to the MQ-9 Reaper: America’s Armed Drone Reign of Long-Endurance Drones Like US MQ-9 Reaper May Be ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#military`, `#geopolitics`, `#defense policy`, `#national security`, `#drones`
 
 ---
 
 <a id="item-11"></a>
-## [巴克莱披露 660 亿英镑非银行贷款敞口](https://www.bloomberg.com/news/articles/2026-04-28/barclays-reports-66-billion-exposure-to-non-bank-lending) ⭐️ 8.0/10
+## [通用汽车因最高法院裁决获 5 亿美元关税退款](https://www.nytimes.com/2026/04/28/business/general-motors-trump-tariffs.html) ⭐️ 8.0/10
 
-这一披露凸显了投资者对影子银行风险日益增长的担忧，因为大型银行对非银行机构的隐性敞口一旦信心动摇，可能对金融稳定构成系统性威胁。 660 亿英镑的数字代表了巴克莱的结构化融资敞口，包括向非银行金融实体提供杠杆的复杂表外安排。此类敞口通常不透明，在市场压力时期可能放大风险。
+通用汽车宣布，根据最高法院 2 月的一项裁决，它将获得此前支付的 5 亿美元关税退款，该裁决改变了某些关税征收的法律依据。 这笔退款标志着关税执法可能发生转变，并可能为其他寻求类似救济的公司树立先例，直接影响企业盈利和更广泛的贸易政策预期。 这 5 亿美元退款与通用汽车在最高法院 2 月裁决前支付的关税有关，但具体的关税类别和还款时间表尚未详细说明。
 
-rss · Bloomberg Markets · Apr 28, 09:10
+rss · NYTimes Politics · Apr 28, 20:32
 
-**背景**: 结构化融资涉及通过表外实体管理杠杆和风险的复杂金融工具。影子银行——如货币市场基金和金融公司等非银行金融中介——在传统银行监管之外开展借贷功能，可能造成流动性错配和系统性脆弱性。
+**背景**: 关税是对进口商品征收的税，政府常用来保护国内产业或作为贸易争端工具。美国最高法院偶尔会就关税行动的合法性作出裁决，其 2 月的裁决显然使通用汽车已支付的某些关税失去了法律依据。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Structured_finance">Structured finance - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Shadow_banking_system">Shadow banking system - Wikipedia</a></li>
-<li><a href="https://www.imf.org/en/publications/fandd/issues/series/back-to-basics/shadow-banks">Shadow Banks: Out of the Eyes of Regulators</a></li>
-
-</ul>
-</details>
-
-**标签**: `#banking`, `#financial stability`, `#shadow banking`, `#UK`, `#risk disclosure`
+**标签**: `#tariffs`, `#Supreme Court`, `#General Motors`, `#trade policy`, `#corporate earnings`
 
 ---
 
 <a id="item-12"></a>
-## [印度卡车司机恐慌性抢购柴油，价格即将上涨](https://www.bloomberg.com/news/articles/2026-04-28/indian-truckers-fret-as-looming-diesel-hikes-spur-panic-buying) ⭐️ 8.0/10
+## [2025 年教育部民权投诉处理量下降 30%](https://www.nytimes.com/2026/04/28/us/politics/education-department-civil-rights-trump.html) ⭐️ 8.0/10
 
-由于担心柴油价格即将上涨，印度卡车司机正在恐慌性抢购柴油，导致该国东南部部分加油站出现燃油短缺。 这种恐慌性购买可能扰乱交通运输和供应链，有可能推高通胀，影响印度数百万消费者和企业。 短缺情况在一个周日被报道，部分加油站出现令人担忧的告示，显示无汽油或柴油可用。
+据《纽约时报》获得的数据，2025 年教育部处理的歧视投诉比上一年减少了 30%。 投诉处理量的大幅下降表明特朗普政府期间民权执法放缓，可能使许多歧视受害者无法及时获得公正。这引发了对联邦教育监管弱化及其对边缘化学生影响的担忧。 《纽约时报》发布的数据涵盖 2025 年，显示已解决的投诉比 2024 年减少了 30%。这一放缓归因于特朗普政府对教育部的全面改革。
 
-rss · Bloomberg Markets · Apr 28, 08:56
+rss · NYTimes Politics · Apr 28, 19:23
 
-**背景**: 柴油是印度交通运输部门的关键燃料，尤其是对于运输该国大部分货物的卡车运输业。价格上涨会迅速波及整个经济，推高食品、燃料和其他必需品的成本。印度是一个主要的发展中经济体，燃油价格变化往往具有政治和社会影响。
+**背景**: 教育部民权办公室负责调查和解决接受联邦资助的学校中的歧视投诉。已解决案件减少可能意味着寻求种族、性别或残疾歧视等问题补救的学生和家庭等待时间更长。
 
-**标签**: `#India`, `#energy`, `#inflation`, `#supply chain`, `#transportation`
+**标签**: `#civil rights`, `#education policy`, `#Trump administration`, `#discrimination`, `#government oversight`
 
 ---
 
 <a id="item-13"></a>
-## [越南天然气巨头因伊朗战争转向美国 LPG](https://www.bloomberg.com/news/articles/2026-04-27/vietnam-gas-major-looks-to-us-as-iran-war-reorders-lpg-flows) ⭐️ 8.0/10
+## [美联储料将维持利率不变，无视特朗普施压](https://www.nytimes.com/2026/04/28/business/federal-reserve-chair-rates-warsh-powell.html) ⭐️ 8.0/10
 
-越南石油天然气公司（PetroVietnam Gas JSC）计划从下个月起，从美国进口的液化石油气（LPG）超过其传统的中东供应商，这标志着伊朗战争直接改变了其供应链。 这一转变表明伊朗战争正在从根本上重塑全球能源贸易路线，亚洲主要买家正从中东转向美国供应商。这对东南亚的能源安全、贸易政策和地区稳定具有重大影响。 越南石油天然气公司（PetroVietnam Gas）是一家国有企业，也是越南石油天然气集团的关键成员，其决定反映了在地缘政治动荡中实现供应来源多元化的战略举措。该公司主要从事天然气及天然气产品的收集、运输、储存、加工和贸易业务。
+美联储预计将在杰罗姆·鲍威尔作为主席的最后一次会议上维持利率不变，抵制特朗普总统要求其青睐的提名人立即降息的压力。 这一决定凸显了政治压力与央行独立性之间的紧张关系，对货币政策方向及美联储领导层交接具有深远影响。 此次会议很可能是鲍威尔作为主席的最后一次会议，而特朗普青睐的候选人凯文·沃什不太可能应总统要求迅速降息。
 
-rss · Bloomberg Markets · Apr 27, 22:00
+rss · NYTimes Politics · Apr 28, 13:29
 
-**背景**: 液化石油气（LPG）是一种含有易燃碳氢气体混合物（主要是丙烷和丁烷）的燃料气体，广泛用于烹饪、供暖和作为石化原料。伊朗战争扰乱了传统的中东供应路线，促使越南等亚洲进口商寻求替代来源，例如美国——由于页岩气生产，美国已成为主要的 LPG 出口国。
+**背景**: 美联储通过设定利率来管理通胀和就业。总统常施压要求降息以刺激经济，但美联储被设计为独立于政治影响。鲍威尔的主席任期即将结束，特朗普已提名继任者。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.pvgas.com.vn/home">Home [www.pvgas.com.vn]</a></li>
-<li><a href="https://pvn.vn/sites/en/Pages/default.aspx">Petrovietnam</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Liquefied_petroleum_gas">Liquefied petroleum gas - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#geopolitics`, `#energy trade`, `#Iran war`, `#LPG`, `#Vietnam`
+**标签**: `#Federal Reserve`, `#monetary policy`, `#interest rates`, `#Trump`, `#Jerome Powell`
 
 ---
 
 <a id="item-14"></a>
-## [科技股下跌，布伦特原油因霍尔木兹海峡关闭突破 110 美元](https://www.bloomberg.com/news/articles/2026-04-27/stock-market-today-dow-s-p-live-updates) ⭐️ 8.0/10
+## [特朗普人气下滑，共和党备战中期选举失利](https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html) ⭐️ 8.0/10
 
-科技股领跌股市，因市场重新担忧大规模人工智能投资的盈利能力，同时由于霍尔木兹海峡持续关闭，布伦特原油价格飙升至每桶 110 美元以上。 这一双重冲击——人工智能投资疑虑打击关键市场板块，以及地缘政治能源危机威胁全球供应——为全球的经济稳定和投资者情绪带来了显著阻力。 根据 2026 年 4 月的数据，布伦特原油在过去一个月上涨了 11.69%，同比上涨 75.94%。霍尔木兹海峡是全球石油和天然气贸易的重要动脉，目前实际上仍处于关闭状态。
+据《纽约时报》报道，随着前总统唐纳德·特朗普的人气下滑，共和党正在为即将到来的美国中期选举中可能出现的严重失利做准备，这威胁到该党目前的政治地位。 这一事态意义重大，因为中期选举可能改变国会的控制权，影响美国的财政政策、监管和地缘政治战略，而特朗普人气下滑则增加了影响党内动态和选民投票率的系统性因素。 选举还有六个月的时间，共和党内部的一些人认为仍有时间改善该党的前景。
 
-rss · Bloomberg Markets · Apr 27, 22:06
+rss · NYTimes Politics · Apr 28, 18:16
 
-**背景**: 霍尔木兹海峡是伊朗和阿曼之间的一条狭窄水道，全球相当大比例的石油和天然气供应都经过这里。其关闭会扰乱全球能源贸易，推高油价，并可能引发经济成本上涨的连锁反应。布伦特原油是全球主要的石油基准，用于定价全球约三分之二的原油供应。
+**背景**: 美国中期选举每两年举行一次，在总统任期中期进行，通常被视为对现任总统政绩的公投。唐纳德·特朗普在共和党内仍是一位极具影响力的人物，他的受欢迎程度直接影响该党的选举前景。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.dallasfed.org/research/economics/2026/0320">What the closure of the Strait of Hormuz means for the global ...</a></li>
-<li><a href="https://unctad.org/system/files/official-document/osginf2026d2_en.pdf">Strait of Hormuz Disruptions: Growth and financial implications</a></li>
-<li><a href="https://tradingeconomics.com/commodity/brent-crude-oil">Brent crude oil - Price - Chart - Historical Data - News</a></li>
-
-</ul>
-</details>
-
-**标签**: `#markets`, `#geopolitics`, `#energy`, `#artificial intelligence`, `#macroeconomics`
+**标签**: `#U.S. politics`, `#midterm elections`, `#Republican Party`, `#Donald Trump`, `#election forecasting`
 
 ---
 
 <a id="item-15"></a>
-## [中海油因伊朗战争推高油价而利润增长](https://www.bloomberg.com/news/articles/2026-04-28/cnooc-posts-stronger-profit-as-middle-east-war-boosts-oil-prices) ⭐️ 8.0/10
+## [特朗普官员寻求儿童保育“法规篝火”](https://www.nytimes.com/2026/04/28/us/politics/child-care-regulations.html) ⭐️ 8.0/10
 
-中国最大的海上油气生产商中海油（Cnooc Ltd.）公布了 2026 年第一季度利润增长，这得益于涉及伊朗的中东战争导致全球原油价格上涨。 这一消息凸显了重大地缘政治冲突如何直接影响国有能源公司的财务表现，并对全球能源市场、通胀以及中国及国际投资者的情绪产生影响。 利润增长归因于该季度实现油价上涨，因为中东战争扰乱了供应预期并推高了原油价格。
+特朗普的最高儿童保育官员亚历克斯·亚当斯提出了一项全面的放松管制和削减开支计划，以应对不断上涨的儿童保育成本，批评者认为这将危及儿童安全并导致日托中心关闭。 这一政策转变可能从根本上重塑美国儿童保育行业，影响数百万家庭的可负担性，同时可能降低安全标准并减少照护服务的可及性。 该提案旨在削减联邦儿童保育项目的开支，同时消除亚当斯所称的繁重法规，但报告中未详细说明具体针对哪些规定。
 
-rss · Bloomberg Markets · Apr 28, 08:34
+rss · NYTimes Politics · Apr 28, 09:00
 
-**背景**: 中海油是一家国有企业，也是中国能源安全的关键参与者。涉及伊朗的中东战争因担心主要产油区供应中断而大幅推高了全球油价。
+**背景**: 近年来，美国儿童保育成本急剧上升，给家庭预算带来压力并引发政策辩论。联邦和州法规规定了安全、人员配比和设施标准，提供者称这些增加了成本，但倡导者认为这对保护儿童至关重要。
 
-**标签**: `#oil prices`, `#geopolitics`, `#China`, `#energy`, `#Middle East conflict`
+**标签**: `#child care`, `#regulation`, `#Trump administration`, `#public policy`, `#economics`
 
 ---
 
 <a id="item-16"></a>
-## [信越化学因伊朗战争影响撤回年度预测](https://www.bloomberg.com/news/articles/2026-04-28/shin-etsu-withholds-annual-outlook-due-to-iran-war-disruptions) ⭐️ 8.0/10
+## [通力接近以 290 亿欧元收购蒂森克虏伯电梯](https://www.bloomberg.com/news/articles/2026-04-28/kone-is-said-to-near-29-billion-deal-for-rival-tk-elevator) ⭐️ 8.0/10
 
-信越化学株式会社因中东战争（尤其是涉及伊朗的冲突）导致的供应限制和价格波动，撤回了其全年财务预测。 此举表明半导体、建筑和电子产品关键供应链受到严重干扰，因为信越化学是全球硅晶圆和化学材料的主要供应商。撤回年度预测是一项罕见的公司行动，凸显了战争对全球市场的直接经济影响。 信越化学未提供修订后的预测或具体说明干扰持续时间，使投资者对未来收益不确定。该决定反映了伊朗冲突导致的化学行业原材料短缺和价格波动。
+芬兰通力集团接近以 290 亿欧元的现金加股票交易收购蒂森克虏伯电梯，这将是欧洲最大的私募股权退出交易之一。 这笔交易将显著整合全球电梯市场，可能减少竞争，影响全球客户的定价和服务。同时，它也是欧洲私募股权的一个重要里程碑，表明投资者对大规模工业退出的强烈兴趣。 该交易采用现金加股票的结构，但现金与股票的具体比例尚未披露。交易仍需获得监管批准并完成最终谈判。
 
-rss · Bloomberg Markets · Apr 28, 07:11
+rss · Bloomberg Markets · Apr 28, 20:25
 
-**背景**: 信越化学是全球最大的硅晶圆生产商之一，硅晶圆是半导体制造的关键材料，同时该公司还为建筑行业供应聚氯乙烯（PVC）。中东战争（尤其是涉及伊朗的冲突）扰乱了石油和天然气供应，提高了石化原料成本，并在整个化工行业造成价格波动。
-
-**标签**: `#geopolitics`, `#supply chain`, `#chemicals`, `#Iran war`, `#market disruption`
-
----
-
-<a id="item-17"></a>
-## [欧元区银行收紧企业信贷标准，幅度为 2023 年以来最大](https://www.bloomberg.com/news/articles/2026-04-28/euro-zone-banks-tighten-firms-credit-standards-most-since-2023) ⭐️ 8.0/10
-
-2026 年初，受伊朗战争等地缘政治紧张局势影响，欧元区银行对企业信贷标准的收紧幅度达到 2023 年以来最大。 这一显著收紧信号表明欧元区商业投资和经济活动可能放缓，对货币政策和金融稳定具有直接影响。 此次收紧是两年多来最严重的一次，加剧了本已存在的信贷限制趋势。地缘政治事件，尤其是伊朗战争，被列为关键驱动因素。
-
-rss · Bloomberg Markets · Apr 28, 08:00
-
-**背景**: 欧元区银行定期调查贷款条件，信贷标准反映了银行向企业放贷的意愿程度。标准收紧意味着利率上升、抵押品要求更严格或贷款额度减少，这可能会抑制企业投资和经济增长。
-
-**标签**: `#euro zone`, `#credit tightening`, `#geopolitical risk`, `#monetary policy`, `#economic slowdown`
-
----
-
-<a id="item-18"></a>
-## [中国迫使 Meta 撤销 AI 协议；日本央行转向鹰派](https://www.bloomberg.com/news/videos/2026-04-28/insight-with-haslinda-amin-4-28-2026-video) ⭐️ 8.0/10
-
-据彭博社 2026 年 4 月 28 日的《Insight》节目报道，中国已迫使 Meta 撤销一项人工智能协议，同时日本央行采取了更为鹰派的货币政策立场。 这两项发展具有重大的地缘政治和金融影响：Meta 协议撤销凸显了中美之间技术监管紧张局势的升级，而日本央行的鹰派转向则预示着可能收紧的货币政策周期，这可能会影响全球债券市场和货币流动。 Meta AI 协议的具体条款以及中国执法行动的确切性质尚未披露；日本央行的鹰派转向可能涉及利率或资产购买计划的调整，但尚未发布官方声明。
-
-rss · Bloomberg Markets · Apr 28, 07:20
-
-**背景**: 这一消息正值中美科技竞争持续之际，北京方面对涉及人工智能等敏感技术的外国科技交易加强了控制。日本央行在行长植田和男的领导下，正逐步摆脱超宽松货币政策，更鹰派的立场将标志着向正常化迈出又一步。
-
-**标签**: `#geopolitics`, `#monetary policy`, `#technology regulation`, `#China`, `#Japan`
-
----
-
-<a id="item-19"></a>
-## [西班牙失业率创疫情以来最大季度增幅](https://www.bloomberg.com/news/articles/2026-04-28/spain-s-jobless-rate-increases-the-most-since-the-pandemic) ⭐️ 8.0/10
-
-西班牙失业率录得自疫情以来最大的季度增幅，这对欧元区表现最佳的经济体之一来说是一个显著的挫折。 这一事态表明欧元区主要经济体的劳动力市场趋势可能发生转变，可能影响货币政策决策和区域经济稳定。 此次增幅被描述为自疫情以来最大的季度增长，但报告中未明确具体的百分比变化。
-
-rss · Bloomberg Markets · Apr 28, 07:30
-
-**背景**: 西班牙近年来一直是欧元区表现最佳的主要经济体之一，就业增长强劲，失业率下降。疫情在 2020 年导致失业率急剧上升，随后逐步复苏。此次新的增长表明复苏势头可能正在减弱。
-
-**标签**: `#Spain`, `#unemployment`, `#eurozone economy`, `#labor market`, `#economic indicators`
-
----
-
-<a id="item-20"></a>
-## [加州推进美国首个亿万富翁财富税](https://www.marketwatch.com/story/california-is-one-step-closer-to-americas-first-billionaire-wealth-tax-and-the-divide-between-red-and-blue-state-taxes-is-getting-deeper-18ef3232?mod=mw_rss_topstories) ⭐️ 8.0/10
-
-加州已向实施美国首个亿万富翁财富税迈进一步，该提案将对州内最富有的居民征收年度净资产税。此举加剧了红州和蓝州之间税收政策日益扩大的分歧。 作为世界第五大经济体，加州为州级财富税树立先例，可能重塑全国财政政策，并加剧富裕人群在州际间的迁移。这一发展对经济不平等、州财政收入以及围绕对超级富豪征税的更广泛辩论具有重大影响。 拟议的税收将适用于亿万富翁超过特定门槛的净资产，但具体税率和豁免条款仍在协商中。该法案仍需进一步的立法批准，并可能因州税权的宪法限制而面临法律挑战。
-
-rss · MarketWatch Top Stories · Apr 28, 00:56
-
-**背景**: 财富税是对个人总净资产而非收入或交易征收的税种，与其他发达国家相比，在美国较为罕见。加州历来实行累进税制且所得税率较高，该提案代表了这一路线的升级。倾向于低税负的红州与通常对富人征收更高税负的蓝州之间日益扩大的差距，反映了美国财政政策中更深层次的意识形态分歧。
-
-**标签**: `#wealth tax`, `#California`, `#state tax policy`, `#inequality`, `#fiscal policy`
-
----
-
-<a id="item-21"></a>
-## [议员就曼德尔森审查争议质询前外交部负责人](https://www.bbc.com/news/articles/cn8p7vn759xo?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
-
-前外交部常务秘书菲利普·巴顿爵士和前首相府幕僚长摩根·麦克斯威尼正接受议员质询，内容涉及彼得·曼德尔森外交任命的审查程序。 此次听证会审查政府在高调外交任命中的问责制和透明度，可能影响公众对审查制度的信任和政治稳定。 质询围绕前工党大臣彼得·曼德尔森的审查争议展开，涉及两位监督该过程的高级官员。
-
-rss · BBC Politics · Apr 28, 09:36
-
-**背景**: 彼得·曼德尔森是一位资深工党政治家，曾担任多个内阁职务。此次审查争议涉及对其外交任命过程中违规行为的指控，引发关于此类任命如何处理以及是否遵循适当程序的质疑。
-
-**标签**: `#UK politics`, `#government accountability`, `#diplomatic appointments`, `#vetting controversy`, `#public inquiry`
-
----
-
-<a id="item-22"></a>
-## [英国大臣承诺对 16 岁以下用户实施社交媒体限制](https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
-
-英国教育大臣奥利维娅·贝利宣布，政府将对 16 岁以下用户的社交媒体平台实施基于年龄或功能的限制。 这一政策声明预示着即将出台的监管措施，可能重塑科技公司为未成年人设计及运营平台的方式，并有可能为其他国家树立先例。 大臣并未明确限制是年龄门槛（完全禁止访问）还是基于功能（限制消息或算法等特性），关键细节仍有待确定。
-
-rss · BBC Politics · Apr 28, 07:12
-
-**背景**: 英国近年来日益关注儿童在线安全，《在线安全法》已要求平台承担保护未成年人的责任。这一新承诺在该框架基础上进一步推进，旨在应对社交媒体对青少年心理健康和福祉影响的担忧。
-
-**标签**: `#UK politics`, `#social media regulation`, `#child safety`, `#digital policy`, `#government announcement`
-
----
-
-<a id="item-23"></a>
-## [英国议员网站遭 1.42 亿次恶意请求攻击](https://www.bbc.com/news/articles/c4g7v2ddvyko?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
-
-古尔和波克灵顿选区议员戴维斯爵士在下议院透露，其网站遭受大规模分布式拒绝服务（DDoS）攻击，24 小时内被 1.42 亿次请求击中，消耗近 800 GB 数据，并将访问者重定向至东南亚赌博网站。 这一事件凸显了政治人物数字基础设施易受大规模网络攻击的脆弱性，此类攻击可能扰乱民主进程并引发国家安全担忧，尤其是当攻击可追溯至外国行为者时。 戴维斯爵士声称大部分恶意流量可追溯至中国，攻击在 24 小时内消耗了近 800 GB 数据，并将用户重定向至东南亚赌博网站。
-
-rss · BBC Politics · Apr 28, 08:42
-
-**背景**: 分布式拒绝服务（DDoS）攻击通过大量流量淹没网站，使其对合法用户不可用。将访问者重定向至赌博网站是攻击者常用的手段，旨在获取非法收入或损害目标声誉。针对政治人物的此类攻击尤其令人担忧，因为它们可能干扰民主进程和公众信任。
+**背景**: 蒂森克虏伯电梯原是德国工业集团蒂森克虏伯的电梯部门，于 2020 年被分拆并出售给一个私募股权财团。通力是一家芬兰电梯和自动扶梯制造商，与蒂森克虏伯电梯、奥的斯和迅达共同主导全球电梯市场。如此规模的合并将创建一个拥有显著市场份额的实体，引发多个司法管辖区的反垄断担忧。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.independent.co.uk/news/uk/sir-david-davis-mp-website-china-cyber-attack-b2966023.html">MP’s website sees cyberattack ‘traceable to China’, sending users to gambling pages | The Independent</a></li>
-<li><a href="https://www.bbc.co.uk/news/articles/c4g7v2ddvyko">MP Sir David Davis's website shut down in suspected cyber attack - BBC News</a></li>
-<li><a href="https://www.techradar.com/pro/security/major-website-hijacking-scam-sees-over-35-000-sites-attacked-redirected-to-gambling-sites-so-be-on-your-guard">Major website hijacking scam sees over 35,000 sites attacked, redirected to gambling sites, so be on your guard | TechRadar</a></li>
+<li><a href="https://en.wikipedia.org/wiki/TK_Elevator">TK Elevator</a></li>
+<li><a href="https://www.tkelevator.com/us-en/">TK Elevator | US - Move Beyond</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cybersecurity`, `#UK politics`, `#national security`, `#cyber attack`
+**标签**: `#M&A`, `#private equity`, `#industrial`, `#Europe`, `#competition`
+
+---
+
+<a id="item-17"></a>
+## [油价推升通胀预期，美债收益率走高](https://www.bloomberg.com/news/articles/2026-04-28/us-treasuries-trade-rangebound-as-fed-officials-prepare-to-meet) ⭐️ 8.0/10
+
+美国国债价格下跌，收益率升至数周高位，原因是油价上涨推高了通胀预期，降低了美联储降息的可能性。 这一变化通过改变市场对美联储政策的预期，直接影响借贷成本、投资决策和经济增长前景，对金融市场具有重大意义。 收益率上升反映了油价上涨推高的通胀预期，从而抑制了市场对美联储近期降息的预期。
+
+rss · Bloomberg Markets · Apr 28, 10:47
+
+**背景**: 美国国债是美国政府发行的债券，其收益率与价格呈反向变动。油价上涨会推高通胀预期，促使债券投资者要求更高的收益率以补偿购买力下降，从而降低央行降息的可能性。
+
+**标签**: `#Treasuries`, `#Oil Prices`, `#Inflation`, `#Federal Reserve`, `#Bond Yields`
+
+---
+
+<a id="item-18"></a>
+## [意大利埃尼公司扩大在委内瑞拉奥里诺科石油项目布局](https://www.bloomberg.com/news/articles/2026-04-28/italy-s-eni-expands-venezuela-push-with-orinoco-oil-deal) ⭐️ 8.0/10
+
+意大利埃尼公司（Eni SpA）已同意重启委内瑞拉奥里诺科石油带的一个石油项目，随着美国制裁的放松，该公司正在深化其在委内瑞拉的业务布局。 该协议标志着美国制裁放松后国际石油公司参与度的实质性转变，对全球石油市场、美国外交政策以及委内瑞拉的经济复苏都具有重要意义。 奥里诺科石油带被认为是全球最大的单一碳氢化合物聚集区，估计蕴藏 1.18 万亿桶石油。埃尼此举是西方能源公司在制裁放松背景下重返委内瑞拉这一更广泛趋势的一部分。
+
+rss · Bloomberg Markets · Apr 28, 19:36
+
+**背景**: 奥里诺科石油带是委内瑞拉东部的一个广阔石油区域，富含重质和超重质原油。美国此前对委内瑞拉石油部门的制裁阻止了许多国际公司在那里运营，但近期的制裁放松为新一轮投资打开了大门。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Orinoco_Belt">Orinoco Belt - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Carabobo_Field">Carabobo Field - Wikipedia</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-28/italy-s-eni-expands-venezuela-push-with-orinoco-oil-deal">Eni Signs Deal to Restart Orinoco Oil Project in Venezuela With PDVSA - Bloomberg</a></li>
+
+</ul>
+</details>
+
+**标签**: `#energy`, `#geopolitics`, `#Venezuela`, `#sanctions`, `#oil`
+
+---
+
+<a id="item-19"></a>
+## [FCC 将审查迪士尼旗下 ABC 电视台执照](https://www.bloomberg.com/news/videos/2026-04-28/fcc-to-start-early-review-of-disney-owned-stations-video) ⭐️ 8.0/10
+
+美国联邦通信委员会（FCC）宣布将对迪士尼旗下 ABC 电视网的广播执照进行提前审查，理由是可能存在“非法歧视”。此举紧随总统唐纳德·特朗普要求 ABC 解雇深夜节目主持人吉米·坎摩尔之后。 这标志着联邦监管机构基于政治人物的投诉介入媒体执照审查的重要案例，引发了对政府施压言论自由和媒体独立性的担忧。其结果可能为 FCC 处理政治敏感的执照审查树立先例，影响全国广播公司。 根据 FCC 规定，如果认为调查有必要，其有权要求广播公司提前提交执照续期申请。此次审查将聚焦迪士尼旗下电视台是否涉及非法歧视，但具体指控尚未详细说明。
+
+rss · Bloomberg Markets · Apr 28, 19:11
+
+**背景**: 广播执照由 FCC 颁发并需定期续期；1934 年《通信法》禁止广播中的歧视行为。FCC 的提前审查程序允许其在执照正常到期前调查潜在违规行为。特朗普总统公开要求 ABC 因主持人吉米·坎摩尔的节目言论将其解雇，加剧了对该网络的审查。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.fcc.gov/media/television/broadcast-television-license-renewal">License Renewal Applications for Television Broadcast Stations</a></li>
+<li><a href="https://www.theguardian.com/us-news/2026/apr/28/fcc-abc-jimmy-kimmel">FCC orders review of ABC licenses after Jimmy... | The Guardian</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Broadcast_law">Broadcast law - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#FCC`, `#media regulation`, `#Disney`, `#free speech`, `#Trump`
+
+---
+
+<a id="item-20"></a>
+## [美国地质调查局：阿巴拉契亚锂矿可支撑 1.3 亿辆电动汽车](https://www.bloomberg.com/news/articles/2026-04-28/appalachians-hold-enough-lithium-to-curb-us-imports-usgs-says) ⭐️ 8.0/10
+
+美国地质调查局发布最新研究指出，美国东部阿巴拉契亚地区蕴藏的锂资源足以支撑 1.3 亿辆电动汽车，并能在数百年内大幅减少美国对进口锂的依赖。 这一发现可能重塑美国关键矿产战略，减少对国外锂进口（尤其是来自中国的进口）的依赖，并在当前能源转型和贸易紧张局势下加速国内电动汽车和电池供应链的发展。 该评估聚焦于阿巴拉契亚北部造山带的锂矿化伟晶岩，采用了美国地质调查局开发的定量矿产资源评估方法。该地区的地质构造——包括金斯山矿等含锂辉石伟晶岩角闪岩矿床——是锂资源潜力的关键。
+
+rss · Bloomberg Markets · Apr 28, 18:56
+
+**背景**: 锂是电动汽车和储能领域所用锂离子电池的关键矿物。美国目前严重依赖进口锂供应，存在战略脆弱性。美国地质调查局一直在积极评估国内锂矿床以降低供应风险，阿巴拉契亚地区正成为一个重要的新来源。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.usgs.gov/centers/national-minerals-information-center/lithium-statistics-and-information">Lithium Statistics and Information | U.S. Geological Survey</a></li>
+<li><a href="https://www.usgs.gov/publications/quantitative-mineral-resource-assessment-lithium-pegmatite-deposits-northern">Quantitative mineral resource assessment of lithium pegmatite deposits in the northern Appalachian orogen, USA | U.S. Geological Survey</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s11053-026-10652-9">Quantitative Mineral Resource Assessment of Lithium Pegmatite Deposits in the Northern Appalachian Orogen, USA | Natural Resources Research | Springer Nature Link</a></li>
+
+</ul>
+</details>
+
+**标签**: `#lithium`, `#critical minerals`, `#energy transition`, `#US supply chain`, `#EVs`
+
+---
+
+<a id="item-21"></a>
+## [国防股因预算预期降温而下跌，Hegseth 作证在即](https://www.bloomberg.com/news/articles/2026-04-28/budget-fears-weigh-on-defense-stocks-ahead-of-hegseth-testimony) ⭐️ 8.0/10
+
+投资者对美国国防股的狂热情绪消退，股价从历史高点回落，市场担忧在 Pete Hegseth 的关键证词前，国防预算大幅增加的可能性不大。 市场情绪的这一转变预示着国防板块可能面临重新估值，可能影响投资者投资组合、政府预算决策以及在伊朗战争持续背景下的国家安全优先事项。 推动国防股创下历史新高的涨势发生在伊朗战争开始两个月后，但投资者现在担心涨势过快过猛，且大幅增加预算的可能性不大。
+
+rss · Bloomberg Markets · Apr 28, 17:57
+
+**背景**: 国防股通常在地缘政治冲突期间因预期政府将增加军事装备和服务支出而上涨。然而，实际预算增加取决于政治谈判和财政约束，这可能会抑制市场乐观情绪。
+
+**标签**: `#defense stocks`, `#defense budget`, `#geopolitics`, `#market sentiment`, `#Iran war`
+
+---
+
+<a id="item-22"></a>
+## [交易员对冲油价暴跌风险，尽管油价已超 110 美元](https://www.bloomberg.com/news/articles/2026-04-28/traders-protect-against-selloff-even-as-oil-climbs-above-110) ⭐️ 8.0/10
+
+尽管因供应中断和霍尔木兹海峡近乎关闭，油价已攀升至每桶 110 美元以上，但一些交易员正在买入期权，以对冲因美伊关系可能缓和而导致的价格突然下跌。 这种对冲活动表明，尽管当前油价高企，市场参与者仍看到显著的下行风险，反映出对地缘政治结果的深度不确定性。此举可能影响更广泛的能源市场动态和整个行业的风险管理策略。 霍尔木兹海峡——全球约 20%的石油供应经过此处——实际上仍处于关闭状态，加剧了油价飙升。交易员正在使用看跌期权来确保最低销售价格，这是对冲价格下跌的常见策略。
+
+rss · Bloomberg Markets · Apr 28, 17:48
+
+**背景**: 霍尔木兹海峡位于阿曼和伊朗之间，是全球石油和天然气贸易的关键咽喉要道。近期美伊紧张局势导致该海峡被宣布为高风险区域，严重扰乱了航运。在此类波动市场中，交易员常使用期权（一种赋予在约定价格买入或卖出权利的金融衍生品）来对冲不利的价格变动。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">2026 Strait of Hormuz crisis - Wikipedia</a></li>
+<li><a href="https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price">What is the strait of Hormuz and why is it crucial for oil ... | The Guardian</a></li>
+<li><a href="https://www.optionstrading.org/blog/oil-crisis-options-strategies/">Options Strategies for an Oil Crisis: $100+ Crude Playbook</a></li>
+
+</ul>
+</details>
+
+**标签**: `#oil`, `#geopolitics`, `#energy markets`, `#hedging`, `#US-Iran`
+
+---
+
+<a id="item-23"></a>
+## [阿联酋退出 OPEC，增产需谨慎](https://www.marketwatch.com/story/u-a-e-is-leaving-opec-but-will-still-need-to-exercise-caution-as-it-increases-oil-production-0979cd87?mod=mw_rss_topstories) ⭐️ 8.0/10
+
+阿联酋决定在本周末退出石油输出国组织（OPEC），这一举动在全球石油生产和中东航道遭受严重干扰之际令人意外。 此次退出标志着石油联盟格局的重大转变，可能重塑全球石油生产和供应平衡，阿联酋需谨慎管理其增产计划，以避免市场动荡。 阿联酋退出之际，全球石油生产和中东航道正面临严重干扰，该国在增产时仍需保持谨慎，以免加剧市场波动。
+
+rss · MarketWatch Top Stories · Apr 28, 20:17
+
+**背景**: OPEC 是由主要产油国组成的卡特尔，通过协调产量来影响全球油价。阿联酋一直是重要成员，但近期在产量配额和战略方向上的分歧使其与组织关系紧张。
+
+**标签**: `#OPEC`, `#UAE`, `#oil production`, `#geopolitics`, `#energy markets`
 
 ---
 
 <a id="item-24"></a>
-## [美联储主席换人不太可能立即降息](https://www.nytimes.com/2026/04/28/business/federal-reserve-chair-rates-warsh-powell.html) ⭐️ 7.0/10
+## [英国考虑对 16 岁以下青少年实施社交媒体限制](https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
 
-美联储预计将在即将召开的会议上维持利率不变，这很可能是杰罗姆·鲍威尔作为主席的最后一次会议，新主席上任后不会立即转向降息。 这表明在领导层过渡期间货币政策将保持连续性，让市场放心高层变动并不意味着政策方向自动改变。这也抑制了近期降息的预期，可能影响借贷成本和投资决策。 文章聚焦于即将召开的美联储会议以及鲍威尔主席任期可能结束，但未明确新主席人选或过渡时间表。关于不会立即降息的结论基于美联储当前依赖数据的政策方针。
+随着一项新的社交媒体法案进入议会最后阶段，英国政府正在就针对 16 岁以下儿童的潜在社交媒体限制措施进行咨询。 这项政策可能重塑科技公司在英国的运营方式，实施更严格的年龄限制措施，并对儿童安全、数字权利和行业合规产生影响。 此次咨询是政府更广泛的社交媒体监管努力的一部分，但具体限制措施——如全面禁令或强制性家长控制——尚未最终确定。
 
-rss · NYTimes Politics · Apr 28, 09:04
+rss · BBC Politics · Apr 28, 10:46
 
-**背景**: 美联储通过设定利率来影响经济活动和控制通胀。美联储主席换人是罕见事件，可能引发对未来政策方向的不确定性，但美联储的决策通常基于经济数据而非个人领导。
+**背景**: 英国一直在推进《在线安全法案》，这是一项旨在让儿童上网更安全的里程碑式立法。该法案要求社交媒体平台采取积极措施保护未成年人免受有害内容侵害。当前的咨询专门探讨针对 16 岁以下青少年的额外措施，反映了在保护与言论自由之间寻求平衡的持续辩论。
 
-**标签**: `#Federal Reserve`, `#monetary policy`, `#interest rates`, `#leadership transition`, `#central banking`
+**标签**: `#social media regulation`, `#child safety`, `#UK policy`, `#digital rights`, `#legislation`
 
 ---
 
 <a id="item-25"></a>
-## [国王查尔斯访问因晚宴枪击蒙上阴影](https://www.nytimes.com/2026/04/27/us/politics/trump-king-charles-royals-dc-visit.html) ⭐️ 7.0/10
+## [布莱尔研究所提议以就业支持取代现金福利](https://www.bbc.com/news/articles/c1krkdnwv1yo?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
 
-英国国王查尔斯对华盛顿的国事访问因白宫记者晚宴上发生枪击事件而蒙上阴影，引发了即时的安全和外交担忧。 这一事件提升了此次访问的政治和安全影响，可能影响美英关系以及关于外交安全的公众讨论。 枪击事件发生在白宫记者晚宴这一重大媒体活动上，给原本旨在展示美国文化的国事访问蒙上了阴影。
+托尼·布莱尔研究所提议，针对焦虑等病症，以就业支持取代现金疾病福利，并称之为应对福利成本上升的“紧急手刹”。 该提议可能从根本上重塑英国福利体系，影响数百万福利申领者，并引发关于福利改革、心理健康政策和公共支出的辩论。 该提议特别针对焦虑等病症患者，建议他们获得就业支持而非现金福利，但未提供详细的实施计划。
 
-rss · NYTimes Politics · Apr 27, 22:50
+rss · BBC Politics · Apr 28, 10:11
 
-**背景**: 国事访问是正式外交活动，外国元首由美国总统接待，通常包括仪式和文化展示。白宫记者晚宴是记者、政界人士和名人的年度聚会。在此类活动中发生枪击事件极为罕见，并引发严重的安全问题。
+**背景**: 英国福利体系目前为因健康问题无法工作的人提供现金疾病福利。福利成本上升引发了关于改革的讨论，一些人认为现金福利可能抑制工作积极性。托尼·布莱尔研究所是由前首相托尼·布莱尔创立的知名智库。
+
+**标签**: `#UK politics`, `#welfare reform`, `#mental health policy`, `#public spending`, `#labor market`
+
+---
+
+<a id="item-26"></a>
+## [佛州共和党拒绝德桑蒂斯疫苗法案](https://www.nytimes.com/2026/04/28/us/politics/ron-desantis-gop-florida-vaccines.html) ⭐️ 7.0/10
+
+佛罗里达州共和党众议院领袖在议长带领下，拒绝了州长罗恩·德桑蒂斯提出的放宽儿童疫苗强制接种法案，理由是对麻疹、脊髓灰质炎等可预防疾病的担忧。 这一党内冲突标志着共和党在疫苗强制接种立场上的潜在转变，在一个大州，公共卫生担忧压倒了反强制接种情绪。 议长特别提到对儿童在未接种已有效数十年的疫苗（包括麻疹、腮腺炎、脊髓灰质炎和水痘疫苗）的情况下上学的担忧。
+
+rss · NYTimes Politics · Apr 28, 19:00
+
+**背景**: 州长德桑蒂斯一直是放宽疫苗强制接种的著名倡导者，反映了一些保守派的更广泛趋势。然而，他自己党派的拒绝表明，对可预防疾病上升的公共卫生担忧仍能影响政策决策。
+
+**标签**: `#Florida politics`, `#vaccine mandates`, `#public health`, `#Ron DeSantis`, `#state policy`
+
+---
+
+<a id="item-27"></a>
+## [田纳西上诉法院允许国民警卫队进驻孟菲斯](https://www.nytimes.com/2026/04/28/us/politics/national-guard-deployment-memphis-tennessee.html) ⭐️ 7.0/10
+
+田纳西州一家上诉法院推翻了此前下级法院暂时阻止国民警卫队在孟菲斯部署的裁决。 这一裁决恢复了州长以公共安全为目的部署国民警卫队的权力，可能影响田纳西州的军民关系与州治理。 被推翻的下级法院裁决去年曾暂时阻止部署；上诉法院的裁决现在允许国民警卫队继续留在孟菲斯。
+
+rss · NYTimes Politics · Apr 28, 18:51
+
+**背景**: 国民警卫队是一支后备军事力量，可由州长在紧急情况下（包括公共安全行动）调动。在田纳西州，国民警卫队在孟菲斯的部署曾受到法庭质疑，引发了关于州长权力的法律争议。
+
+**标签**: `#National Guard`, `#Tennessee`, `#legal ruling`, `#public safety`, `#state politics`
+
+---
+
+<a id="item-28"></a>
+## [查尔斯国王访美被晚宴枪击事件蒙上阴影](https://www.nytimes.com/2026/04/27/us/politics/trump-king-charles-royals-dc-visit.html) ⭐️ 7.0/10
+
+查尔斯国王对华盛顿特区的国事访问被白宫记者晚宴上发生的枪击事件蒙上阴影，形成了复杂的外交和安全局面。 这一事件提升了访问的安全风险，并可能重塑美英之间的外交叙事，进而影响两国公众舆论和政治讨论。 枪击事件发生在一次重要的政治晚宴上，尽管细节尚不明确，但已迫使相关方重新评估安全协议和访问的公开活动安排。
+
+rss · NYTimes Politics · Apr 28, 13:33
+
+**背景**: 国事访问是外国元首受美国总统邀请进行的礼仪性活动，旨在展示外交关系和美国文化。白宫记者晚宴是记者、政界人士和名流一年一度的聚会。在此类活动中发生枪击事件极为罕见，具有重大的政治和安全影响。
 
 **标签**: `#diplomacy`, `#US-UK relations`, `#security`, `#politics`, `#state visit`
 
 ---
 
-<a id="item-26"></a>
-## [ICE 仓库计划因环境审查裁决受阻](https://www.nytimes.com/2026/04/27/us/politics/ice-warehouse-environmental-review.html) ⭐️ 7.0/10
-
-一名联邦法官裁定，ICE 的仓库建设项目不能豁免联邦要求的环境评估，这与官员在法庭文件中的主张相悖，并导致项目延误。 该裁决挑战了联邦机构依据《国家环境政策法》（NEPA）主张环境审查豁免的说法，可能延迟或重塑移民执法基础设施，并强化政府问责制。 法官不同意 ICE 关于这些项目符合 NEPA 下分类排除条件的论点，分类排除通常允许某些无显著环境影响的行动跳过环境评估。
-
-rss · NYTimes Politics · Apr 27, 23:36
-
-**背景**: 《国家环境政策法》（NEPA）要求联邦机构在决策前评估其行动的环境影响。机构可以对那些单独或累积不会对人类环境产生显著影响的行动主张分类排除，但此类主张需接受司法审查。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.epa.gov/nepa/national-environmental-policy-act-review-process">National Environmental Policy Act Review Process | US EPA</a></li>
-<li><a href="https://ceq.doe.gov/nepa-practice/categorical-exclusions.html">NEPA | National Environmental Policy Act - Categorical Exclusions</a></li>
-
-</ul>
-</details>
-
-**标签**: `#immigration`, `#environmental law`, `#judicial ruling`, `#federal policy`, `#infrastructure`
-
----
-
-<a id="item-27"></a>
-## [亿万富翁主导加州政治，从州长竞选到财富税提案](https://www.nytimes.com/2026/04/27/us/politics/california-billionaires-tax-governor.html) ⭐️ 7.0/10
-
-像谢尔盖·布林（Sergey Brin）和汤姆·斯泰尔（Tom Steyer）这样的亿万富翁正日益影响加州的政治格局，从州长竞选到财富税提案的辩论。 这标志着美国最大州政治动态和政策辩论的重大转变，可能对财富如何影响民主产生全国性影响。 《纽约时报》的文章强调了超级富豪如何试图引导加州的方向，涵盖了州长竞选和财富税提案。
-
-rss · NYTimes Politics · Apr 27, 21:49
-
-**背景**: 加州长期以来一直是美国政治趋势的风向标，其经济规模在各州中最大。亿万富翁对政治的影响引发了关于竞选资金、不平等和政策优先事项的质疑。
-
-**标签**: `#California politics`, `#wealth tax`, `#billionaire influence`, `#governor's race`, `#political economy`
-
----
-
-<a id="item-28"></a>
-## [廉价航空因燃油成本飙升寻求 25 亿美元救助](https://www.nytimes.com/2026/04/27/business/budget-airlines-trump-bailout.html) ⭐️ 7.0/10
-
-代表廉价航空公司的贸易组织已正式向特朗普政府请求 25 亿美元，以抵消因美以对伊朗军事打击而引发的航空燃油成本急剧上升。 这一请求凸显了地缘政治冲突如何直接影响航空业和消费者出行成本，可能导致廉价旅客面临票价上涨或服务缩减。如果获批，这将标志着联邦政府对航空业的重大干预，并对通胀和政府支出产生影响。 该请求来自贸易组织而非个别航空公司，专门针对美以对伊朗发动攻击以来燃油成本的飙升。25 亿美元旨在帮助抵消这一涨幅，但资金分配方式或附加条件等细节尚未披露。
-
-rss · NYTimes Politics · Apr 27, 22:47
-
-**背景**: 廉价航空公司利润率微薄，对燃油价格波动高度敏感，而燃油是其主要运营成本。近期美以对伊朗的军事行动扰乱了全球石油市场，推高了原油和航空燃油价格。这并非美国航空公司首次寻求政府援助；在新冠疫情期间，该行业曾获得大量联邦支持。
-
-**标签**: `#aviation`, `#bailout`, `#fuel costs`, `#geopolitics`, `#Trump administration`
-
----
-
 <a id="item-29"></a>
-## [对冲基金空头回补推动宁德时代 50 亿美元配股](https://www.bloomberg.com/news/articles/2026-04-28/hedge-fund-short-covering-fuels-demand-in-5-billion-catl-deal) ⭐️ 7.0/10
+## [Booking 第二季度指引不及预期，中东冲突拖累股价下跌](https://www.bloomberg.com/news/articles/2026-04-28/booking-s-2q-guidance-misses-on-middle-east-impact-shares-slide) ⭐️ 7.0/10
 
-对冲基金购买了宁德时代 50 亿美元香港配股中的大部分股份，需求部分源于交易员回补对该电池制造商股票的空头头寸。 这显示出部分对冲基金对宁德时代的强烈看空情绪，同时也凸显了该公司在全球电动汽车电池市场中的关键作用，以及香港股市吸纳大规模配股的能力。 此次配股筹集了 50 亿美元，至少部分对冲基金的需求专门用于空头回补，即交易员买入股票以平仓押注股价下跌的头寸。
+Booking Holdings 公布的第二季度营收指引低于分析师预期，原因是中东冲突持续抑制了截至 6 月底的旅行需求。 这一指引不及预期表明，中东地缘政治不稳定正直接影响一家全球大型旅游公司，可能预示着消费者可选消费和旅游行业面临更广泛的疲软。 公告发布后该公司股价下跌，反映出投资者对近期盈利的担忧。指引特别指出中东冲突（而非更广泛的宏观经济因素）是业绩不及预期的主要原因。
 
-rss · Bloomberg Markets · Apr 28, 09:05
+rss · Bloomberg Markets · Apr 28, 20:33
 
-**背景**: 宁德时代是全球最大的电动汽车电池制造商，全球市场份额约为 37%。空头回补是指投资者借入并卖出股票（预期价格下跌）后，再买入股票以平仓，这通常会推高股价。股权配售是以低于市价的价格发行新股以筹集资金的方式。
+**背景**: Booking Holdings 是全球最大的在线旅游公司之一，旗下拥有 Booking.com、Priceline 和 Kayak 等品牌。中东冲突扰乱了该地区的旅行模式，减少了前往以色列、约旦和埃及等受欧美游客欢迎目的地的预订量。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/CATL">CATL - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/s/shortcovering.asp">Understanding Short Covering: How It Works With Examples</a></li>
-
-</ul>
-</details>
-
-**标签**: `#hedge funds`, `#equity placement`, `#battery industry`, `#Hong Kong market`, `#short covering`
+**标签**: `#earnings`, `#travel`, `#geopolitics`, `#consumer discretionary`, `#market reaction`
 
 ---
 
 <a id="item-30"></a>
-## [日央行行长鸽派表态，日元料将走弱](https://www.bloomberg.com/news/articles/2026-04-28/bank-of-japan-s-hawkish-hold-strengthens-yen-strategists-say) ⭐️ 7.0/10
+## [红州总检察长质疑信用评级机构 ESG 做法](https://www.bloomberg.com/news/articles/2026-04-28/red-state-ags-call-out-credit-rating-companies-over-esg-policy) ⭐️ 7.0/10
 
-日本央行行长植田和男未就加息时间给出明确信号，策略师认为央行立场不如近期分歧投票所暗示的那样鹰派。 这一立场转变可能导致日元进一步走弱，影响全球外汇市场、套利交易及日本资产配置，备受外汇和宏观策略师关注。 日本央行维持利率不变但出现分歧投票，表面鹰派，但植田未给出明确加息信号，暗示央行可能不会激进行动，策略师因此预计日元将贬值。
+一群共和党州总检察长致信美国证券交易委员会及主要信用评级机构，正式质疑在降级决策中使用环境、社会和治理（ESG）标准。 此举升级了围绕金融评级中 ESG 因素的政治与监管冲突，可能影响信用评级机构评估风险的方式，并对债券及其他证券的市场实践产生冲击。 这封信特别针对纳入 ESG 因素的降级决定，认为其可能出于政治动机而非纯粹关注信用。总检察长们要求 SEC 澄清此类做法是否符合联邦证券法。
 
-rss · Bloomberg Markets · Apr 28, 03:47
+rss · Bloomberg Markets · Apr 28, 17:13
 
-**背景**: 日本央行多年来维持超宽松货币政策以对抗通缩，但近期通胀和工资增长引发了对政策转向的猜测。鹰派按兵不动指维持利率不变，同时通过分歧投票或鹰派言论暗示未来可能加息。日元价值对日本央行政策信号高度敏感，因为这些信号影响与其他主要经济体的利率差异。
+**背景**: 标普、穆迪和惠誉等信用评级机构越来越多地将 ESG 信用因素纳入分析，使用 ESG 信用影响评分等工具。州总检察长在消费者和金融保护方面拥有广泛权力，近期在金融监管方面与联邦机构的协调也更为积极。
 
-**标签**: `#Bank of Japan`, `#monetary policy`, `#yen`, `#FX markets`, `#interest rates`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.spglobal.com/ratings/en/research/esg-in-credit-ratings">ESG in Credit Ratings - S&P Global</a></li>
+<li><a href="https://www.orrick.com/en/Podcasts/RegFi/Episode-62-The-Expanding-Role-of-State-AGs-in-Consumer-Financial-Protection">RegFi Episode 62: The Expanding Role of State AGs in Consumer ...</a></li>
+<li><a href="https://kpmg.com/us/en/articles/2025/state-series-financial-consumer-protections-reg-alert.html">State Series: Financial Consumer Protections - kpmg.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#ESG`, `#credit ratings`, `#regulation`, `#state attorneys general`, `#financial policy`
 
 ---
 
 <a id="item-31"></a>
-## [资产管理公司押注欧洲债券市场反弹](https://www.bloomberg.com/news/articles/2026-04-28/jpmorgan-am-blackrock-bet-on-european-debt-after-sharp-selloff) ⭐️ 7.0/10
+## [OpenAI 销售未达预期，标普 500 从历史高点回落](https://www.bloomberg.com/news/articles/2026-04-28/us-stock-futures-slip-as-report-on-openai-sales-miss-drags-tech) ⭐️ 7.0/10
 
-摩根大通资产管理、贝莱德和 MFS 投资管理公司正在买入短期欧洲政府债券，以在收益率预期下降前锁定当前水平。 此举表明大型机构投资者预期欧洲央行政策宽松或市场情绪转变，可能推动债券收益率下行。这对固定收益投资组合、欧洲央行利率预期以及更广泛的欧洲金融市场具有直接影响。 买入集中在较短期限的债券，这些债券对利率变化敏感度较低，可在降低久期风险的同时锁定当前收益率。此举发生在欧洲政府债券大幅抛售之后，抛售推高了收益率，为买家创造了入场机会。
+2026 年 4 月 28 日，标普 500 指数从历史高点回落，科技和半导体板块领跌，原因是《华尔街日报》报道称 OpenAI 连续数月未能达到自身的用户增长和销售目标。 此次抛售表明投资者对 AI 驱动行情的信心可能正在动摇，因为作为 AI 行业风向标的 OpenAI 未能达成关键指标，引发了对更广泛 AI 交易的担忧，并可能给大型科技公司即将发布的财报带来压力。 标普 500 指数在 2026 年 4 月早些时候刚刚创下 7,165 点的历史新高，此次下跌集中在半导体和科技股，反映出市场担忧 AI 相关需求可能被高估。
 
-rss · Bloomberg Markets · Apr 28, 07:47
+rss · Bloomberg Markets · Apr 28, 11:42
 
-**背景**: 近期，由于对财政政策、通胀或地缘政治风险的担忧，欧洲政府债券收益率大幅上升。短期债券通常收益率较低但波动性较小，对于寻求在获取收益的同时保本的投资者具有吸引力。大型资产管理公司通常会根据宏观经济预测和央行政策预期调整其固定收益配置。
+**背景**: 标普 500 指数是追踪美国交易所 500 家大型公司表现的股票市场指数，常被用作美国股市整体表现的基准。OpenAI 是一家领先的人工智能公司，其 ChatGPT 等产品曾极大推动投资者对 AI 相关股票的热情。当一家关键的 AI 公司报告销售疲软时，可能引发对整个科技板块估值的重新评估。
 
-**标签**: `#European debt`, `#fixed income`, `#central bank policy`, `#portfolio strategy`, `#yield`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-28/us-stock-futures-slip-as-report-on-openai-sales-miss-drags-tech">US Stocks Fall From Peak as OpenAI Sales Miss Report... - Bloomberg</a></li>
+<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lsMGVmOEVCRmRLU0RvLXYzTnppZ0FQAQ?hl=en-US&gl=US&ceid=US:en">Google News - OpenAI 's miss of sales goals - Overview</a></li>
+<li><a href="https://schwabnetwork.com/video/openai-sales-miss-raises-bar-for-mag-7-earnings-looking-down-fed-s-path-ahead">OpenAI Sales Miss Raises Bar for Mag 7 Earnings... | Schwab Network</a></li>
+
+</ul>
+</details>
+
+**标签**: `#stock market`, `#technology`, `#semiconductors`, `#market sentiment`, `#OpenAI`
 
 ---
 
 <a id="item-32"></a>
-## [日圆下跌，日本央行行长植田和男未给出明确加息信号](https://www.bloomberg.com/news/articles/2026-04-28/yen-gains-against-dollar-after-boj-keeps-interest-rates-on-hold) ⭐️ 7.0/10
+## [中国废弃食用油因生物燃料热潮大量出口美国](https://www.bloomberg.com/news/articles/2026-04-28/china-s-used-cooking-oil-ships-to-us-as-war-drives-biofuel-boom) ⭐️ 7.0/10
 
-在日本央行以分歧投票决定维持政策不变后，行长植田和男未就加息时机给出明确信号，导致日圆兑美元走弱。 这一事态直接影响日圆兑美元汇率及全球外汇市场，影响套利交易和投资者对日本货币政策路径的预期。缺乏明确的前瞻指引给全球交易者和政策制定者带来了不确定性。 日本央行的决定存在分歧，表明政策制定者内部意见不一，且行长植田和男未承诺未来加息的具体时间表。这种模糊性导致日圆兑美元立即贬值。
+随着美国新的生物燃料掺混要求生效以及伊朗战争推高能源成本，美国从中国进口的废弃食用油正在加速增长，使这种原料成为一种经济有效的替代品。 这一转变标志着全球贸易流和能源市场的重大变化，地缘政治冲突和政策变化共同重塑了生物燃料供应链，减少了对传统原料的依赖。 美国环保署已允许今年夏季使用 15%乙醇汽油混合燃料，并提高了 2026 年和 2027 年的生物燃料掺混要求，而伊朗战争推高了能源成本，使中国废弃食用油相对便宜。
 
-rss · Bloomberg Markets · Apr 28, 03:13
+rss · Bloomberg Markets · Apr 28, 20:23
 
-**背景**: 日本央行多年来一直维持超宽松货币政策以对抗通缩，但近期通胀压力引发了关于转向正常化的猜测。加息对日本而言将是重大举措，该国长期将利率维持在接近零的水平。分歧投票凸显了日本央行内部关于政策收紧步伐和时机的争论。
+**背景**: 废弃食用油是生产生物柴油和可再生柴油的原料。生物燃料掺混要求规定了与化石燃料混合的生物燃料最低比例，而原料是用于生产这些生物燃料的原材料。
 
-**标签**: `#BOJ`, `#yen`, `#monetary policy`, `#currency markets`, `#Japan`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://cen.acs.org/energy/biofuels/EPA-bolsters-biofuels-blending-actions/104/web/2026/04">EPA bolsters biofuels with blending actions</a></li>
+<li><a href="https://www.resourcewise.com/blog/feedstock-fundamentals-what-are-biofuels-made-from">Feedstock Fundamentals: What Are Biofuels Made From?</a></li>
+
+</ul>
+</details>
+
+**标签**: `#biofuels`, `#energy policy`, `#geopolitics`, `#trade`, `#Iran war`
 
 ---
 
 <a id="item-33"></a>
-## [荷兰因转基因问题拒绝阿根廷豆粕](https://www.bloomberg.com/news/articles/2026-04-28/netherlands-rejects-argentina-soy-meal-cargoes-over-gmo-issue) ⭐️ 7.0/10
+## [秘鲁石油公司需超 20 亿美元避免燃料短缺](https://www.bloomberg.com/news/articles/2026-04-28/petroperu-needs-to-borrow-2-billion-plus-to-avert-fuel-shortage) ⭐️ 7.0/10
 
-2026 年 4 月，荷兰在检测到未经授权的转基因物质后，拒绝了至少两批阿根廷豆粕货物。此举可能扰乱阿根廷与欧盟之间的一条重要贸易通道。 此次拒收表明欧盟正在更严格地执行生物技术法规，可能扰乱供应链、影响豆粕价格，并对全球农业企业产生连锁反应。阿根廷是欧盟豆粕的主要出口国，因此这是一项影响重大的贸易和监管事件。 具体的未经授权转基因事件尚未公开确认，但拒收发生在 2026 年 4 月的荷兰港口。欧盟对食品和饲料中未经授权的转基因生物实行零容忍政策，要求在整个供应链中进行可追溯性和检测。
+秘鲁国有炼油企业 Petroperu 急需超过 20 亿美元的私人融资，以避免燃料短缺，该公司正面临中东冲突导致的高昂全球燃料价格困境。 这一借款需求对秘鲁的经济和能源安全影响重大，潜在的燃料短缺可能扰乱该国经济活动，并需要政府进行重大干预。 耗资 60 亿美元的 Talara 炼油厂项目（于 2023 年投产，经历了严重的成本超支和延误）是 Petroperu 财务危机的主要驱动因素。秘鲁已在 2026 年 3 月动用燃料储备，以应对因天然气管道破裂引发的 20 年来最严重的能源危机。
 
-rss · Bloomberg Markets · Apr 28, 08:09
+rss · Bloomberg Markets · Apr 28, 18:20
 
-**背景**: 欧盟对转基因生物有严格规定，要求所有用于食品和饲料的转基因生物在进入市场前必须获得授权。即使含有微量未经授权的转基因生物，也可能导致货物在欧盟边境被拒收。阿根廷是全球主要的转基因大豆生产国，而欧盟是其豆粕的关键市场，豆粕主要用于动物饲料。
+**背景**: Petroperu 是秘鲁的国有石油公司，负责国内燃料的炼制和分销。由于 Talara 炼油厂项目的巨额成本超支以及中东冲突加剧的高昂全球燃料价格，该公司一直面临财务困境。2026 年 1 月，秘鲁政府批准了一项紧急法令，允许私人投资该公司的部分业务，作为重组努力的一部分。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Genetically_modified_food_in_the_European_Union">Genetically modified food in the European Union - Wikipedia</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10855850/">Strategies for Traceability to Prevent Unauthorised GMOs ...</a></li>
+<li><a href="https://www.aljazeera.com/news/2026/1/2/peru-approves-emergency-overhaul-of-state-oil-firm-petroperu">Peru approves emergency overhaul of state oil firm Petroperu</a></li>
+<li><a href="https://www.reuters.com/business/energy/peru-release-fuel-reserves-combat-energy-crisis-prime-minister-says-2026-03-06/">Peru taps fuel reserves to combat worst energy crunch in two ...</a></li>
+<li><a href="https://discoveryalert.com.au/state-enterprise-restructuring-2026-emerging-market-fiscal-sustainability/">Peru Petroperu Overhaul: $5B Rescue Sparks Restructure</a></li>
 
 </ul>
 </details>
 
-**标签**: `#trade`, `#agriculture`, `#GMO`, `#EU regulation`, `#Argentina`
+**标签**: `#Peru`, `#energy security`, `#state-owned enterprise`, `#fuel crisis`, `#geopolitics`
 
 ---
 
 <a id="item-34"></a>
-## [比亚迪与吉利财报将指引中国电动车股走势](https://www.bloomberg.com/news/articles/2026-04-27/byd-geely-results-to-provide-pointers-in-china-ev-stock-rivalry) ⭐️ 7.0/10
+## [汇丰上调美股评级，地缘政治风险缓解](https://www.bloomberg.com/news/articles/2026-04-28/hsbc-upgrades-us-stocks-as-focus-shifts-to-earnings-from-war) ⭐️ 7.0/10
 
-比亚迪和吉利即将发布的财报将为投资者提供关键信号，帮助他们追踪中国竞争激烈的电动车市场中分化的股票表现。 这些财报将揭示哪家中国电动车制造商正在获得市场份额和盈利能力，从而影响投资者对全球汽车和绿色能源趋势关键领域的决策。 文章指出，比亚迪和吉利的股票近期表现出现分化，即将发布的财报将澄清这种分化背后的业务原因。
+汇丰控股上调了对美国股票的评级，指出随着地缘政治风险缓解，市场焦点正从地缘政治紧张局势转向企业盈利。 这家全球大型银行的评级上调预示着投资者情绪可能发生转变，可能推动资金回流美股，强化了盈利基本面相对于地缘政治头条的重要性。 此次评级上调基于地缘政治风险缓解的迹象，使市场叙事回归企业盈利，但实际市场影响将取决于其他机构和经济数据的广泛确认。
 
-rss · Bloomberg Markets · Apr 27, 23:30
+rss · Bloomberg Markets · Apr 28, 18:07
 
-**背景**: 中国电动车市场是全球最大且竞争激烈的市场，比亚迪和吉利是其中的两大主要参与者。该板块的股票表现被投资者密切视为行业健康和竞争动态的晴雨表。
+**背景**: 地缘政治风险（如战争或贸易冲突）常导致市场波动，投资者会转向避险资产。当这些风险消退时，市场注意力通常会回归到企业盈利等基本面因素，这些因素驱动长期股票估值。汇丰的评级上调反映了这种市场焦点的周期性转变。
 
-**标签**: `#China EV`, `#stock market`, `#earnings`, `#automotive industry`, `#investment`
+**标签**: `#US equities`, `#geopolitical risk`, `#market sentiment`, `#investment strategy`, `#earnings`
 
 ---
 
 <a id="item-35"></a>
-## [中国高科技产品转道欧洲威胁企业利润](https://www.marketwatch.com/story/a-second-china-shock-is-hitting-europe-these-stocks-are-most-vulnerable-strategist-says-41ff6200?mod=mw_rss_topstories) ⭐️ 7.0/10
+## [加州航空燃油危机加剧，亚洲出口量创十年新低](https://www.bloomberg.com/news/articles/2026-04-28/california-jet-fuel-woes-deepen-as-asia-flows-hit-decade-low) ⭐️ 7.0/10
 
-一位策略师警告称，中国正将其高科技电子和计算机设备出口转向欧洲，即使欧洲设置贸易壁垒，也将实质性侵蚀英国和欧洲公司的利润率。 这第二次“中国冲击”可能显著影响欧洲和英国的企业盈利能力，尤其对面临高科技竞争的行业，并对投资者和贸易政策制定者具有直接影响。 该策略师指出，即使欧洲国家设置自己的贸易壁垒，这种转道仍会影响利润率，表明来自中国高科技出口的竞争压力是结构性的，难以完全阻挡。
+从亚洲出口至加州的航空燃油量已降至至少十年来的最低水平，加剧了美国西海岸的供应短缺。 此次供应中断，加上持续的伊朗战争，可能导致加州航空旅行成本上升、航班可用性下降，影响数百万旅客及整个航空业。 亚洲航空燃油流入量创十年新低，给本已紧张的加州燃油市场增添了额外压力，该市场还面临地缘政治紧张和炼油厂产能限制。
 
-rss · MarketWatch Top Stories · Apr 28, 09:33
+rss · Bloomberg Markets · Apr 28, 18:03
 
-**背景**: “第一次中国冲击”通常指 21 世纪初中国低成本制成品涌入全球市场，冲击传统产业。如今，“第二次冲击”涉及中国出口更先进的高科技产品，直接与欧洲和英国公司在高价值领域竞争。
+**背景**: 加州严重依赖进口航空燃油来满足其主要机场（如洛杉矶国际机场和旧金山国际机场）的需求。伊朗战争扰乱了全球石油供应链，而亚洲出口减少进一步加剧了当地供应紧张。
 
-**标签**: `#geopolitics`, `#trade`, `#European economy`, `#China`, `#stock market`
+**标签**: `#energy`, `#geopolitics`, `#supply chain`, `#transportation`, `#California`
 
 ---
 
 <a id="item-36"></a>
-## [私募股权比私人信贷面临更大 AI 风险](https://www.marketwatch.com/story/this-chart-shows-why-investors-should-fear-for-private-equity-more-than-private-credit-4f24ea32?mod=mw_rss_topstories) ⭐️ 7.0/10
+## [阿联酋和伊拉克可能退出 OPEC，重塑石油市场](https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-MarketWatch 警告称，在私人资本市场中，私募股权投资比私人信贷更容易受到人工智能对软件公司颠覆性影响的风险。 这之所以重要，是因为私募股权大量投资于软件公司，而人工智能正对这些公司的估值构成挑战，可能导致投资者遭受系统性损失，并影响更广泛的私人资本市场生态。 文章强调了一张图表，显示私募股权对软件公司业绩的依赖使其更容易受到人工智能驱动的颠覆影响，而私人信贷则有抵押品担保，直接风险较小。
+MarketWatch 报道称，阿联酋是最有可能退出 OPEC 的国家，伊拉克也被视为潜在退出者，这可能引发更多国家退出，重塑全球石油供应格局。 阿联酋和伊拉克等主要 OPEC 成员国的退出将显著改变该组织的凝聚力及其对全球油价的影响力，可能导致产量增加和油价下跌。 作为 OPEC 第三大产油国，阿联酋一直在大力投资，计划到 2027 年将产能提升至每日 500 万桶，但目前的配额限制了产量，这为其退出提供了经济动力。
 
-rss · MarketWatch Top Stories · Apr 28, 09:04
+rss · MarketWatch Top Stories · Apr 28, 20:41
 
-**背景**: 私人资本市场涉及通过债务或股权投资私营公司，与公开市场不同。私募股权通常购买所有权股份，而私人信贷则提供贷款。人工智能的最新进展正在威胁许多软件公司的商业模式，而这些公司是私募股权投资组合的重要组成部分。
+**背景**: OPEC（石油输出国组织）于 1960 年由五个国家成立，旨在协调石油生产政策并稳定油价。成员国同意生产配额，但围绕配额和产能扩张的分歧历史上曾引发紧张局势，例如阿联酋曾争取更高配额。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.investopedia.com/private-markets-explained-11790548">Private Markets Explained: Definition, How They Work, How to Invest</a></li>
-<li><a href="https://www.pwc.com/us/en/services/consulting/deals/library/ai-software-valuations-ma-private-equity.html">How AI is reshaping software valuations in M&A</a></li>
-<li><a href="https://www.goldmansachs.com/insights/articles/which-software-companies-will-benefit-from-ai">Which Software Companies Will Benefit from AI? | Goldman Sachs</a></li>
+<li><a href="https://www.fool.com/investing/2026/04/28/the-uae-is-leaving-opec-heres-what-it-means-for-th/">The UAE is Leaving OPEC. Here's What It Means for the Global ...</a></li>
+<li><a href="https://www.cnbctv18.com/market/commodities/uae-to-leave-opec-group-current-production-capacity-quota-saudi-tiff-exports-impact-ws-e-19895131.htm">UAE to leave OPEC: Significance, production capacity status ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OPEC">OPEC - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#private equity`, `#private credit`, `#artificial intelligence`, `#financial risk`, `#investment`
+**标签**: `#OPEC`, `#geopolitics`, `#energy markets`, `#oil`, `#UAE`
 
 ---
 
 <a id="item-37"></a>
-## [美联储需明确通胀与加息风险](https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories) ⭐️ 7.0/10
+## [英国首相避免因曼德尔森审查问题接受调查](https://www.bbc.com/news/articles/cx21lx9ne83o?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-MarketWatch 认为，美联储应更清晰地传达其对通胀上升及可能加息的展望，以帮助投资者管理风险。 这之所以重要，是因为美联储沟通不清晰可能导致市场波动和风险错误定价，影响依赖货币政策信号的投资者、企业和政策制定者。 文章强调，美联储的沟通应明确提及加息的可能性，而不仅仅是通胀趋势，以便为金融市场提供可操作的指引。
+一项由保守党主导的动议被否决，该动议要求特权委员会评估首相在曼德尔森勋爵审查问题上是否误导议员，这意味着首相不会面临议会调查。 这一结果避免了对部长问责制的直接挑战，并为未来类似指控的处理树立了先例，影响了公众对议会监督的信任。 该动议在投票中被否决，政府辩称首相并未误导议会，且这些指控具有政治动机。
 
-rss · MarketWatch Top Stories · Apr 28, 00:20
+rss · BBC Politics · Apr 28, 18:48
 
-**背景**: 美联储通过前瞻性指引来传达其未来的政策意图，包括利率变化。清晰的沟通有助于市场调整预期并减少不确定性。通胀上升常促使美联储考虑加息以给经济降温，但过早或不清晰的信号可能扰乱投资者信心。
+**背景**: 特权委员会是调查特权侵犯行为的议会机构，包括部长误导议会的指控。曼德尔森勋爵是工党资深人物，审查过程指对其任命的安全或适宜性检查。
 
-**标签**: `#Federal Reserve`, `#monetary policy`, `#inflation`, `#interest rates`, `#investor risk`
+**标签**: `#UK politics`, `#ministerial accountability`, `#parliamentary procedure`, `#ethics`
 
 ---
 
 <a id="item-38"></a>
-## [中国将海南从购物天堂转向发展区](https://www.marketwatch.com/story/hainan-was-chinas-shopping-paradise-for-beijing-thats-no-longer-enough-c2535a40?mod=mw_rss_topstories) ⭐️ 7.0/10
+## [英大臣承认移民虚假家暴指控问题](https://www.bbc.com/news/articles/cz027xl37g2o?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-中国正在将海南的角色从免税购物目的地重新定位为更广泛的经济发展区，这标志着北京优先事项的转变。 这一转变表明北京更注重长期经济转型而非短期消费刺激，将影响国内零售、贸易政策和区域发展战略。 海南此前被称为中国的免税零售圣地，现在将承担更广泛的经济发展目标，但具体新政策尚未详细说明。
+英国大臣 Jess Phillips 承认，在 BBC 新闻调查之后，内政部可以加强识别移民提出的虚假家庭暴力指控的工作。 这一承认突显了英国移民系统中可能存在的漏洞，即虚假家庭暴力指控可能被用于获取居留权，影响移民执法和真正的家暴受害者。 该声明是对 BBC 调查的回应，但未公布具体数字或政策变化；大臣表示内政部“可以做得更多”来剔除虚假指控。
 
-rss · MarketWatch Top Stories · Apr 28, 00:00
+rss · BBC Politics · Apr 28, 17:14
 
-**背景**: 海南是中国南部的热带岛屿省份，于 2020 年被指定为自由贸易港。它一直是中国游客的主要免税购物目的地，但北京现在希望其经济超越零售业实现多元化。
+**背景**: 家庭暴力在英国是严重犯罪，受害者根据某些规则可能有资格获得移民救济。然而，有人担心一些移民可能捏造虐待指控以规避移民管控，这破坏了系统并转移了处理真实案件的资源。
 
-**标签**: `#China`, `#Economic Policy`, `#Hainan`, `#Duty-Free`, `#Retail`
+**标签**: `#immigration`, `#domestic abuse`, `#UK politics`, `#policy`
 
 ---
 
 <a id="item-39"></a>
-## [斯塔默呼吁工党团结，曼德尔森任命投票在即](https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+## [前高官称无法提出曼德尔森与爱泼斯坦关联的担忧](https://www.bbc.com/news/articles/c4g8x7vez4no?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-英国首相基尔·斯塔默呼吁工党议员在关于彼得·曼德尔森任命的议会投票前团结一致，并将反对此举称为“纯粹的政治操作”。 此次投票考验了斯塔默领导下的工党团结，并可能影响政府推进高级任命的能力，从而对国内治理和党内动态产生影响。 此次投票涉及资深工党人物彼得·曼德尔森的高级任命；斯塔默将反对意见定性为出于政治动机，而非实质性问题。
+英国前高级官员菲利普·巴顿爵士表示，他无法提出对曼德尔森勋爵与已定罪的性犯罪者杰弗里·爱泼斯坦之间关联的担忧，他担心这可能成为问题。 这一披露凸显了英国政治监督和道德报告机制中可能存在的缺陷，引发了对高层人物关系如何被审查的质疑。 菲利普·巴顿爵士是事后发表此评论，表明当时他认为没有正式渠道可以升级他对曼德尔森勋爵与爱泼斯坦关系的担忧。
 
-rss · BBC Politics · Apr 28, 09:09
+rss · BBC Politics · Apr 28, 12:27
 
-**背景**: 彼得·曼德尔森是长期任职的工党政治家，也是托尼·布莱尔领导下“新工党”的关键设计者。他的任命常在党内引发争议，反映了不同工党派系之间的内部分歧。
+**背景**: 曼德尔森勋爵是英国工党著名政治家，曾担任多个高级内阁职务。杰弗里·爱泼斯坦是一名金融家和已定罪的性犯罪者，他与权势人物的关联已受到广泛审查。
 
-**标签**: `#UK politics`, `#Labour Party`, `#Keir Starmer`, `#Peter Mandelson`, `#parliamentary vote`
+**标签**: `#UK politics`, `#ethics`, `#reputation`, `#public policy`
 
 ---
 
 <a id="item-40"></a>
-## [查尔斯国王将在美英关系紧张之际向美国国会发表演讲](https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+## [英驻美大使称美国“特殊关系”可能指向以色列](https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-查尔斯三世国王将于周二在国事访问期间向美国国会发表演讲，此时正值英美因伊朗战争问题出现外交紧张之际。 这一象征性举动凸显了两国尽管存在政策分歧但联盟关系依然牢固，并强调了王室外交在维护跨大西洋关系中的作用。 据报道，此次演讲正值特朗普总统与基尔·斯塔默首相因伊朗冲突关系紧张之际，使这次访问成为一场微妙的外交平衡行动。
+据报道，英国驻美大使曼德尔森勋爵在 2 月表示，美国的“特殊关系”可能是指以色列，这一言论在查尔斯三世国王国事访问期间被公开。 这一评论挑战了英美特殊关系的传统叙事，凸显了外交动态的变化，可能影响外界对英国在华盛顿影响力的看法。 这些言论是在 2 月发表的，最初由《金融时报》报道，并在国王对美国进行国事访问期间被披露。
 
-rss · BBC Politics · Apr 28, 08:25
+rss · BBC Politics · Apr 28, 18:53
 
-**背景**: 查尔斯三世国王对美国的国事访问包括向美国国会联席会议发表罕见演讲，这是通常只给予亲密盟友的高度荣誉。英美历史上一直保持着“特殊关系”，但在贸易和外交政策等问题上也存在分歧。
+**背景**: “特殊关系”一词常用来描述自二战以来英美之间密切的政治、外交和军事联系。英国大使的评论表明，在实践中，美国可能更优先考虑与以色列的联盟而非与英国的关系。
 
-**标签**: `#UK-US relations`, `#diplomacy`, `#royal visit`, `#Congress`
+**标签**: `#diplomacy`, `#UK-US relations`, `#Israel`, `#foreign policy`
 
 ---
 
 <a id="item-41"></a>
-## [英国房东担忧新法律可能加剧驱逐困境](https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+## [议员网站遭 1.42 亿次网络攻击](https://www.bbc.com/news/articles/c4g7v2ddvyko?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-英国房东们表示担忧，拟议中的新法律可能使驱逐欠租租户变得更加困难，其中一名房东因租户欠款 15,000 英镑而无法将其赶出房产。 这凸显了英国住房市场中租户保护与房东权利之间日益紧张的关系，任何立法变化都可能对租金可负担性、房产投资以及房东与租户之间的权力平衡产生广泛影响。 文章聚焦于一个具体案例：一名房东被欠租 15,000 英镑，但在现行或拟议规则下无法合法驱逐租户。拟议法律旨在加强租户保护，但可能无意中延迟因欠租而进行的驱逐。
+英国议员戴维斯爵士的网站遭到蓄意网络攻击，被 1.42 亿次请求淹没，并将访问者重定向至东南亚赌博网站。 此次攻击凸显了政治网站面对拒绝服务和重定向攻击的脆弱性，可能削弱公众信任并干扰官方沟通。同时，它也表明针对公众人物的网络威胁正日益复杂。 攻击于周四开始，涉及 1.42 亿次请求，导致网站不堪重负并将用户重定向至赌博网站。该网站由独立议会标准管理局（IPSA）支持，但未发生敏感数据泄露。
 
-rss · BBC Politics · Apr 27, 23:56
+rss · BBC Politics · Apr 28, 17:54
 
-**背景**: 在英国，私人房东必须遵循严格的法律程序才能驱逐租户，包括获得法院命令。拟议中的改革，例如废除第 21 条下的“无过错”驱逐，旨在为租户提供更多保障，但批评者认为这可能使驱逐故意拒付租金的租户变得更加困难。
+**背景**: 拒绝服务（DoS）攻击通过向目标服务器发送过量流量，使其无法为合法用户提供服务。重定向攻击则劫持网站流量，将访问者引向恶意或不良网站，通常利用内容管理系统（如 WordPress）的漏洞。
 
-**标签**: `#housing policy`, `#UK politics`, `#rental market`, `#tenant rights`, `#landlord rights`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.bbc.com/news/articles/c4g7v2ddvyko">MP Sir David Davis's website shut down in suspected cyber attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Denial-of-service_attack">Denial-of-service attack - Wikipedia</a></li>
+<li><a href="https://blog.sucuri.net/2024/10/indonesian-gambling-redirect-hiding-in-plain-sight.html">Indonesian Gambling Redirect Hiding in Plain Sight</a></li>
+
+</ul>
+</details>
+
+**标签**: `#cyber attack`, `#politics`, `#security`, `#UK`
 
 ---
 
 <a id="item-42"></a>
-## [平安保险利润下降 7.4%，受中国股市下跌影响](https://www.bloomberg.com/news/articles/2026-04-28/ping-an-profit-falls-as-market-decline-hurts-investment-returns) ⭐️ 6.0/10
+## [议员就曼德尔森审查调查投票](https://www.bbc.com/news/articles/c4g8d38d17yo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-平安保险公布第一季度利润下降 7.4%，原因是受中国股市下跌影响，投资收益减少。 作为中国主要的金融机构，平安保险的利润下滑反映出更广泛的市场疲软，可能打击投资者对中国金融行业的信心。 7.4%的降幅较为温和，并非系统性冲击，但凸显了保险公司盈利对股市表现的敏感性。
+BBC 报道称，议会已就一项调查进行投票，以决定是否调查首相在彼得·曼德尔森审查过程中是否误导了下议院。 这次投票意义重大，因为它考验了英国政治体系中的政府问责制和信任度，可能影响公众对首相及执政党的信心。 该文章允许读者查看其所在选区议员对该动议的投票情况，在程序性但政治敏感的决策中提供了个人立场的透明度。
 
-rss · Bloomberg Markets · Apr 28, 09:19
+rss · BBC Politics · Apr 28, 18:03
 
-**背景**: 平安保险是中国最大的金融集团之一，其投资组合对股票市场有较大敞口。股价下跌直接减少其持仓价值和投资收益，从而影响整体盈利能力。
+**背景**: 彼得·曼德尔森是英国工党资深人物，曾担任多个部长职务。所涉及的审查过程指对其任命的安保和适当性检查，而调查关注的是首相是否就这些检查向议会提供了准确信息。
 
-**标签**: `#China`, `#insurance`, `#stock market`, `#earnings`, `#financial sector`
+**标签**: `#UK politics`, `#parliamentary investigation`, `#government accountability`, `#Peter Mandelson`, `#BBC`
 
 ---
 
 <a id="item-43"></a>
-## [EQT 为欧洲房地产新基金募资 31 亿欧元](https://www.bloomberg.com/news/articles/2026-04-28/eqt-raises-3-1-billion-for-new-european-real-estate-fund) ⭐️ 6.0/10
+## [议员就曼德尔森任命质询前助手](https://www.bbc.com/news/articles/cn8p7vn759xo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-EQT AB 成功为其最新的欧洲房地产基金募资 31 亿欧元（约 36 亿美元），尽管整个行业的募资环境面临挑战。 此次募资表明，在众多基金难以吸引资本之际，机构投资者对欧洲房地产仍有强劲信心，可能为该行业树立积极先例。 该基金专注于欧洲房地产投资，募资额达 31 亿欧元，超过当前市场同类基金的典型规模，凸显了 EQT 的强大声誉和执行能力。
+前外交部高级官员菲利普·巴顿爵士和前首相府幕僚长摩根·麦克斯威尼正在接受议员质询，内容涉及彼得·曼德尔森的任命。 此次质询凸显了英国政府对高层外交任命的持续审查，可能影响公众对任命程序的信任。 此次会议涉及一名前高级公务员和前幕僚长，表明该任命的重要性及其引发的政治关注程度。
 
-rss · Bloomberg Markets · Apr 28, 07:00
+rss · BBC Politics · Apr 28, 14:04
 
-**背景**: EQT AB 是一家总部位于瑞典的全球领先私募股权公司，在房地产投资领域占有重要地位。由于利率上升和经济不确定性，整个房地产募资市场面临压力，大规模资本募集变得更加困难。
+**背景**: 彼得·曼德尔森是工党知名人物，曾担任多个部长职务。将此类政治人物任命到外交岗位，常引发对政治干预公务员程序的质疑。
 
-**标签**: `#private equity`, `#real estate`, `#European markets`, `#fundraising`, `#institutional investment`
+**标签**: `#UK politics`, `#diplomatic appointments`, `#government scrutiny`, `#BBC Politics`
 
 ---
 
 <a id="item-44"></a>
-## [OpenAI 未达目标，软银股价暴跌](https://www.marketwatch.com/story/after-report-of-openai-missing-targets-one-company-sees-its-worst-share-price-decline-in-six-months-f552fe04?mod=mw_rss_topstories) ⭐️ 6.0/10
+## [法拉奇承诺改革党将降低市政税涨幅](https://www.bbc.com/news/videos/cq6je2p1m7yo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-软银集团股价在东京交易中遭遇六个月来最大单日百分比跌幅，此前有报道称，面对来自竞争对手 AI 实验室日益激烈的竞争，OpenAI 未能实现多项内部目标。 这一市场反应凸显了软银通过愿景基金对 AI 投资的巨大敞口，并表明投资者对 OpenAI 等 AI 领导者的信心可能因竞争压力而动摇，进而可能影响更广泛的科技投资情绪。 该报道未具体说明 OpenAI 未达成的内部目标，但这一消息引发了软银股票的急剧抛售，软银股价与其科技投资组合的表现密切相关。此次下跌是软银六个月来最大的单日跌幅。
+奈杰尔·法拉奇承诺，在改革党控制的地方议会中，市政税涨幅将低于任何其他政党控制的议会。 这一承诺针对担心地方税上涨的选民，可能影响地方选举结果，但缺乏详细成本核算或证据支持。 这一承诺具有推测性，未说明改革党将如何实现较低涨幅或弥补地方服务可能的资金缺口。
 
-rss · MarketWatch Top Stories · Apr 28, 07:42
+rss · BBC Politics · Apr 28, 15:03
 
-**背景**: 软银集团是一家知名的日本综合企业，以其愿景基金闻名，该基金大量投资于包括 AI 初创公司在内的科技公司。OpenAI 是 ChatGPT 的创建者，是一家领先的 AI 研究机构，正面临来自 Google DeepMind 和 Anthropic 等竞争对手日益激烈的竞争。该报道表明，OpenAI 的内部绩效指标正被投资者密切关注，视为 AI 行业健康状况的晴雨表。
+**背景**: 市政税是英国的地方税，用于资助垃圾收集、学校和警察等服务。地方议会设定税率，涨幅通常需要中央政府批准或设有上限。改革党是由奈杰尔·法拉奇领导的右翼政党，主张降低税收和控制移民。
 
-**标签**: `#AI`, `#stock market`, `#SoftBank`, `#OpenAI`, `#technology`
+**标签**: `#UK politics`, `#local government`, `#taxation`, `#Reform UK`, `#election pledge`
+
+---
+
+<a id="item-45"></a>
+## [前高级助手就曼德尔森驻美大使任命作证](https://www.bbc.com/news/videos/cj4pxw5xq4eo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+
+英国首相的前高级助手摩根·麦克斯威尼向议员们作证，讲述了彼得·曼德尔森被任命为驻美大使的相关情况。 这一证词为一项关键外交任命提供了内部视角，揭示了英美高层关系背后的政治运作过程。 证词是在一个议员委员会面前作出的，重点关注曼德尔森被任命为驻美大使的背景和决策过程。
+
+rss · BBC Politics · Apr 28, 12:45
+
+**背景**: 彼得·曼德尔森是英国工党资深政治家，曾担任多个高级内阁职务。他被任命为驻美大使是一项重要的外交角色，而前高级助手的证词提供了难得的机会，了解政府内部如何处理此类任命。
+
+**标签**: `#UK politics`, `#diplomacy`, `#ambassador appointment`, `#political testimony`
+
+---
+
+<a id="item-46"></a>
+## [肯尼迪中心为紧急关闭两年计划辩护](https://www.nytimes.com/2026/04/28/arts/kennedy-center-closure-trump.html) ⭐️ 6.0/10
+
+肯尼迪中心正在法庭和公开场合辩称，计划关闭两年进行紧急维修是必要的，而批评者认为此举是由于观众减少和艺术家抵制所致。 这场争议凸显了文化机构与政治压力之间的紧张关系，肯尼迪中心的关闭可能影响华盛顿特区的艺术氛围和公共资金讨论。 该中心的法律斗争和公开活动旨在证明两年关闭的合理性，但批评者将其与观众减少和艺术家离开联系起来，暗示维修可能不是唯一原因。
+
+rss · NYTimes Politics · Apr 28, 20:30
+
+**背景**: 肯尼迪中心是华盛顿特区的主要表演艺术场馆，部分资金来自公共拨款。计划关闭维修的背景是观众减少和与政治争议相关的艺术家抵制。
+
+**标签**: `#arts policy`, `#cultural institutions`, `#Washington DC`, `#legal dispute`, `#public funding`
+
+---
+
+<a id="item-47"></a>
+## [橡树资本起诉 BJ's 违反 2900 万美元关税退款协议](https://www.bloomberg.com/news/articles/2026-04-28/oaktree-capital-accuses-bj-s-of-reneging-on-tariff-refund-trade) ⭐️ 6.0/10
+
+橡树资本管理公司对 BJ's Wholesale Club 提起诉讼，指控该零售商退出了一项协议，该协议以七折价格出售其约 2900 万美元的关税退款权利。 此案凸显了关税退款索赔的新兴市场——金融公司以折扣价从企业购买退款权利以提供即时现金——并强调了此类交易中涉及的法律风险和复杂性。 争议涉及的退款源于根据《国际紧急经济权力法》（IEEPA）征收的关税，美国最高法院于 2026 年 2 月裁定这些关税无效，而 BJ's 据称同意出售其索赔权但后来反悔。
+
+rss · Bloomberg Markets · Apr 28, 18:31
+
+**背景**: 在最高法院裁定 IEEPA 关税非法后，美国海关和边境保护局于 2026 年 4 月推出了退款门户网站，供企业申请退款。一些对冲基金和金融公司已开始以折扣价购买这些退款索赔权，为企业提供即时现金以换取退款权利，类似于发票保理。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.forbes.com/sites/rhettbuttle/2026/04/27/the-tariff-refund-portal-heres-what-you-need-to-know/">Everything You Need To Know About The Tariff Refund Portal</a></li>
+<li><a href="https://www.uschamber.com/economy/tariff-refunds-faq-what-small-businesses-need-to-know-after-supreme-courts-ruling">IEEPA Tariff Refunds: Guide & FAQ for Small Businesses</a></li>
+<li><a href="https://www.aol.com/articles/businesses-apply-tariff-refunds-portal-100024490.html">How Businesses Can Apply for Tariff Refunds Through New... - AOL</a></li>
+
+</ul>
+</details>
+
+**标签**: `#legal dispute`, `#tariffs`, `#retail`, `#corporate finance`, `#litigation`
+
+---
+
+<a id="item-48"></a>
+## [OpenAI 报告引发股市下跌](https://www.bloomberg.com/news/videos/2026-04-28/stocks-slump-on-openai-report-closing-bell-video) ⭐️ 6.0/10
+
+彭博社《收盘钟声》节目报道，2026 年 4 月 28 日，美国股市因 OpenAI 发布的一份报告而下跌，该节目在彭博电视、广播和 YouTube 上进行了跨平台报道。 这一市场反应凸显了 OpenAI 等主要参与者的 AI 相关新闻如何直接影响投资者情绪和更广泛的市场走势，强调了 AI 行业日益增长的金融重要性。 该报道由彭博社团队包括 Romaine Bostick、Katie Greifeld、Carol Massar 和 Tim Stenovec 负责，但提供的摘要中未详细说明 OpenAI 报告的具体内容以及市场下跌的确切幅度。
+
+rss · Bloomberg Markets · Apr 28, 20:18
+
+**背景**: OpenAI 是一家领先的人工智能研究机构，以开发 GPT 和 ChatGPT 等模型而闻名。金融市场经常对主要科技公司的新闻做出反应，AI 领导者的报告可能因投资者对行业增长或风险的看法而影响股价。
+
+**标签**: `#stock market`, `#OpenAI`, `#market close`, `#Bloomberg`
+
+---
+
+<a id="item-49"></a>
+## [简街计划将伦敦办公面积扩大近一倍](https://www.bloomberg.com/news/articles/2026-04-28/jane-street-set-to-double-footprint-in-london-office-move) ⭐️ 6.0/10
+
+简街集团已提出租用伦敦新办公场所的报价，此举将使其在伦敦的办公面积几乎扩大一倍，反映出该公司的快速扩张。 此次扩张表明简街作为全球量化交易领域重要参与者的持续崛起，对传统投资银行构成挑战，并提振了伦敦写字楼市场。 新办公室预计约 45 万平方英尺，将成为过去二十年来伦敦最大的写字楼租赁交易之一。
+
+rss · Bloomberg Markets · Apr 28, 18:31
+
+**背景**: 简街是一家以技术驱动为特点的量化交易公司和流动性提供商，全球约有 3000 名员工，在纽约、新加坡、伦敦和香港设有办公室。该公司最近报告去年净交易收入达到创纪录的 396 亿美元。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Jane_Street_Capital">Jane Street Capital - Wikipedia</a></li>
+<li><a href="https://www.reuters.com/world/jane-streets-40-billion-trading-haul-tops-rivals-sources-say-2026-04-24/">Jane Street's $40 billion trading haul tops rivals, sources say</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-04-28/jane-street-set-to-double-footprint-in-london-office-move">Jane Street in Talks to Nearly Double London Office Space at ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#finance`, `#real estate`, `#London`, `#business expansion`
+
+---
+
+<a id="item-50"></a>
+## [摩根大通聘请前高盛高管领导区块链部门](https://www.bloomberg.com/news/articles/2026-04-28/jpmorgan-taps-former-goldman-executive-to-lead-blockchain-unit) ⭐️ 6.0/10
+
+摩根大通任命前高盛高管 Oliver Harris 领导其区块链部门 Kinexys，旨在推动基于加密货币的产品和服务的采用。 此举表明摩根大通在银行业中持续投入区块链技术，可能加速基于加密货币的解决方案融入主流金融服务，并影响其他大型银行效仿。 Oliver Harris 将来自主要竞争对手高盛的经验带到 Kinexys，该部门专注于基于区块链的产品，如用于即时支付的 JPM Coin 和代币化资产。
+
+rss · Bloomberg Markets · Apr 28, 16:00
+
+**背景**: 区块链技术允许在没有中介的情况下进行安全、透明且近乎即时的交易。在银行业中，它被用于跨境支付、证券结算和贸易融资，以降低成本并提高效率。摩根大通一直是探索区块链的主要银行先驱，于 2019 年推出 JPM Coin，并建立 Kinexys 以开发更多应用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://consensys.io/blockchain-use-cases/finance">Blockchain in Finance & Fintech: The Future of Financial Services | Consensys</a></li>
+<li><a href="https://www.toptal.com/external-blogs/youteam/10-use-cases-of-blockchain-technology-in-banking">10 Use Cases of Blockchain Technology in Banking 2024 | Toptal®</a></li>
+<li><a href="https://www.investopedia.com/articles/investing/083115/blockchain-technology-revolutionize-traditional-banking.asp">How Banking Is Adapting Blockchain Technology - Investopedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#blockchain`, `#JPMorgan`, `#banking`, `#cryptocurrency`, `#hiring`
+
+---
+
+<a id="item-51"></a>
+## [Dynatrace 与激进投资者 Starboard 接洽](https://www.bloomberg.com/news/articles/2026-04-28/dynatrace-to-discuss-ideas-with-starboard-after-firm-takes-stake) ⭐️ 6.0/10
+
+Dynatrace 公司确认已与激进投资机构 Starboard Value LP 会面，该机构近期入股该公司并推动战略变革。 此次接洽预示着 Dynatrace 的公司治理、战略甚至并购活动可能发生变化，从而影响股东及更广泛的可观测性软件市场。 该消息由彭博社于 2026 年 4 月 28 日报道，援引 Dynatrace 承认与 Starboard 进行讨论，但尚未披露具体诉求或时间表。
+
+rss · Bloomberg Markets · Apr 28, 18:07
+
+**背景**: 像 Starboard Value 这样的激进投资者通常通过入股上市公司，推动削减成本、更换管理层或出售资产等变革以提升股东价值。Dynatrace 是一家专注于可观测性和应用性能监控的软件公司，与 Datadog 和 New Relic 等企业竞争。
+
+**标签**: `#activist investing`, `#corporate governance`, `#tech company`, `#M&A speculation`
+
+---
+
+<a id="item-52"></a>
+## [富兰克林资源另类投资获 124 亿美元资金流入](https://www.bloomberg.com/news/articles/2026-04-28/franklin-shares-rise-as-12-4-billion-flows-into-alternatives) ⭐️ 6.0/10
+
+富兰克林资源公司报告称，2026 年第一季度其另类投资产品净流入 124 亿美元，而客户同时从其传统股票和债券基金中撤资。 这一转变表明投资者对私人信贷、房地产等另类资产的偏好日益增强，超过了对传统公开市场的偏好，可能重塑整个资产管理行业的策略和收费结构。 富兰克林资源另类投资获得的 124 亿美元资金流入代表了显著的资本重新配置，其传统基金的资金流出表明客户正在寻求股票和债券之外的更高收益或多元化投资。
+
+rss · Bloomberg Markets · Apr 28, 17:54
+
+**背景**: 另类投资包括股票、债券和现金之外的资产，如私募股权、私人信贷、房地产和对冲基金。富兰克林资源旗下的投资部门富兰克林邓普顿通过多精品店结构提供这些产品。对另类投资日益增长的需求反映了机构和高净值投资者寻求非相关性回报的更广泛趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.investopedia.com/terms/a/alternative_investment.asp">What Are Alternative Investments? Definition and Examples</a></li>
+<li><a href="https://www.franklintempleton.com/planning-and-learning/learn-about-investing/types-of-funds/alternative-funds">Alternative Funds | Franklin Templeton</a></li>
+<li><a href="https://www.fidelity.com/learning-center/trading-investing/what-are-alternative-investments">What are alternative investments? - Fidelity</a></li>
+
+</ul>
+</details>
+
+**标签**: `#asset management`, `#alternative investments`, `#capital flows`, `#financial markets`
+
+---
+
+<a id="item-53"></a>
+## [报告称算法主导买方外汇交易](https://www.bloomberg.com/news/articles/2026-04-28/algos-are-dominating-buy-side-currency-trading-report-says) ⭐️ 6.0/10
+
+一份新报告显示，算法交易正日益主导每日交易量达 9.5 万亿美元的外汇市场中的买方货币交易，引发了关于传统银行与独立公司角色的争论。 这一转变凸显了外汇市场动态的结构性变化，可能减少对传统银行的依赖，并影响机构投资者的流动性提供和交易成本。 报告指出，算法现在执行了大部分买方外汇交易，独立公司以牺牲传统银行交易商为代价获得市场份额。这一趋势虽缓慢但正在加速，由成本效率和速度驱动。
+
+rss · Bloomberg Markets · Apr 28, 17:50
+
+**背景**: 外汇市场是全球最大的金融市场，日交易量达 9.5 万亿美元。与股票交易所不同，外汇交易是去中心化的，通过银行、经纪商和电子平台进行场外交易。算法交易使用计算机程序根据预定义规则自动执行订单，在速度和精度方面具有优势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.oanda.com/us-en/trade-tap-blog/trading-knowledge/the-algorithmic-edge-fx-automated-trading/">The algorithmic edge: Why FX is premier for automated trading</a></li>
+<li><a href="https://www.avatrade.com/education/trading-for-beginners/forex-market-structure">Forex Market Structure Explained | AvaTrade</a></li>
+
+</ul>
+</details>
+
+**标签**: `#foreign exchange`, `#algorithmic trading`, `#market structure`, `#finance`
+
+---
+
+<a id="item-54"></a>
+## [亚马逊 AI 云业务决定华尔街青睐](https://www.marketwatch.com/story/amazon-is-back-in-wall-streets-good-graces-heres-what-will-determine-whether-it-stays-there-78b53ffa?mod=mw_rss_topstories) ⭐️ 6.0/10
+
+亚马逊重新赢得华尔街青睐，这得益于其 AI 云业务以及 OpenAI、Anthropic 和 Meta 等公司依赖亚马逊提供支持。 这一转变凸显了亚马逊在云计算领域的主导地位，尤其是在 AI 基础设施方面，对其市场估值以及对抗谷歌和微软等竞争对手的竞争地位至关重要。 文章指出，亚马逊重新获得华尔街地位取决于其在 OpenAI、Anthropic 和 Meta 等既是客户又是潜在竞争对手的竞争中维持 AI 云增长的能力。
+
+rss · MarketWatch Top Stories · Apr 28, 19:08
+
+**背景**: 亚马逊云服务（AWS）是领先的云计算平台，AI 工作负载日益需要庞大的云基础设施。OpenAI 和 Anthropic 等公司依赖 AWS 提供计算能力，而 Meta 也与谷歌和 CoreWeave 签署了大型云协议，凸显了竞争格局。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ai.meta.com/">AI at Meta: Meta AI Products, Models and Research | AI at Meta</a></li>
+<li><a href="https://www.forbes.com/sites/johnwerner/2025/08/23/6-things-to-know-about-the-metagoogle-cloud-ai-deal/">6 Takeaways About The Meta/Google Cloud AI Deal - Forbes</a></li>
+<li><a href="https://thetechportal.com/2026/04/09/meta-signs-a-new-21bn-ai-cloud-deal-with-coreweave-expanding-partnership-to-35bn/">Meta signs a new $21Bn AI cloud deal with CoreWeave ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Amazon`, `#AI`, `#Wall Street`, `#cloud computing`, `#competition`
+
+---
+
+<a id="item-55"></a>
+## [Meta 能否在广告之外实现 AI 变现？财报前的大问题。](https://www.marketwatch.com/story/can-meta-make-money-on-ai-beyond-consumer-ads-thats-a-big-question-going-into-earnings-ff88c78e?mod=mw_rss_topstories) ⭐️ 6.0/10
+
+在 Meta 财报发布前，分析师质疑该公司能否在已取得成功的消费者广告之外，将其人工智能模型变现。 这个问题很重要，因为 Meta 在 AI 上的巨额投资需要多元化的收入来源来证明成本合理，答案将影响投资者信心以及整个科技行业对 AI 变现策略的看法。 Meta 在利用 AI 改进广告定向和衡量方面效果显著，但分析师认为，在企业服务或新产品等其他领域，AI 应用带来可观收入的证据有限。
+
+rss · MarketWatch Top Stories · Apr 28, 18:42
+
+**背景**: Meta Platforms 是 Facebook 和 Instagram 的母公司，已大力投资 AI 以增强其核心广告业务。虽然 AI 提升了广告效果，但该公司面临压力，需要证明其 AI 模型能在企业工具或虚拟现实等其他领域创造价值，以维持长期增长。
+
+**标签**: `#Meta`, `#artificial intelligence`, `#monetization`, `#earnings`, `#advertising`
 
 ---
 
 ## 科技
 
-<a id="item-45"></a>
-## [微软与 OpenAI 终止排他协议，OpenAI 可自由使用竞争对手云服务](https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud) ⭐️ 9.0/10
-
-微软与 OpenAI 宣布对双方合作关系进行重大重组，取消了要求 OpenAI 仅使用 Azure 的排他性条款，并终止了微软向 OpenAI 支付收入分成的安排。新协议允许 OpenAI 在 AWS 和 Google Cloud 等竞争性云平台上销售其服务，而微软保留对 OpenAI 知识产权的非排他性许可，有效期至 2032 年。 此次重组从根本上重塑了 AI 云服务的竞争格局，终结了行业内最具影响力的排他性合作关系之一。它赋予 OpenAI 在多个云提供商之间扩展客户群的自由，可能加速企业级 AI 的采用，并加剧云巨头之间的竞争。 根据新条款，当客户通过 Azure 访问 OpenAI 模型时，微软不再向 OpenAI 支付任何收入分成，而 OpenAI 将继续向微软支付 20%的收入分成至 2030 年，但该分成设有总额上限。微软保留对 OpenAI 模型和产品知识产权的非排他性许可至 2032 年，且在此期间 Azure 仍是 OpenAI 的“主要云合作伙伴”。
-
-rss · VentureBeat · Apr 27, 22:27
-
-**背景**: 微软于 2019 年首次向 OpenAI 投资 10 亿美元，随后累计投资超过 130 亿美元，获得了 OpenAI 模型的独家商业访问权，并使 Azure 成为 OpenAI API 产品的唯一云提供商。这种排他性是双方合作关系的基石，使微软能够将 OpenAI 的 GPT 模型集成到 Bing、Office 和 GitHub Copilot 等产品中。此次重组是数月幕后紧张关系的结果，反映了 AI 行业的快速演变。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://finance.yahoo.com/sectors/technology/article/microsoft-openai-rewrite-partnership-to-eliminate-exclusive-model-access-change-revenue-sharing-140522820.html">Microsoft , OpenAI rewrite partnership to eliminate exclusive model...</a></li>
-<li><a href="https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/">No longer exclusive : Microsoft agrees to let OpenAI ... - Ars Technica</a></li>
-<li><a href="https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html">OpenAI shakes up partnership with Microsoft, capping revenue share payments</a></li>
-
-</ul>
-</details>
-
-**标签**: `#OpenAI`, `#Microsoft`, `#Cloud Computing`, `#AI Industry`, `#Partnership`
-
----
-
-<a id="item-46"></a>
-## [Talkie：一个微调至 1930 年代知识风格的 130 亿参数语言模型](https://talkie-lm.com/introducing-talkie) ⭐️ 8.0/10
-
-Talkie 是一个经过微调的 130 亿参数语言模型，旨在采用 1930 年代的知识、词汇和写作风格，为现代查询提供历史视角的回答。它作为创意微调的演示发布，并配有专门的网站和社区讨论。 该项目展示了微调如何将现代大语言模型转变为历史准确的拟人角色，为教育工具、历史研究和创意写作开辟了新的可能性。它也凸显了人们对超越通用聊天机器人的、风格受限的细分 AI 模型日益增长的兴趣。 该模型基于 130 亿参数的基座模型（类似 Llama-13B），并专门微调以模仿 1930 年代的语言和知识，包括历史不准确性和时代错误。社区测试显示，Talkie 有时会引用 1900 年以前的信息，且对大萧条缺乏认知，表明微调数据集可能存在缺口。
-
-hackernews · jekude · Apr 27, 21:55
-
-**背景**: 大型语言模型（如 Llama-13B）是通用人工智能系统，通过海量文本语料训练来预测和生成类人文本。微调是一种技术，通过在精选数据集上进一步训练，使预训练的大语言模型适应特定领域或风格，从而实现历史角色扮演或专业写作等行为。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Llama_(language_model)">Llama (language model) - Wikipedia</a></li>
-<li><a href="https://arxiv.org/html/2408.13296v1">The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities (Version 1.0)</a></li>
-<li><a href="https://unsloth.ai/docs/get-started/fine-tuning-llms-guide">Fine-tuning LLMs Guide | Unsloth Documentation</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 社区评论显示出不同的反应：一些用户对模型生成符合时代背景的回答的能力印象深刻，而另一些用户则指出历史不准确之处，例如遗漏了大萧条或混淆了 1900 年前与 1930 年代的知识。也有用户对微调方法和所用数据集表示好奇。
-
-**标签**: `#LLM`, `#AI`, `#historical modeling`, `#fine-tuning`, `#machine learning`
-
----
-
-<a id="item-47"></a>
-## [pip 26.1 引入锁文件和依赖冷却期](https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything) ⭐️ 8.0/10
-
-pip 26.1 通过新的 `pip lock` 命令增加了原生锁文件支持，可将所有依赖解析并锁定到 `pylock.toml` 文件中，并通过 `--uploaded-prior-to` 选项引入依赖冷却期，防止安装最近上传的包。此版本还放弃了对 Python 3.9 的支持，该版本已于 2025 年 10 月停止维护。 锁文件是 pip 中长期被要求的功能，它为 Python 的默认包管理器带来了可重现构建和确定性依赖解析，此前这一功能需依赖 pip-tools 或 uv 等外部工具。依赖冷却期通过允许用户避免可能最近上传的恶意包来增强供应链安全性，解决了 Python 生态系统中日益增长的担忧。 `pip lock` 命令生成一个 `pylock.toml` 文件，其中包含所有传递依赖的精确版本、哈希值和标记。`--uploaded-prior-to` 选项使用 ISO 8601 持续时间格式（例如 `P4D` 表示 4 天）来指定包的最小年龄，Simon Willison 演示了 `pip install llm --uploaded-prior-to P4D` 正确安装了较旧的版本（0.30），而不是仅发布三天的最新版本（0.31）。
-
-rss · Simon Willison · Apr 28, 05:23
-
-**背景**: pip 是 Python 的默认包安装器，用于从 Python 包索引（PyPI）安装和管理依赖。锁文件是记录所有依赖及其子依赖精确版本的文件，确保在不同机器和不同时间点都能一致地重现相同的环境。依赖冷却期是一种安全机制，可防止安装最近上传的包，从而缩短攻击者在恶意软件被检测和报告之前分发恶意软件的时间窗口。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://discuss.python.org/t/what-is-the-status-on-a-pip-lock-file/6669">What is the status on a pip lock file? - Packaging - Discussions on...</a></li>
-<li><a href="https://cooldowns.dev/">Dependency Cooldowns - Dependency Cooldowns</a></li>
-<li><a href="https://sethmlarson.dev/pip-relative-dependency-cooldowns">pip v26.1 adds support for relative dependency cooldowns</a></li>
-
-</ul>
-</details>
-
-**标签**: `#pip`, `#Python`, `#package-management`, `#lockfiles`, `#dependency-management`
-
----
-
-<a id="item-48"></a>
-## [微软 VibeVoice：开源语音转文字并内置说话人分离](https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything) ⭐️ 8.0/10
-
-微软于 2026 年 1 月 21 日发布了 VibeVoice，这是一款采用 MIT 许可证的语音转文字模型，并内置了说话人分离功能。目前已有 4 位 MLX 量化版本，可通过 mlx-audio 的一行命令在 Apple Silicon Mac 上运行。 这标志着开源音频 AI 的重要进展，因为 VibeVoice 在宽松许可证下将语音转文字和说话人分离集成于单一模型。它使开发者和研究人员能够在消费级硬件上轻松转录多说话人音频，降低了高级音频处理的门槛。 该模型每次运行最多处理一小时音频，默认最大令牌数为 8192（约 25 分钟），可增至 32768 以覆盖完整时长。在 128GB M5 Max MacBook Pro 上，处理一段 99.8 分钟的音频耗时 524.79 秒（8 分 45 秒），峰值内存 30.44 GB（但活动监视器显示预填充阶段高达 61.5 GB）。
-
-rss · Simon Willison · Apr 27, 23:46
-
-**背景**: 语音转文字（STT）模型将口语转换为书面文本，而说话人分离则识别谁在何时说话。传统上，这些任务由不同系统处理，但 VibeVoice 将它们合并到一个模型中。MLX 是苹果针对 Apple Silicon 的机器学习框架，mlx-audio 是一个社区库，简化了在 Mac 上运行音频模型的过程。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/Blaizzy/mlx-audio">GitHub - Blaizzy/mlx-audio: A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. · GitHub</a></li>
-
-</ul>
-</details>
-
-**标签**: `#speech-to-text`, `#Microsoft`, `#open-source`, `#MLX`, `#AI`
-
----
-
-<a id="item-49"></a>
-## [小米 MiMo-V2.5 模型在高效代理爪任务中领先](https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks) ⭐️ 8.0/10
-
-小米发布了两个新的开源 AI 模型 MiMo-V2.5 和 MiMo-V2.5-Pro，采用宽松的 MIT 许可证，可免费用于商业用途。Pro 模型在代理爪任务上达到 63.8%的成功率，每次轨迹仅消耗约 7 万 token，远少于竞品模型。 这些模型为谷歌和 OpenAI 的专有前沿模型提供了高效且经济实惠的替代方案，尤其适用于自动化复杂工作流的代理爪任务。其开源特性和低 token 消耗可能使企业和独立开发者更容易获得先进的 AI 代理。 MiMo-V2.5-Pro 采用 3100 亿参数架构，支持 100 万 token 上下文窗口和高效激活参数，相比 Anthropic Claude Opus 4.6、Google Gemini 3.1 Pro 和 OpenAI GPT-5.4，在达到类似结果时 token 消耗减少 40–60%。基础版 MiMo-V2.5 是多模态专家，而 Pro 版针对长程连贯性和复杂软件工程进行了优化。
-
-rss · VentureBeat · Apr 27, 21:45
-
-**背景**: 代理爪任务指的是 AI 系统能够代表用户自主执行多步骤操作，例如管理电子邮件、安排日程或编写代码，通常通过第三方消息应用完成。MIT 许可证是一种宽松的开源许可证，允许不受限制地使用、修改和商业分发软件。小米的 MiMo 模型是开源 AI 模型挑战闭源领导者这一趋势的一部分，以更低成本提供有竞争力的性能。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://mimo.xiaomi.com/mimo-v2-5-pro/">MiMo-V2.5-Pro | Xiaomi</a></li>
-<li><a href="https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro">XiaomiMiMo/MiMo-V2.5-Pro · Hugging Face</a></li>
-
-</ul>
-</details>
-
-**标签**: `#open source`, `#AI models`, `#Xiaomi`, `#agentic tasks`, `#MIT license`
-
----
-
-<a id="item-50"></a>
-## [小米正式开源 MiMo-V2.5 系列模型](https://x.com/XiaomiMiMo/status/2048821516079661561) ⭐️ 8.0/10
-
-小米正式开源了 MiMo-V2.5 系列模型，采用 MIT 协议，包含专注于 Agent 和代码任务的 Pro 版本以及原生全模态模型，两者均支持 1M token 上下文窗口。 此举大幅降低了开发者和企业部署先进多模态 AI 的门槛，因为 MIT 协议允许免费商业使用、训练和微调。这也使小米成为开源 AI 生态的重要贡献者，与 Meta、Google 等公司的模型展开竞争。 MiMo-V2.5-Pro 在评估真实世界 Agent 和代码任务的 GDPVal-AA 与 ClawEval 基准测试中位列开源模型第一。MiMo-V2.5 是具备强大 Agent 能力的原生全模态模型，两款模型均支持 1M token 上下文窗口。
-
-telegram · zaihuapd · Apr 28, 00:27
-
-**背景**: MIT 协议是一种宽松的开源许可证，允许用户自由使用、修改和分发软件，包括商业用途，限制极少。GDPVal-AA 和 ClawEval 是测试 AI 模型在实际任务中表现的基准，涵盖工具使用、规划和执行等跨职业和行业的场景，比传统学术基准更能真实反映 Agent 性能。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://mimo.mi.com/">Xiaomi MiMo Home</a></li>
-<li><a href="https://platform.xiaomimimo.com/docs/en-US/news/v2.5-news">Xiaomi MiMo API Open Platform</a></li>
-<li><a href="https://artificialanalysis.ai/models/mimo-v2-5-0424">MiMo - V 2 . 5 - Intelligence, Performance & Price Analysis</a></li>
-
-</ul>
-</details>
-
-**标签**: `#open-source`, `#multimodal`, `#AI`, `#Xiaomi`, `#large-language-model`
-
----
-
-<a id="item-51"></a>
-## [欧盟依据《数字市场法案》启动两项程序，要求谷歌开放 Gemini 接口和搜索数据](https://t.me/zaihuapd/41099) ⭐️ 8.0/10
-
-1 月 27 日，欧盟委员会依据《数字市场法案》（DMA）对谷歌启动了两项规范程序。第一项程序要求谷歌允许第三方 AI 服务平等访问 Android 系统的软硬件特性，确保它们能与 Gemini 在同一竞争条件下运行。第二项程序要求谷歌按照公平、合理且无歧视（FRAND）原则，向第三方搜索引擎提供匿名化的排名、查询、点击和展示数据。 此举可能重塑 AI 和搜索市场的竞争格局，迫使谷歌向竞争对手开放其关键资产——Gemini API 和搜索数据。如果成功，将降低小型 AI 开发者和搜索引擎的准入门槛，有望加速创新并增加欧洲消费者的选择。 第一项程序聚焦互操作性，要求谷歌向第三方 AI 服务提供与 Gemini 同等的 Android 系统功能访问权限。第二项程序针对搜索数据共享，要求以 FRAND 条款提供排名、查询、点击和展示的匿名化数据，并明确涉及 AI 相关数据。
-
-telegram · zaihuapd · Apr 28, 01:31
-
-**背景**: 《数字市场法案》（DMA）是欧盟具有里程碑意义的法规，将大型在线平台指定为“守门人”，并施加确保公平竞争的义务，包括数据可移植性和互操作性。FRAND（公平、合理且无歧视）条款常用于标准必要专利许可，以防止市场权力滥用。谷歌的 Gemini 是一系列大型语言模型，为谷歌产品中的 AI 服务提供支持，其 API 是开发者的关键入口。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.euractiv.com/news/commission-pushes-google-android-to-open-gemini-ai-to-rivals/">Commission pushes Google Android to open Gemini AI to... | Euractiv</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Reasonable_and_non-discriminatory_licensing">Reasonable and non-discriminatory licensing - Wikipedia</a></li>
-<li><a href="https://ai.google.dev/gemini-api/docs">Gemini API | Google AI for Developers</a></li>
-
-</ul>
-</details>
-
-**标签**: `#EU regulation`, `#Google`, `#Gemini`, `#DMA`, `#AI competition`
-
----
-
-<a id="item-52"></a>
-## [追觅发布三款电动车：超跑 1.8 秒、固态电池 SUV、火箭概念版](https://finance.sina.com.cn/tech/2026-04-28/doc-inhvzfsh8617513.shtml) ⭐️ 8.0/10
-
-追觅科技在旧金山发布三款电动车：Nebula Next 01 超跑零百加速 1.8 秒，Next 01X SUV 首发全球首款 60Ah 全固态电池，以及 Next 01 火箭概念版，计划 2027 年量产交付。 这标志着一家知名消费电子公司大举进入电动车领域，展示了 60Ah 全固态电池和 1.8 秒超跑等前沿技术，可能挑战传统车企并加速固态电池在汽车领域的应用。 超跑采用四电机系统，最大功率 1399kW，风阻系数 0.185；SUV 提供 2000 TOPS AI 算力并全系标配 2160 线激光雷达；火箭概念版配备双固体火箭助推系统，响应时间 150 毫秒，但尚未公布量产路径。
-
-telegram · zaihuapd · Apr 28, 03:04
-
-**背景**: 固态电池使用固态电解质代替液态，能量密度更高、安全性更好；60Ah 容量在该技术中属于较大规格。激光雷达通过激光脉冲创建高分辨率 3D 地图用于自动驾驶；2160 线指扫描分辨率。固体火箭助推器通常用于航天发射，而非汽车领域，因此这是一个新颖的概念。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://solidstatemarine.com/products/solid-state-marine-deep-cycle-battery-48v60ah">48V 60Ah Deep Cycle Battery – Solid State Marine</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lidar">Lidar - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Solid_rocket_booster">Solid rocket booster - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#electric vehicles`, `#solid-state battery`, `#automotive`, `#AI`, `#laser radar`
-
----
-
-<a id="item-53"></a>
-## [中国禁止外资收购 AI 初创公司 Manus](https://t.me/zaihuapd/41102) ⭐️ 8.0/10
-
-中国国家发展和改革委员会（NDRC）正式禁止外资收购 Manus 项目，依据国家安全审查要求当事人撤销该交易。 这一决定凸显了中美科技竞争的加剧，阻止了一家美国科技巨头收购中国创始的 AI 初创公司，可能影响 AI 领域的跨境投资和技术转移。 该禁令由外商投资安全审查工作机制办公室（国家发展改革委）发布，要求当事人撤销该收购交易。
-
-telegram · zaihuapd · Apr 28, 03:43
-
-**背景**: Manus 项目是一家由中国科技企业家创立的 AI 初创公司。中国的外商投资国家安全审查机制允许政府阻止可能威胁国家安全的收购，尤其是在人工智能等敏感技术领域。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a">China blocks Meta from acquiring AI startup Manus | AP News</a></li>
-<li><a href="https://www.yicai.com/brief/103154622.html">外商投资安全审查工作机制办公室（国家发展改革委） 对外资收购Manus项目作出安全审查决定</a></li>
-<li><a href="https://www.nbd.com.cn/articles/2026-04-27/4363048.html">外商投资安全审查工作机制办公室（国家发展改革委）对外资收购Manus项目作出安全审查决定 | 每经网</a></li>
-
-</ul>
-</details>
-
-**标签**: `#national security`, `#foreign investment`, `#AI regulation`, `#China tech policy`, `#acquisition ban`
-
----
-
-<a id="item-54"></a>
-## [彭博终端迎来 AI 聊天机器人改造](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/) ⭐️ 7.0/10
-
-彭博正在将其标志性金融终端集成一个名为 ASKB（发音为 ask-bee）的聊天机器人式界面，该界面基于多个不同语言模型构建。公司首席技术官在接受《连线》采访时讨论了这些变化，重点介绍了财报摘要生成和研究问题 AI 回答等功能。 此次 AI 改造对彭博终端而言是一次重大转变，该终端是全球金融领域交易员和分析师使用的关键工具。它可能改变金融专业人士访问和分析数据的方式，使工作流程更快、更高效，同时也引发了关于用户接受度以及 AI 在高风险金融决策中角色的讨论。 ASKB 基于多个不同语言模型构建，而非单一模型，这使得彭博能够利用其丰富的领域专业知识。该功能的推出始于财报摘要生成功能，随后是研究问题的 AI 回答，目前更多聊天机器人式功能正在测试中。
-
-rss · WIRED · Apr 28, 08:30
-
-**背景**: 彭博终端是一套为金融专业人士提供实时市场数据、新闻、分析和交易功能的计算机系统，被广泛视为金融领域的必备工具。其背后的公司彭博有限合伙企业一直在探索生成式 AI 解决方案以增强平台功能，从摘要工具起步，现已向 ASKB 等对话式界面迈进。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/">The Bloomberg Terminal Is Getting an AI Makeover, Like It... | WIRED</a></li>
-<li><a href="https://www.itbrew.com/stories/2025/11/06/inside-the-bloomberg-terminal-ai">Inside the Bloomberg Terminal’s AI - itbrew.com</a></li>
-<li><a href="https://professional.bloomberg.com/solutions/ai/">AI at Bloomberg | Bloomberg Professional Services</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#finance`, `#Bloomberg`, `#chatbot`, `#technology`
-
----
-
-<a id="item-55"></a>
-## [Anthropic AI 智能体完成真实二手交易，频出乌龙](https://futurism.com/artificial-intelligence/claude-give-ai-agents-money-project-deal) ⭐️ 7.0/10
-
-Anthropic 开展了一项名为“Project Deal”的实验，69 名员工各向 Claude AI 智能体提供 100 美元预算和二手物品，让智能体代表他们进行讨价还价并完成真实交易，最终成功达成 186 笔交易，总金额超过 4,000 美元。 该实验表明 AI 智能体能够自主处理真实世界中的经济交易，预示着未来可能出现由 AI 代表人类进行谈判的“智能体经济”，但同时也暴露了当前可靠性的不足，并引发了关于法律和监管框架的紧迫问题。 值得注意的失败案例包括：一个 AI 经过复杂谈判后买回了卖家自己的滑雪板，另一个 AI 为了满足“送自己一件小礼物”的心愿，买下了 19 个二手乒乓球。实验采用了一个类似 Craigslist 的分类市场，所有交易都由 Claude 模型代表员工进行。
-
-telegram · zaihuapd · Apr 28, 07:31
-
-**背景**: AI 智能体是能够代表用户自主执行任务的软件程序，例如浏览网站、填写表单或谈判交易。“Project Deal”是一项新颖的实验，因为它涉及真实货币和实物商品，超越了模拟环境，在真实的经济场景中测试 AI 智能体。该实验既展示了智能体 AI 系统的潜力，也暴露了其当前的不成熟。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.anthropic.com/features/project-deal">Project Deal: our Claude-run marketplace experiment | Anthropic</a></li>
-<li><a href="https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/">Anthropic created a test marketplace for agent-on-agent ...</a></li>
-<li><a href="https://www.extremetech.com/computing/anthropic-tests-claude-run-marketplace-where-ai-agents-negotiate-real-world">Anthropic Tests Claude-Run Marketplace Where AI Agents ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI agents`, `#Anthropic`, `#AI safety`, `#economic experiments`, `#Claude`
-
----
-
 <a id="item-56"></a>
-## [教育部新增 38 种本科专业，含具身智能](https://mp.weixin.qq.com/s/T5yv1EVEL1mDSb1_58TO2g) ⭐️ 7.0/10
+## [谷歌安卓转向威胁用户自由](https://keepandroidopen.org/en/) ⭐️ 9.0/10
 
-中国教育部在 2026 年本科专业目录中新增 38 种专业，具身智能和脑机科学与技术首次被列入交叉学科门类。新专业涵盖能源科学、农业机器人、生物制造、数字文旅和数字贸易等领域，并可在今年高考招生中使用。 这一政策调整标志着中国高等教育与人工智能和机器人等新兴技术的战略对接，直接影响这些行业未来的人才输送。将具身智能纳入交叉学科门类，反映了对综合技能需求的日益认可，以推动 AI 与实体经济的融合。 教育部支持哈尔滨工业大学等 9 所高校增设具身智能专业，旨在推动 AI 与实体经济深度融合。更新后的本科专业目录涵盖 13 个门类、92 个专业类和 883 种专业，"十四五"期间专业调整比例累计超过 30%。
+一项名为“保持安卓开放”的运动警告称，谷歌正将安卓开源项目（AOSP）的开发转向闭门进行，使安卓变成一个围墙花园，从而撤销了其与 iOS 区分开来的开放性。 这一转变可能从根本上改变移动生态系统，消除许多用户选择安卓而非 iOS 的关键原因——运行自定义代码和控制自己设备的能力。如果安卓变成一个封闭的生态系统，用户可能被迫在两个封闭平台之间选择，从而减少竞争和创新。 谷歌于 2025 年 3 月 27 日宣布将终止对 AOSP 的公开维护，未来开发将在内部闭门进行，尽管一位谷歌副总裁后来表示 AOSP 不会完全消失。该运动强调，这一变化影响到用户口袋中已有的设备，因为谷歌单方面撤销了开放性的承诺。
 
-telegram · zaihuapd · Apr 28, 08:52
+hackernews · doener · Apr 28, 15:21
 
-**背景**: 具身智能（Embodied AI）是指通过感知和行动与物理世界交互的智能系统，通常以机器人形态体现。它被认为是通往通用人工智能（AGI）的关键路径，将 AI 与物理实体结合，使其能在真实环境中学习和执行任务。该概念由艾伦·图灵于 1950 年首次提出，近年来随着机器人技术和大型语言模型的进步而加速发展。
+**背景**: 安卓历史上是一个开源操作系统，允许制造商和用户自由修改和分发，这使其与苹果封闭的 iOS 生态系统区分开来。技术中的“围墙花园”指的是一个封闭的生态系统，公司严格控制硬件、软件和服务，限制用户访问外部内容并限制第三方参与。“保持安卓开放”运动认为，谷歌此举威胁到了这一根本的开放性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://finance.sina.com.cn/tech/roll/2026-04-28/doc-inhvzmye8613828.shtml">新增38种本科专业！涵盖具身智能、脑机科学与技术等|本科专业_新浪科技_新浪网</a></li>
-<li><a href="https://finance.sina.com.cn/tech/discovery/2026-04-28/doc-inhvzshh8463664.shtml">本科专业上新！新增具身智能、脑机科学与技术等专业|本科专业_新浪科技_新浪网</a></li>
-<li><a href="https://baike.baidu.com/item/具身智能/63286570">具身智能（智能体通过身体将感知、行动与认知深度融合的智能系统）_... 一文全面了解目前具身智能的核心内容和未来发展-腾讯云开发者社区-腾... 智能体与具身智能区别详解：技术架构、应用场景全对比 具身智能全景分析，读这一篇就够了_澎湃号·湃客_澎湃新闻-The Paper 具身智能产业场景应用研究报告_中国_技术_物理 具身智能 （ 智能 体通过身体将感知、行动与认知深度融合的 具身智能 （ 智能 体通过身体将感知、行动与认知深度融合的 智能 体与 具身智能 区别详解：技术架构、应用 场景 全对比-阿里 【具身智能科普】表格分析核心概念、技术体系、应用场景落地、商业化...</a></li>
+<li><a href="https://www.appfast.com/app-marketing/google-officially-announced-the-termination-of-the-android-open-source-project-aosp.html">Google officially announced the termination of the Android ...</a></li>
+<li><a href="https://9to5google.com/2025/06/12/android-open-source-project-pixel-change/">Google: Android Open Source Project not being ‘discontinued ...</a></li>
+<li><a href="https://www.techtarget.com/searchsecurity/definition/walled-garden">What is a Walled Garden? - TechTarget What Is a Walled Garden? The Cost of Control Images Walled Gardens Explained: Benefits, Drawbacks and Open-Web ... What Are Walled Gardens? Understanding Their ... - Substack Understanding the Concept of Walled Gardens in Digital ... What are Walled Gardens in Advertising & Tech 2026 What is a walled garden? | NordVPN</a></li>
 
 </ul>
 </details>
 
-**标签**: `#education policy`, `#embodied intelligence`, `#AI`, `#interdisciplinary studies`, `#China`
+**社区讨论**: 社区评论表达了强烈的担忧和失望，用户 NDlurker 表示安卓的开放性是其与 iPhone 区分开来的承诺，而谷歌正在单方面撤销这一承诺。一些用户如 pngwen 已经转向 iOS，而其他用户如 Xunjin 则将其与桌面计算进行类比，质疑为什么供应商锁定在手机上可以接受，而在 PC 上则不行。开发者 ccamrobertson 指出，过去十年中维护生产级安卓应用变得越来越困难。
+
+**标签**: `#Android`, `#open source`, `#mobile ecosystem`, `#vendor lock-in`, `#Google`
 
 ---
 
 <a id="item-57"></a>
-## [剪映、即梦 AI 因 AI 内容标识不规范被处罚](https://www.cac.gov.cn/2026-04/28/c_1779119736411711.htm) ⭐️ 7.0/10
+## [谷歌在 Anthropic 拒绝后扩大五角大楼 AI 访问](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/) ⭐️ 9.0/10
 
-2026 年 4 月 28 日，中国国家互联网信息办公室公开点名并处罚了剪映、猫箱 App 及即梦 AI 等多个热门 AI 平台，因其未能有效落实 AI 生成内容的标识规定。 此次执法行动表明，中国监管机构正从规则制定转向对 AI 内容标识的积极执法，这将影响主要平台处理合成媒体的方式，并可能为全球 AI 治理树立先例。 这些平台被发现违反了多部法律法规；监管部门采取了约谈、责令整改、警告以及从严处理责任人等措施。
+在 Anthropic 拒绝类似用途后，谷歌与美国国防部签署了一项新的机密合同，提供其 AI 模型用于军事目的，包括大规模监控和自主武器。 这一决定加剧了 AI 行业的伦理分歧，主要科技公司在军事 AI 合同上采取对立立场，可能影响未来的法规和公众信任。 据报道，该合同允许五角大楼将谷歌的 AI 用于机密工作，包括国内大规模监控和自主武器系统，而 Anthropic 在其协议中明确禁止了这些用途。
 
-telegram · zaihuapd · Apr 28, 09:29
+rss · TechCrunch · Apr 28, 18:15
 
-**背景**: 2025 年 3 月，中国国家网信办联合其他三部委共同发布了《人工智能生成合成内容标识办法》，该办法于 2025 年 9 月 1 日起施行。该法规要求对 AI 生成的内容进行清晰标识，以帮助用户区分合成媒体与人类创作的内容。剪映是字节跳动旗下流行的视频编辑工具，即梦 AI 是字节跳动旗下的 AI 图像和视频生成平台。
+**背景**: 2018 年，数千名谷歌员工抗议公司参与五角大楼的 Project Maven 合同，该合同使用 AI 分析无人机视频。以伦理 AI 立场闻名的 Anthropic，在拒绝军事合同后，最近被特朗普政府指定为国家安全风险。OpenAI 今年早些时候也与五角大楼达成协议，但限制了大规模监控和自主武器的使用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm">关于印发《人工智能生成合成内容标识办法》的通知_中央网络安全和信息...</a></li>
+<li><a href="https://www.reuters.com/technology/google-signs-classified-ai-deal-with-pentagon-information-reports-2026-04-28/">Google signs classified AI deal with Pentagon, The ...</a></li>
+<li><a href="https://www.cbsnews.com/news/google-ai-pentagon-classified-use-employee-letter/">Google workers urge CEO to refuse classified AI work with ...</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/apr/28/google-classified-ai-deal-pentagon">Google reportedly signs classified AI deal with US Pentagon</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI ethics`, `#military AI`, `#Google`, `#Anthropic`, `#surveillance`
+
+---
+
+<a id="item-58"></a>
+## [Ghostty 创建者 Mitchell Hashimoto 离开 GitHub](https://mitchellh.com/writing/ghostty-leaving-github) ⭐️ 8.0/10
+
+Ghostty 终端模拟器的创建者 Mitchell Hashimoto 宣布，由于 GitHub 在微软旗下平台质量和可靠性下降，Ghostty 将离开 GitHub。该项目将迁移到自托管解决方案，仓库已在 GitHub 上归档。 这位知名开源开发者的决定凸显了社区对 GitHub 组织问题的日益不满，包括资源向 Copilot 倾斜和基础设施不稳定。这可能促使其他项目重新考虑对 GitHub 的依赖，从而可能分裂开源生态系统。 Ghostty 是一个快速、功能丰富、跨平台的终端模拟器，使用原生界面和 GPU 加速。Mitchell Hashimoto 曾创立 HashiCorp，并创建了 Vagrant、Terraform 和 Vault。
+
+hackernews · WadeGrimridge · Apr 28, 19:44
+
+**背景**: GitHub 于 2018 年被微软收购，因优先开发 Copilot 而忽视核心平台可靠性而受到批评。非官方 GitHub 状态页面显示频繁出现事故，许多开发者报告性能和响应能力下降。Mitchell Hashimoto 在开发者社区中备受尊敬，因此他的离开尤其引人注目。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://ghostty.org/">Ghostty</a></li>
+<li><a href="https://github.com/ghostty-org/ghostty">GitHub - ghostty-org/ghostty: 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HashiCorp">HashiCorp - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区讨论深表同情，许多人同意 GitHub 在微软旗下质量下降。有人建议 Hashimoto 可以被聘请来修复 GitHub，而另一些人警告说，如果这种趋势蔓延，可能对微软的开发者关系造成严重打击。
+
+**标签**: `#GitHub`, `#open source`, `#platform reliability`, `#Microsoft`, `#developer tools`
+
+---
+
+<a id="item-59"></a>
+## [微软独家协议终止后，AWS 即推出 OpenAI 模型](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/) ⭐️ 8.0/10
+
+在 OpenAI 结束与微软的独家合作关系一天后，AWS 宣布在 Amazon Bedrock 上提供 OpenAI 模型，包括 GPT、Codex 以及全新的托管代理服务。 这标志着 AI 基础设施竞争的重大转变，打破了微软对 OpenAI 模型的独家访问权，使企业能够在 AWS 上使用熟悉的安全与合规控制来部署 OpenAI 的前沿 AI。 OpenAI 模型在 Amazon Bedrock 上以有限预览形式提供，继承了 IAM、AWS PrivateLink、护栏、加密和 CloudTrail 日志等企业级控制；托管代理服务由 OpenAI 驱动，支持多步骤的代理工作流。
+
+rss · TechCrunch · Apr 28, 19:48
+
+**背景**: 此前，OpenAI 的模型仅通过 Microsoft Azure 独家提供，限制了企业在云端 AI 部署上的选择。Amazon Bedrock 是 AWS 的托管服务，用于访问多家提供商的基础模型，提供统一的安全和编排能力。新推出的托管代理基于 OpenAI Agents SDK，这是一个轻量级框架，用于构建能够规划、调用工具并在多个专家间协作的多代理应用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents/">Amazon Bedrock now offers OpenAI models ... - aws.amazon.com</a></li>
+<li><a href="https://openai.com/index/openai-on-aws/">OpenAI models, Codex, and Managed Agents come to AWS</a></li>
+<li><a href="https://www.aboutamazon.com/news/aws/bedrock-openai-models">AWS and OpenAI announce expanded partnership to bring ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#AWS`, `#cloud computing`, `#AI models`, `#enterprise AI`
+
+---
+
+<a id="item-60"></a>
+## [美国最高法院对地理围栏搜查令合法性意见分歧](https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/) ⭐️ 8.0/10
+
+2026 年 4 月 27 日，美国最高法院就 Chatrie 诉美国政府案进行了口头辩论，该案质疑地理围栏搜查令的合宪性，此类搜查令允许警方从谷歌等科技公司获取犯罪现场附近所有设备的位置数据。 此案可能为数字隐私树立重要先例，决定地理围栏搜查令是否违反第四修正案对不合理搜查的保护。若裁决反对此类搜查令，将显著限制执法部门对智能手机用户进行拉网式监控的能力，影响数百万美国民众及科技公司的数据政策。 该案涉及奥凯洛·查特里（Okello Chatrie），警方利用地理围栏搜查令识别出他在犯罪现场附近的设备后，其被判银行抢劫罪。在辩论中，保守派大法官意见分歧，一些人担忧搜查令范围过宽，另一些人则认为根据现有判例可能允许此类做法。
+
+rss · TechCrunch · Apr 28, 16:18
+
+**背景**: 地理围栏搜查令是一种搜查令，要求谷歌等科技公司提供在特定时间段内位于特定地理区域内的所有设备的位置数据。执法部门利用这些搜查令，通过查找哪些手机在犯罪现场附近来识别潜在嫌疑人，但批评者认为这相当于违宪的拉网式搜索，暴露了无辜旁观者的私人位置数据。第四修正案保护公民免受不合理搜查和扣押，最高法院此前已裁定，未经授权追踪手机位置数据违反这一保护。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.politico.com/news/2026/04/27/supreme-court-geofence-search-warrants-00893522">Supreme Court wrestles with geofence search warrants</a></li>
+<li><a href="https://www.scotusblog.com/2026/04/justices-appear-mixed-on-whether-geofence-warrant-violated-the-fourth-amendment-/">Justices appear mixed on whether geofence warrant violated ...</a></li>
+<li><a href="https://thehill.com/regulation/court-battles/5848192-geofence-warrants-fourth-amendment-supreme-court/">Geofence warrants case tests Fourth Amendment at Supreme Court</a></li>
+
+</ul>
+</details>
+
+**标签**: `#privacy`, `#surveillance`, `#law`, `#tech policy`, `#Supreme Court`
+
+---
+
+<a id="item-61"></a>
+## [GitHub 将 Copilot 转为按用量收费](https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/) ⭐️ 8.0/10
+
+GitHub 宣布自 2026 年 6 月 1 日起，将 GitHub Copilot 从固定费率定价转为基于用量的 AI Credits 模式，原因是重度用户的推理成本已不可持续。 这一转变反映了 AI 推理的真实成本压力，将影响数百万开发者和组织，可能增加重度用户的费用，同时保持基本使用免费。 每月 10 美元的 Pro 版和 39 美元的 Pro+ 版订阅费保持不变，但用户现在将根据实际 AI 使用量通过 AI Credits 计费；内联建议等基本任务仍免费。
+
+rss · Ars Technica · Apr 28, 15:41
+
+**背景**: GitHub Copilot 是一款 AI 驱动的代码补全工具，通过实时建议代码来帮助开发者。它已从简单的编辑器内助手演变为能够运行长时间、多步骤编码会话的代理平台，这显著增加了计算和推理成本。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.pcworld.com/article/3125621/github-copilots-price-shakeup-could-signal-the-end-of-cheap-ai-coding.html">GitHub Copilot's price shakeup could end cheap AI coding as we know it | PCWorld</a></li>
+<li><a href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/">GitHub Copilot is moving to usage-based billing - The GitHub Blog</a></li>
+<li><a href="https://github.com/features/copilot/plans">GitHub Copilot · Plans & pricing</a></li>
+
+</ul>
+</details>
+
+**标签**: `#GitHub Copilot`, `#pricing`, `#AI`, `#developer tools`, `#cost`
+
+---
+
+<a id="item-62"></a>
+## [马斯克诉奥特曼：OpenAI 未来走向的庭审开始](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit) ⭐️ 8.0/10
+
+埃隆·马斯克已开始在针对 OpenAI CEO 萨姆·奥特曼和总裁格雷格·布罗克曼的庭审中作证，指控该公司放弃了最初以造福人类为目标的非营利使命，转而追求利润。 此次庭审可能重塑 OpenAI 的治理结构，并为 AI 公司如何平衡使命驱动目标与商业利益树立先例，进而影响整个 AI 行业及其监管环境。 马斯克早期向 OpenAI 投资高达 3800 万美元，但因在公司结构和使命（包括是否采用营利模式）上的分歧，双方关系恶化。OpenAI 已于 2025 年 10 月完成向营利性实体的转型。
+
+rss · The Verge · Apr 28, 19:27
+
+**背景**: OpenAI 于 2015 年作为非营利研究实验室成立，其使命是确保通用人工智能造福全人类。2019 年，它创建了一个营利性子公司以扩大研究和部署规模，批评者认为此举偏离了最初的使命。庭审的核心在于这一转变是否违背了创始原则。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/OpenAI">OpenAI - Wikipedia</a></li>
+<li><a href="https://openai.com/our-structure/">Our structure - OpenAI</a></li>
+<li><a href="https://www.bbc.com/news/articles/cvgv38py7ewo">OpenAI completes shift to becoming for-profit entity - BBC News</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OpenAI`, `#AI governance`, `#Elon Musk`, `#Sam Altman`, `#lawsuit`
+
+---
+
+<a id="item-63"></a>
+## [最高法院审理地理围栏搜查令隐私案](https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants) ⭐️ 8.0/10
+
+美国最高法院于周一听取了 Chatrie 诉美国案的口头辩论，该案质疑警方使用地理围栏搜查令的合宪性，这种搜查令通过搜集附近所有移动设备的位置数据来识别嫌疑人。 此案可能为数字时代的第四修正案保护树立里程碑式的先例，影响每一位携带手机的美国人的隐私，并决定执法部门是否可以在没有合理理由的情况下要求获取无辜旁观者的位置数据。 该案源于 2019 年弗吉尼亚州里士满的一起银行抢劫案，警方使用地理围栏搜查令获取了谷歌位置数据，从而逮捕了 Okello Chatrie。最高法院的裁决将解决此类搜查令是否违反第四修正案禁止不合理搜查的规定。
+
+rss · The Verge · Apr 28, 18:45
+
+**背景**: 地理围栏搜查令，也称为反向位置搜查令，是一种强制要求谷歌等公司提供特定地理区域内所有设备在特定时间位置数据的搜查令。当警方知道犯罪的时间和地点但不知道嫌疑人身份时，常使用此工具。第四修正案保护公民免受不合理搜查和扣押，法院在 Riley 诉加州案中已确认手机包含大量个人数据，应享有更高的隐私保护。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Geofence_warrant">Geofence warrant</a></li>
+<li><a href="https://www.congress.gov/crs-product/LSB11274">Geofence Warrants and the Fourth Amendment | Congress.gov | Library of Congress</a></li>
+<li><a href="https://epic.org/issues/privacy-laws/fourth-amendment/">Fourth Amendment – EPIC – Electronic Privacy Information Center</a></li>
+
+</ul>
+</details>
+
+**标签**: `#privacy`, `#surveillance`, `#Supreme Court`, `#Fourth Amendment`, `#geofence warrants`
+
+---
+
+<a id="item-64"></a>
+## [谷歌与五角大楼签署机密网络 AI 协议](https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html) ⭐️ 8.0/10
+
+谷歌已签署一份机密合同，允许美国国防部将其 AI 模型用于任何合法的政府目的，与 OpenAI 和 xAI 达成了类似协议。据报道，该协议未赋予谷歌任何控制或否决政府行动的权利，但谷歌表示，它认为 AI 不应在缺乏人类监督的情况下用于大规模监控或自主武器。 这笔交易标志着主要科技公司在军事 AI 应用上的重大转变，可能加速先进 AI 融入机密国防行动。它也凸显了 AI 行业日益扩大的分歧，Anthropic 拒绝类似合同并与五角大楼发生争议，引发了关于 AI 在战争中角色的伦理和政策问题。 五角大楼已与谷歌、OpenAI 和 xAI 等主要 AI 实验室签署了价值高达 2 亿美元的协议，用于处理任务规划和武器瞄准的机密网络。近 600 名谷歌员工签署了一封公开信，敦促 CEO 桑达尔·皮查伊拒绝该协议，理由是担心该技术可能被用于不人道或极其有害的方式。
+
+rss · NYTimes Technology · Apr 28, 20:16
+
+**背景**: 美国国防部使用机密网络处理敏感工作，包括任务规划和武器瞄准。自 2026 年 1 月以来，五角大楼与 Anthropic 就其 AI 产品用于军事目的发生争议，此前 Anthropic 拒绝了一份 2 亿美元的合同，对军事 AI 使用采取了道德立场。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html">Google Signs A.I. Deal With the Pentagon - The New York Times</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/apr/28/google-classified-ai-deal-pentagon">Google reportedly signs classified AI deal with US Pentagon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anthropic–United_States_Department_of_Defense_dispute">Anthropic–United States Department of Defense dispute</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#military`, `#Google`, `#OpenAI`, `#policy`
+
+---
+
+<a id="item-65"></a>
+## [DOGE 关联人士接管美国政府身份平台](https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/) ⭐️ 8.0/10
+
+政府效率部（DOGE）的关联人士 Greg Hogan 被任命为 GSA 下属技术转型服务（TTS）的代理助理专员，负责管理 Login.gov。政府计划将驾照和护照数据整合到 Login.gov 中，朝着国家身份系统迈进。 这一任命标志着美国向集中式国家数字身份系统的重大政策转变，引发了关于隐私、安全和公民自由的重大担忧。将驾照和护照数据整合到一个联邦平台，可能从根本上改变美国人与政府服务互动的方式以及个人信息的管理方式。 Login.gov 是美国联邦政府网站的单点登录解决方案，允许用户用一个账户访问多个机构。整合驾照和护照数据将使其从简单的身份验证工具转变为全面的身份验证系统。
+
+rss · WIRED · Apr 28, 14:38
+
+**背景**: Login.gov 是由美国总务管理局（GSA）推出的单点登录服务，允许公民使用一个账户访问多个联邦政府网站。政府效率部（DOGE）是与第二届特朗普政府相关的网络，专注于减少政府浪费和简化运营，但其人员尚未正式公开。国家身份系统将集中联邦、州乃至私人服务的身份验证，这一概念因隐私问题在美国长期存在争议。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/">A DOGE Affiliate Is Now in Charge of the US Government’s ID Platform | WIRED</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Login.gov">Login.gov - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Department_of_Government_Efficiency">Department of Government Efficiency - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#government`, `#identity`, `#privacy`, `#security`, `#policy`
+
+---
+
+<a id="item-66"></a>
+## [Mistral AI 推出基于 Temporal 的工作流编排引擎](https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions) ⭐️ 8.0/10
+
+Mistral AI 已公开发布 Workflows 预览版，这是一个基于 Temporal 的生产级编排层，通过将编排与执行分离来保护企业数据隐私。该平台每天已运行数百万次执行，旨在帮助企业将 AI 系统从概念验证阶段推进到可靠、可扩展的生产环境。 此次发布解决了企业采用 AI 的关键瓶颈：即大规模可靠运行 AI 所需的运营基础设施——预计到 2027 年，超过 40% 的智能体 AI 项目将因复杂性和成本而被放弃。通过提供持久、可观测的编排引擎，Mistral 旨在帮助企业避免项目失败，并释放预计到 2034 年达 1990 亿美元的智能体 AI 市场潜力。 Workflows 包含 Python 开发工具包、用于工具集成的 MCP 服务器支持以及原生 OpenTelemetry 可观测性。其架构将编排与执行解耦，允许执行在客户数据边界内进行，而编排在云端运行，从而确保受监管行业的数据主权。
+
+rss · VentureBeat · Apr 28, 11:30
+
+**背景**: Temporal 是一个开源持久执行平台，为长时间运行的工作流提供容错、重试和状态管理。Mistral AI 的 Workflows 利用 Temporal 处理复杂的多步骤 AI 流程，这些流程将确定性业务规则与概率性大语言模型输出相结合，从而弥补了阻碍许多企业 AI 项目投入生产的运营缺口。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions">Mistral AI launches Workflows, a Temporal-powered ...</a></li>
+<li><a href="https://mistral.ai/news/workflows">Workflows for work that runs the business | Mistral AI</a></li>
+<li><a href="https://docs.mistral.ai/workflows/getting-started/introduction">Introduction | Mistral Docs</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Mistral AI`, `#orchestration`, `#enterprise AI`, `#Temporal`, `#AI infrastructure`
+
+---
+
+<a id="item-67"></a>
+## [教育部新增 38 种本科专业，具身智能等交叉学科首次列入](https://mp.weixin.qq.com/s/T5yv1EVEL1mDSb1_58TO2g) ⭐️ 8.0/10
+
+中国教育部发布了 2026 年本科专业目录，新增 38 个专业，涵盖能源科学与工程、农业机器人、生物制造、脑机科学与技术、数字文旅、数字贸易等领域。交叉学科门类首次列入 15 种专业，其中具身智能等 4 种为新设专业，并支持哈工大等 9 所高校增设具身智能专业。 这一政策标志着中国高等教育为配合国家在人工智能和新兴技术领域的战略而进行重大调整，直接支持 AI 与实体经济的融合。它将影响数百万学生，并重塑机器人、脑机接口和智能制造等行业的人才培养体系。 2026 年目录涵盖 13 个门类、92 个专业类和 883 种专业，交叉学科门类首次列入。"十四五"期间高校专业调整比例已超过 30%，今年首次突破 10%。
+
+telegram · zaihuapd · Apr 28, 08:52
+
+**背景**: 具身智能是指智能体（如机器人、无人机、智能汽车等）通过物理实体与环境实时交互，实现感知、认知、决策和行动一体化。2025 年，它首次被写入中国政府工作报告，作为未来产业的重要组成部分。新增交叉学科专业反映了打破传统学科壁垒、培养应对复杂现实挑战人才的更广泛趋势。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="http://theory.people.com.cn/n1/2025/0319/c40531-40441929.html">何为“具身智能”--理论-中国共产党新闻网</a></li>
+<li><a href="https://www.sohu.com/a/1015724801_121124324">上新38种专业！新增交叉学科门类！2026年本科专业目录重磅发布~_发展_...</a></li>
+<li><a href="https://www.chinanews.com.cn/gn/2026/04-28/10612216.shtml">中国教育部增设脑机科学与技术等38种本科新专业</a></li>
+
+</ul>
+</details>
+
+**标签**: `#education policy`, `#embodied intelligence`, `#AI`, `#China`, `#higher education`
+
+---
+
+<a id="item-68"></a>
+## [剪映、即梦 AI 因 AI 内容标识不合规被处罚](https://www.cac.gov.cn/2026-04/28/c_1779119736411711.htm) ⭐️ 8.0/10
+
+2026 年 4 月 28 日，国家互联网信息办公室公开点名并处罚了“剪映”、“猫箱”App 及“即梦 AI”网站，因其未能有效落实人工智能生成合成内容的标识规定，违反了多部法律法规。 这一执法行动标志着中国 AI 治理从规则制定转向对主要平台的积极合规执法，直接影响数百万创作者和开发者使用的流行工具中 AI 内容的标识方式。 这些平台被发现违反了《网络安全法》、《生成式人工智能服务管理暂行办法》和《人工智能生成合成内容标识办法》。网信部门已采取约谈、责令整改、警告并从严处理责任人等措施。
+
+telegram · zaihuapd · Apr 28, 09:29
+
+**背景**: 2025 年 9 月，中国四部门联合发布了《人工智能生成合成内容标识办法》，并于 2025 年 9 月 1 日生效，成为全球首个覆盖 AI 生成内容全生命周期的标识制度。该法规要求对 AI 生成的文字、图片和视频进行清晰标识，以确保内容可追溯并打击虚假信息。剪映和即梦 AI 均为字节跳动旗下产品，广泛用于视频编辑和 AI 图像/视频生成。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.cctv.com/2026/04/28/ARTIxoB8rJbUZOlu2zt7AG3J260428.shtml">网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台_新闻...</a></li>
+<li><a href="https://www.ithome.com/0/944/539.htm">网信部门依法查处剪映、猫箱、即梦 AI 生成合成内容标识违法问题网站...</a></li>
 <li><a href="https://www.gov.cn/zhengce/zhengceku/202503/content_7014286.htm">关于印发《人工智能生成合成内容标识办法》的通知_国务院部门文件_中...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI regulation`, `#content moderation`, `#China`, `#AI governance`, `#synthetic media`
+**标签**: `#AI regulation`, `#content labeling`, `#China`, `#AI governance`, `#compliance`
+
+---
+
+<a id="item-69"></a>
+## [谷歌与美国防部签署机密 AI 协议](https://www.theinformation.com/articles/google-signs-classified-ai-deal-pentagon-amid-employee-opposition) ⭐️ 8.0/10
+
+谷歌与美国国防部签署了一份机密合同，将其 AI 模型用于包括任务规划和武器目标定位在内的军事应用。该协议价值高达 2 亿美元，此前 OpenAI 和 Anthropic 也已签署类似协议。 这标志着谷歌在军事 AI 立场上的重大转变，此前该公司在 2018 年因 Project Maven 项目遭遇内部强烈反对。该协议可能为其他科技公司树立先例，并重新引发关于 AI 在战争中伦理边界的辩论。 该合同禁止在缺乏人工监督的情况下将谷歌 AI 用于自主武器或大规模监控，但谷歌无权否决政府合法运营决策。Anthropic 此前因拒绝解除安全限制而被五角大楼列为供应链风险企业。
+
+telegram · zaihuapd · Apr 28, 11:47
+
+**背景**: Project Maven 于 2017 年启动，是五角大楼的旗舰 AI 项目，利用机器学习分析无人机视频并支持军事目标定位。2018 年，数千名谷歌员工抗议公司参与 Project Maven，导致谷歌采纳了一套限制某些军事用途的 AI 原则。这份新的机密协议标志着与早期承诺的背离。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reuters.com/technology/google-signs-classified-ai-deal-with-pentagon-information-reports-2026-04-28/">Google signs classified AI deal with Pentagon, The ...</a></li>
+<li><a href="https://thehill.com/policy/defense/5853488-google-pentagon-artificial-intelligence-ai-contract/">Google to provide AI models to Pentagon for classified work</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Project_Maven">Project Maven - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI ethics`, `#military AI`, `#Google`, `#defense`, `#technology policy`
+
+---
+
+<a id="item-70"></a>
+## [Qwen 开源 FlashQLA，在 Hopper GPU 上实现 2-3 倍加速](https://qwen.ai/blog?id=flashqla) ⭐️ 8.0/10
+
+Qwen 团队开源了 FlashQLA，这是一个基于 TileLang 构建的高性能线性注意力内核库，专为门控 Delta 网络（GDN）设计。通过算子融合与代数优化，它在 NVIDIA Hopper GPU 上实现了前向 2-3 倍、反向 2 倍的加速。 这一进展显著提升了线性注意力模型的效率，使其在长序列和小批量场景（如预训练和端侧智能体推理）中更加实用。通过降低计算成本并加速状态空间模型的部署，它直接惠及 AI/ML 社区。 FlashQLA 利用门控衰减特性引入了自动卡内上下文并行，并采用 warpgroup 特化内核来重叠计算与数据搬运，从而有效提高流多处理器（SM）利用率。该库已在 GitHub 的 QwenLM 组织下开源。
+
+telegram · zaihuapd · Apr 28, 14:11
+
+**背景**: 像门控 Delta 网络（GDN）这样的线性注意力模型旨在通过将自注意力的二次复杂度降低为线性，从而更高效地处理长序列，以改进传统 Transformer。然而，其实际部署一直受限于次优的内核实现。FlashQLA 通过提供高度优化的内核来融合操作并利用 NVIDIA Hopper GPU 的硬件特性，解决了这一问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/QwenLM/FlashQLA">high-performance linear attention kernel library built on ...</a></li>
+<li><a href="https://arxiv.org/abs/2412.06464">[2412.06464] Gated Delta Networks: Improving Mamba2 with ...</a></li>
+<li><a href="https://arxiv.org/abs/2504.17577">TileLang: A Composable Tiled Programming Model for AI Systems</a></li>
+
+</ul>
+</details>
+
+**标签**: `#linear attention`, `#kernel optimization`, `#NVIDIA Hopper`, `#Qwen`, `#AI/ML systems`
+
+---
+
+<a id="item-71"></a>
+## [LiteLLM 严重 SQL 注入漏洞可泄露 API 密钥](https://mp.weixin.qq.com/s/ytNWdqGECo0fmWwPQGqy8A) ⭐️ 8.0/10
+
+LiteLLM Proxy 中被发现存在一个严重的预认证 SQL 注入漏洞（CVE-2026-42208），攻击者无需任何有效凭证，通过构造恶意的 Bearer token 在错误日志中注入 SQL，即可从数据库中读取存储的 API 密钥。 LiteLLM 被广泛用作管理 100 多种大语言模型的统一网关，因此该漏洞对将代理暴露在公网的组织至关重要，攻击者无需认证即可轻易窃取敏感的 API 密钥。 该漏洞源于认证检查期间对 Authorization: Bearer 头部的参数化不当；漏洞披露后 36 小时内即观察到野外利用。官方已在 v1.83.7-stable 版本中修复，建议用户升级后轮换所有已存密钥，或设置 disable_error_logs: true 以缓解风险。
+
+telegram · zaihuapd · Apr 28, 14:44
+
+**背景**: LiteLLM 是一个开源 Python 库，提供统一的接口来调用来自 OpenAI、Anthropic、Google 等提供商的 100 多种大语言模型（LLM），使用相同的 OpenAI 兼容 API 格式。它充当代理或网关，集中管理 API 密钥和路由，使其成为许多 AI 部署中的关键组件。该漏洞允许攻击者完全绕过认证，因为 SQL 注入发生在认证检查过程中，在建立任何有效会话之前。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.sysdig.com/blog/cve-2026-42208-targeted-sql-injection-against-litellms-authentication-path-discovered-36-hours-following-vulnerability-disclosure">CVE-2026-42208: Targeted SQL injection against LiteLLM's ...</a></li>
+<li><a href="https://letsdatascience.com/news/litellm-contains-critical-sql-injection-vulnerability-3aaf94f0">LiteLLM Contains Critical SQL Injection Vulnerability</a></li>
+<li><a href="https://cyberpress.org/litellm-sql-injection-vulnerability/">Critical LiteLLM SQL Injection Vulnerability Exploited in the ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#security`, `#vulnerability`, `#LiteLLM`, `#SQL injection`, `#API keys`
+
+---
+
+<a id="item-72"></a>
+## [Warp 开源客户端代码库，打造 AI 终端开发环境](https://github.com/warpdotdev/warp) ⭐️ 8.0/10
+
+Warp 已将其客户端代码库开源，采用双重许可（UI 框架使用 MIT 许可证，其余代码使用 AGPL v3），使这个 AI 驱动的终端开发环境在 GitHub 上公开可用。该平台具备 GPT 驱动的代理工作流，并支持内置编码代理以及 Claude Code、Codex、Gemini CLI 等自定义 CLI 代理。 此举使开发者社区能够审查、贡献并基于 Warp 的 AI 增强终端进行开发，可能加速 AI 辅助开发环境的创新。已有超过 70 万开发者使用 Warp，开源客户端增强了透明度和社区信任。 UI 框架采用 MIT 许可证，其余代码库使用 AGPL v3，该许可证要求通过网络提供修改版软件时也必须向用户提供源代码。OpenAI 是创始赞助商，代理管理工作流由 GPT 模型驱动。
+
+telegram · zaihuapd · Apr 28, 17:04
+
+**背景**: Warp 是一款集成了 AI 功能的现代终端模拟器，包括一个名为 Oz 的内置代理，帮助开发者构建、测试、部署和调试代码。AGPL v3 许可证是一种强 copyleft 许可证，专为通过网络运行的软件设计，确保修改后的源代码可供与其交互的用户使用。Claude Code、Codex 和 Gemini CLI 是可在 Warp 中使用的 CLI 编码代理示例，用于自动化开发任务。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/warpdotdev/Warp">GitHub - warpdotdev/warp: Warp is an agentic development environment, born out of the terminal. · GitHub</a></li>
+<li><a href="https://www.warp.dev/">Warp: The Agentic Development Environment</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AGPL_license">AGPL license</a></li>
+
+</ul>
+</details>
+
+**标签**: `#open source`, `#terminal`, `#AI`, `#developer tools`, `#GPT`
+
+---
+
+<a id="item-73"></a>
+## [Claude.ai 和 API 遭遇重大中断](https://status.claude.com/incidents/9l93x2ht4s5w) ⭐️ 7.0/10
+
+根据状态页面报告，Claude.ai 和 Anthropic API 经历了错误率升高和停机，此次中断引发了关于可靠性的广泛讨论。 此次中断凸显了依赖 Anthropic AI 服务的企业面临的可靠性问题，尤其是在高成本和个位数正常运行时间保证的情况下，可能促使组织转向多模型策略。 社区评论显示，一家组织在 Anthropic 企业级服务上的月支出超过 20 万美元，而该服务在过去 90 天内仅达到一个 9（99.9%）的正常运行时间。
+
+hackernews · shorsher · Apr 28, 18:01
+
+**背景**: Claude 是 Anthropic 开发的大型语言模型，通过网页界面（Claude.ai）和面向开发者的 API 提供。企业客户支付高价以获得可靠访问，但此类中断引发了对 AI 基础设施成熟度的质疑。
+
+**社区讨论**: 社区成员对频繁的中断和糟糕的支持表示不满，一位用户指出其高管团队对每月花费超过 20 万美元却获得低可靠性感到愤怒。其他人则强调需要多模型工具和人工监督，而一些人则对快速增长带来的运营挑战表示同情。
+
+**标签**: `#AI`, `#reliability`, `#outage`, `#Anthropic`, `#enterprise`
+
+---
+
+<a id="item-74"></a>
+## [澳大利亚拟对科技巨头征收 2.25%新闻税](https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/) ⭐️ 7.0/10
+
+澳大利亚提议对大型科技公司征收 2.25%的税，除非它们自愿为新闻内容付费；如果与媒体机构达成足够多的协议，实际税率将降至 1.5%。 这一监管举措每年可为澳大利亚新闻业带来 2 亿至 2.5 亿澳元的资金，可能为其他国家迫使科技巨头补偿新闻出版商树立先例。 税率随着平台与媒体机构签署更多自愿协议而降低，这意味着如果达成广泛协议，实际税率可低至 1.5%。
+
+rss · TechCrunch · Apr 28, 16:13
+
+**背景**: 澳大利亚一直是监管科技巨头与新闻媒体关系的全球领导者，于 2021 年推出了《新闻媒体议价准则》。该准则迫使谷歌和 Meta 等平台与澳大利亚新闻出版商谈判支付费用。这项新税收提案是该方法的延伸，旨在确保即使在自愿协议不足的情况下，新闻业也能持续获得资金。
+
+**标签**: `#tech policy`, `#regulation`, `#journalism`, `#Australia`, `#Big Tech`
+
+---
+
+<a id="item-75"></a>
+## [美国农村抵制 AI 数据中心建设热潮](https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/) ⭐️ 7.0/10
+
+美国各地农村社区因担忧土地使用、能源消耗和环境影响，正日益反对为 AI 建设数据中心。 这种抵制凸显了科技行业对大规模 AI 基础设施的需求与当地社区优先事项之间日益加剧的社会技术分歧，可能延缓 AI 部署并影响未来的能源和土地使用政策。 这种抵制是本能且广泛的，反映了对农村地区数据中心快速扩张的深切担忧，这些地区往往缺乏支持数据中心的电网容量和水资源。
+
+rss · Ars Technica · Apr 28, 14:15
+
+**背景**: 数据中心是容纳计算机服务器和网络设备的大型设施，对于支持云计算和机器学习等 AI 服务至关重要。AI 需求的激增引发了数据中心建设热潮，这些设施通常选址于土地和能源成本低廉的农村地区。
+
+**标签**: `#data centers`, `#AI infrastructure`, `#rural communities`, `#energy policy`, `#socio-technical`
+
+---
+
+<a id="item-76"></a>
+## [Zoox 机器人出租车设计从传感器开始，而非底盘](https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/) ⭐️ 7.0/10
+
+Zoox 详细介绍了其专用机器人出租车的传感器优先设计理念，即车辆四个顶角传感器的位置决定了整体架构，包括其双向对称布局。 这种方法挑战了传统汽车设计，将自动驾驶性能置于以驾驶员为中心的功能之上，可能为机器人出租车的工程设计树立新标准，并加速自动驾驶网约车服务的商业化。 该机器人出租车的双向设计意味着它可以在两个方向上同样良好地行驶，消除了前后之分，使每个座位都提供相同的舒适性和安全功能。传感器安装在每个顶角的小凸缘上，以提供无遮挡的 360 度覆盖。
+
+rss · Ars Technica · Apr 28, 11:20
+
+**背景**: 传统的自动驾驶汽车通常将传感器改装到现有乘用车平台上，这可能会影响传感器视野和车辆效率。Zoox 是亚马逊的子公司，从头开始将其机器人出租车设计为专用自动驾驶车辆，优化乘客体验和传感器性能，而非人类驾驶员。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/">Start with the sensors, then design the rest: How Zoox built its robotaxi - Ars Technica</a></li>
+<li><a href="https://zoox.com/journal/zoox-robotaxi-design/">Designing the Zoox robotaxi: Reimagining transportation for ...</a></li>
+<li><a href="https://www.selfdrivingcars360.com/zoox-robotaxi-redefining-autonomous-vehicle-design/">Zoox Robotaxi: Redefining autonomous vehicle design</a></li>
+
+</ul>
+</details>
+
+**标签**: `#autonomous vehicles`, `#robotaxi`, `#sensor design`, `#Zoox`, `#engineering`
+
+---
+
+<a id="item-77"></a>
+## [OpenAI 审判关键人物揭晓](https://www.nytimes.com/2026/04/28/technology/key-players-openai-trial.html) ⭐️ 7.0/10
+
+埃隆·马斯克、山姆·奥特曼及其他知名人工智能人物将在即将到来的 OpenAI 审判中作证，该审判预计将持续数周。 这场审判可能为人工智能治理和企业控制树立重要先例，影响 AI 公司的监管方式以及谁掌握其发展方向。 审判预计将在数周内有多位行业关键人物作证，但现有信息中未详细说明具体指控或法律诉求。
+
+rss · NYTimes Technology · Apr 28, 16:09
+
+**背景**: OpenAI 是一家领先的人工智能研究机构，由山姆·奥特曼和埃隆·马斯克等人共同创立。马斯克后来离开了该组织，并卷入了有关其发展方向和控制权的法律纠纷。这场审判是一场备受瞩目的法律战，可能明确 AI 行业的治理结构。
+
+**标签**: `#OpenAI`, `#AI governance`, `#legal`, `#Elon Musk`, `#Sam Altman`
+
+---
+
+<a id="item-78"></a>
+## [数百名 Meta AI 培训师在爱尔兰面临裁员](https://www.wired.com/story/meta-covalen-ai-workers-layoffs/) ⭐️ 7.0/10
+
+根据内部文件，Meta 在爱尔兰的承包商 Covalen 雇用的 700 多名工人面临失业风险。此次潜在裁员正值 Meta 继续削减成本并将资源转向 AI 开发之际。 这凸显了 AI 数据劳动的脆弱性和常被低估的本质——那些训练 AI 系统的工人尽管扮演关键角色，却面临工作不安全感。这也强调了科技公司优先投资 AI 而非人类员工的更广泛趋势。 受影响的工人受雇于第三方承包商 Covalen，从事为 Meta 进行数据标注和 AI 训练的工作。此前 Meta 刚宣布裁员 10%，影响约 8000 名员工，以深化其 AI 布局。
+
+rss · WIRED · Apr 28, 18:36
+
+**背景**: 像 Meta 这样的 AI 系统需要大量标注数据来学习，这一任务通常由人类数据标注员完成。这些工人往往通过承包商雇佣，工作保障和福利有限，尽管他们对 AI 开发至关重要。此次裁员反映了科技行业的一种日益增长的模式：公司在大量投资自动化和 AI 的同时削减人力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.wired.com/story/meta-covalen-ai-workers-layoffs/">‘It’s Undignified’: Hundreds of Workers Training Meta’s AI ...</a></li>
+<li><a href="https://www.cnbc.com/2026/04/23/meta-will-cut-10percent-of-workforce-as-it-pushes-more-into-ai.html">Meta will cut 10% of workforce as company pushes deeper into AI</a></li>
+<li><a href="https://time.com/6962608/data-annotation-legit-tech-jobs-ai/">Side Hustle or Scam? What to Know About Data Annotation Work</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI ethics`, `#labor`, `#Meta`, `#data annotation`, `#tech industry`
+
+---
+
+<a id="item-79"></a>
+## [科罗拉多反维修法案被否决](https://www.wired.com/story/colorado-anti-repair-bill-is-dead/) ⭐️ 7.0/10
+
+科罗拉多州一项旨在保护消费者自行维修设备权利的反维修法案，在制造商试图重新夺回控制权后被否决。 这是维修权运动中的一个重要进展，对消费者、环境可持续性以及科技行业监管具有关键意义。 文章报道了针对制造商反击的立法胜利，这对软件工程、硬件设计和消费者权利具有广泛影响。
+
+rss · WIRED · Apr 28, 14:09
+
+**背景**: 科罗拉多州在美国率先立法确保人们能够维修自己的物品。制造商试图夺回控制权，但最终失败了——至少目前如此。
+
+**标签**: `#right-to-repair`, `#legislation`, `#consumer rights`, `#technology policy`, `#Colorado`
+
+---
+
+<a id="item-80"></a>
+## [FIDO、谷歌和万事达卡竞相保护 AI 代理支付安全](https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/) ⭐️ 7.0/10
+
+FIDO 联盟、谷歌和万事达卡正在合作制定安全标准，以防止 AI 代理在自动购物过程中滥用信用卡。该计划旨在确保 AI 驱动的购物不会导致未经授权的交易或财务灾难。 随着 AI 代理在电子商务中越来越普遍，它们滥用用户信用卡的风险也在增加，这威胁到消费者信任以及 AI 在购物中的广泛采用。此次合作为将安全嵌入 AI 代理交易核心树立了关键先例，可能塑造行业标准。 该工作侧重于建立强大的身份验证标准，可能利用 FIDO 的通行密钥技术，以确保 AI 代理在购物前获得用户的明确许可。技术细节尚不明确，但此次合作表明了一种主动应对尚未普遍出现的问题的态度。
+
+rss · WIRED · Apr 28, 13:00
+
+**背景**: AI 代理是能够代表用户自主执行购物等任务的软件程序。如果没有适当的保护措施，这些代理可能被利用进行未经授权的购买或产生费用，类似于恶意软件劫持浏览器。FIDO 联盟制定开放的身份验证标准以减少对密码的依赖，其通行密钥技术已被主要平台用于安全登录。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://itmagazine.com/2026/04/28/the-race-to-reign-in-ai-agents-protecting-your-credit-card-from-misuse/">The Race to Reign in AI Agents: Protecting Your Credit Card ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI agents`, `#security`, `#e-commerce`, `#FIDO`, `#authentication`
+
+---
+
+<a id="item-81"></a>
+## [《万智牌：竞技场》开发者与 CWA 组建工会](https://www.engadget.com/gaming/magic-the-gathering-arena-developers-intend-to-form-a-union-with-the-cwa-104438341.html?src=rss) ⭐️ 7.0/10
+
+孩之宝子公司威世智的《万智牌：竞技场》开发者宣布，他们计划在美国通信工人工会（CWA）旗下组建工会，分会名为“联合威世智”（UWOTC-CWA）。CWA 已向美国国家劳工关系委员会（NLRB）申请正式选举，但如果孩之宝在 5 月 1 日前自愿承认工会，该申请将被撤回。 此次工会化努力是游戏行业一次重要的劳工运动，可能为其他大型工作室树立先例。它赋予开发者在裁员、公平薪酬、远程工作和生成式 AI 保护等关键问题上的集体发言权，有望重塑整个行业的工作场所标准。 工会声称获得了绝大多数工人的支持，此次行动由 2023 年孩之宝大规模裁员（影响近 2000 名员工）引发。开发者还要求对生成式 AI 设置防护措施、禁止强制加班，并提高工作场所的透明度和公平性。
+
+rss · Engadget · Apr 28, 10:44
+
+**背景**: 美国通信工人工会（CWA）是美国最大的通信和媒体劳工工会，代表约 70 万名成员。其“组织数字员工运动”（CODE）已在游戏行业组织了超过 4000 名工人，包括暴雪和 id Software 的员工。NLRB 负责监督私营部门的工会选举，雇主自愿承认可以避免正式投票。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Communications_Workers_of_America">Communications Workers of America - Wikipedia</a></li>
+<li><a href="https://www.nlrb.gov/about-nlrb/what-we-do/conduct-elections">Conduct Elections | National Labor Relations Board</a></li>
+<li><a href="https://cwa-union.org/">CWA-Union.org</a></li>
+
+</ul>
+</details>
+
+**标签**: `#labor`, `#gaming`, `#unionization`, `#software engineering`, `#industry news`
 
 ---
