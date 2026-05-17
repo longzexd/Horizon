@@ -5,448 +5,636 @@ date: 2026-05-17
 lang: zh
 ---
 
-> 从 44 条内容中筛选出 28 条重点信息（政治/金融 25，科技 3）
+> 从 80 条内容中筛选出 39 条重点信息（政治/金融 31，科技 8）
 
 ---
 
 ## 政治与金融
 
 <a id="item-1"></a>
-## [伊朗战争推高美国物价，大选前考验选民](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html) ⭐️ 9.0/10
+## [伊朗战争推高物价，考验选民耐心](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html) ⭐️ 9.0/10
 
-伊朗战争导致美国汽油和其他商品价格飙升，而此时距离一场可能由经济决定胜负的关键大选仅剩数月。 这直接考验选民的财务状况和耐心，可能重塑选举格局并影响即将到来的大选结果。 价格飙升归因于伊朗这一主要产油地区的战争，而恰逢大选前夕的时间点放大了其政治和经济影响。
+伊朗战争导致汽油和消费品价格飙升，在美国一场可能由经济决定的大选前仅数月，直接考验着选民的财务状况和耐心。 这一系统性事件将重大地缘政治冲突、宏观经济通胀和选举后果结合在一起，具有高置信度，并对政策、市场和公众情绪产生广泛的下游影响。 物价飙升发生在另一场可能由经济状况决定的美国大选前仅数月，使其成为选民和政策制定者共同关注的关键因素。
 
 rss · NYTimes Politics · May 17, 09:02
 
-**背景**: 美国经济和通胀一直是近期选举的核心议题。主要产油地区的战争可能扰乱全球能源供应，导致燃料和消费品价格上涨，进而影响家庭预算和选民情绪。
+**背景**: 美国经济长期以来一直是总统大选的核心议题，而通胀——尤其是加油站的价格——直接影响家庭预算。伊朗战争扰乱全球石油供应，推高能源成本，进而推高许多依赖运输的商品价格。
 
-**标签**: `#geopolitics`, `#inflation`, `#US politics`, `#elections`, `#energy`
+**标签**: `#geopolitics`, `#inflation`, `#U.S. elections`, `#energy prices`, `#Iran conflict`
 
 ---
 
 <a id="item-2"></a>
-## [卡西迪输掉路易斯安那初选，特朗普清除共和党批评者](https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html) ⭐️ 9.0/10
+## [特朗普道德申报披露逾 3700 笔科技股交易](https://www.bloomberg.com/news/videos/2026-05-17/trump-ethics-filings-reveal-high-tech-stock-trades-video) ⭐️ 9.0/10
 
-路易斯安那州共和党参议员比尔·卡西迪在 2026 年 5 月 16 日的初选中失利，未能获得足够票数进入决选。卡西迪是 2021 年投票支持弹劾特朗普总统的七名共和党参议员之一。 卡西迪的失利表明特朗普总统在清除共和党批评者、强化党内忠诚方面仍具有强大影响力，这将在 2026 年中期选举前重塑共和党格局。同时，这也威胁到共和党在普选中保住该参议院席位的可能性，可能对全国权力平衡产生影响。 卡西迪未能达到进入决选的门槛，因此直接被淘汰。他是少数仍在任、曾在弹劾问题上反对特朗普的共和党议员之一，他的失利标志着特朗普阵营候选人的重大胜利。
+特朗普总统最新的道德申报文件显示，第一季度发生了超过 3700 笔股票交易，涉及数千万美元，交易对象包括与其政府有业务往来的主要公司。 如此异常高的交易量引发了严重的利益冲突质疑，因为现任总统在与政府有关联的公司中进行个人投资，可能影响政策决策并削弱公众对治理的信任。 这些交易由特朗普或其投资顾问执行，涉及数千万美元，彭博新闻社根据总统的财务披露报告了这一发现。
 
-rss · NYTimes Politics · May 17, 04:40
+rss · Bloomberg Markets · May 17, 13:36
 
-**背景**: 2021 年的弹劾审判发生在 1 月 6 日国会山骚乱之后，特朗普被指控煽动叛乱。包括卡西迪在内的七名共和党参议员投票支持定罪，因此成为特朗普报复行动的目标。此后，特朗普支持初选挑战者对抗其中大多数人，并已成功击败了其中几位。
+**背景**: 美国总统需要提交年度财务披露以揭示潜在的利益冲突，但单季度超过 3700 笔的交易量对在任总统而言是前所未有的。涉及的公司与特朗普政府有直接业务往来，这引发了关于个人财务利益是否可能影响官方行为的担忧。
 
-**标签**: `#US Politics`, `#Elections`, `#Trump`, `#GOP`, `#Senate`
+**标签**: `#ethics`, `#Trump administration`, `#financial disclosure`, `#conflict of interest`, `#governance`
 
 ---
 
 <a id="item-3"></a>
-## [莫斯科遭创纪录无人机袭击，三人死亡，炼油厂被炸](https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery) ⭐️ 9.0/10
+## [债券交易员认为收益率将进入更高时代](https://www.bloomberg.com/news/articles/2026-05-17/bond-traders-see-tipping-point-toward-new-era-of-higher-yields) ⭐️ 9.0/10
 
-一夜之间，一场创纪录的无人机袭击袭击了莫斯科及莫斯科地区，造成至少三人死亡、十余人受伤，一座炼油厂成为目标之一。 此次袭击深入俄罗斯腹地，打击包括关键能源基础设施在内的目标，标志着俄乌冲突的重大升级，可能扰乱能源市场并加剧地缘政治紧张局势。 此次袭击规模据称创下纪录，在首都地区造成人员伤亡并击中一座炼油厂，但具体无人机数量和损失细节尚未完全公布。
+战争引发的通胀担忧正将 30 年期美国国债收益率推至 20 年高点 5%以上，标志着债券市场可能发生系统性转变。 这一发展将对全球借贷成本、财政政策、资产估值和经济增长产生深远影响，使其成为一个历史性的宏观经济事件。 30 年期收益率接近 5%是 20 年来未见的水平，反映了地缘政治冲突带来的持续通胀压力。
 
-rss · Bloomberg Markets · May 17, 05:21
+rss · Bloomberg Markets · May 17, 13:30
 
-**背景**: 俄乌战争中，无人机被越来越多地用于远程打击。此前袭击多针对俄罗斯边境地区，而打击莫斯科标志着作战范围的重大转变。炼油厂是战略资产，一旦受损可能影响燃料供应和经济稳定。
+**背景**: 美国国债收益率代表投资者向美国政府贷款所要求的回报。较高的收益率通常表明预期经济增长更强劲或通胀更高。30 年期债券是全球长期借贷成本的关键基准。
 
-**标签**: `#geopolitics`, `#Russia-Ukraine war`, `#security`, `#energy infrastructure`, `#conflict escalation`
+**标签**: `#bonds`, `#inflation`, `#monetary policy`, `#macroeconomics`, `#geopolitics`
 
 ---
 
 <a id="item-4"></a>
-## [世卫组织宣布刚果埃博拉疫情为全球卫生紧急事件](https://www.bloomberg.com/news/articles/2026-05-17/who-declares-congo-uganda-ebola-outbreak-global-health-emergency) ⭐️ 9.0/10
+## [特朗普加强党内控制，卡西迪败选显示挑战代价](https://www.nytimes.com/2026/05/17/us/politics/trump-cassidy-midterms-louisiana-primary.html) ⭐️ 8.0/10
 
-世界卫生组织宣布刚果民主共和国和乌干达的埃博拉疫情为国际关注的突发公共卫生事件，并警告一种尚无获批疫苗或治疗方法的罕见病毒株可能已在未被察觉的情况下扩散。 这一声明标志着跨境传播的高风险，并触发全球协调应对行动，对受影响地区的公共卫生、区域稳定和经济活动产生重大影响。 此次疫情涉及一种罕见的埃博拉病毒株，目前尚无获批的疫苗或治疗方法，令人担忧该病毒可能比当前监测显示的范围传播得更广。
+参议员比尔·卡西迪在 2026 年 5 月 17 日的路易斯安那州共和党初选中落败，此前他曾投票支持在第二次弹劾审判中判定唐纳德·特朗普有罪，这标志着本轮选举周期中首位在任共和党参议员在初选中被击败。 此次败选表明，在共和党内挑战特朗普仍面临严重的选举风险，强化了他在初选政治中的主导地位，并可能抑制未来共和党议员的异议声音。 卡西迪是 2021 年投票判定特朗普有罪的七名共和党参议员之一，他的落选表明，特朗普支持的挑战者能够成功击败那些违抗他的在任党内成员。
 
-rss · Bloomberg Markets · May 17, 01:31
+rss · NYTimes Politics · May 17, 18:29
 
-**背景**: 埃博拉是一种严重且常致命的病毒性疾病，会引起出血热，并通过直接接触体液传播。世界卫生组织仅在发生对其他国家构成公共卫生风险并需要国际协调应对的特殊事件时，才会宣布国际关注的突发公共卫生事件。此前非洲的埃博拉疫情通过快速应对措施得到控制，但此次病毒株缺乏获批的医疗对策，使得当前形势尤为严峻。
+**背景**: 自特朗普执政以来，共和党内部经历了重大转变，对特朗普的忠诚成为候选人的关键试金石。针对曾反对特朗普的在任者的初选挑战日益常见，在 2026 年中期选举前重塑了该党的选举格局。
 
-**标签**: `#global health`, `#Ebola`, `#WHO`, `#public health emergency`, `#Africa`
+**标签**: `#US politics`, `#Republican Party`, `#midterm elections`, `#Trump`, `#primary politics`
 
 ---
 
 <a id="item-5"></a>
-## [特朗普以卡西迪败选巩固对共和党的掌控](https://www.nytimes.com/2026/05/17/us/politics/trump-flexes-hold-on-gop-even-as-it-braces-for-midterm-backlash.html) ⭐️ 8.0/10
+## [中立选区地图或如《投票权法》般增强黑人选民力量](https://www.nytimes.com/2026/05/17/upshot/redistricting-race-court-gerrymanders-elections.html) ⭐️ 8.0/10
 
-参议员比尔·卡西迪在初选中被特朗普支持的挑战者击败，这表明前总统在 2026 年中期选举前仍对共和党拥有绝对主导权。 此次初选失利表明，特朗普的影响力仍是共和党政治的核心力量，这可能会疏远温和派选民，并在大选中给该党带来选举负担。 参议员卡西迪是少数在第二次弹劾审判中投票判定特朗普有罪的共和党人之一，因此成为特朗普阵营的主要目标。此次失利凸显了初选挑战如何重塑该党的意识形态方向。
+《纽约时报》发表的一项新模拟研究表明，中立的选区重划地图可以像《投票权法》一样有效地增强黑人选民的力量，挑战了该法案人为创建少数族裔多数选区的长期观点。 这一发现意义重大，因为它削弱了用于证明削弱《投票权法》合理性的关键政治叙事，并可能通过表明种族中立的地图仍能为少数族裔选民带来公平代表权，从而影响正在进行的法庭斗争和选区重划周期。 模拟研究驳斥了《投票权法》人为创建了本不存在的少数族裔选区的观点，表明中立的选区重划过程可以自然地产生黑人选民具有重要影响力的选区。
 
-rss · NYTimes Politics · May 17, 09:02
+rss · NYTimes Politics · May 17, 14:50
 
-**背景**: 初选是政党内部选拔候选人的选举，以决定谁代表该党参加大选。特朗普利用其背书权力惩罚那些曾反对他的共和党在任议员，在 2026 年中期选举前按自己的形象重塑该党。
+**背景**: 选区重划是每十年重新划分选举区边界的过程，而杰利蝾螈（gerrymandering）则是指为了政治利益而操纵这些边界。1965 年的《投票权法》旨在防止投票中的种族歧视，其第 2 条被用于要求创建少数族裔多数选区以确保少数族裔的代表权。长期以来，批评者认为这种做法人为地集中了少数族裔选民，但新的模拟研究挑战了这一假设。
 
-**标签**: `#US Politics`, `#Republican Party`, `#Midterm Elections`, `#Donald Trump`, `#Primary Elections`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/2025–2026_United_States_redistricting">2025–2026 United States redistricting - Wikipedia</a></li>
+<li><a href="https://www.history.com/articles/voting-rights-act">Voting Rights Act of 1965 - Definition, Summary... | HISTORY</a></li>
+
+</ul>
+</details>
+
+**标签**: `#voting rights`, `#redistricting`, `#election law`, `#racial representation`, `#political analysis`
 
 ---
 
 <a id="item-6"></a>
-## [中立选区划分或如《投票权法案》般赋能黑人选民](https://www.nytimes.com/2026/05/17/upshot/redistricting-race-court-gerrymanders-elections.html) ⭐️ 8.0/10
+## [卡西迪因反对特朗普输掉路易斯安那初选](https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html) ⭐️ 8.0/10
 
-《纽约时报》通过模拟分析指出，在南方地区，通过中立选区划分来终结党派杰利蝾螈，可能产生与《投票权法案》同等数量的、非白人选民偏好的候选人有望胜选的众议院选区。 这挑战了长期以来认为《投票权法案》对少数族裔代表权至关重要的假设，可能重塑美国关于投票权和选区划分的法律与政治辩论。 该模拟聚焦南方各州，比较了种族中立、无党派选区划分与当前依据《投票权法案》绘制的选区地图的结果。研究结果表明，党派杰利蝾螈才是少数族裔代表权的主要障碍，而非缺乏《投票权法案》。
+路易斯安那州共和党参议员比尔·卡西迪在 2026 年 5 月 16 日的初选中落败，原因是他曾在 2021 年特朗普弹劾审判中投票支持定罪。 这一结果显示了唐纳德·特朗普在共和党内清除批评者的持久影响力，表明反对特朗普仍是共和党初选中的重大风险，并将影响未来的政党格局和立法动态。 卡西迪是连任两届的现任参议员，落败后隐晦地批评特朗普，称权力不应集中于“一个人”。此次初选失利是投票支持弹劾或定罪特朗普的共和党人遭遇的一系列失败中的最新一例。
 
-rss · NYTimes Politics · May 17, 09:02
+rss · NYTimes Politics · May 17, 18:33
 
-**背景**: 党派杰利蝾螈是指为给某一政党带来优势而操纵选区边界划分的做法。1965 年的《投票权法案》包含要求特定司法管辖区创建多数-少数族裔选区以防止投票中种族歧视的条款。中立选区划分过程旨在基于紧凑性、社区边界等客观标准绘制地图，而不考虑党派或种族数据。
+**背景**: 2021 年，卡西迪是七名投票支持特朗普煽动 1 月 6 日国会山骚乱定罪的共和党参议员之一。此后，特朗普积极反对这些共和党人，试图用忠诚者取而代之。在特朗普支持下，初选挑战已成功击败了其中多名现任议员，重塑了共和党。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nytimes.com/2026/05/17/upshot/redistricting-race-court-gerrymanders-elections.html">Why Neutral Maps Could Empower Black Voters as Much as the ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States">Gerrymandering in the United States - Wikipedia</a></li>
-<li><a href="https://www.brennancenter.org/our-work/research-reports/gerrymandering-explained">Gerrymandering Explained | Brennan Center for Justice</a></li>
-
-</ul>
-</details>
-
-**标签**: `#voting rights`, `#redistricting`, `#racial representation`, `#election law`, `#political strategy`
+**标签**: `#U.S. politics`, `#Republican Party`, `#primary election`, `#Donald Trump`, `#impeachment`
 
 ---
 
 <a id="item-7"></a>
-## [参议院裁决威胁共和党法案中 10 亿美元舞厅拨款](https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html) ⭐️ 8.0/10
+## [债券市场发出通胀警报，股市成为焦点](https://www.bloomberg.com/news/articles/2026-05-17/stocks-in-focus-after-bonds-send-inflation-alarm-markets-wrap) ⭐️ 8.0/10
 
-民主党周六晚宣布，参议院议会法规专家裁定，共和党预算法案中一项 10 亿美元的舞厅拨款条款不符合预算协调规则。 这一裁决可能破坏共和党预算立法的关键部分，迫使共和党要么删除该条款，要么重组法案以符合参议院规则，从而可能延迟或改变整个预算进程。 该条款是共和党更大预算法案的一部分，旨在通过预算协调程序推进政策优先事项，该程序限制辩论并要求条款对支出或收入有直接影响。
+由于伊朗战争持续且看不到明确结束的迹象，全球利率上升，债券市场发出通胀威胁信号，促使投资者将注意力转向股市影响。 这一动态意义重大，因为利率上升和通胀直接影响全球企业盈利、投资估值以及央行政策决策，波及机构投资者和个人投资者。 文章强调，伊朗战争是这一宏观经济转变的关键驱动因素，而缺乏明确的解决方案意味着通胀压力可能持续，令市场保持紧张状态。
 
-rss · NYTimes Politics · May 17, 02:43
+rss · Bloomberg Markets · May 17, 20:00
 
-**背景**: 参议院议会法规专家是无党派顾问，负责解释参议院规则和程序，其对预算协调的裁决具有影响力，但可由多数票推翻。预算协调是一种特殊程序，允许某些财政立法以简单多数通过参议院，绕过通常的 60 票阻挠议事门槛。
+**背景**: 债券市场通常被视为通胀预期的早期指标，因为收益率上升反映了投资者要求更高回报以补偿预期的价格上涨。持续的伊朗战争扰乱了全球能源供应和供应链，加剧了成本压力，进而推动整体通胀。央行通常通过加息来应对此类通胀，但这可能减缓经济增长并拖累股市表现。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Parliamentarian_of_the_United_States_Senate">Parliamentarian of the United States Senate - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Reconciliation_(United_States_Congress)">Reconciliation (United States Congress) - Wikipedia</a></li>
-<li><a href="https://constitutioncenter.org/blog/who-is-the-senate-parliamentarian-and-what-does-she-do">Who is the Senate Parliamentarian and what does she do?</a></li>
-
-</ul>
-</details>
-
-**标签**: `#budget`, `#Senate`, `#parliamentarian`, `#GOP`, `#legislation`
+**标签**: `#inflation`, `#interest rates`, `#geopolitics`, `#markets`, `#Iran war`
 
 ---
 
 <a id="item-8"></a>
-## [中国市场监管总局发布 34 项重点任务支持民营经济](https://www.bloomberg.com/news/articles/2026-05-17/china-market-watchdog-sets-priorities-to-support-private-sector) ⭐️ 8.0/10
+## [冈拉克：美联储下次会议降息“根本不可能”](https://www.bloomberg.com/news/articles/2026-05-17/gundlach-says-it-s-just-not-possible-for-the-fed-to-cut-rates) ⭐️ 8.0/10
 
-中国市场监管总局宣布了 2026 年 34 项具体重点任务，旨在通过促进公平竞争、加强法律保护和提高监管效率来支持民营经济发展。 这项政策标志着中国监管层对民营经济态度的系统性转变，有望提振市场信心、刺激经济增长，并为数百万民营企业改善营商环境。 这 34 项重点任务涵盖公平竞争执法、民营经济法律保护以及简化监管流程等领域，但具体的实施措施尚未详细公布。
+DoubleLine Capital 首席执行官杰弗里·冈拉克表示，美联储在即将召开的政策会议上降息是不可能的，这与部分市场预期相悖。 作为极具影响力的债券投资者，冈拉克的观点对市场预期和政策分析具有重要分量，可能重塑美联储决策前的投资者情绪。 冈拉克的断言是在美联储下次会议前做出的，他特别指出在那次会议上降息“根本不可能”，但在现有内容中未提供进一步理由。
 
-rss · Bloomberg Markets · May 17, 03:48
+rss · Bloomberg Markets · May 17, 16:26
 
-**背景**: 中国民营经济贡献了超过 60%的 GDP 和 80%以上的城镇就业，但近年来面临监管压力。市场监管总局负责竞争政策和市场秩序监管。此次政策发布正值政府为提振经济增长和恢复企业信心而采取更广泛措施的背景之下。
+**背景**: 美联储设定短期利率以影响经济活动和通胀。市场参与者常根据经济数据猜测利率变动，而像冈拉克这样的有影响力的人物可以左右这些预期。
 
-**标签**: `#China`, `#private sector`, `#economic policy`, `#regulation`, `#market watchdog`
+**标签**: `#Federal Reserve`, `#monetary policy`, `#interest rates`, `#Jeffrey Gundlach`, `#markets`
 
 ---
 
 <a id="item-9"></a>
-## [被美军拦截的超级油轮恢复驶往越南](https://www.bloomberg.com/news/articles/2026-05-17/vietnam-bound-supertanker-halted-by-us-navy-resumes-journey) ⭐️ 8.0/10
+## [最高法院推翻路易斯安那州黑人选区](https://www.bloomberg.com/news/videos/2026-05-17/rep-clarke-we-need-to-take-a-look-at-the-supreme-court-video) ⭐️ 8.0/10
 
-一艘载有 200 万桶伊拉克原油的超级油轮，此前在阿曼湾被美军拦截，现已恢复前往越南的航程。 这一事件凸显了关键能源运输路线受地缘政治干扰的脆弱性，可能影响全球石油供应链和市场稳定。 这艘超级油轮在阿曼湾被美军拦截并停泊数日，随后才恢复航行；美军干预的具体原因尚未披露。
+美国最高法院推翻了路易斯安那州第二个以黑人为主的国会选区，国会黑人核心小组主席伊薇特·克拉克议员在《彭博周末》节目中讨论了这一裁决的影响。 这一裁决直接影响了黑人的政治代表权，并可能改变国会中的权力平衡，对全国范围内的投票权和未来的选区重划产生重大影响。 该裁决特别否定了路易斯安那州第二个以黑人为主的选区，克拉克议员强调需要审视最高法院的推理及其对少数族裔代表权的更广泛影响。
 
-rss · Bloomberg Markets · May 17, 02:48
+rss · Bloomberg Markets · May 17, 15:05
 
-**背景**: 阿曼湾是全球石油运输的关键咽喉要道，连接波斯湾和阿拉伯海。美国海军经常在此海域巡逻，以执行制裁并维护海上安全，特别是针对与伊朗相关的活动。
+**背景**: 选区重划是重新划分选举区边界的过程，常因种族不公正划分而面临法律挑战。《投票权法》要求某些选区确保少数族裔获得公平代表权，而这一裁决考验了这些保护措施。
 
-**标签**: `#geopolitics`, `#energy security`, `#crude oil`, `#US Navy`, `#Middle East`
+**标签**: `#Supreme Court`, `#redistricting`, `#voting rights`, `#Congressional Black Caucus`, `#Louisiana`
 
 ---
 
 <a id="item-10"></a>
-## [习近平与普京致贺中俄博览会，强调合作](https://www.bloomberg.com/news/articles/2026-05-17/xi-putin-hail-opening-of-china-russia-expo-stress-cooperation) ⭐️ 8.0/10
+## [英伟达财报在即，AI 供应与中美谈判成焦点](https://www.bloomberg.com/news/videos/2026-05-17/nvidia-earnings-anticipated-on-wednesday-video) ⭐️ 8.0/10
 
-中国国家主席习近平与俄罗斯总统普京互致贺电，祝贺在哈尔滨举行的中俄博览会开幕，强调两国经济联系日益深化。 此次高层互动表明中俄在对抗西方制裁与影响力方面持续保持战略一致，对全球贸易、能源和安全格局具有重要影响。 博览会在靠近俄罗斯边境的中国东北城市哈尔滨举行，聚焦双边经济合作。双方互致贺电凸显了两国领导人亲自推动伙伴关系发展的力度。
+英伟达将于周三发布财报，投资者密切关注在 H200 芯片供应受限及美中 AI 护栏谈判背景下，AI 需求动能的信号。 作为全球市值最高的公司，英伟达的财报是整个 AI 行业和全球市场的风向标，而芯片出口的地缘政治紧张局势更增添了其重要性。 基于 Hopper 架构的 H200 芯片配备 141 GB HBM3e 显存和 4.8 TB/s 带宽，容量几乎是 H100 的两倍；美国总统特朗普确认与中方领导人习近平讨论了 AI 护栏及 H200 芯片议题。
 
-rss · Bloomberg Markets · May 17, 02:31
+rss · Bloomberg Markets · May 17, 14:48
 
-**背景**: 中俄博览会是展示两国贸易与投资机会的年度活动。在西方因乌克兰冲突对俄实施制裁的背景下，中俄两国在经济和政治上不断深化合作，包括增加能源贸易和基础设施项目。
+**背景**: 英伟达主导 AI 训练和推理芯片市场，其 H100 和 H200 GPU 是大语言模型的关键硬件。美国已实施出口管制以减缓中国 AI 发展，而两国目前正探讨设立护栏，防止非国家行为者滥用强大 AI 模型。
 
-**标签**: `#geopolitics`, `#China-Russia relations`, `#economic cooperation`, `#trade`, `#global security`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nvidia.com/en-us/data-center/h200/">H200 GPU | NVIDIA</a></li>
+<li><a href="https://www.reuters.com/world/asia-pacific/us-china-are-discussing-ai-guardrails-safeguard-most-powerful-models-bessent-2026-05-14/">US, China are discussing AI guardrails to safeguard most powerful models, Bessent says | Reuters</a></li>
+<li><a href="https://www.axios.com/2026/05/12/trump-china-ai-guardrails-mythos">U.S., China eye AI guardrails amid escalating tech rivalry</a></li>
+
+</ul>
+</details>
+
+**标签**: `#NVIDIA`, `#AI`, `#earnings`, `#geopolitics`, `#semiconductors`
 
 ---
 
 <a id="item-11"></a>
-## [印度错失 AI 浪潮，市场宠儿地位岌岌可危](https://www.bloomberg.com/news/articles/2026-05-17/india-missed-out-on-ai-and-now-its-run-as-market-darling-may-be-over) ⭐️ 8.0/10
+## [纽约市豪华二套房税引发华尔街冲突](https://www.bloomberg.com/news/videos/2026-05-17/why-new-york-keeps-debating-taxes-on-the-wealthy-video) ⭐️ 8.0/10
 
-彭博社的一篇文章指出，印度未能抓住人工智能热潮带来的机遇，这正威胁其作为新兴市场投资宠儿的地位。 这一转变可能导致全球投资从印度流出，影响其经济增长和股市表现，并重塑新兴经济体之间的竞争格局。 文章指出印度是 AI 交易重塑全球投资优先级过程中的最大输家之一，但摘要中未提供具体数据或案例。
+纽约市长 Zohran Mamdani 提议对价值 500 万美元及以上的豪华二套房征收 pied-à-terre 税，旨在每年筹集 5 亿美元以填补数十亿美元的预算缺口，此举引发了与包括 Citadel 创始人 Ken Griffin 在内的华尔街领袖的冲突。 这场辩论凸显了纽约等大城市面临的更广泛挑战：在满足财政需求的同时留住富裕居民和企业，这可能会影响全国范围内的经济竞争力、房地产市场和市政财政。 拟议的税收将适用于价值超过 500 万美元且非主要住所的一至三户住宅、公寓和合作公寓，支持者认为这解决了纽约市房产税体系中中产阶级和商业地产所有者负担过重的不平等问题。
 
-rss · Bloomberg Markets · May 17, 00:00
+rss · Bloomberg Markets · May 17, 14:04
 
-**背景**: 人工智能已成为经济增长和投资的关键驱动力，美国和中国等国家处于领先地位。印度尽管拥有庞大的科技劳动力，但在 AI 基础设施、政策支持和初创企业融资方面落后，使其对寻求 AI 敞口的投资者吸引力下降。
+**背景**: Pied-à-terre 税是对拥有但非主要住所的房产征收的年度附加费。纽约市的房产税体系长期以来被批评为不公平，研究表明它不成比例地加重了低收入和少数族裔社区的负担，同时使较富裕的房主受益。该市面临数十亿美元的预算缺口，促使市长 Mamdani 寻求新的收入来源。
 
-**标签**: `#India`, `#Artificial Intelligence`, `#Emerging Markets`, `#Global Investment`, `#Geopolitics`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://better.com/content/what-is-a-pied-a-terre-tax">What is a pied-à-terre tax? NYC's new second home surcharge ...</a></li>
+<li><a href="https://www.usatoday.com/story/news/2026/04/16/what-is-pied-terre-tax-mamdanis-move-to-tax-expensive-second-homes-explained/89639847007/">Where has a pied-à-terre tax been used? Mamdani's move to tax ...</a></li>
+<li><a href="https://taxequitynow.nyc/">New York City's property tax system is broken.</a></li>
+
+</ul>
+</details>
+
+**标签**: `#tax policy`, `#municipal finance`, `#New York City`, `#wealth inequality`, `#economic competitiveness`
 
 ---
 
 <a id="item-12"></a>
-## [斯特里廷与伯纳姆暗示工党领袖竞选](https://www.bbc.com/news/articles/c17297n77z1o?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
+## [美国汽油价格接近历史高点，伊朗冲突成主因](https://www.bloomberg.com/news/videos/2026-05-17/national-gas-prices-near-record-high-video) ⭐️ 8.0/10
 
-前卫生大臣韦斯·斯特里廷表示工党领袖职位必须进行‘真正的竞争’，而安迪·伯纳姆则主张工党需要‘从目前的状况中被拯救’，暗示两人可能发起领袖竞选。 这一事态表明工党内部出现分歧，可能重塑其未来选举前的政策方向和选举策略。 斯特里廷和伯纳姆都是工党知名人物；伯纳姆特别批评了工党目前的方向，而斯特里廷则呼吁进行竞选，表明对现任领导层的不满。
+美国全国汽油价格正逼近历史最高水平，彭博社报道称，由于与伊朗的持续冲突推高了加油站的油价，情况正在恶化。 汽油价格在美国是一个高度敏感的政治和经济问题，直接影响消费者情绪和总统支持率，尤其是在地缘政治危机期间。 彭博社资深美国石油记者 Kevin Crowley 指出，对普通美国人而言，汽油价格的影响比更广泛的军事行动或移除伊朗浓缩铀更为重要。
 
-rss · BBC Politics · May 16, 21:37
+rss · Bloomberg Markets · May 17, 13:54
 
-**背景**: 工党目前由基尔·斯塔默领导，他于 2020 年成为党魁。领袖挑战通常反映党内派系和政策分歧，例如该党在脱欧、经济政策和社会议题上的立场。
+**背景**: 自 1979-1980 年伊朗革命和人质危机以来，汽油价格一直是美国人评判总统表现的关键指标。当前的价格飙升与持续的伊朗冲突有关，重现了地缘政治紧张局势直接影响国内燃料成本的历史先例。
 
-**标签**: `#UK Politics`, `#Labour Party`, `#Leadership`, `#Internal Party Dynamics`
+**标签**: `#gas prices`, `#US politics`, `#geopolitics`, `#Iran conflict`, `#economy`
 
 ---
 
 <a id="item-13"></a>
-## [特朗普言论引发与伊朗战争期间脱离民众批评](https://www.nytimes.com/2026/05/17/us/politics/to-critics-trump-remarks-reveal-a-billionaire-out-of-touch.html) ⭐️ 7.0/10
+## [芯片股推动标普 500 上涨，波动性引发担忧](https://www.bloomberg.com/news/articles/2026-05-17/volatile-chipmaker-stocks-emerge-as-key-driver-of-s-p-500-rally) ⭐️ 8.0/10
 
-特朗普总统最近发表了一番“真相炸弹”言论，批评者认为这表明他未能意识到其政府对伊朗战争给美国民众带来的经济压力。 这一批评凸显了在重大外交政策危机期间，总统视角与公众经济现实之间的脱节日益加剧，可能影响公众信任和政治稳定。 总统从未自称是普通美国人，但这次具体言论加剧了指责，认为他未能理解持续战争带来的国内经济压力。
+芯片制造商股票已成为推动标普 500 指数创下历史新高的主导力量，但其固有的波动性引发了人们对涨势可持续性的质疑。 市场集中于一个高波动性行业，若芯片股回调，可能引发指数大幅下跌，从而影响更广泛的市场和投资者投资组合。 标普 500 指数创下历史新高，芯片股贡献了大部分涨幅，但其波动性使涨势变得脆弱，高度依赖半导体需求的持续增长。
 
-rss · NYTimes Politics · May 17, 09:02
+rss · Bloomberg Markets · May 17, 13:00
 
-**背景**: 美国目前正与伊朗交战，这是一场重大的外交政策冲突，在国内产生了显著的经济后果，包括成本上升和资源分配挑战。作为亿万富翁的特朗普总统，常因脱离普通美国人的财务困境而受到批评。
+**背景**: 标普 500 指数是追踪美国 500 家大型上市公司表现的股票市场指数。由于人工智能等技术对半导体的强劲需求，英伟达和英特尔等芯片制造商的股票大幅上涨，成为市场上涨的关键驱动力。
 
-**标签**: `#politics`, `#US foreign policy`, `#economy`, `#Trump`, `#Iran`
+**标签**: `#semiconductors`, `#stock market`, `#S&P 500`, `#market concentration`, `#financial risk`
 
 ---
 
 <a id="item-14"></a>
-## [社会主义市长与星巴克：向富人征税遭遇现实阻力](https://www.nytimes.com/2026/05/17/us/politics/seattle-mayor-tax-the-rich-starbucks.html) ⭐️ 7.0/10
+## [美国议员支持对台 140 亿美元军售](https://www.bloomberg.com/news/videos/2026-05-17/rep-lawler-i-support-continuing-to-arm-taiwan-video) ⭐️ 8.0/10
 
-西雅图的社会主义市长凯蒂·威尔逊面临现实制约，当地重要雇主星巴克正在向纳什维尔扩张，凸显了累进税制与企业留驻之间的紧张关系。 此案例表明向富人征税存在现实限制，企业可能为避税而迁址，影响全国范围内的城市经济政策与地方治理讨论。 星巴克作为西雅图最具标志性的企业之一，正在纳什维尔扩张业务，这一举动凸显了威尔逊市长在推进进步议程与留住大企业之间面临的挑战。
+美国众议员迈克·劳勒公开支持一项价值 140 亿美元的对台军售案，而特朗普总统正在权衡是否批准该交易，此前中国国家主席习近平警告称，此举可能导致美中之间发生冲突。 如果这项军售获批，可能严重加剧美中在台湾问题上的紧张局势——习近平称台湾问题是世界两大经济体之间的“高度危险局面”。华盛顿的两党反弹也凸显了美国对华外交政策上的深刻分歧。 这项 140 亿美元的军售案是近年来美国对台拟议的最大规模军售之一，其批准权在特朗普总统手中。劳勒议员的评论是在彭博社《本周末》节目采访中发表的，他讨论了国内外可能出现的政治反弹以及中国的报复行动。
 
-rss · NYTimes Politics · May 17, 09:00
+rss · Bloomberg Markets · May 17, 12:14
 
-**背景**: 西雅图选民在财富不平等问题日益突出的背景下选举了市长凯蒂·威尔逊，反映了美国城市中推动累进税制的广泛趋势。然而，这类政策可能与拥有迁址选择权的企业产生摩擦，迫使政策制定者在意识形态目标与经济现实之间权衡。
+**背景**: 台湾一直是美中关系中的长期争议点，美国根据《台湾关系法》维持非官方关系并进行军售，而中国视台湾为分离的省份，反对外国对台军售。习近平多次警告称，任何走向台独或增加美国军事支持的举动都可能引发冲突。
 
-**标签**: `#wealth inequality`, `#urban policy`, `#corporate relocation`, `#progressive taxation`, `#Seattle politics`
+**标签**: `#US-China relations`, `#Taiwan`, `#arms sales`, `#geopolitics`, `#foreign policy`
 
 ---
 
 <a id="item-15"></a>
-## [七名投票定罪特朗普的共和党人大多已离任](https://www.nytimes.com/2026/05/16/us/politics/republicans-trump-cassidy-conviction-impeachment.html) ⭐️ 7.0/10
+## [世卫组织宣布埃博拉疫情为公共卫生紧急事件](https://www.marketwatch.com/story/health-officials-declare-ebola-outbreak-a-public-health-emergency-36fb9a91?mod=mw_rss_topstories) ⭐️ 8.0/10
 
-参议员比尔·卡西迪的选举失利意味着，在第二次弹劾审判中投票定罪唐纳德·特朗普的七名共和党参议员中，明年只有两人将继续留在国会。 这一趋势凸显了共和党内部的持续重组，反对特朗普会带来严重的政治后果，可能抑制未来的异议，并强化围绕特朗普影响力的党内纪律。 投票定罪特朗普的七名共和党参议员包括理查德·伯尔、比尔·卡西迪、苏珊·柯林斯、莉萨·穆尔科斯基、米特·罗姆尼、本·萨斯和帕特·图米；其中大多数人已退休、败选或离任，只有柯林斯和穆尔科斯基仍留任。
+世界卫生组织在一种罕见的埃博拉病毒株导致刚果和乌干达约 80 人死亡后，宣布了公共卫生紧急事件。 这一声明标志着区域不稳定和潜在全球传播的重大风险，凸显了协调国际应对措施以控制疫情的必要性。 此次疫情涉及一种罕见的埃博拉病毒株，80 例死亡表明情况虽已得到控制但仍很严重，需要加强警惕和资源调动。
 
-rss · NYTimes Politics · May 17, 03:39
+rss · MarketWatch Top Stories · May 17, 19:23
 
-**背景**: 唐纳德·特朗普的第二次弹劾审判发生在 2021 年 1 月 6 日美国国会大厦袭击事件之后，众议院指控他煽动叛乱。七名共和党参议员跨党派投票支持定罪，但 57 票对 43 票的结果未达到定罪所需的三分之二多数。此后，共和党日益围绕特朗普巩固，使得此类跨党派投票在政治上具有风险。
+**背景**: 埃博拉是一种严重且通常致命的病毒性疾病，通过直接接触体液传播。世界卫生组织对构成全球卫生安全重大风险的事件宣布“国际关注的公共卫生紧急事件”。
 
-**标签**: `#US Politics`, `#Republican Party`, `#Impeachment`, `#Donald Trump`, `#Elections`
+**标签**: `#public health`, `#Ebola`, `#WHO`, `#global health security`, `#outbreak`
 
 ---
 
 <a id="item-16"></a>
-## [卡西迪在路易斯安那州面临特朗普支持的初选挑战](https://www.nytimes.com/2026/05/16/us/politics/what-to-watch-louisiana-senate-primary.html) ⭐️ 7.0/10
+## [特朗普关于伊朗战争成本的言论引发脱离群众批评](https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html) ⭐️ 7.0/10
 
-2026 年 5 月 16 日星期六，参议员比尔·卡西迪在路易斯安那州的共和党初选中为政治生存而战，此前他招致了前总统特朗普的反对。 这场初选反映了共和党内部持续的分裂，如果卡西迪落败，可能改变参议院的权力平衡或影响立法行为。 卡西迪是一名现任共和党参议员，他激怒了特朗普总统，这使得这场竞争风险极高，特朗普的支持可能决定结果。
+前总统唐纳德·特朗普发表言论，淡化与伊朗战争的经济压力，引发批评者指责他作为亿万富翁脱离普通美国民众。这些被描述为‘真相炸弹’的言论，重新引发了关于他是否理解日常经济困境的辩论。 这一批评凸显了政治精英与公众在对外军事行动的人力和经济成本上的日益分歧。它可能影响公众对特朗普政策决策的看法及其潜在的 2028 年总统竞选。 这些言论是在美国持续军事介入伊朗的背景下发表的，该介入给美国家庭带来了显著的经济负担。批评者认为，特朗普的亿万富翁身份使他看不到战争开支对普通民众的现实影响。
 
-rss · NYTimes Politics · May 17, 01:01
+rss · NYTimes Politics · May 17, 16:45
 
-**背景**: 共和党初选是党内选举，用于选出大选候选人。前总统特朗普经常利用其影响力挑战他认为不忠诚的现任议员，这在之前的选举周期中已有体现。
+**背景**: 美国一直与伊朗处于军事冲突中，这导致国防开支增加和国内经济压力。作为亿万富翁的前总统特朗普，常以经济实力来阐述其政策，但他最近的言论表明他与普通美国人的财务困境脱节。
 
-**标签**: `#US politics`, `#Republican primary`, `#Senate race`, `#Trump influence`, `#Louisiana`
+**标签**: `#politics`, `#US foreign policy`, `#Iran`, `#economy`, `#Trump`
 
 ---
 
 <a id="item-17"></a>
-## [澳大利亚改革资本利得税以应对住房危机](https://www.bloomberg.com/news/articles/2026-05-17/australia-says-tax-changes-aim-to-fix-broken-housing-market) ⭐️ 7.0/10
+## [肯塔基州变幻莫测的政治格局](https://www.nytimes.com/2026/05/17/us/politics/kentuckys-curious-cast-of-political-characters.html) ⭐️ 7.0/10
 
-澳大利亚财政部长吉姆·查默斯宣布改革资本利得税，包括从 2027 年 7 月 1 日起对资本利得征收最低 30%的税，并将现有住宅物业的负扣税抵扣限制为仅针对租金收入或资本收益。 这项改革针对负扣税和资本利得税折扣的组合，这种组合扭曲了投资决策，推高了房价，并将年轻人排除在购房之外，可能使首次购房者更能负担得起住房。 这些变化自 2027 年 7 月 1 日起生效，旨在阻止投资者仅为税收优惠而持有房产。现有住宅物业的损失只能从租金收入或住宅物业的资本收益中抵扣，不能从工资等其他收入中抵扣。
+《纽约时报》的一篇分析文章探讨了肯塔基州变幻莫测的政治格局，一位叛逆的共和党现任议员将在周二面临严峻的初选挑战。 该分析凸显了肯塔基州独特的政治动态如何可能预示共和党及美国选举的更广泛趋势，从而影响地方和全国权力平衡。 文章聚焦于一位叛逆的共和党现任议员面临的严峻初选挑战，背景是肯塔基州历史上曾涌现出众多令人意外的政治人物。
 
-rss · Bloomberg Markets · May 17, 03:54
+rss · NYTimes Politics · May 17, 14:26
 
-**背景**: 澳大利亚面临严重的住房可负担性危机，原因是高房价、租金上涨和社会住房有限。负扣税允许投资者将租赁房产的损失从工资收入中抵扣，而资本利得税折扣则减少了房产销售利润的税收，从而鼓励了投机性投资。
+**背景**: 肯塔基州历来有选举非传统和令人意外政治人物的传统，使其政治格局尤其难以预测。共和党内部的初选挑战随着派系争夺控制权而日益常见。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.theguardian.com/australia-news/2026/may/12/australia-federal-budget-2026-tax-reform-capital-gains-cgt-changes-negative-gearing-housing-first-time-home-buyers-investors-explained">Budget capital gains tax changes and negative gearing reform explained | Australian budget 2026 | The Guardian</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/australia-unveils-changes-negative-gearing-capital-gains-tax-2026-05-12/">Australia unveils changes to negative gearing, capital gains tax | Reuters</a></li>
-<li><a href="https://www.abc.net.au/news/2026-05-13/will-cgt-and-negative-gearing-make-housing-cheaper/106665146">Will property tax changes make housing cheaper for first home buyers?</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Australia`, `#housing policy`, `#tax reform`, `#capital gains`, `#economic policy`
+**标签**: `#Kentucky politics`, `#primary election`, `#Republican Party`, `#political analysis`, `#US elections`
 
 ---
 
 <a id="item-18"></a>
-## [马来西亚与挪威因导弹交易取消紧张升级](https://www.bloomberg.com/news/articles/2026-05-17/malaysia-norway-tensions-deepen-over-scrapped-missile-deal) ⭐️ 7.0/10
+## [西雅图社会主义市长面临对富人征税的局限](https://www.nytimes.com/2026/05/17/us/politics/seattle-mayor-tax-the-rich-starbucks.html) ⭐️ 7.0/10
 
-挪威确认撤销了对马来西亚的海军打击导弹系统出口许可证，加剧了因取消武器交易而产生的争端。 这一争端可能打乱马来西亚的海军现代化计划，并紧张两国间的外交关系，对东南亚地区的安全与国防供应链产生潜在影响。 被撤销的许可证涵盖海军打击导弹（NSM）及其相关发射系统，挪威以国家安全为由做出这一决定。
+西雅图市长凯蒂·威尔逊（Katie Wilson）在财富不平等加剧之际以社会主义者身份当选，如今正面临其累进税制议程的局限，因为当地标志性企业星巴克正在纳什维尔扩展业务。 这一事件凸显了城市经济政策中的一个关键矛盾：试图对富人征税的进步城市可能会促使大企业搬迁，从而削弱其税基，并挑战再分配政策的可行性。 星巴克作为西雅图最具标志性的公司之一，正在纳什维尔扩张，这标志着企业地理布局的潜在转变，可能会减少西雅图来自高收入者和企业的税收收入。
 
-rss · Bloomberg Markets · May 17, 03:14
+rss · NYTimes Politics · May 17, 18:31
 
-**背景**: 海军打击导弹（NSM）是由挪威康斯伯格防务与航空航天公司开发的一种远程精确打击反舰导弹，设计用于在超过 100 海里的距离上搜索并摧毁敌方舰船。马来西亚曾签约采购 NSM 系统，但挪威撤销出口许可证导致交易中止，引发外交紧张。
+**背景**: 市长凯蒂·威尔逊以对富人征税以解决西雅图财富不平等的纲领当选。然而，资本的流动性意味着高税收政策可能促使企业迁往低税率地区，给进步派地方政府带来两难困境。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.aerotime.aero/articles/malaysia-norway-nsm-missile-export-license-revoked">Malaysia condemns Norway’s revocation of NSM missile export license</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Naval_Strike_Missile">Naval Strike Missile - Wikipedia</a></li>
-<li><a href="https://www.kongsberg.com/what-we-do/defence-and-security/integrated-air-and-missile-defence/coastal-defence-system/">Naval Strike Missile (NSM™) Coastal Defence System - KONGSBERG - an international technology group</a></li>
-
-</ul>
-</details>
-
-**标签**: `#geopolitics`, `#defense`, `#Malaysia`, `#Norway`, `#arms trade`
+**标签**: `#urban policy`, `#wealth inequality`, `#corporate relocation`, `#progressive politics`, `#Seattle`
 
 ---
 
 <a id="item-19"></a>
-## [菲律宾阻止国际刑事法院逮捕参议员德拉罗莎](https://www.bloomberg.com/news/articles/2026-05-17/philippines-asks-court-to-deny-petition-of-senator-sought-by-icc) ⭐️ 7.0/10
+## [拉马尔·亚历山大呼吁共和党人抵制特朗普](https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html) ⭐️ 7.0/10
 
-菲律宾政府已请求最高法院驳回参议员罗纳德·德拉罗莎的请愿，该请愿旨在阻止国际刑事法院以危害人类罪发出的逮捕令执行。 此案考验菲律宾对国际法和人权问责的承诺，因其挑战了国际刑事法院对前总统杜特尔特禁毒战争的管辖权。结果可能影响外交关系，并为该国如何处理国际刑事法院逮捕令树立先例。 参议员德拉罗莎曾任国家警察总监，是杜特尔特禁毒运动的关键人物。国际刑事法院的逮捕令指控该运动期间数千起法外处决构成危害人类罪。
+前参议员拉马尔·亚历山大在其新回忆录中声称，特朗普总统在 1 月 6 日犯下了可弹劾的罪行，并呼吁国会对其加以抵制。 一位著名的前共和党参议员兼内阁成员公开谴责，为共和党内部关于特朗普行为的辩论增添了重要砝码，可能影响共和党的内部动态和未来的问责努力。 亚历山大曾担任田纳西州参议员、田纳西州州长以及美国教育部长，这使得他的批评在党内具有相当的可信度。
 
-rss · Bloomberg Markets · May 17, 03:12
+rss · NYTimes Politics · May 17, 09:00
 
-**背景**: 国际刑事法院是一个常设法庭，负责起诉灭绝种族罪、危害人类罪、战争罪和侵略罪。菲律宾于 2019 年在杜特尔特领导下退出国际刑事法院，但该法院对菲律宾仍是成员国期间所犯罪行保留管辖权。参议员德拉罗莎是首位面临国际刑事法院逮捕令的现任菲律宾参议员。
+**背景**: 1 月 6 日对美国国会大厦的袭击导致特朗普被众议院第二次弹劾，但参议院宣告其无罪。亚历山大是投票宣告无罪的几位共和党参议员之一，因此他后来声称存在可弹劾的罪行显得尤为引人注目。
 
-**标签**: `#Philippines`, `#International Criminal Court`, `#human rights`, `#politics`, `#law`
+**标签**: `#Trump`, `#Republican Party`, `#January 6`, `#impeachment`, `#Lamar Alexander`
 
 ---
 
 <a id="item-20"></a>
-## [英国工党党魁竞选中脱欧议题重现](https://www.bbc.com/news/articles/c5y7l265pe8o?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+## [科技泡沫担忧推动奇异期权对冲](https://www.bloomberg.com/news/articles/2026-05-17/tech-bubble-fear-lures-investors-to-hedge-with-exotic-options) ⭐️ 7.0/10
 
-据 BBC 报道，脱欧正重新成为英国工党党魁竞选及即将举行的梅克菲尔德补选中的核心议题。 这一进展可能重塑英国关于欧盟关系的政治讨论，影响工党的政策方向，并可能影响该国脱欧后的立场。 文章特别指出，梅克菲尔德补选是脱欧议题被辩论的关键战场，同时工党内部也在争夺领导权。
+据彭博社 2026 年 5 月 17 日报道，投资者正越来越多地使用奇异期权来对冲潜在的科技股泡沫。 这一转变表明投资者对科技股涨势的可持续性日益担忧，可能预示着市场波动加剧，影响风险管理策略和投资者行为。 奇异期权比标准香草期权更复杂，具有非标准收益或触发条件，因此更适合特定的对冲需求，但也更难定价和对冲。
 
-rss · BBC Politics · May 17, 02:14
+rss · Bloomberg Markets · May 17, 14:00
 
-**背景**: 脱欧（英国退出欧盟）是 2010 年代具有标志性的政治事件。工党内部在脱欧立场上存在分歧，而党魁竞选往往使这些分歧凸显出来。补选是为填补议会空缺席位而举行的选举，可被视为公众对重大议题意见的测试。
-
-**标签**: `#UK politics`, `#Brexit`, `#Labour Party`, `#by-election`, `#EU relations`
-
----
-
-<a id="item-21"></a>
-## [英国是否正变得难以治理？](https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
-
-BBC 一篇评论文章探讨了日益高涨的公众不满是否已使英国变得难以治理，并对担任首相日益增加的难度提出质疑。 这一分析凸显了英国政治稳定的关键时刻，持续的公众不满可能削弱有效治理和政策执行。 该文章是一篇一般性评论，没有提供具体的新数据或事件，而是聚焦于对政治阶层不满的普遍情绪。
-
-rss · BBC Politics · May 16, 23:26
-
-**背景**: 英国经历了一段政治动荡时期，包括脱欧、多位首相更迭和经济挑战。公众对政治家的信任度下降，引发了关于治理能力的质疑。这篇文章反映了关于英国民主制度健康状况的持续辩论。
-
-**标签**: `#UK politics`, `#governance`, `#public discontent`, `#political stability`
-
----
-
-<a id="item-22"></a>
-## [肯塔基州变幻莫测的政治格局](https://www.nytimes.com/2026/05/17/us/politics/kentuckys-curious-cast-of-political-characters.html) ⭐️ 6.0/10
-
-肯塔基州一位反叛的共和党人将在周二面临严峻的初选挑战，延续了该州产生令人惊讶政治人物的传统。 这场初选凸显了肯塔基州不可预测的政治格局，可能影响州级政策，并反映共和党内部的更广泛趋势。 文章聚焦于肯塔基州的一场特定初选，但未提及候选人姓名或具体日期（仅提到“周二”）。结果可能重塑当地政治动态。
-
-rss · NYTimes Politics · May 17, 09:01
-
-**背景**: 肯塔基州有选举非传统政治人物的历史，如前州长马特·贝文和参议员兰德·保罗。初选挑战常考验党派忠诚度，并反映共和党内部的分歧。
-
-**标签**: `#Kentucky politics`, `#primary election`, `#Republican Party`, `#state politics`, `#political landscape`
-
----
-
-<a id="item-23"></a>
-## [声誉管理公司 Terakeet 未能修复爱泼斯坦友人形象](https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html) ⭐️ 6.0/10
-
-《纽约时报》的一篇报道揭露，声誉管理公司 Terakeet 曾使用在线策略试图淡化高盛总法律顾问 Kathryn Ruemmler 与已定性犯罪者 Jeffrey Epstein 的友谊，但这一努力最终未能成功。 这一事件凸显了声誉管理的伦理边界，以及压制与高知名度丑闻关联的难度，尤其对于金融和法律界的权势人物而言。它引发了关于问责制以及在线操纵策略有效性的质疑。 Terakeet 使用了“在线技巧”来改善 Ruemmler 的搜索呈现和舆论情绪，但爱泼斯坦关联仍然突出。Ruemmler 曾在奥巴马总统任内担任白宫法律顾问，在爱泼斯坦因性犯罪定罪后，于 2014 年至 2019 年间与他会面数十次。
-
-rss · NYTimes Politics · May 17, 09:00
-
-**背景**: 像 Terakeet 这样的声誉管理公司利用搜索引擎优化、内容创作和 AI 影响来塑造客户在公众眼中的形象。Kathryn Ruemmler 是高盛的总法律顾问，此前曾担任白宫法律顾问。Jeffrey Epstein 是一名金融家和已定罪的性犯罪者，自 2019 年被捕以来，其庞大的权势人物关系网一直受到审查。
+**背景**: 科技泡沫是指科技股价格快速且不可持续的上涨，通常由投机驱动。奇异期权（如障碍期权或亚式期权）提供定制化收益，能比普通香草期权更有效地防范急剧下跌，但也带来更高的复杂性和风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html">How the Reputation Firm Terakeet Failed to Fix an Epstein ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Kathryn_Ruemmler">Kathryn Ruemmler - Wikipedia</a></li>
-<li><a href="https://www.pbs.org/newshour/politics/emails-reveal-epsteins-network-of-the-rich-and-powerful-despite-sex-offender-status">Emails reveal Epstein's network of the rich and powerful despite sex offender status | PBS News</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Exotic_option">Exotic option - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/terms/e/exoticoption.asp">Exotic Option: Definition and Comparison to Traditional Options</a></li>
+<li><a href="https://corporatefinanceinstitute.com/resources/derivatives/exotic-options/">Exotic Options - Definition, Types, Differences, Features</a></li>
 
 </ul>
 </details>
 
-**标签**: `#reputation management`, `#Jeffrey Epstein`, `#Goldman Sachs`, `#ethics`, `#media`
+**标签**: `#financial markets`, `#tech bubble`, `#options trading`, `#risk management`, `#investor behavior`
+
+---
+
+<a id="item-21"></a>
+## [贸易战焦点应从取胜转向减少损失](https://www.bloomberg.com/news/videos/2026-05-17/trading-while-the-global-economy-shifts-video) ⭐️ 7.0/10
+
+《金融时报》专栏作家、新书《如何赢得贸易战》合著者 Soumaya Keynes 在彭博《本周末》节目中表示，全球贸易冲突的真正目标应是尽量减少经济损失，而非试图“赢得”贸易战。 这一观点挑战了将贸易战视为零和博弈的主流政治叙事，提供了一个务实的框架，可能重塑政策制定者和公众对贸易谈判及经济韧性的思考方式。 Keynes 与主持人 David Gura 和 Christina Ruffini 在彭博《本周末》节目中讨论了全球贸易冲突的演变性质，内容源自她与同事合著的新书。
+
+rss · Bloomberg Markets · May 17, 13:21
+
+**背景**: 贸易战是指国家之间相互征收关税或设置其他贸易壁垒，并常以报复性措施升级。传统的“取胜”思维侧重于迫使对方让步，但 Keynes 认为这会对供应链、消费者和全球增长造成严重附带损害。她的新书《如何赢得贸易战》很可能将“胜利”重新定义为限制损害，而非取得决定性胜利。
+
+**标签**: `#trade war`, `#global economy`, `#economic policy`, `#geopolitics`
+
+---
+
+<a id="item-22"></a>
+## [新兴市场利差交易因油价飙升反弹](https://www.bloomberg.com/news/articles/2026-05-17/emerging-carry-trade-rebounds-with-real-rand-among-favorites) ⭐️ 7.0/10
+
+新兴市场利差交易已从伊朗战争造成的损失中恢复，原因是原油价格飙升强化了利率将持续高企的预期，并提振了巴西雷亚尔和南非兰特等大宗商品出口国货币。 此次反弹表明投资者对高收益新兴市场货币的兴趣重燃，直接影响大宗商品依赖型经济体的投资组合流动和宏观经济预期。它也凸显了地缘政治冲击和油价动态如何重塑货币市场策略。 利差交易涉及借入低收益货币以投资高收益货币，其复苏得益于支撑大宗商品出口国高利率的油价。巴西雷亚尔和南非兰特是该策略中受青睐的货币之一。
+
+rss · Bloomberg Markets · May 17, 12:00
+
+**背景**: 利差交易是一种投资策略，投资者以低利率借入资金，投资于可能获得更高回报的资产，常用于外汇市场。大宗商品货币，如巴西雷亚尔和南非兰特，因其国家依赖原材料出口而与全球大宗商品价格走势相关。近期原油价格飙升强化了这些经济体利率将持续高企的预期，使其货币对利差交易更具吸引力。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Carry_(investment)">Carry (investment) - Wikipedia</a></li>
+<li><a href="https://www.investopedia.com/carry-trade-definition-4682656">What is Carry Trade? Definition, Example & Risks Explained</a></li>
+<li><a href="https://www.forex.com/en-us/trading-guides/commodity-currencies-explained/">Commodity currencies explained - FOREX.com US</a></li>
+
+</ul>
+</details>
+
+**标签**: `#emerging markets`, `#carry trade`, `#commodity currencies`, `#interest rates`, `#geopolitical risk`
+
+---
+
+<a id="item-23"></a>
+## [伊朗冲突或引发 3000 亿美元经济冲击](https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories) ⭐️ 7.0/10
+
+根据 MarketWatch 的分析，潜在的美伊战争可能引发 3000 亿美元的经济冲击，推高抵押贷款利率并压低工资。 这一情景将通过更高的能源成本、增加的借贷成本和实际工资下降，显著影响美国家庭，波及整体经济和房地产市场。 文章指出，沃尔玛观察到当汽油价格达到每加仑 4.50 至 5 美元时，顾客开始削减支出，凸显了消费者行为对能源成本的敏感性。
+
+rss · MarketWatch Top Stories · May 17, 20:01
+
+**背景**: 该分析基于与伊朗军事冲突可能带来的经济后果，这种冲突可能扰乱全球石油供应并推高能源价格。能源成本上升通常会导致通胀加剧，促使美联储加息，进而推高抵押贷款利率并减缓工资增长。
+
+**标签**: `#geopolitics`, `#economy`, `#energy`, `#housing`, `#US policy`
 
 ---
 
 <a id="item-24"></a>
-## [FiveThirtyEight 文章存档被移除，网站重定向至 ABC News](https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html) ⭐️ 6.0/10
+## [美光崛起成为标普 500 盈利增长第二推手](https://www.marketwatch.com/story/nvidia-is-getting-some-help-as-it-props-up-s-p-500-earnings-growth-1f3a8a52?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-数千篇来自具有影响力的民调和选举分析网站 FiveThirtyEight 的存档文章已从互联网上移除，域名 fivethirtyeight.com 现在将用户重定向至 ABC News。 这一删除行为代表了政治分析领域公共数据和机构记忆的重大损失，影响了依赖该存档获取历史背景和数据驱动洞察的研究人员、记者和政治观察者。 该网站去年已关闭，但此前一直有一个可访问的存档版本；此次移除似乎是其母公司 ABC News 为整合数字资产而做出的有意决定。
+美光预计将成为标普 500 指数盈利增长的第二大贡献者，而英伟达对该指数的巨大影响可能开始减弱。 这一转变降低了市场集中风险，并预示着半导体行业领导地位可能轮动，可能影响投资者策略和指数基金配置。 英伟达仍是最大贡献者，但其主导地位正在减弱，而美光的盈利增长加速，反映了除 AI 专用 GPU 之外更广泛的存储芯片需求。
 
-rss · NYTimes Politics · May 16, 22:15
+rss · MarketWatch Top Stories · May 17, 19:25
 
-**背景**: FiveThirtyEight 由 Nate Silver 于 2008 年创立，以其对选举、体育及其他话题的统计分析而闻名，并于 2018 年被 ABC News 收购。该网站的存档包含近二十年来数千篇文章，是理解政治趋势和民调方法的关键资源。
+**背景**: 由于人工智能热潮，标普 500 指数的盈利增长高度集中在少数科技巨头，尤其是英伟达。美光作为主要存储芯片制造商，受益于数据中心、个人电脑和智能手机的需求，使半导体增长故事更加多元化。
 
-**标签**: `#media`, `#data preservation`, `#political analysis`, `#journalism`
+**标签**: `#earnings`, `#S&P 500`, `#semiconductors`, `#market concentration`, `#Nvidia`
 
 ---
 
 <a id="item-25"></a>
-## [马来西亚公布伊朗战争期间航空业援助措施](https://www.bloomberg.com/news/articles/2026-05-17/malaysia-unveils-measures-to-help-airlines-hit-by-iran-war) ⭐️ 6.0/10
+## [五只股票赢得科技巨头 7000 亿美元 AI 能源争夺战](https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-马来西亚宣布新措施，以支持因中东持续战争（特别是伊朗冲突）而面临财务压力的航空公司。 这项政策凸显了地区地缘政治冲突如何直接影响全球航空业，马来西亚的应对措施可能为面临类似干扰的其他国家提供参考。 这些措施旨在确保马来西亚航空公司的运营稳定性并缓解财务压力，但具体政策细节（如补贴或贷款担保）尚未披露。
+MarketWatch 指出，GE Vernova 和 Bloom Energy 是五只基础设施股票中的两家，它们将从科技巨头为满足 AI 驱动的能源需求而投入的 7000 亿美元投资中获益。 这突显了一个关键转变：AI 的增长正推动巨大的能源基础设施支出，使这些股票成为 AI 电网的潜在守门人，并为投资者带来关键收益。 GE Vernova 于 2024 年从通用电气分拆出来，专注于发电和电网解决方案；而 Bloom Energy 提供用于现场发电的固体氧化物燃料电池，英特尔已将其用于数据中心扩建。
 
-rss · Bloomberg Markets · May 17, 02:55
+rss · MarketWatch Top Stories · May 17, 19:10
 
-**背景**: 伊朗战争扰乱了航空旅行路线，增加了燃油成本，并提高了全球航空公司的保险费。马来西亚航空业严重依赖国际航线，因此特别容易受到此类地缘政治冲击的影响。
+**背景**: AI 数据中心消耗大量电力，推动了对可靠和清洁能源基础设施前所未有的需求。像 GE Vernova 和 Bloom Energy 这样的公司提供为 AI 热潮供电所需的设备和技术，使其成为能源转型中的关键供应商。
 
-**标签**: `#aviation`, `#Malaysia`, `#geopolitics`, `#Iran war`, `#economic policy`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/GE_Vernova">GE Vernova</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bloom_Energy">Bloom Energy</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#energy`, `#infrastructure`, `#stocks`, `#investment`
+
+---
+
+<a id="item-26"></a>
+## [自由民主党横扫里士满全部议席](https://www.bbc.com/news/articles/cy4207kp51po?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+
+在近期的地方选举中，自由民主党赢得了伦敦里士满自治市的所有议席，形成了单一政党控制的议会。 这一结果引发了对地方民主健康度的质疑，因为完全缺乏反对派可能会削弱该自治市的责任制和选民选择权。 自由民主党的全面胜利意味着其他政党在议会中没有任何席位，使里士满成为没有正式反对党的一党制自治市。
+
+rss · BBC Politics · May 17, 15:28
+
+**背景**: 里士满自治市是伦敦的一个行政区，传统上是自由民主党的票仓。在典型的多党民主制度中，地方议会通常包含多个政党的代表，以提供制衡。一党制议会可能导致决策缺乏监督，并可能因居民认为投票无关紧要而降低投票率。
+
+**标签**: `#local elections`, `#democracy`, `#UK politics`, `#Liberal Democrats`, `#governance`
+
+---
+
+<a id="item-27"></a>
+## [莱特洛与弗莱明进入路易斯安那州参议员决选](https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html) ⭐️ 6.0/10
+
+现任参议员比尔·卡西迪于周六在路易斯安那州共和党初选中被击败，众议员朱莉娅·莱特洛和州财政部长约翰·弗莱明进入党内提名决选。 这场决选将决定美国参议院一个席位的共和党候选人，可能影响参议院的权力平衡。结果也表明路易斯安那州共和党内部动态正在发生变化。 决选将在稍后日期举行，两位候选人正在争夺接替在初选中落败的现任参议员。朱莉娅·莱特洛是现任美国众议员，而约翰·弗莱明是州财政部长。
+
+rss · NYTimes Politics · May 17, 19:32
+
+**背景**: 路易斯安那州采用独特的初选制度，所有候选人无论党派都出现在同一张选票上。如果没有候选人获得多数票，前两名将进入决选。这场竞选是 2026 年中期选举的一部分。
+
+**标签**: `#Louisiana politics`, `#Senate race`, `#Republican primary`, `#election 2026`
+
+---
+
+<a id="item-28"></a>
+## [声誉管理公司 Terakeet 未能修复爱泼斯坦友人的形象](https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html) ⭐️ 6.0/10
+
+《纽约时报》的一篇报道揭露，声誉管理公司 Terakeet 曾使用网络策略试图淡化高盛总法律顾问 Kathryn Ruemmler 与已定性罪犯 Jeffrey Epstein 之间的友谊，但最终未能成功。 这一事件凸显了即便借助专业的声誉管理，在面对高调丑闻时仍存在局限性，并引发了关于使用此类策略保护权贵免受公众审视的伦理质疑。 Terakeet 的策略包括通过战略性内容创作和搜索引擎优化来压制负面搜索结果，但与 Epstein 的关联过于紧密，难以消除。该报道强调，任何网络操纵手段都无法完全抹去与如此臭名昭著人物的联系。
+
+rss · NYTimes Politics · May 17, 17:32
+
+**背景**: 在线声誉管理（ORM）是一种通过搜索引擎优化、内容创作等数字策略来控制个人或品牌在搜索结果中呈现内容的做法。Terakeet 是一家知名的 ORM 公司，为全球品牌和领导者提供服务。Kathryn Ruemmler 曾在奥巴马总统任内担任白宫法律顾问，现任高盛总法律顾问；她与 Epstein 过去的友谊在 Epstein 的性贩卖罪行被广泛曝光后成为了一个负担。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reputationmanagement.com/">Reputation Management by Terakeet</a></li>
+<li><a href="https://www.linkedin.com/company/terakeet">Terakeet | LinkedIn</a></li>
+<li><a href="https://curogram.com/blog/online-reputation-management-strategy">12 Best Practices for Your Online Reputation Management Strategy</a></li>
+
+</ul>
+</details>
+
+**标签**: `#reputation management`, `#Jeffrey Epstein`, `#Goldman Sachs`, `#media`, `#ethics`
+
+---
+
+<a id="item-29"></a>
+## [彭博周末节目：政治、贸易与安全](https://www.bloomberg.com/news/videos/2026-05-17/bloomberg-this-weekend-5-17-2026-video) ⭐️ 6.0/10
+
+彭博社于 2026 年 5 月 17 日播出了一期周末新闻综述节目，由主持人 David Gura、Christina Ruffini 和 Lisa Mateo 主持，邀请了包括白宫记者、贸易战作家和议员在内的专家小组，讨论重大政治、贸易和国家安全头条新闻。 该节目全面回顾了本周的关键动态，从多个角度为观众提供背景和分析，有助于理解政治、贸易和国家安全领域当前事件的相互关联性。 专家小组包括 Luke Broadwater（《纽约时报》白宫记者）、Soumaya Keynes（《如何赢得贸易战》作者）、Missy Ryan（《大西洋月刊》国家安全撰稿人），以及议员 Mike Lawler（纽约州共和党）和 Yvette Clarke（纽约州民主党）等。
+
+rss · Bloomberg Markets · May 17, 16:33
+
+**标签**: `#politics`, `#trade`, `#national security`, `#media`, `#U.S. policy`
+
+---
+
+<a id="item-30"></a>
+## [新书揭露硅谷对斯坦福的影响力](https://www.bloomberg.com/news/videos/2026-05-17/new-book-details-silicon-valley-s-grip-on-campuses-video) ⭐️ 6.0/10
+
+西奥·贝克的新书《如何统治世界：在斯坦福大学接受权力教育》详细描述了硅谷对大学校园的控制，基于他获奖的学生新闻报道，该报道导致斯坦福大学校长辞职。 这本书凸显了硅谷与精英大学之间的深度纠缠，引发了对机构诚信以及企业权力对高等教育影响的严峻质疑。 贝克在斯坦福学生报纸上的报道促使大学校长辞职，该书扩展了这项调查，探讨了权力和影响力的更广泛模式。
+
+rss · Bloomberg Markets · May 17, 14:08
+
+**背景**: 斯坦福大学位于硅谷中心，长期以来与科技行业关系密切。该校校长因涉及研究不端行为和利益冲突的丑闻辞职，该丑闻由学生记者揭露。
+
+**标签**: `#higher education`, `#Silicon Valley`, `#Stanford University`, `#journalism`, `#institutional power`
+
+---
+
+<a id="item-31"></a>
+## [AI 颠覆或需 18 个月应急储蓄](https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories) ⭐️ 6.0/10
+
+MarketWatch 的一篇文章指出，由于 AI 驱动的劳动力颠覆，传统的 3-6 个月应急储蓄建议已不足够，劳动者应目标储备 18 个月的现金缓冲。 这一储蓄建议的转变反映了对 AI 影响就业安全的日益担忧，可能改变数百万可能面临更长失业期的劳动者的个人财务规划。 文章提出的 18 个月缓冲建议具有推测性，缺乏有力证据支持，且未提供具体数据或专家共识来佐证这一新建议。
+
+rss · MarketWatch Top Stories · May 17, 19:08
+
+**背景**: 应急储蓄是为应对意外失业或财务紧急情况而预留的生活费用。传统的 3-6 个月支出指南基于历史平均失业时长，但 AI 颠覆可能延长求职周期，从而引发对更大缓冲储备的呼吁。
+
+**标签**: `#AI`, `#job market`, `#personal finance`, `#emergency savings`, `#labor disruption`
 
 ---
 
 ## 科技
 
-<a id="item-26"></a>
-## [Zerostack：一款受 Unix 启发的纯 Rust 编码代理发布](https://crates.io/crates/zerostack/1.0.0) ⭐️ 7.0/10
+<a id="item-32"></a>
+## [研究员声称 Bitlocker 存在后门并发布漏洞利用代码](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) ⭐️ 8.0/10
 
-Zerostack，一款完全用 Rust 编写的极简编码代理，已以 1.0.0 版本发布在 crates.io 上，其设计灵感来自 Unix 哲学，追求高效和模块化。 此次发布凸显了向轻量、高性能 AI 编码代理发展的趋势，这些代理避免了基于 JavaScript 的工具的臃肿，可能影响开发者构建和信任代理工作流的方式。 Zerostack 针对内存占用和性能进行了优化，其受 Unix 启发的设计强调简单性和可组合性，但目前缺乏某些替代方案所具备的自我变异和工具生成能力。
+匿名安全研究员 Nightmare-Eclipse 发布了两个未修复的 Windows 零日漏洞的概念验证利用代码，分别命名为 YellowKey 和 GreenPlasma，声称这些是微软故意在 Bitlocker 中植入的后门。YellowKey 漏洞可绕过仅使用 TPM 配置的系统的 Bitlocker 加密，而 GreenPlasma 是 Windows 协作翻译框架（CTFMON）中的一个权限提升漏洞。 这一披露引发了对微软加密实现的严重信任担忧，可能影响数百万依赖仅 TPM 配置的 Bitlocker 进行全盘加密的 Windows 设备。如果研究员关于 PIN 保护 Bitlocker 的更广泛主张得到证实，影响将更加严重，从而削弱 Windows 生态系统中的基本安全功能。 已发布的 YellowKey 漏洞仅影响未设置 PIN 的 Bitlocker 配置（仅 TPM），此时驱动器在启动时自动解密；研究员声称拥有一个也能绕过 PIN 的独立漏洞，但尚未提供证据。该漏洞通过操纵 USB 驱动器上的 Transactional NTFS 位来删除 Windows 恢复环境（WinRE）中的 winpeshl.ini 文件，从而获得不受限制的 shell 访问权限。
 
-hackernews · gidellav · May 16, 22:23
+hackernews · nolok · May 17, 13:42
 
-**背景**: 编码代理是 AI 驱动的工具，通过自动化代码生成、编辑和调试等任务来帮助开发者。Unix 哲学源自 Unix 操作系统，倡导小而模块化的工具，每个工具做好一件事，并能灵活组合。Rust 是一种以内存安全和性能著称的系统编程语言，使其成为构建高效代理的有吸引力的选择。
+**背景**: Bitlocker 是微软内置在 Windows 中的全盘加密功能，旨在保护丢失或被盗设备上的数据。在仅 TPM 模式下，可信平台模块在启动时自动解锁驱动器，无需用户身份验证，这虽然方便，但如果攻击者能够启动进入恢复环境，则容易受到物理攻击。Windows 恢复环境（WinRE）是一种可以从外部介质访问的诊断和修复模式，该漏洞利用其文件处理行为来获得系统级访问权限。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/gi-dellav/zerostack/tree/main">GitHub - gi-dellav/zerostack: Minimalistic coding agent ...</a></li>
-<li><a href="https://aitoolly.com/ai-news/article/2026-05-17-zerostack-a-unix-inspired-coding-agent-developed-in-pure-rust">Zerostack: Unix-Inspired Pure Rust Coding Agent Released</a></li>
-<li><a href="https://nameocean.net/article/zerostack-the-lightweight-ai-coding-agent-that-proves-less-is-more/">ZeroStack: The Lightweight AI Coding Agent That Proves Less ...</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/">Windows BitLocker zero-day gives access to protected drives ...</a></li>
+<li><a href="https://www.bitdefender.com/en-us/blog/hotforsecurity/bitlocker-zero-day-poc">BitLocker zero-day exposes Windows drives as PoC goes public</a></li>
+<li><a href="https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html">Windows Zero-Days Expose BitLocker Bypasses And CTFMON ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论显示出中等程度的兴趣，共有 155 条评论，包括与其他 Rust 代理（如 pi_agent_rust）的比较、关于 LLM 执行信任和审批协议的技术批评，以及使用 bubblewrap 等沙盒工具安全处理递归代理调用的建议。
+**社区讨论**: 社区讨论普遍证实，已发布的漏洞仅影响未设置 PIN 的仅 TPM Bitlocker 配置，许多安全专业人士已经认为这种配置不安全。一些评论者指出，研究员关于 PIN 绕过漏洞的说法仍未得到证实，总体观点是，虽然这一披露引发了合理的担忧，但直接的实践影响仅限于安全最佳实践已经不建议的配置。
 
-**标签**: `#Rust`, `#coding agent`, `#AI`, `#Unix philosophy`, `#open source`
+**标签**: `#security`, `#bitlocker`, `#microsoft`, `#exploit`, `#cryptography`
 
 ---
 
-<a id="item-27"></a>
-## [亚马逊强制 AI 使用配额，员工为达标而刷量](https://futurism.com/artificial-intelligence/amazon-quotas-ai-use) ⭐️ 7.0/10
+<a id="item-33"></a>
+## [GDS 建议 NHS 保持开源仓库公开](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) ⭐️ 8.0/10
 
-亚马逊要求超过 80%的开发者每周使用 AI 工具，并通过内部排行榜跟踪 token 消耗量。员工现在通过使用亚马逊内部 AI 代理 MeshClaw 来自动化个人事务来应付指标，这种行为被称为“tokenmaxxing”。 这揭示了在大型科技公司强制推行 AI 所产生的一个重大且讽刺的后果，突显出以指标为导向的文化如何导致适得其反的行为。它引发了关于将 AI 融入工作流程以及衡量生产力的现实挑战的讨论。 据报道，员工在内部论坛上分享技巧，例如将 Slack 对话输入 AI 来消耗 token。亚马逊回应称每天有数千名员工使用 AI 来自动化重复性任务，但《金融时报》的报道强调了配额制度带来的压力和“不正当激励”。
+英国政府数字服务局（GDS）于 2026 年 5 月 14 日发布指导意见，建议公共部门组织默认保持开源代码公开，直接反驳了 NHS 在通过 Project Glasswing 披露漏洞后关闭其仓库的决定。 这一干预升级了英国公共部门技术领域的关键政策辩论，在安全关切与开源带来的成本节约、复用效益和公众监督之间寻求平衡。GDS 的立场表明，放弃开放可能会增加交付成本并降低政府 IT 的问责性。 GDS 的指南题为《AI、开放代码与公共部门漏洞风险》，并未直接点名 NHS，但被广泛解读为对其行动的回应。首先报道 NHS 决定的 Terence Eden 将 GDS 的公开介入描述为公务员体系中罕见且冷淡的升级。
 
-telegram · zaihuapd · May 17, 01:34
+rss · Simon Willison · May 17, 15:59
 
-**背景**: MeshClaw 是亚马逊内部的 AI 代理开发平台，允许员工构建用于代码部署、电子邮件管理和与亚马逊软件生态系统集成的代理。Tokenmaxxing 指的是最大化 AI token 消耗以作为生产力信号的做法，而不考虑实际产出，这已成为科技行业的一种工作场所趋势。
+**背景**: NHS 在通过 Project Glasswing（一个负责任的关键基础设施漏洞披露框架）收到漏洞报告后，决定关闭其开源仓库。英国政府数字服务局（GDS）是负责政府服务数字化转型的机构，长期以来一直倡导开源原则以实现成本节约、复用和透明度。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://futurism.com/artificial-intelligence/amazon-quotas-ai-use">Amazon Employees Forced to Hit Quotas on AI Use ... - Futurism</a></li>
-<li><a href="https://agentwiki.org/meshclaw">MeshClaw [AI Agent Knowledge Base]</a></li>
-<li><a href="https://builtin.com/articles/ai-tokenmaxxing">What Is Tokenmaxxing? The AI Workplace Trend Explained ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI adoption`, `#workplace culture`, `#Amazon`, `#metrics gaming`, `#productivity`
+**标签**: `#open source`, `#government policy`, `#security`, `#NHS`, `#public sector`
 
 ---
 
-<a id="item-28"></a>
-## [无锡将建“Token 工厂”，部署 4 台华为昇腾 384 集群](https://wap.eastmoney.com/a/202605173739675157.html) ⭐️ 7.0/10
+<a id="item-34"></a>
+## [CAR T 疗法在自身免疫疾病中展现潜力](https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/) ⭐️ 8.0/10
 
-弘信电子与无锡高新区签约，将在江苏省内建设大规模“Token 工厂”，首期部署 4 台华为昇腾 384 超节点服务器，每台配备 384 卡，共 1536 卡组成超级集群。 这标志着中国在国产 AI 基础设施上的重大投资，展示了华为昇腾生态在大规模 AI 训练和推理中的规模化应用。“Token 工厂”概念代表了从传统数据中心向以 Token 为中心的 AI 制造的转变，可能加速 AI 应用的部署。 每个昇腾 384 超节点集成了 384 颗华为昇腾 NPU 和 192 颗鲲鹏 CPU，训练性能提升 3 倍，推理性能达业界 4 倍。该集群通过高速互联总线像一台计算机一样工作，突破了传统集群的互联瓶颈。
+研究人员正在探索将最初为癌症开发的 CAR T 细胞疗法用于重置免疫系统，以治疗自身免疫疾病。这代表了该疗法在肿瘤学之外的新应用。 如果成功，这种方法可能通过提供潜在的长期缓解或治愈，而不仅仅是控制症状，从而改变自身免疫疾病的治疗。它可能惠及全球数百万患有类风湿关节炎、狼疮和多发性硬化症等疾病的患者。 “免疫重置”的概念涉及清除自身反应性淋巴细胞，以恢复稳定、自我耐受的免疫系统。在自身免疫疾病中的早期概念验证研究已显示出安全性，但在患者特异性细胞疗法的生产和监管审批方面仍存在挑战。
 
-telegram · zaihuapd · May 17, 06:21
+rss · Ars Technica · May 17, 11:00
 
-**背景**: “Token 工厂”是一种新的 AI 基础设施范式，将 Token 生成和处理视为制造流水线，超越了传统的“数据中心”或“算力中心”概念。华为昇腾 384 超节点于 2025 年 5 月发布，旨在通过提供高性能国产 AI 算力与国际 GPU 集群竞争。该项目是中国推动自主 AI 基础设施建设的一部分，旨在减少对英伟达等外国芯片的依赖。
+**背景**: CAR T 细胞疗法是一种免疫疗法，其中患者自身的 T 细胞被改造以识别并攻击特定目标，如癌细胞。在自身免疫疾病中，免疫系统错误地攻击自身组织，而 CAR T 细胞可以被设计来消除导致这种攻击的功能失调的免疫细胞。“免疫重置”一词指的是在清除这些细胞后恢复正常免疫功能的目标。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.scensmart.com/news/huawei-ascend-384-super-node-achieves-the-treasure-of-waic-town-hall-with-comprehensive-computing-performance-surpassing-international-competitors/">华 为 昇 腾 384 超 节 点 斩获WAIC... | ScenSmart一站式智造平台|OEM|ODM</a></li>
-<li><a href="https://news.qq.com/rain/a/20251203A06YQP00">华 为 昇 腾 384 超 节 点 投入商用 为 自主算力“筑牢根基”_ 腾 讯新闻</a></li>
-<li><a href="https://xueqiu.com/9534844714/389266794">从算力中心到 Token 工厂：AI 基础设施正在进入“智能制造”时代 过去几...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12325069/">‘Immune reset plus’: the case for combining immunotherapies to maintain self-tolerance in autoimmune diseases - PMC</a></li>
+<li><a href="https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1634090/full">Frontiers | ‘Immune reset plus’: the case for combining immunotherapies to maintain self-tolerance in autoimmune diseases</a></li>
+<li><a href="https://www.nature.com/articles/d42473-020-00048-5">Reprogramming autoimmune diseases</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI infrastructure`, `#Huawei Ascend`, `#China tech`, `#GPU cluster`, `#Token factory`
+**标签**: `#CAR T cell therapy`, `#autoimmune disease`, `#immunotherapy`, `#medical research`, `#biotechnology`
+
+---
+
+<a id="item-35"></a>
+## [面向企业多跳推理的图增强 RAG 模式](https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production) ⭐️ 8.0/10
+
+这很重要，因为纯向量 RAG 捕获语义相似性但丢弃了结构关系，在供应链、金融合规和欺诈检测等企业领域会导致幻觉。图增强 RAG 通过保留实体连接实现准确的多跳推理，使 LLM 应用在处理复杂业务问题时更加可靠。 所提出的架构使用三层堆栈：数据摄入（在数据摄入期间提取实体和关系）、存储（使用像 Neo4j 这样的图数据库，向量嵌入存储为节点属性）和检索（混合查询，结合向量扫描寻找入口点和图遍历获取上下文）。文章借鉴了作者在 Meta 构建高吞吐量日志系统和在 Cognee 构建私有数据基础设施的经验。
+
+rss · VentureBeat · May 17, 18:00
+
+**背景**: 检索增强生成（RAG）是一种标准技术，通过将文档分块、嵌入到向量数据库中，并通过余弦相似度检索 top-k 结果，将大型语言模型（LLM）锚定在私有数据上。然而，标准的纯向量 RAG 会扁平化层次结构、依赖关系和所有权等显式关系，使其无法回答需要遍历实体间连接的多跳问题。图数据库以节点和边的形式存储数据，保留这些关系并支持结构遍历。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.researchgate.net/publication/393193258_Graph-Enhanced_RAG_A_Survey_of_Methods_Architectures_and_Performance">(PDF) Graph - Enhanced RAG : A Survey of Methods, Architectures ...</a></li>
+<li><a href="https://pub.towardsai.net/the-complete-guide-to-rag-why-retrieval-augmented-generation-is-the-backbone-of-enterprise-ai-in-90461f646fb7">The Complete Guide to RAG : Why Retrieval-Augmented... | Towards AI</a></li>
+<li><a href="https://aws.amazon.com/blogs/machine-learning/improving-retrieval-augmented-generation-accuracy-with-graphrag/">Improving Retrieval Augmented Generation accuracy with GraphRAG</a></li>
+
+</ul>
+</details>
+
+**标签**: `#RAG`, `#graph databases`, `#enterprise AI`, `#LLM`, `#information retrieval`
+
+---
+
+<a id="item-36"></a>
+## [长鑫科技提交 IPO 申请，营收暴增 719%](https://api3.cls.cn/share/article/2373399?os=android&amp;sv=8.7.8&amp;app=cailianpress) ⭐️ 8.0/10
+
+长鑫科技（CXMT）已向上交所科创板提交 IPO 申请，披露 2026 年第一季度营收 508 亿元，同比增长 719.13%，并预计 2026 年上半年营收将达到 1100 亿至 1200 亿元。 此次 IPO 标志着这家中国领先 DRAM 制造商的重要里程碑，显示其快速增长并有望挑战三星、美光等全球存储芯片巨头。营收的爆发式增长也反映了全球 DRAM 严重供不应求和价格大幅上涨的现状，对消费电子和半导体行业具有重大影响。 该公司在 2026 年第一季度实现扭亏为盈，净利润达 330.1 亿元，扭转了去年的亏损局面。IPO 申请提交给上海证券交易所科创板，该板块是中国的纳斯达克，专注于科技公司。
+
+telegram · zaihuapd · May 17, 11:05
+
+**背景**: 长鑫科技（CXMT）是一家总部位于安徽合肥的中国半导体公司，专注于 DRAM 存储芯片制造。DRAM（动态随机存取存储器）是电脑、智能手机和服务器中的关键组件。近期，由于主要厂商减产以及 AI 和数据中心需求上升，全球 DRAM 市场出现严重供不应求和价格飙升。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shanghai_Stock_Exchange_STAR_Market">Shanghai Stock Exchange STAR Market - Wikipedia</a></li>
+<li><a href="https://www.moomoo.com/news/post/68438976/surge-in-dram-nand-memory-prices-sweeps-through-consumer-electronics">Surge in DRAM/NAND memory prices sweeps through consumer ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductor`, `#DRAM`, `#IPO`, `#Chinese tech`, `#memory chips`
+
+---
+
+<a id="item-37"></a>
+## [OpenClaw 开发者单月消耗 130 万美元 OpenAI API Token](https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-creator-burns-through-1-3-million-in-openai-api-tokens-in-a-single-month) ⭐️ 8.0/10
+
+OpenClaw 开发者 Peter Steinberger 披露，其团队在 30 天内消耗了价值 130 万美元的 OpenAI API Token，涉及 6030 亿个 Token 和 760 万次请求，由约 100 个 Codex 代理用于自主代码审查和安全任务。 这一前所未有的 AI 代理 Token 消耗规模揭示了无限制 AI 自动化的实际成本，对 AI 开发的经济性和企业采用具有重要影响。 账单中包含了 2026 年 4 月 23 日版本的 GPT-5.5 模型的使用，高额费用主要源于 Codex 的“快速模式”计费；禁用快速模式后，原始 API 成本将降至约 30 万美元。
+
+telegram · zaihuapd · May 17, 13:38
+
+**背景**: OpenAI Codex 是一款于 2025 年 4 月发布的 AI 编程代理，用于编写代码和修复错误等软件工程任务。GPT-5.5 于 2026 年 4 月 23 日发布，是 OpenAI 最新的大型语言模型，专为编码和研究等复杂任务设计。API Token 定价基于输入和输出 Token，其中 Token 是文本的单位，如单词或子词。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/OpenAI_Codex_(AI_agent)">OpenAI Codex (AI agent)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GPT-5.5">GPT-5.5 - Wikipedia</a></li>
+<li><a href="https://openai.com/api/pricing/">OpenAI API Pricing | OpenAI</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#OpenAI`, `#API costs`, `#Codex`, `#automation`
+
+---
+
+<a id="item-38"></a>
+## [没有清晰需求，AI 无法加速你的流程](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/) ⭐️ 7.0/10
+
+作者认为，AI 工具（如大型语言模型）仍然需要清晰详细的需求才能有效工作，因此如果没有更好的规范实践，它们无法神奇地加速软件开发流程。 这挑战了 AI 将大幅加速开发的普遍炒作，指出真正的瓶颈——需求清晰度——仍然未变，这对软件工程社区的生产力预期有重要影响。 文章指出，软件开发人员长期以来一直与模糊的功能需求作斗争，而 AI 并没有绕过这个根本问题；相反，它仍然依赖于精确的人类输入来生成有用的输出。
+
+hackernews · TheEdonian · May 17, 12:13
+
+**背景**: 在软件开发中，将模糊的想法转化为精确、可操作的需求通常是最耗时且容易出错的步骤。像 LLM 这样的 AI 工具可以生成代码或建议，但它们需要定义明确的提示才能产生相关结果。如果没有清晰的规范，AI 可能会产生错误或不相关的输出，导致更多的调试和返工。
+
+**社区讨论**: 评论者普遍同意 AI 无法取代对清晰需求的需求，许多人分享了模糊规范导致延迟的经验。一些人指出，AI 仍然可以加速重构和样板代码生成等任务，但它并没有消除需求清晰度这一根本瓶颈。
+
+**标签**: `#AI`, `#software engineering`, `#requirements`, `#productivity`, `#LLMs`
+
+---
+
+<a id="item-39"></a>
+## [iOS 开发者用 WebKit 替代原生文本渲染](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) ⭐️ 7.0/10
+
+一位开发者在构建高性能 iOS Markdown 文本编辑器时发现，使用 TextKit 2 的原生渲染在处理复杂文本时表现不佳，因此尽管偏好原生开发，他们还是转而使用 WebKit 来渲染 Markdown 视图。 这凸显了 iOS 开发中日益明显的权衡：对于文本密集型应用，像 TextKit 2 这样的原生 API 可能不如成熟的 Web 渲染引擎快，从而挑战了“全栈原生”的理想，并影响开发者如何选择渲染技术。 开发者报告称，WebKit 处理 Markdown 渲染比 TextKit 2 更可靠，尽管有评论者指出存在像 swift-markdown-ui 这样基于 SwiftUI 的 Markdown 渲染器且运行良好。该帖子评分 7.0/10，反映了 320 分和 215 条评论的高参与度。
+
+hackernews · dive · May 17, 11:49
+
+**背景**: 原生 iOS 开发通常使用 Apple 的 TextKit 框架进行文本渲染，但 iOS 15 中引入的 TextKit 2 在处理复杂格式时面临性能问题。WebKit 是 Apple 的浏览器引擎，在 macOS 和 iOS 上是原生操作系统框架，通常用于渲染网页内容，但也能处理富文本。争论的焦点在于：是使用原生 API 追求性能，还是使用基于 Web 的解决方案追求功能完整性。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=48168058">Native all the way, until you need text | Hacker News</a></li>
+<li><a href="https://techtrendtrove.com/tech-explained/native-all-the-way-until-you-need-text/">Native all the way, until you need text - Tech Trend Trove</a></li>
+<li><a href="https://dbushell.com/2024/11/05/webkit-font-smoothing/">What’s the deal with WebKit Font Smoothing? – David Bushell – Web...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论意见不一：一些人称赞 WebKit 是务实的选择，因为它在 Apple 平台上是原生操作系统框架；而另一些人则认为基于 SwiftUI 的 Markdown 渲染器已经解决了问题。一位评论者指出，浏览器引擎已经非常成熟，在文本渲染方面可以与原生 API 竞争。
+
+**标签**: `#native development`, `#text rendering`, `#iOS`, `#WebKit`, `#performance`
 
 ---
