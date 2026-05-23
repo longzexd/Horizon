@@ -5,640 +5,503 @@ date: 2026-05-23
 lang: zh
 ---
 
-> 从 64 条内容中筛选出 38 条重点信息（政治/金融 26，科技 12）
+> 从 83 条内容中筛选出 32 条重点信息（政治/金融 27，科技 5）
 
 ---
 
 ## 政治与金融
 
 <a id="item-1"></a>
-## [特朗普考虑对伊朗目标实施新一轮军事打击](https://www.nytimes.com/2026/05/22/us/politics/trump-iran-targets.html) ⭐️ 9.0/10
+## [特朗普转向限制合法移民](https://www.nytimes.com/2026/05/23/us/politics/trump-legal-immigration.html) ⭐️ 9.0/10
 
-美国正在考虑对伊朗的能源、核设施和导弹设施实施新一轮军事打击，可打击的高价值目标包括伊斯法罕的地下核储存设施以及疑似被挖空的导弹基地。 这一事态对全球能源市场、核扩散和中东稳定具有重大影响，因为对伊朗能源基础设施的任何打击都可能扰乱石油供应并加剧地区紧张局势。 伊斯法罕核技术中心是伊朗最大的核研究中心之一，建于 1984 年，曾获中国援助；而伊朗的地下导弹基地（被称为“导弹城市”）据信遍布所有省份，并部署了机动弹道导弹。
+特朗普政府现在正加大合法移民留在美国的难度，标志着政策重点从打击非法移民转向限制合法移民。 这一转变可能产生广泛的经济、人口和地缘政治影响，波及劳动力市场、家庭团聚以及美国的全球地位。 据《纽约时报》报道，在一年来专注于打击非法移民之后，政府现在将目标对准合法移民，并将此举描述为一次风险重大且影响深远的政策升级。
 
-rss · NYTimes Politics · May 23, 02:44
+rss · NYTimes Politics · May 23, 19:43
 
-**背景**: 美国与伊朗长期存在紧张关系，尤其在伊朗核计划及其弹道导弹能力方面。伊斯法罕基地是伊朗核基础设施的关键部分，而地下导弹基地旨在保护伊朗导弹库免受空袭。此前美国对伊朗核设施的打击曾引发辐射危险的担忧。
+**背景**: 合法移民是指外国公民通过官方授权（如工作签证、家庭担保或难民身份）进入并留在美国的过程。特朗普政府此前主要集中执法力量打击无证移民，而这一新方向标志着更广泛的限制主义议程。
+
+**标签**: `#immigration policy`, `#Trump administration`, `#legal immigration`, `#US politics`, `#policy shift`
+
+---
+
+<a id="item-2"></a>
+## [特朗普考虑对伊朗发动新一轮军事打击](https://www.nytimes.com/2026/05/22/us/politics/trump-iran-targets.html) ⭐️ 9.0/10
+
+特朗普政府正在考虑对伊朗的核设施、能源设施和导弹基地发动新一轮军事打击，目标包括伊斯法罕的地下核储存设施以及已被挖掘出的导弹基地。 这一潜在的升级行动可能对全球安全、石油市场和美国外交政策产生重大影响，因为它针对伊朗的战略基础设施，并可能导致更广泛的地区冲突。 据《纽约时报》报道，目标数量充足，包括此前打击中未触及的能源设施、伊斯法罕的地下核储存设施，以及已被挖掘出的导弹基地。
+
+rss · NYTimes Politics · May 23, 15:11
+
+**背景**: 伊斯法罕核技术中心是伊朗最大的核研究中心之一，成立于 1984 年，在中国援助下建成，据称雇佣多达 3000 名科学家。伊朗还建造了广泛的地下导弹基地，弹道导弹储存在巨大的隧道中，并通过自动化铁路系统运输，使其难以被摧毁。美国情报机构最近发现，尽管此前遭到打击，伊朗已重新进入其大部分导弹基地和地下设施。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Nuclear_facilities_in_Iran">Nuclear facilities in Iran - Wikipedia</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Iranian_underground_missile_bases">Iranian underground missile bases - Wikipedia</a></li>
-<li><a href="https://www.smh.com.au/world/north-america/radiation-dangers-of-three-nuclear-sites-struck-by-the-us-20250622-p5m9bs.html">US strikes on Iran: radiation dangers of three Iranian nuclear sites</a></li>
+<li><a href="https://www.middleeasteye.net/news/iran-has-regained-access-most-missile-and-underground-sites-us-intelligence-finds">Iran has regained access to most missile and underground sites, US intelligence finds | Middle East Eye</a></li>
 
 </ul>
 </details>
 
-**标签**: `#geopolitics`, `#Iran`, `#US foreign policy`, `#military strikes`, `#energy security`
-
----
-
-<a id="item-2"></a>
-## [白宫批准 90 亿美元用于间谍机构 AI 芯片](https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html) ⭐️ 9.0/10
-
-白宫已批准 90 亿美元，以解决尖端 AI 芯片严重短缺的问题，该短缺导致 CIA 和 NSA 无法在其机密系统上全面部署最新的 AI 模型。 这笔资金标志着重大政策转变，表明美国情报界正将 AI 能力置于国家安全优先地位，对情报行动、AI 竞争和政府技术支出具有广泛影响。 短缺问题特别影响的是机密系统上先进 AI 模型的部署，而非非机密系统。90 亿美元的批准是针对阻碍情报机构利用最新 AI 突破的瓶颈的系统性回应。
-
-rss · NYTimes Politics · May 22, 21:27
-
-**背景**: 尖端 AI 芯片（如 NVIDIA 的芯片）对于训练和运行能够处理海量信号情报数据的大型 AI 模型至关重要。CIA 和 NSA 一直在扩大 AI 运营，包括部署聊天机器人和 AI 代理，但在机密网络上遇到了硬件限制。这笔资金旨在缩小这一差距，加速 AI 在整个情报界的应用。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nytimes.com/2026/05/22/us/politics/spy-agencies-ai-chips-shortage.html">White House Approves $9 Billion for Spy Agencies to Catch Up on A.I.</a></li>
-<li><a href="https://www.rand.org/pubs/commentary/2025/02/dont-be-fooled-advanced-chips-are-important-for-national.html">Don't Be Fooled, Advanced Chips Are Important for National Security | RAND</a></li>
-<li><a href="https://www.ainvest.com/news/cia-ai-deployment-scaling-chatbots-agents-maintaining-human-oversight-2604/">CIA's AI Deployment: Scaling Chatbots and Agents While ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#national security`, `#artificial intelligence`, `#government spending`, `#intelligence community`, `#semiconductors`
+**标签**: `#geopolitics`, `#Iran`, `#US foreign policy`, `#military strikes`, `#nuclear`
 
 ---
 
 <a id="item-3"></a>
-## [特朗普政府：绿卡申请人须离美申请](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) ⭐️ 9.0/10
+## [战争推动通胀逼近 4%，美联储关键指标告急](https://www.bloomberg.com/news/articles/2026-05-23/more-war-driven-inflation-seen-in-fed-s-favored-gauge) ⭐️ 9.0/10
 
-特朗普政府宣布，绿卡申请人必须离开美国才能申请永久居留权，这是一项影响数十万人的重大政策转变。 这一变化可能导致更多家庭分离，因为配偶或亲属需在国外等待申请结果，对美国移民模式产生重大的人道、法律和经济影响。 该政策可能影响数十万绿卡申请人，移民律师警告称，它可能迫使申请人在审理期间留在美国境外，从而破坏家庭团聚。
+美联储最青睐的总体通胀指标正迅速逼近 4%，其背后是战争引发的能源成本飙升，这引发了市场对价格压力将向更广泛经济领域扩散的担忧。 这标志着一次重大的宏观经济转变，可能迫使美联储进一步收紧货币政策，从而影响金融市场、借贷成本以及全球经济稳定。 该通胀指标是美联储最看重的总体衡量标准，而 4%的阈值是一个心理上的重要关口，可能触发更激进的政策回应。
 
-rss · NYTimes Politics · May 23, 01:14
+rss · Bloomberg Markets · May 23, 20:00
 
-**背景**: 此前，许多绿卡申请人可以在美国境内调整身份，避免长期海外停留。这项新规逆转了这一做法，要求申请人离开美国并从海外申请，可能带来后勤和情感上的困难。
+**背景**: 美联储使用其青睐的通胀指标（很可能是个人消费支出价格指数）来指导货币政策。接近 4%的读数远高于美联储 2%的目标，表明通胀压力持续存在。战争驱动的能源成本上涨是一个关键因素，因为能源价格上涨可能蔓延至经济其他领域。
 
-**标签**: `#immigration policy`, `#green card`, `#Trump administration`, `#family separation`, `#U.S. policy`
+**标签**: `#inflation`, `#Federal Reserve`, `#monetary policy`, `#geopolitics`, `#energy`
 
 ---
 
 <a id="item-4"></a>
-## [图尔西·加巴德辞去国家情报总监职务，特朗普任命亚伦·卢卡斯为代理负责人](https://www.nytimes.com/2026/05/22/us/politics/tulsi-gabbard-resigns.html) ⭐️ 9.0/10
+## [美国封锁迫使 100 艘船只改道伊朗港口](https://www.bloomberg.com/news/articles/2026-05-23/us-says-its-blockade-against-iran-has-redirected-100-vessels) ⭐️ 9.0/10
 
-国家情报总监这一最高国家安全职位的辞职，表明美国情报领导层可能存在不稳定，可能影响机构间协调和政策连续性。这一变动可能对特朗普政府如何收集和使用情报产生广泛影响。 加巴德的任期被描述为困难，她在总统做出重要国家安全决策时很少在场。新任命的代理负责人亚伦·卢卡斯将临时领导国家情报总监办公室。
+美国中央司令部宣布，其对伊朗港口为期六周的封锁已迫使 100 艘商船改道，标志着对伊朗海上压力的重大升级。 这一事态标志着全球贸易和石油市场受到重大干扰，可能加剧地缘政治紧张局势，并影响中东地区的稳定。 封锁已实施六周，100 艘船只的改道是其影响的具体指标，但有关船只类型或货物的具体细节尚未披露。
 
-rss · NYTimes Politics · May 22, 23:14
+rss · Bloomberg Markets · May 23, 13:52
 
-**背景**: 国家情报总监负责监督美国情报界，协调中央情报局和联邦调查局等机构的工作。这一角色对于确保连贯的国家安全政策和情报共享至关重要。
+**背景**: 美国长期以来对伊朗实施制裁，但直接的海上封锁是一种更为激进的措施，通过物理手段阻止船只进出伊朗港口。此类行动可能严重扰乱伊朗经济，尤其是其石油出口，并常被视为更广泛冲突的前兆。
 
-**标签**: `#national security`, `#intelligence`, `#Trump administration`, `#political leadership`, `#government transition`
+**标签**: `#geopolitics`, `#Iran`, `#US foreign policy`, `#maritime security`, `#sanctions`
 
 ---
 
 <a id="item-5"></a>
-## [埃博拉在刚果东部超越接触者追踪](https://www.bloomberg.com/news/articles/2026-05-23/ebola-outbreak-in-congo-outrunning-containment-as-contact-tracing-falters) ⭐️ 9.0/10
+## [特朗普政府瓦解 1 月 6 日调查](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html) ⭐️ 8.0/10
 
-刚果东部的卫生工作者在一天内仅追踪到不到五分之一的埃博拉病例接触者，表明病毒传播速度已超过防控努力。 接触者追踪是疫情控制的关键环节，此次失败表明防控体系出现重大漏洞，可能导致大规模埃博拉疫情爆发，带来严重的人道主义和区域安全后果。 接触者追踪旨在识别并监测所有与感染者有过接触的人员，但在此次事件中，仅约 20%的接触者被找到，其余大部分未被追踪，可能仍在传播病毒。
+特朗普政府近期采取了两项措施，关闭司法部对 1 月 6 日国会山袭击事件的广泛调查中剩余的部分，进一步使该部门与总统淡化该事件的努力保持一致。 此举标志着对 1 月 6 日袭击事件的一项重大机构调查被系统性瓦解，引发了对法治、问责制以及维护准确历史记录的严重担忧。 这些举措是政府关闭调查线索的更广泛模式的一部分，而且是在司法部越来越与特朗普总统的政治目标保持一致的情况下发生的。
 
-rss · Bloomberg Markets · May 23, 02:47
+rss · NYTimes Politics · May 23, 18:26
 
-**背景**: 埃博拉病毒病是一种严重且常致命的疾病，通过直接接触感染者的体液或受污染的表面传播。接触者追踪是公共卫生的基本工具，用于发现和隔离病例以切断传播链；一旦失效，疫情可能迅速升级。
+**背景**: 2021 年 1 月 6 日对美国国会大厦的袭击是一次试图推翻 2020 年总统选举结果的行动。司法部随后展开了广泛的调查，这成为其历史上最大规模的刑事调查，导致数百项指控。特朗普政府一直试图淡化这次袭击的严重性，并批评了这项调查。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Contact_tracing">Contact tracing - Wikipedia</a></li>
-<li><a href="https://www.who.int/publications/i/item/9789240102965">WHO guideline on contact tracing</a></li>
-
-</ul>
-</details>
-
-**标签**: `#public health`, `#Ebola`, `#Congo`, `#pandemic preparedness`, `#global health security`
+**标签**: `#January 6`, `#Trump administration`, `#Justice Department`, `#political accountability`, `#rule of law`
 
 ---
 
 <a id="item-6"></a>
-## [特朗普对华示好引发印度担忧](https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html) ⭐️ 8.0/10
+## [纽约时报民调：61%美国人减少食品杂货支出，归咎特朗普政策](https://www.nytimes.com/2026/05/23/us/politics/americans-groceries-inflation-affordability.html) ⭐️ 8.0/10
 
-美国国务卿马尔科·鲁比奥访问新德里，以应对特朗普总统对印度的强硬立场及其寻求与中国建立更紧密关系所引发的后果。 此次访问凸显了特朗普领导下美国外交政策的重大转变，可能削弱美印战略伙伴关系，并改变亚洲的力量平衡。 据《纽约时报》报道，鲁比奥面临一项“艰巨任务”，即化解因特朗普的反印度言论和对华示好而引发的紧张局势。
+《纽约时报》一项民调显示，61%的美国人不得不削减食品杂货开支，超过 75%的美国人（包括 55%的共和党人）认为特朗普总统的政策提高了他们所在社区的生活成本。 这项民调表明特朗普政府面临重大政治风险，因为跨党派的多数民众将生活成本上升归因于总统的政策，这可能会影响消费者情绪、通胀叙事以及即将到来的选举。 这项由《纽约时报》进行的调查显示，即使是多数共和党人（55%）也同意特朗普的政策提高了生活成本，凸显了在这个问题上罕见的跨党派共识。
 
-rss · NYTimes Politics · May 23, 09:01
+rss · NYTimes Politics · May 23, 12:59
 
-**背景**: 美国传统上将印度视为制衡中国在亚洲日益增长影响力的关键力量。特朗普寻求与中国建立伙伴关系标志着这一策略的转变，引发了新德里的担忧。
+**背景**: 自疫情后物价飙升以来，通胀和生活成本一直是美国家庭的核心经济关切。特朗普总统经常声称他的关税和能源政策会降低物价，但这项民调表明许多美国人感受到了相反的效果。
 
-**标签**: `#geopolitics`, `#US foreign policy`, `#India`, `#China`, `#Trump administration`
+**标签**: `#inflation`, `#public opinion`, `#cost of living`, `#Trump administration`, `#consumer sentiment`
 
 ---
 
 <a id="item-7"></a>
-## [特朗普在糟糕一周后仍坚持推行不得人心政策](https://www.nytimes.com/2026/05/23/us/politics/defiant-after-bad-week-trump-pushes-ahead-on-politically-unpopular-ideas.html) ⭐️ 8.0/10
+## [特朗普对华示好令美印关系紧张](https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html) ⭐️ 8.0/10
 
-在经历了一个充满挑战、政治实力出现减弱迹象的一周后，特朗普总统继续推进有争议且不得人心的政策，表现得仿佛自己仍拥有绝对权力。 这种固执凸显了政府策略与公众情绪之间可能存在的脱节，可能导致重大政策转向或给行政部门带来政治风险。 这篇由《纽约时报》于 2026 年 5 月 23 日发布的文章，报道了总统在政治挫折面前的行为，但提供的具体内容中未提及具体不得人心的政策。
+美国国务卿马尔科·鲁比奥访问新德里，以应对特朗普总统对印度的强硬立场及其寻求与中国建立更紧密关系所引发的后果。 此次访问凸显了特朗普领导下美国外交政策的重大转变，可能重塑印太地区平衡，并影响贸易、安全联盟及区域稳定。 鲁比奥面临一项“艰巨任务”，即化解特朗普的反印度言论及其对华示好所引发的紧张局势，这直接挑战了印度的战略利益。
 
-rss · NYTimes Politics · May 23, 09:01
+rss · NYTimes Politics · May 23, 14:01
 
-**背景**: 这则新闻出现在关于特朗普政府政策方向及其对美国整体政治格局影响的持续辩论中。总统的做法反映了一种更广泛的行政策略模式，即优先考虑某些意识形态目标而非即时的公众认可。
+**背景**: 美国传统上在印度与中国之间保持平衡关系，印度被视为在印太地区制衡中国影响力的关键伙伴。特朗普明显转向中国的做法威胁到这一平衡，令依赖美国支持以维护安全与经济合作的印度政策制定者感到担忧。
 
-**标签**: `#US politics`, `#executive branch`, `#policy`, `#political strategy`, `#Trump administration`
+**标签**: `#US foreign policy`, `#India`, `#China`, `#geopolitics`, `#Indo-Pacific`
 
 ---
 
 <a id="item-8"></a>
-## [HUD 收紧残疾人士辅助动物规定](https://www.nytimes.com/2026/05/22/us/politics/hud-assistance-animals-disabled.html) ⭐️ 8.0/10
+## [特朗普在艰难一周后执意推进不受欢迎政策](https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html) ⭐️ 8.0/10
 
-美国住房和城市发展部（HUD）指示住房官员将情感支持动物排除在残疾租户的住宿安排之外，并收紧服务动物的法律定义。 这一政策转变直接影响数百万依赖辅助动物的残疾租户的住房权利，可能导致残疾权利团体的诉讼和倡导活动增加。房东和住房提供者也需更新其住宿政策以符合新指南。 新 HUD 指南明确将情感支持动物（通过陪伴提供安慰）排除在必须根据公平住房法予以安置的辅助动物定义之外。只有经过训练、能为残疾人执行特定任务的服务动物才符合资格。
+在经历充满挫折的艰难一周后，特朗普总统继续推进在政治上不受欢迎的主张，尽管有迹象显示其政治影响力减弱，他仍表现出对抗姿态。 这种行为可能加深共和党内部的分裂，并影响政府的有效治理能力，对政策方向和即将到来的选举动态产生潜在影响。 《纽约时报》报道称，特朗普表现得仿佛自己仍拥有全面政治权力，尽管有迹象表明他的地位正在削弱。文章强调他推动政治上不受欢迎的主张，但摘要中未详述具体政策。
 
-rss · NYTimes Politics · May 23, 02:40
+rss · NYTimes Politics · May 23, 09:01
 
-**背景**: 根据《公平住房法》，房东通常需要为残疾租户提供合理便利，包括允许辅助动物进入。此前，HUD 指南将情感支持动物也纳入该类别，但新指令推翻了这一解释。服务动物传统上被定义为经过训练、能执行与残疾人直接相关任务（如导盲或警示癫痫发作）的狗（有时包括小型马）。
+**背景**: 这则新闻出现在特朗普政府经历政治动荡的时期，近期事件引发了对其影响力的质疑。总统在政治逆风中推进不受欢迎主张的概念之所以重要，是因为它可能表明战略信念或与政治现实的脱节，从而影响立法成功率和公众支持。
 
-**标签**: `#HUD`, `#disability rights`, `#housing policy`, `#assistance animals`, `#civil rights`
+**标签**: `#US politics`, `#Trump administration`, `#political strategy`, `#public policy`, `#governance`
 
 ---
 
 <a id="item-9"></a>
-## [诉讼质疑特朗普 18 亿美元基金排除受针对群体](https://www.nytimes.com/2026/05/22/us/politics/common-cause-lawsuit-trump-fund.html) ⭐️ 8.0/10
+## [Uber 提议以每股 33 欧元收购 Delivery Hero](https://www.bloomberg.com/news/articles/2026-05-23/uber-doordash-in-talks-to-buy-delivery-hero-stakes-ft-says) ⭐️ 8.0/10
 
-Common Cause 提起的一项诉讼认为，特朗普设立的 18 亿美元补偿基金不公平地排除了那些声称在特朗普执政期间遭受联邦政府党派攻击的个人和团体。 这起诉讼对政府补偿中的问责制和公平性提出了关键质疑，可能为未来政府如何处理党派攻击索赔开创先例。 该基金总额达 18 亿美元，但诉讼认为其资格标准故意排除了那些据称遭受特朗普党派行动针对的人，削弱了基金提供救济的既定目的。
+Uber Technologies Inc.提议以每股 33 欧元（约 38 美元）的价格收购其尚未持有的 Delivery Hero SE 股份，旨在加强其全球食品配送业务。 此举标志着食品配送行业的重大整合，可能重塑在美国以外地区与 DoorDash 的竞争格局，并扩大 Uber 的国际影响力。 收购报价为每股 33 欧元，Uber 已持有 Delivery Hero 部分股份，但报道未明确具体比例。该交易将帮助 Uber 在国际市场上更好地与 DoorDash 竞争。
 
-rss · NYTimes Politics · May 23, 00:21
+rss · Bloomberg Markets · May 23, 13:17
 
-**背景**: 该诉讼围绕特朗普政府时期设立的一项补偿基金展开，该基金旨在解决某些申诉，但批评者认为其设计是为了惠及政治盟友而非所有受影响方。无党派监督组织 Common Cause 挑战该基金的结构，认为其违反了平等保护原则。
+**背景**: Uber 是一家全球性的网约车和食品配送公司，而 Delivery Hero 是欧洲领先的食品配送平台。DoorDash 是美国食品配送市场的主要竞争对手，此次收购将增强 Uber 在美国以外地区的地位。
 
-**标签**: `#lawsuit`, `#Trump`, `#partisan targeting`, `#compensation`, `#accountability`
+**标签**: `#M&A`, `#food delivery`, `#Uber`, `#Delivery Hero`, `#competition`
 
 ---
 
 <a id="item-10"></a>
-## [马里兰州民主党推动消除最后一个共和党席位](https://www.nytimes.com/2026/05/22/us/politics/maryland-redistricting.html) ⭐️ 8.0/10
+## [特朗普 3711 笔交易揭示多种股票策略](https://www.bloomberg.com/news/videos/2026-05-23/trump-s-3-711-trades-point-to-multiple-strategies-video) ⭐️ 8.0/10
 
-马里兰州民主党正在推进一项宪法修正案，以重新划分国会选区，目标是在 2028 年前消除该州仅有的一个共和党席位。一位此前反对重新划分选区的州高级立法者现在支持这项修正案。 此举可能消除马里兰州最后一个共和党国会席位，影响全国众议院格局，并为党派重新划分选区的斗争树立先例。这是一个高影响力的政治发展，可能影响 2028 年选举周期的策略。 该修正案允许在 2028 年大选前重新划分选区，可能形成全民主党地图。鉴于该立法者此前反对中期重新划分选区，其立场转变值得注意。
+唐纳德·特朗普总统最新的财务披露显示其进行了 3711 笔交易，主要涉及受联邦政策影响的公司，表明可能采用了指数跟踪和自动化执行策略。 在任总统进行如此大规模的交易引发了严重的利益冲突和市场诚信担忧，因为许多公司的命运可能取决于联邦政策决策。 这些交易几乎全部涉及美国公司的股票，彭博新闻社报道称，这些交易中似乎体现了指数跟踪和自动化执行的特点。
 
-rss · NYTimes Politics · May 22, 22:34
+rss · Bloomberg Markets · May 23, 14:02
 
-**背景**: 党派杰利蝾螈（gerrymandering）是指通过绘制选举区边界来偏袒某一政党。马里兰州已高度倾向民主党，八个国会席位中仅有一个由共和党持有。在马里兰州，宪法修正案需要连续两届立法机构批准以及选民公投通过。
+**背景**: 指数跟踪是一种被动投资策略，旨在构建一个模仿市场基准（如标普 500 指数）表现的组合。自动化执行则利用计算机算法根据预设规则自动下单，减少人工干预。
 
-**标签**: `#redistricting`, `#gerrymandering`, `#Maryland politics`, `#congressional elections`, `#Democratic Party`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://portfoliooptimizationbook.com/slides/slides-index-tracking.pdf">PDF Portfolio Optimization - Index Tracking Portfolios</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1059056022000521">Risk measure index tracking model - ScienceDirect</a></li>
+<li><a href="https://fastercapital.com/content/Index-Tracking--On-the-Right-Track--How-Mutual-Funds-and-ETFs-Follow-Market-Indices.html">Index Tracking: On the Right Track: How Mutual Funds and ETFs Follow ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#ethics`, `#conflict of interest`, `#financial disclosure`, `#Trump`, `#market regulation`
 
 ---
 
 <a id="item-11"></a>
-## [法官驳回阿布雷戈·加西亚刑事案件](https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html) ⭐️ 8.0/10
+## [美国埃博拉援助较上次疫情骤降 99%](https://www.bloomberg.com/news/videos/2026-05-23/us-ebola-aid-plummets-99-since-last-outbreak-video) ⭐️ 8.0/10
 
-田纳西州一名联邦法官驳回了对萨尔瓦多移民基尔马·阿曼多·阿布雷戈·加西亚的人口走私指控，裁定美国政府提起此案是为了报复他反对驱逐出境的法律斗争。 这一驳回是对特朗普政府移民执法行动的重大司法谴责，因为阿布雷戈·加西亚曾被塑造成其驱逐出境运动的公众象征，该裁决削弱了政府的政策可信度。 法官认定这些指控具有报复性质，给特朗普政府带来了尴尬的法律挫折，后者曾利用阿布雷戈·加西亚的案件来象征其激进的驱逐运动。
+美国对埃博拉疫情的援助较上次暴发减少了 99%，专家将此归因于美国退出世界卫生组织（WHO）以及解散美国国际开发署（USAID），这严重削弱了刚果民主共和国的公共卫生应对能力。 资金的大幅削减削弱了全球疫情应对能力，尤其是在乌干达和刚果（金）出现新病例之际，增加了疫情扩散的风险。这一政策转变标志着美国在全球卫生安全领域的领导地位大幅后退。 前美国国际开发署（USAID）新冠工作组执行主任 Jeremy Konyndyk 指出，美国于 1 月退出 WHO 和解散 USAID 对公共卫生应对造成了负面影响。乌干达已确认三例新增埃博拉病例，包括一名卫生工作者和一名司机，均与该国首例已知感染有关。
 
-rss · NYTimes Politics · May 22, 21:47
+rss · Bloomberg Markets · May 23, 13:34
 
-**背景**: 基尔马·阿曼多·阿布雷戈·加西亚是一名萨尔瓦多移民，在特朗普政府的驱逐运动中成为象征性人物。针对他的刑事案件涉及人口走私指控，法院认定这些指控是为了报复他避免驱逐出境的法律努力。这一裁决凸显了行政移民执法与司法监督之间的紧张关系。
+**背景**: 埃博拉是一种严重且常致命的病毒性疾病，会引起出血热，并通过直接接触体液传播。美国历来是埃博拉应对的主要捐助国，通过 USAID 等机构以及与 WHO 的协调，提供资金、人员和后勤支持。当前刚果（金）及邻国乌干达的疫情再次引发了对全球防范能力的担忧。
 
-**标签**: `#immigration`, `#judicial`, `#Trump administration`, `#deportation`, `#legal`
+**标签**: `#public health`, `#Ebola`, `#USAID`, `#WHO`, `#US foreign policy`
 
 ---
 
 <a id="item-12"></a>
-## [斯图纳拉斯称欧央行或需加息以保信誉](https://www.bloomberg.com/news/articles/2026-05-23/ecb-hike-may-be-inevitable-to-keep-credibility-stournaras-says) ⭐️ 8.0/10
+## [美伊外交僵局持续](https://www.bloomberg.com/news/videos/2026-05-23/us-and-iran-remain-in-holding-pattern-video) ⭐️ 8.0/10
 
-欧洲央行管理委员会委员雅尼斯·斯图纳拉斯表示，下月加息可能是维持欧央行信誉的必要之举。这标志着一位关键政策制定者暗示货币政策可能转向。 这一表态意义重大，因为它来自一位重要的欧央行政策制定者，表明央行正倾向于收紧政策以应对通胀。加息将影响欧元区的借贷成本、经济增长和金融市场。 斯图纳拉斯特别指出，维护欧央行信誉是下月加息的有力论据。该声明由彭博社于 2026 年 5 月 23 日报道，由于斯图纳拉斯是管理委员会成员，其言论具有分量。
+彭博社报道称，美国和伊朗仍处于僵持状态，总统特朗普取消周末计划留在华盛顿特区，以应对持续的外交动态。 这一事态表明双方在关键地缘政治问题上进行高层接触，可能对全球市场、能源价格和中东安全产生潜在影响。 该报道基于彭博新闻社的视频片段，白宫记者凯特·沙利文在《彭博本周末》节目中讨论了伊朗问题的最新进展。
+
+rss · Bloomberg Markets · May 23, 12:25
+
+**背景**: 美伊关系数十年来一直紧张，争议涉及伊朗核计划、制裁和地区影响力。特朗普政府推行极限施压政策，而伊朗则以核进展作为回应。僵持状态表明既未取得突破也未出现升级，但积极的外交仍在进行。
+
+**标签**: `#geopolitics`, `#US-Iran relations`, `#foreign policy`, `#Middle East`
+
+---
+
+<a id="item-13"></a>
+## [战争驱动通胀导致全球工厂活动放缓](https://www.bloomberg.com/news/articles/2026-05-23/world-economy-latest-factory-activity-sags-on-war-driven-inflation) ⭐️ 8.0/10
+
+全球工厂活动正在下滑，因为战争引发的能源危机导致持续通胀已进入第三个月，预示着广泛的经济放缓。 这一趋势对央行政策、全球供应链和经济增长具有重大影响，因为持续的通胀和制造业放缓可能导致全球货币政策收紧和消费者需求下降。 报告强调，持续战争引发的能源危机是导致通胀持续和工厂活动下滑的主要因素，但现有内容未提供具体数据点。
+
+rss · Bloomberg Markets · May 23, 09:00
+
+**背景**: 通胀指商品和服务价格随时间普遍上涨，降低购买力。战争引发的能源危机发生在冲突扰乱能源供应（如石油和天然气）时，导致制造商和消费者成本上升。工厂活动是经济健康的关键指标，反映制造业的生产水平和需求。
+
+**标签**: `#global economy`, `#inflation`, `#manufacturing`, `#energy crisis`, `#macroeconomic risk`
+
+---
+
+<a id="item-14"></a>
+## [斯托纳拉斯称加息或不可避免以维护信誉](https://www.bloomberg.com/news/articles/2026-05-23/ecb-hike-may-be-inevitable-to-keep-credibility-stournaras-says) ⭐️ 8.0/10
+
+欧洲央行管理委员会成员雅尼斯·斯托纳拉斯表示，维护欧洲央行的信誉是支持下月加息的有力论据。 这一表态暗示欧洲央行可能加息，将直接影响欧元区货币政策、通胀预期和金融市场。信誉论据增加了加息的可能性，对投资者和政策制定者具有时效性。 斯托纳拉斯是管理委员会的关键成员，他的言论表明内部存在紧缩支持。加息的具体时间和幅度尚未明确，但下月的会议被强调为关键节点。
 
 rss · Bloomberg Markets · May 23, 08:24
 
-**背景**: 欧洲央行负责制定欧元区的货币政策，包括影响借贷成本和通胀的关键利率。信誉对央行至关重要，因为市场和公众依赖其对价格稳定的承诺。斯图纳拉斯的评论表明，未能对通胀采取行动可能会损害欧央行的声誉。
+**背景**: 欧洲央行负责制定欧元区货币政策，主要目标是控制通胀。信誉对央行至关重要，因为它影响市场预期和政策信号的有效性。加息是应对持续通胀的工具，但也可能拖累经济增长。
 
 **标签**: `#ECB`, `#monetary policy`, `#interest rates`, `#eurozone`, `#inflation`
 
 ---
 
-<a id="item-13"></a>
-## [2009 年以来最致命中国煤矿爆炸致至少 90 人死亡](https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast) ⭐️ 8.0/10
-
-中国山西省一处煤矿发生瓦斯爆炸，已造成至少 90 人死亡，成为自 2009 年以来中国最严重的此类事故。 这场灾难凸显了中国煤炭行业持续存在的安全隐患，该行业对全球能源市场和国内经济稳定至关重要，可能引发政府审查、潜在煤矿关闭，并影响煤炭供应动态。 爆炸发生在主要产煤区山西省，死亡人数已升至至少 90 人，目前尚无幸存者或逮捕报告。
-
-rss · Bloomberg Markets · May 23, 03:19
-
-**背景**: 由于安全标准松懈和非法作业，中国煤矿事故历史上频发。自 2009 年以来最严重的事故是 2009 年黑龙江瓦斯爆炸，造成 108 人死亡。此后中国实施了更严格的法规，但执行仍不一致，尤其是在小型煤矿中。
-
-**标签**: `#China`, `#coal mine disaster`, `#industrial safety`, `#energy policy`, `#Shanxi`
-
----
-
-<a id="item-14"></a>
-## [鲁比奥将会晤莫迪，聚焦能源与贸易](https://www.bloomberg.com/news/articles/2026-05-23/rubio-to-meet-india-s-modi-with-energy-trade-ties-in-focus) ⭐️ 8.0/10
-
-美国国务卿马可·鲁比奥将于周六与印度总理纳伦德拉·莫迪会晤，能源安全与贸易关系是主要议题。 此次高层会晤凸显了在伊朗冲突背景下美印关系的关键重要性——这场冲突导致油价飙升和供应中断，严重冲击了作为主要能源进口国的印度。 此次会晤正值印度因伊朗持续战争而面临油价飙升和供应中断之际，因此能源安全成为议程上的首要议题。
-
-rss · Bloomberg Markets · May 23, 06:49
-
-**背景**: 美国与印度建立了涵盖防务、贸易和能源合作的战略伙伴关系。印度是全球最大的石油进口国之一，而伊朗持续的冲突扰乱了全球石油市场，导致油价上涨，尤其影响了像印度这样依赖能源的国家。
-
-**标签**: `#geopolitics`, `#energy security`, `#US-India relations`, `#trade`, `#Iran conflict`
-
----
-
 <a id="item-15"></a>
-## [印尼计划绕过全球贸易巨头](https://www.bloomberg.com/news/articles/2026-05-23/indonesia-plans-to-beat-global-trading-giants-at-their-own-game) ⭐️ 8.0/10
+## [卢特尼克在爱泼斯坦作证前向众议院共和党捐款 500 万美元](https://www.nytimes.com/2026/05/22/us/politics/howard-lutnick-donation-house-republicans.html) ⭐️ 7.0/10
 
-印尼宣布计划建设自己的贸易基础设施，直接销售其大宗商品出口，绕过嘉能可和托克等全球贸易巨头。 此举可能重塑镍、煤炭和棕榈油等关键资源的全球供应链，使印尼能够获取更多价值并对定价施加更大控制。 该计划包括创建一个国有支持的交易平台和物流网络，以处理从矿山和种植园到国际买家的谈判、融资和原材料运输。
+商务部长霍华德·卢特尼克在同意就他与杰弗里·爱泼斯坦的关系作证后，向众议院共和党人捐赠了 500 万美元，引发了利益冲突的担忧。 这一时机引发了重大的伦理和治理问题，因为现任内阁部长可能影响将对他进行质询的议员，可能损害公众信任和政治问责。 这笔捐款是给众议院共和党人的，正是负责监督卢特尼克与杰弗里·爱泼斯坦关系证词的委员会成员。500 万美元的金额对于内阁官员的单笔捐款来说异常巨大。
 
-rss · Bloomberg Markets · May 23, 01:00
+rss · NYTimes Politics · May 23, 15:33
 
-**背景**: 印尼是全球最大的镍出口国，也是煤炭和棕榈油的主要供应国。历史上，其大宗商品出口由国际贸易公司处理，这些公司控制物流、融资和市场准入，占据了价值链的很大份额。
+**背景**: 霍华德·卢特尼克是美国商务部长，这是一个高级内阁职位。杰弗里·爱泼斯坦是一名已被定罪的性犯罪者，他的死亡及其关系网一直是持续调查和公众关注的焦点。关于爱泼斯坦关系的国会证词往往涉及有权势的人物，并引发关于影响力和问责的问题。
 
-**标签**: `#Indonesia`, `#commodities`, `#trade policy`, `#supply chains`, `#emerging markets`
+**标签**: `#politics`, `#ethics`, `#Congress`, `#donations`, `#Epstein`
 
 ---
 
 <a id="item-16"></a>
-## [英伟达单季风投支出 186 亿美元](https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories) ⭐️ 8.0/10
+## [匈牙利新总理警告前任留下预算“烂摊子”](https://www.bloomberg.com/news/articles/2026-05-23/hungary-s-new-premier-warns-predcessor-left-budget-skeletons) ⭐️ 7.0/10
 
-英伟达在一个季度内投入了 186 亿美元用于风险投资，这揭示出其资产负债表上一个庞大且快速增长的新资产类别。 这一投资热潮表明英伟达的未来与其 AI 初创合作伙伴的财务健康紧密相连，引发了关于 AI 生态系统市场集中度和系统性风险的担忧。 186 亿美元的数字代表仅三个月内的风险投资，突显了一家公司在企业风投支出上前所未有的速度。
+匈牙利新任总理彼得·马扎尔表示，前任政府留下的预算状况糟糕，导致无法对 2026 年经济增长做出明确预测，尽管他希望增长率能达到约 2%。 这预示着匈牙利（欧盟重要成员国）可能面临财政紧缩和政策不确定性，可能影响投资者信心、欧盟资金谈判以及更广泛的中欧经济前景。 马扎尔关于预算“烂摊子”的警告暗示存在隐藏的财政负债或支出承诺，可能需要采取纠正措施，从而限制政府刺激增长或达到欧盟赤字目标的能力。
 
-rss · MarketWatch Top Stories · May 22, 23:55
+rss · Bloomberg Markets · May 23, 19:17
 
-**背景**: 英伟达在 AI 芯片市场占据主导地位，尤其是用于训练和运行大型语言模型的 GPU。通过大量投资 AI 初创公司，英伟达不仅获得财务回报，还锁定了对其硬件的需求，形成了一个紧密整合的生态系统。
+**背景**: 匈牙利长期面临财政挑战，包括高公共债务以及欧盟因法治问题对其资金拨付的担忧。总理更迭往往带来经济政策调整，马扎尔早期的言论表明他将采取更为谨慎的财政管理方式。
 
-**标签**: `#Nvidia`, `#venture capital`, `#AI ecosystem`, `#market concentration`, `#antitrust`
+**标签**: `#Hungary`, `#fiscal policy`, `#European Union`, `#economic growth`, `#politics`
 
 ---
 
 <a id="item-17"></a>
-## [美国消费者信心指数创历史新低](https://www.marketwatch.com/story/consumer-sentiment-sinks-to-an-all-time-low-is-it-just-because-of-democrats-anger-at-trump-91efde1d?mod=mw_rss_topstories) ⭐️ 8.0/10
+## [SpaceX 星舰成功部署模拟卫星](https://www.bloomberg.com/news/videos/2026-05-23/spacex-starship-successfully-deploys-mock-satellites-video) ⭐️ 7.0/10
 
-一项长期追踪的美国消费者信心调查降至历史最低点，分析师正在争论这一下滑是否完全由民主党人对特朗普总统政策的不满所驱动。 消费者信心是影响支出和政策决策的关键经济指标；创纪录的低点可能预示着消费减少和更广泛的经济逆风，而党派视角则凸显了政治极化如何扭曲经济感知。 该调查达到了有史以来的最低水平，文章指出这一下降并非完全归因于民主党人对特朗普的愤怒，暗示经济基本面或更广泛的政治动态等其他因素可能也在起作用。
+SpaceX 升级版星舰在一次试飞中成功部署了模拟卫星，但其助推器在墨西哥湾上空解体。 这一里程碑展示了星舰向实用化卫星部署能力的进展，可能重塑商业发射市场并支持美国国家安全目标。 星舰上面级基本完好地返回地球，而超重型助推器失控并解体。此次测试涉及部署模拟卫星，表明向真实载荷任务迈出了重要一步。
 
-rss · MarketWatch Top Stories · May 22, 23:43
+rss · Bloomberg Markets · May 23, 12:52
 
-**背景**: 消费者信心调查衡量人们对经济乐观或悲观的程度，通常影响其消费行为。密歇根大学的消费者调查是最受关注的此类指标之一。政治归属会影响调查结果，因为党派人士可能在本党执政时对经济看法更积极。
+**背景**: 星舰是 SpaceX 为月球、火星及更远任务设计的完全可重复使用超重型运载火箭。此前试飞主要关注上升和着陆，而本次测试首次包含了载荷部署。
 
-**标签**: `#consumer sentiment`, `#economy`, `#politics`, `#Trump`, `#economic indicators`
+**标签**: `#space`, `#SpaceX`, `#commercial space`, `#technology`, `#national security`
 
 ---
 
 <a id="item-18"></a>
-## [霍尔木兹海峡关闭或引发 2008 式石油危机](https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories) ⭐️ 8.0/10
+## [孟加拉国央行推出 50 亿美元增长基金](https://www.bloomberg.com/news/articles/2026-05-23/bangladesh-central-bank-launches-5-billion-fund-to-spur-growth) ⭐️ 7.0/10
 
-一份新的商品市场警告指出，如果霍尔木兹海峡到 8 月底仍未重新开放，可能爆发类似 2008 年危机的严重石油供应中断。 霍尔木兹海峡是全球石油供应的关键咽喉要道，其长期关闭可能引发重大能源危机，对全球经济和地缘政治产生深远影响。 该警告将当前局势与 2008 年金融危机期间油价飙升的“火车失事”情景相类比，并指出当前情况虽仍属推测，但具有时效性。
+孟加拉国央行宣布了一项 6000 亿塔卡（约合 50 亿美元）的一揽子计划，旨在刺激经济增长、重振关闭的工厂并支持小企业。 这一重大刺激计划可能促进就业、稳定制造业，并为面临全球经济压力的发展中经济体的中小企业提供关键流动性。 该基金规模为 6000 亿塔卡（约合 50 亿美元），专门用于重振关闭的工厂和支持小企业，是孟加拉国更广泛经济复苏努力的一部分。
 
-rss · MarketWatch Top Stories · May 22, 23:15
+rss · Bloomberg Markets · May 23, 12:51
 
-**背景**: 霍尔木兹海峡是连接波斯湾与全球海洋的狭窄水道，每天约有全球五分之一的石油经此运输。历史上的中断事件，如 2026 年霍尔木兹海峡危机，曾造成自 1970 年代以来最严重的能源供应中断。2008 年金融危机期间油价在更广泛的经济崩溃中飙升，使其成为严重市场压力的参考点。
+**背景**: 孟加拉国近年来在服装业和侨汇的推动下经历了快速增长，但面临工厂关闭和全球经济逆风等挑战。央行刺激计划是在经济放缓期间注入流动性并鼓励贷款的常见政策工具。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">2026 Strait of Hormuz crisis - Wikipedia</a></li>
-<li><a href="https://apnews.com/article/strait-of-hormuz-shipping-oil-disruptions-2a8abe58648abd2d9c4785b4130bee0c">The Strait of Hormuz has a long history of disruption</a></li>
-<li><a href="https://www.reuters.com/graphics/IRAN-CRISIS/OIL-LNG/mopaokxlypa/">How the Strait of Hormuz closure affects global oil supply</a></li>
-
-</ul>
-</details>
-
-**标签**: `#geopolitics`, `#oil`, `#energy security`, `#Strait of Hormuz`, `#global economy`
+**标签**: `#Bangladesh`, `#central bank`, `#economic stimulus`, `#small business`, `#policy`
 
 ---
 
 <a id="item-19"></a>
-## [英国总检察长将审查青少年强奸案判决](https://www.bbc.com/news/articles/cwy2x7wxjego?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
+## [英伟达的芯片无法解决大型科技公司的信贷和电网危机](https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-英国总检察长宣布将对三名青少年因强奸两名女孩而被判处的非监禁刑罚进行审查，此前公众对判决的宽大处理表示强烈不满。 此次审查引发了关于英国司法裁量权和量刑政策的关键问题，可能确立法律先例并影响公众对司法系统的信任。它也凸显了关于严重犯罪中青少年应如何惩处的持续辩论。 三名青少年因参与强奸两名女孩而未获监禁刑罚，这一决定引发了广泛批评。总检察长的审查将评估这些判决是否过于宽大，以及是否应提交上诉法院重审。
+MarketWatch 的一篇分析文章指出，英伟达供应 AI 芯片的能力无法解决大型科技公司面临的更广泛挑战，包括与中国的混乱贸易战、不断上升的信贷溢价以及 AI 基础设施的电网容量限制。 这凸显了即使芯片供应充足，AI 热潮也面临来自贸易紧张、金融市场和能源基础设施的结构性制约，这可能会减缓 AI 的采用并影响整个科技生态系统。 文章强调，仅靠企业利润无法克服与中国的贸易战、不断攀升的信贷溢价以及 AI 数据中心的电网限制所带来的综合压力。
 
-rss · BBC Politics · May 23, 07:23
+rss · MarketWatch Top Stories · May 23, 18:17
 
-**背景**: 在英国，总检察长有权审查可能过于宽大的判决，并将其提交上诉法院重新考虑。对于强奸等严重犯罪，非监禁刑罚很少见且常引发争议，尤其是涉及未成年人的案件。此案引发了人们对青少年司法中改造与惩罚之间平衡的关注。
+**背景**: 微软、谷歌和亚马逊等大型科技公司正在大力投资 AI 基础设施，这需要大量的能源和资本。中美贸易战扰乱了供应链并增加了成本，而利率上升使得借贷更加昂贵。此外，许多地区的电网难以满足 AI 数据中心激增的电力需求。
 
-**标签**: `#UK politics`, `#criminal justice`, `#sentencing policy`, `#legal reform`
+**标签**: `#AI infrastructure`, `#trade war`, `#credit markets`, `#energy grid`, `#Big Tech`
 
 ---
 
 <a id="item-20"></a>
-## [美国将扩大埃博拉入境禁令至合法永久居民](https://www.nytimes.com/2026/05/22/us/politics/trump-cdc-noncitizens-ebola.html) ⭐️ 7.0/10
+## [凯文·沃什面临美联储降息受限的陷阱](https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-特朗普政府宣布计划扩大入境禁令，将曾到过刚果民主共和国、乌干达或南苏丹的合法永久居民纳入限制范围，理由是潜在的埃博拉病毒暴露风险。 这一政策转变基于健康问题针对合法永久居民，标志着移民限制的显著升级，并引发了公共卫生与公民自由之间的权衡问题。 该禁令特别适用于曾到过刚果民主共和国、乌干达或南苏丹的人员，这些地区目前正受埃博拉疫情影响。此前，合法永久居民不受此类入境限制。
+美联储主席潜在提名人凯文·沃什可能面临限制，即使经济条件允许，美联储也无法降息。 这种情况可能严重影响美国货币政策和金融市场，因为无法降息的美联储主席可能延长经济衰退或限制对危机的应对能力。 文章指出，沃什的提名正值美国经济的关键时刻，迫使他无法成为期望中的颠覆者，但未详细说明具体限制。
 
-rss · NYTimes Politics · May 22, 23:01
+rss · MarketWatch Top Stories · May 23, 18:13
 
-**背景**: 埃博拉是一种死亡率高的严重病毒性疾病，常在中非和西非暴发疫情。美国此前曾对来自受影响地区的非公民实施入境限制，以防止病毒传入，但合法永久居民通常被豁免。
+**背景**: 美联储在经济放缓时使用降息作为刺激经济的关键工具。美联储主席通常对货币政策决策有重大影响，但通胀或政治压力等外部因素可能限制其行动能力。
 
-**标签**: `#immigration`, `#public health`, `#Trump administration`, `#Ebola`, `#policy`
+**标签**: `#Federal Reserve`, `#monetary policy`, `#interest rates`, `#Kevin Warsh`, `#economic policy`
 
 ---
 
 <a id="item-21"></a>
-## [印度八天内第三次上调燃油价格](https://www.bloomberg.com/news/articles/2026-05-23/india-raises-diesel-gasoline-prices-for-third-time-in-eight-days) ⭐️ 7.0/10
+## [信贷白蚁对债券投资组合的威胁比蟑螂更严重](https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-周六，印度国有炼油厂再次上调柴油和汽油零售价格，这是八天内的第三次涨价，旨在减少折扣销售带来的亏损并抑制需求。 这一系列快速涨价标志着印度燃油定价策略的明确转变，可能影响这一主要新兴经济体的通胀、财政赤字和能源市场动态。 此次涨价适用于柴油和汽油，由国有炼油厂实施，旨在帮助加工商减少亏损并控制需求激增。
+萨蒂亚吉特·达斯警告称，不透明的人工智能贷款和过度杠杆等“信贷白蚁”对债券投资组合的威胁比杰米·戴蒙所说的“蟑螂”等传统信贷风险更大。 这一警告突显了一种系统性风险，可能侵蚀债券投资组合的价值，影响投资者和更广泛的经济。它强调了在信贷市场中加强透明度和监管的必要性。 “信贷白蚁”这个比喻指的是不透明的人工智能驱动贷款和高杠杆带来的隐蔽、渐进的损害，这些损害难以察觉，直到为时已晚。这与杰米·戴蒙的“蟑螂”形成对比，后者代表更显眼的传统信贷风险。
 
-rss · Bloomberg Markets · May 23, 01:30
+rss · MarketWatch Top Stories · May 23, 17:58
 
-**背景**: 印度是原油的主要消费国，其燃油价格深受全球油价和政府政策影响。国有炼油厂常以折扣价销售燃油以控制国内通胀，但当全球油价上涨时，这可能导致巨额亏损。
-
-**标签**: `#India`, `#fuel prices`, `#energy policy`, `#inflation`, `#emerging markets`
-
----
-
-<a id="item-22"></a>
-## [新西兰投资 16 亿纽元用于无人机海上安保](https://www.bloomberg.com/news/articles/2026-05-23/new-zealand-to-invest-in-drones-fleet-to-shield-maritime-routes) ⭐️ 7.0/10
-
-新西兰宣布计划投入约 16 亿纽元（合 9.36 亿美元），用于无人机、舰船维护及海军升级，以在供应链路线担忧加剧之际加强海上安全。 这一重大防务投资表明新西兰更加重视保护对其经济至关重要的海上贸易路线，也反映出印太地区对地缘政治稳定的广泛担忧。 这项 16 亿纽元的计划涵盖无人机采购、海军舰艇维护及其他海军能力升级，但具体无人机型号和时间表尚未公布。
-
-rss · Bloomberg Markets · May 23, 00:35
-
-**背景**: 新西兰是一个岛国，严重依赖海上贸易进行进出口。随着全球围绕领土争端和供应链安全的紧张局势加剧，保护海上航道已成为许多国家日益优先的事项。
-
-**标签**: `#defense`, `#geopolitics`, `#maritime security`, `#New Zealand`, `#defense spending`
-
----
-
-<a id="item-23"></a>
-## [福斯特谈西方为何难以推进大型项目](https://www.bloomberg.com/news/articles/2026-05-23/architect-norman-foster-on-why-the-west-struggles-to-build-big) ⭐️ 6.0/10
-
-在彭博社的一次采访中，著名建筑师诺曼·福斯特解释了为何西方国家在执行大型工程和设计项目方面，相比其他地区面临越来越大的困难。 这一分析揭示了可能阻碍西方基础设施和城市发展的结构性及文化障碍，为政策制定者和行业领袖提供了有价值的背景。 福斯特指出，监管复杂性、风险规避和决策碎片化是关键障碍，这与世界其他地区更精简的做法形成对比。
-
-rss · Bloomberg Markets · May 23, 08:00
-
-**背景**: 诺曼·福斯特是一位全球影响力的建筑师，以伦敦“小黄瓜”和苹果公园等大型项目闻名。他的评论反映了一个日益激烈的辩论：为何西方国家在交付重大基础设施和建筑作品方面落后，尽管它们历史上曾处于领先地位。
-
-**标签**: `#infrastructure`, `#urban development`, `#public policy`, `#engineering`
-
----
-
-<a id="item-24"></a>
-## [Equatorial 可能放弃 Copasa 私有化竞标](https://www.bloomberg.com/news/articles/2026-05-22/equatorial-eqtl3-leans-against-bidding-on-copasa-csmg3-privatization) ⭐️ 6.0/10
-
-据知情人士透露，Equatorial SA 不太可能竞购巴西米纳斯吉拉斯州政府正在私有化的水务公司 Copasa 的关键股份。 一家主要潜在竞标者的退出可能削弱竞争并减少 Copasa 私有化的预期收益，这预示着巴西州级基础设施剥离计划可能面临挑战。 Equatorial 是巴西主要的能源和基础设施集团；其不参与竞标的决定可能使 Copasa 股份的合格竞标者减少，从而可能影响私有化进程和估值。
-
-rss · Bloomberg Markets · May 22, 22:10
-
-**背景**: Copasa 是巴西最大州之一米纳斯吉拉斯州的水务和污水处理公司。州政府一直通过私有化来筹集资金并提高服务效率。Equatorial 的潜在参与曾被视为投资者对该交易信心的强烈信号。
-
-**标签**: `#privatization`, `#Brazil`, `#infrastructure`, `#water utility`, `#investment`
-
----
-
-<a id="item-25"></a>
-## [阵亡将士纪念日前夕，杂货店受燃油和劳动力成本挤压](https://www.bloomberg.com/news/videos/2026-05-22/stores-feel-crunch-of-costs-ahead-of-memorial-day-video) ⭐️ 6.0/10
-
-Stew Leonard's 的总裁兼首席执行官 Stew Leonard Jr. 表示，顾客仍在为阵亡将士纪念日购买食品，但抱怨感受到经济压力，而商店的劳动力成本仍然很高，预计将持续居高不下。 这凸显了高燃油和劳动力成本对消费者和零售商持续造成的压力，反映了更广泛的通胀趋势，可能会抑制消费者支出，并在重大节日期间影响零售业。 Leonard 认为，一旦中东冲突得到解决，燃油价格最终可能会下降，但商店的劳动力成本仍将居高不下，这使得难以阻止对顾客涨价。
-
-rss · Bloomberg Markets · May 22, 21:40
-
-**背景**: 阵亡将士纪念日是美国的一个重要节日，传统上标志着夏季的开始和杂货销售的高峰期。高燃油价格增加了消费者和零售商的运输成本，而劳动力市场紧张和工资通胀导致的劳动力成本上升，直接影响了杂货店的利润和定价。
-
-**标签**: `#inflation`, `#retail`, `#labor costs`, `#fuel prices`, `#consumer sentiment`
-
----
-
-<a id="item-26"></a>
-## [房主询问 NAR 裁决后中介费是否低于 6%](https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories) ⭐️ 6.0/10
-
-一位出售价值 100 万美元房产的房主询问，在 NAR 和解协议将买方和卖方中介费分离后，房地产中介是否会收取低于传统 6%的佣金。 这个问题反映了 NAR 和解协议的现实影响，该协议可能导致更竞争的佣金率和更低的购房卖房成本，重塑房地产市场。 NAR 和解协议自 2024 年 8 月 17 日起生效，取消了卖方必须同时支付自己中介和买方中介佣金的要求，允许单独谈判，从而可能降低总佣金。
-
-rss · MarketWatch Top Stories · May 22, 21:45
-
-**背景**: 传统上，在美国房地产交易中，卖方支付约 5-6%的总佣金，由卖方中介和买方中介分摊。NAR 和解协议源于反垄断诉讼，通过分离佣金结束了这一做法，意味着卖方不再需要向买方中介提供报酬。这一变化让买卖双方有更多灵活性单独谈判费用，可能降低成本。
+**背景**: 信贷市场涉及通过债券和其他债务工具进行借贷。摩根大通首席执行官杰米·戴蒙此前曾警告过“信贷市场蟑螂”——这些是小型、有韧性的风险，能够经受住干扰。萨蒂亚吉特·达斯是一位备受尊敬的作家和风险管理专家，以其对金融衍生品和系统性风险的批判性观点而闻名。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.apslaw.com/its-your-business/2024/12/02/the-future-of-realtor-commissions-understanding-the-nar-settlement/">The Future of Realtor Commissions: Understanding the NAR Settlement | It’s Your Business</a></li>
-<li><a href="https://www.federalreserve.gov/econres/notes/feds-notes/commissions-and-omissions-trends-in-real-estate-broker-compensation-20250512.html">The Fed - Commissions and Omissions: Trends in Real Estate Broker Compensation</a></li>
-<li><a href="https://legalclarity.org/how-does-realtor-commission-work-after-nar-settlement/">How Does Realtor Commission Work After NAR Settlement ?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Satyajit_Das">Satyajit Das - Wikipedia</a></li>
+<li><a href="https://www.ccn.com/opinion/technology/open-finance-opaque-ai-models/">Open Finance Cannot Be Built on Opaque AI Models</a></li>
 
 </ul>
 </details>
 
-**标签**: `#real estate`, `#commissions`, `#NAR ruling`, `#housing market`, `#consumer finance`
+**标签**: `#credit markets`, `#systemic risk`, `#AI loans`, `#leverage`, `#bond portfolio`
+
+---
+
+<a id="item-22"></a>
+## [米尔本：英国在青年福利上的支出超过就业](https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+
+前工党部长艾伦·米尔本批评英国政府在青年福利上的支出超过帮助他们就业的项目，呼吁进行福利改革。 这一批评突显了英国关于福利支出是否有效支持青年就业或造成依赖的关键政策辩论，可能影响未来的政府改革。 米尔本特别指出大量青年未就业或未受教育，认为现行系统优先考虑福利而非创造就业。
+
+rss · BBC Politics · May 23, 12:00
+
+**背景**: 青年失业和福利支出是英国政治中长期存在的问题。艾伦·米尔本是前工党卫生大臣，经常就社会流动性和福利改革发表言论。
+
+**标签**: `#UK politics`, `#welfare reform`, `#youth unemployment`, `#public policy`
+
+---
+
+<a id="item-23"></a>
+## [英国改革党提议取消加班税](https://www.bbc.com/news/articles/cn7p1ee447xo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+
+英国改革党提议取消加班收入的所得税，估计该政策每年将耗资 50 亿英镑，并通过削减福利支出来弥补。 该提案可能通过激励额外工作同时减少对失业者的政府支持，重塑英国的税收与福利辩论，并可能影响更广泛的财政政策讨论。 每年 50 亿英镑的成本是一个具体估算，该政策需要大幅削减福利支出以保持收入中性，但尚未提供哪些福利项目将被削减的详细说明。
+
+rss · BBC Politics · May 23, 19:29
+
+**背景**: 英国改革党是一个英国小政党，主张降低税收和缩小政府规模。取消加班税是其改革税收体系和减少福利国家更广泛纲领的一部分。
+
+**标签**: `#UK politics`, `#tax policy`, `#fiscal policy`, `#Reform UK`
+
+---
+
+<a id="item-24"></a>
+## [无现金社会中美元的未来受热议](https://www.bloomberg.com/news/videos/2026-05-23/will-the-dollar-remain-king-in-a-cashless-society-video) ⭐️ 6.0/10
+
+《全能美元：世界最强势货币的 500 年》作者布伦丹·格里利在彭博《本周末》节目中讨论了美元的历史主导地位及其在未来无现金全球经济中的潜在角色。 这一讨论意义重大，因为美元作为世界主要储备货币的地位支撑着全球贸易、金融和政策，而向无现金社会的转变可能挑战或强化这一主导地位。 此次访谈是为格里利的新书所做的宣传环节，该书追溯了美元 500 年的历史，而非就该话题提供突发新闻或新数据。
+
+rss · Bloomberg Markets · May 23, 13:54
+
+**背景**: 美元几十年来一直是世界主要储备货币，用于国际贸易、央行储备和全球金融市场。无现金社会是指交易以数字方式进行而非使用实体纸币或硬币的经济形态，这可能改变货币的使用和估值方式。
+
+**标签**: `#dollar`, `#reserve currency`, `#cashless society`, `#global finance`, `#Bloomberg`
+
+---
+
+<a id="item-25"></a>
+## [日中外长在 APEC 会议期间会面，台湾问题引发关注](https://www.bloomberg.com/news/videos/2026-05-23/japan-s-akazawa-has-brief-talk-with-china-s-wang-at-apec-video) ⭐️ 6.0/10
+
+日本经济产业大臣赤泽亮一与中国商务部部长王文涛周五在中国苏州举行的 APEC 晚宴上进行了简短会面，这是自日本首相高市早苗就台湾问题发表言论导致关系紧张以来，两国部长首次面对面交流。 此次会面表明，在因台湾问题导致关系紧张后，日中两国可能寻求外交缓和，这有望为改善双边贸易和地区稳定铺平道路。作为争议以来最高级别的直接接触，此次会面为重建信任提供了机会。 赤泽亮一在记者会上确认了此次会面，但拒绝透露讨论内容，使得对话的具体议题不明。会谈时间简短且细节未公开，降低了其即时可操作的影响。
+
+rss · Bloomberg Markets · May 23, 11:52
+
+**背景**: 自日本首相高市早苗发表被视为支持台湾的言论以来，日中关系一直紧张，而中国视台湾为其分离的省份。APEC 论坛作为一个区域经济合作平台，为两国提供了非正式对话的机会。两国的贸易部长在管理经济关系方面扮演关键角色，这对双方经济都至关重要。
+
+**标签**: `#Japan-China relations`, `#diplomacy`, `#APEC`, `#trade`, `#geopolitics`
+
+---
+
+<a id="item-26"></a>
+## [照顾年迈父母可能导致离婚](https://www.marketwatch.com/story/the-surprising-cost-of-caring-for-aging-parents-divorce-2ff83fce?mod=mw_rss_topstories) ⭐️ 6.0/10
+
+MarketWatch 的一篇文章指出，照顾年迈父母所带来的心理健康和经济压力可能会增加照顾者离婚的风险。 这很重要，因为养老是一个影响数百万家庭且日益严重的社会经济问题，了解其隐性成本（包括婚姻压力）有助于照顾者寻求支持，并帮助政策制定者设计更好的干预措施。 文章指出，即使是牢固的婚姻也可能因养老相关的心理健康挑战和经济负担而承受压力。
+
+rss · MarketWatch Top Stories · May 23, 17:44
+
+**背景**: 照顾年迈父母通常需要投入大量时间、情感精力以及自付费用，这可能导致照顾者倦怠和经济困难。这些压力源可能侵蚀夫妻间的沟通和亲密关系，从而增加离婚的可能性。
+
+**标签**: `#elder care`, `#family finance`, `#mental health`, `#divorce`, `#social trends`
+
+---
+
+<a id="item-27"></a>
+## [巴菲特指标警告股市估值过高](https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories) ⭐️ 6.0/10
+
+MarketWatch 的一篇文章警告称，衡量美国股市总市值与 GDP 之比的巴菲特指标已达到“畸形的”230%估值缺口，表明股票估值过高，市场可能即将下跌。 这之所以重要，是因为巴菲特指标是历史上可靠的市场估值指标，其极端水平表明投资者面临更高风险，若市场回调可能对更广泛的经济产生影响。 文章列出了除巴菲特指标外的八个市场脆弱性关键信号，包括迫在眉睫的能源危机，但并未提供新数据或具体触发事件。
+
+rss · MarketWatch Top Stories · May 23, 15:33
+
+**背景**: 巴菲特指标，又称市值与 GDP 之比，是由沃伦·巴菲特推广的估值倍数。它将美国所有公开交易股票的总价值与该国的国内生产总值进行比较。历史上，该比率超过 100%表明估值过高，接近 200%的水平曾预示重大市场下跌。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Buffett_indicator">Buffett indicator - Wikipedia</a></li>
+<li><a href="https://www.thestreet.com/dictionary/buffett-indicator">What Is the Buffett Indicator ? Definition , Calculation ... - TheStreet</a></li>
+
+</ul>
+</details>
+
+**标签**: `#stock market`, `#valuation`, `#Buffett Indicator`, `#market risk`, `#investing`
 
 ---
 
 ## 科技
 
-<a id="item-27"></a>
-## [Anthropic 的 Project Glasswing：AI 发现逾万高危漏洞](https://www.anthropic.com/research/glasswing-initial-update) ⭐️ 9.0/10
-
-Anthropic 公布了 Project Glasswing 的初期成果，其 Claude Mythos Preview 模型在一个月内自主发现了关键软件中的逾万个高危严重漏洞，经审查的漏洞中 90.6% 为真阳性。 这一突破将网络安全的瓶颈从漏洞发现转移到补丁修复，因为 AI 的速度（比人类快 10 倍）压倒了当前人力驱动的验证和修复能力，迫使行业重新思考补丁周期。 该模型扫描了数千个开源项目，识别出 6202 个高危漏洞，Cloudflare 等合作伙伴报告发现速率提高了十倍；然而，开源维护者因补丁资源有限已请求放缓漏洞报告速度。
-
-telegram · zaihuapd · May 23, 03:16
-
-**背景**: Project Glasswing 是 Anthropic 的一项合作网络安全计划，利用先进 AI 在攻击者利用之前发现关键基础设施软件中的零日漏洞。Claude Mythos Preview 是 Anthropic 的通用前沿语言模型，最初仅向有限合作伙伴和开源开发者开放。该项目旨在通过保护基础互联网和基础设施软件来降低数十亿最终用户的风险。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.anthropic.com/research/glasswing-initial-update">Project Glasswing: An initial update \ Anthropic</a></li>
-<li><a href="https://cybersecuritynews.com/anthropics-claude-mythos-preview-0-days/">Anthropic's Claude Mythos Preview Uncovers 10,000+ 0-Days in ...</a></li>
-<li><a href="https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html">Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#cybersecurity`, `#vulnerability discovery`, `#Anthropic`, `#software engineering`
-
----
-
 <a id="item-28"></a>
-## [苹果开源 corecrypto，附量子安全算法形式化验证证明](https://security.apple.com/blog/formal-verification-corecrypto/) ⭐️ 9.0/10
+## [海盗船采用长鑫存储芯片，DDR5 价格或下调](https://thenextweb.com/news/chinese-dram-cxmt-corsair-ddr5-memory-prices) ⭐️ 8.0/10
 
-5 月 22 日，苹果发布了 corecrypto 的源代码，其中包括量子安全算法 ML-KEM 和 ML-DSA 的实现，并首次提供了端到端的形式化验证数学证明，确保 C 代码和 ARM64 汇编与 NIST 标准严格一致。 这是一个重要的里程碑，因为 corecrypto 为超过 25 亿台活跃苹果设备提供加密运算，而形式化证明为 iMessage 和 VPN 中部署的量子安全保护提供了前所未有的正确性保证，为行业树立了软件保障的新标准。 苹果还公开了定制验证工具和 Isabelle 理论库供独立专家评估，形式化验证覆盖了 ML-KEM 和 ML-DSA 的 C 代码和手工优化的 ARM64 汇编实现。
+美商海盗船（Corsair）已开始在其 DDR5 内存模组中使用中国长鑫存储（CXMT）的芯片，采用该芯片的 6000 MT/s 产品已上市。 这一转变使 DRAM 供应链更加多元化，并可能降低消费级 DDR5 价格，因为 AI 对高带宽内存的需求导致三星、SK 海力士和美光等传统巨头的供应紧张。 基于长鑫存储芯片的 DDR5 模组性能规格与国际主流产品一致，长鑫存储在 2026 年第一季度实现业绩爆发，并计划于年内上市。
 
-telegram · zaihuapd · May 23, 04:49
+telegram · zaihuapd · May 23, 11:17
 
-**背景**: ML-KEM（基于模块格的关键封装机制，原名 Kyber）和 ML-DSA（基于模块格的数字签名算法）是 NIST 于 2024 年 8 月最终确定的抗量子密码标准，旨在抵御未来量子计算机的攻击。形式化验证使用像 Isabelle 这样的定理证明器，从数学上证明代码按照其规范正确运行，提供比传统测试更强的保证。苹果的 corecrypto 库是 iOS、macOS 及其他苹果平台底层使用的加密引擎。
+**背景**: DRAM（动态随机存取存储器）是电脑和服务器中使用的一种内存。DDR5 是最新一代，提供更高的速度和效率。长鑫存储是目前中国大陆唯一具备通用型 DRAM 大规模量产能力的企业。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ML-KEM">ML-KEM - Wikipedia</a></li>
-<li><a href="https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards">NIST Releases First 3 Finalized Post-Quantum Encryption ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Isabelle_(proof_assistant)">Isabelle (proof assistant) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ChangXin_Memory_Technologies">ChangXin Memory Technologies - Wikipedia</a></li>
+<li><a href="https://zh.wikipedia.org/zh-cn/长鑫存储">长鑫存储 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/4243962956">2026年5月 DDR5高性价比内存推荐（6000MT/s及以上频率）</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cryptography`, `#quantum-safe`, `#formal verification`, `#open source`, `#Apple`
+**标签**: `#DDR5`, `#DRAM`, `#Corsair`, `#CXMT`, `#memory-pricing`
 
 ---
 
 <a id="item-29"></a>
-## [微软财报披露 OpenAI 季度巨亏 1150 亿美元](https://t.me/zaihuapd/41537) ⭐️ 9.0/10
+## [我国日均词元调用量两年增超千倍，突破 140 万亿](https://t.me/zaihuapd/41542) ⭐️ 8.0/10
 
-微软最新财报意外披露，根据其权益法投资计算，OpenAI 单季度净亏损约 1150 亿美元。 这一披露凸显了前沿 AI 开发的极高资本消耗，引发了对领先 AI 实验室财务可持续性以及整个行业依赖大规模持续融资的严重质疑。 微软持有 OpenAI 约 27%股权，其权益法投资导致净利润减少 31 亿美元，据此推算 OpenAI 季度亏损约 1150 亿美元。若按税前损失和实际持股比例 32.5%计算，亏损可能超过 1200 亿美元。
+国家数据局披露，我国日均词元（Token）调用量已在 2025 年 3 月突破 140 万亿，较 2024 年初的 1000 亿增长超千倍。 这一里程碑标志着中国人工智能产业的快速商业化以及数据市场的成熟，围绕词元的价值体系正成为 AI 服务变现的关键路径。 词元调用量从 2024 年初的 1000 亿升至 2025 年底的 100 万亿，再到 2025 年 3 月的 140 万亿，增速持续加快。词元是大模型处理信息的最小单元，具有可计量、可定价、可交易的特征。
 
-telegram · zaihuapd · May 23, 07:40
+telegram · zaihuapd · May 23, 14:36
 
-**背景**: 权益法要求投资者在被投资企业发生利润或亏损时即确认投资收益，而不必等到实际分红。微软已向 OpenAI 承诺投资 130 亿美元，目前已投入 116 亿美元。此次亏损规模是 OpenAI 今年上半年 43 亿美元营收的近三倍，凸显了 AI 领域的巨大烧钱速度。
+**背景**: 词元是大语言模型处理文本的基本单元，通常代表单词或子词。国家数据局于 2023 年成立，负责推进数据要素市场化配置改革，旨在为人工智能构建高质量数据供给体系。词元调用量的激增反映了 AI 推理和应用服务需求的快速增长。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://wiki.mbalib.com/wiki/权益法">权益法 - MBA智库百科</a></li>
-<li><a href="https://baike.baidu.com/item/长期股权投资权益法/9073814">长期股权投资权益法_百度百科</a></li>
-<li><a href="https://www.chinaacc.com/zhongjizhicheng/jhwd/zy20240205142713.shtml">权益法下的投资收益如何计算？-正保会计网校</a></li>
+<li><a href="https://developer.aliyun.com/article/1733966">Token 到底是什么？ 搞懂这个“AI...”</a></li>
+<li><a href="https://gptpmt.com/preface/basics_token">什么是 Tokens ？ | GPTPMT</a></li>
+<li><a href="https://www.gov.cn/zhengce/zhengceku/202501/content_6998194.htm">gov.cn/zhengce/zhengceku/202501/content_6998194.htm</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OpenAI`, `#Microsoft`, `#AI economics`, `#financial disclosure`, `#investment`
+**标签**: `#AI`, `#China`, `#tokenomics`, `#data market`, `#infrastructure`
 
 ---
 
 <a id="item-30"></a>
-## [内存短缺推高消费电子产品价格](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) ⭐️ 8.0/10
+## [SpaceX 星舰 V3 首飞基本成功](https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/) ⭐️ 7.0/10
 
-由人工智能对高带宽内存（HBM）的激增需求驱动的全球内存短缺，正在将晶圆产能从 DDR 和 LPDDR 生产中重新分配，导致智能手机和个人电脑等消费电子产品成本上升。预计到 2026 年底，HBM 的晶圆分配将从 2%增至 20%，且每 GB HBM 消耗的晶圆容量是 DDR 或 LPDDR 的三倍以上。 这一结构性转变意味着消费设备，尤其是新兴市场中至关重要的百元以下智能手机，将在未来几年内显著涨价。这凸显了 AI 基础设施投资如何直接影响日常技术的可负担性，影响全球数十亿用户。 内存制造商——仅剩三家主要公司——已学会优先供应高利润的 AI 用 HBM 而非消费级 RAM，并倾向于产能不足而非过剩。根据 2026 年科尔尼分析，短缺预计至少持续到 2030 年，且 HBM 与 DDR5 晶圆产能的转换比为 3 比 1。
+SpaceX 于 2026 年 5 月 21 日发射了首枚星舰 V3，飞行基本成功，但仍需展示轨道能力。 此次试飞是开发全球最大、最强大的可重复使用火箭的重要一步，对降低太空进入成本和实现深空任务具有深远影响。 星舰 V3 高 408 英尺（124 米），比 V2 高出约 5 英尺，结构升级，有效载荷和推进剂容量更大。
 
-rss · Simon Willison · May 22, 22:01
+rss · Ars Technica · May 23, 17:54
 
-**背景**: 内存芯片在硅晶圆上制造，三大 DRAM 制造商（三星、SK 海力士、美光）拥有固定的晶圆处理能力。HBM 是一种高性能内存，通过垂直堆叠 DRAM 芯片用于 AI 数据中心中的 GPU，而 DDR 和 LPDDR 分别用于个人电脑和移动设备。AI 热潮大幅增加了对 HBM 的需求，迫使制造商将晶圆产能从通用内存转移。
+**背景**: 星舰是 SpaceX 的全可重复使用超重型运载火箭，旨在将人员和货物送往地球轨道、月球、火星及更远。V3 版本是此前试飞经验基础上的最新重大升级。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/HBM_memory_shortage">HBM memory shortage</a></li>
-<li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://semiwiki.com/wikis/semiconductor-ip-wikis/ddr-vs-lpddr-vs-hbm-wiki/">DDR vs . LPDDR vs . HBM Wiki - SemiWiki</a></li>
+<li><a href="https://payloadspace.com/what-to-expect-from-starship-v3/">What to Expect from Starship V3</a></li>
+<li><a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-its-1st-ever-starship-v3-megarocket-today-the-stakes-couldnt-be-higher">SpaceX will launch its 1st-ever Starship V3 megarocket on May 21. The stakes couldn't be higher | Space</a></li>
 
 </ul>
 </details>
 
-**标签**: `#memory`, `#AI`, `#hardware`, `#consumer electronics`, `#supply chain`
+**标签**: `#space`, `#SpaceX`, `#Starship`, `#rocket`, `#engineering`
 
 ---
 
 <a id="item-31"></a>
-## [俄罗斯卫星在轨道上尾随 ICEYE 雷达卫星](https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/) ⭐️ 8.0/10
+## [谷歌 Gemini Omni：任意输入到任意输出的 AI 模型可生成深度伪造视频](https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video) ⭐️ 7.0/10
 
-四颗俄罗斯卫星已机动至距离芬兰 ICEYE 雷达卫星危险近的位置，该公司向乌克兰提供合成孔径雷达（SAR）图像，引发了对潜在干扰或攻击的担忧。 这一事件凸显了商业卫星运营面临的新型威胁，并强调了太空日益军事化的趋势——俄罗斯展示了先进的交会与接近操作（RPO）能力，这些能力可能被用于间谍活动或反卫星作战。 涉及的俄罗斯卫星包括 COSMOS 2581、2582、2583 以及一颗名为 Object F 的子卫星，它们此前曾执行过彼此相距不到 10 英尺的复杂接近机动。ICEYE 卫星属于全球最大的合成孔径雷达星座，能够生成分辨率高达 25 厘米的雷达图像。
+一位记者使用谷歌的 Gemini Omni 模型进行实验，通过图像和文本提示生成了一个毛绒玩具的深度伪造视频，展示了该模型的多模态生成能力。这一实际测试体现了谷歌 DeepMind 正式推出的 Gemini Omni 的多模态生成功能。 Gemini Omni 代表了多模态 AI 的重大飞跃，能够在文本、图像、音频和视频之间无缝生成和编辑。这可能使视频创作普及到普通用户，同时也引发了关于深度伪造滥用的重要伦理问题。 该模型可同时接受图像、音频和文本等混合输入，并支持跨多轮对话的持续性上下文视频编辑。记者制作了一个名为 Buddy 的毛绒鹿在度假的视频，模仿了谷歌之前的广告，但从未向孩子展示这些视频。
 
-rss · Ars Technica · May 22, 22:50
+rss · The Verge · May 23, 11:00
 
-**背景**: ICEYE 运营着全球最大的合成孔径雷达（SAR）卫星星座，可全天候、穿透云层提供高分辨率图像。俄罗斯近年来在低地球轨道上频繁执行复杂的交会与接近操作（RPO），专家警告这些操作可能用于拦截通信甚至摧毁敌方卫星。俄罗斯卫星靠近 ICEYE 卫星尤其令人担忧，因为 ICEYE 向乌克兰提供用于军事和情报目的的关键雷达图像。
+**背景**: 多模态 AI 模型能在单一系统中处理和生成多种数据类型，如文本、图像、音频和视频。谷歌的 Gemini 系列从设计之初就原生支持多模态，而 Gemini Omni 通过增加创建和编辑功能进一步扩展，允许用户从任意输入组合生成视频。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/ICEYE">ICEYE - Wikipedia</a></li>
-<li><a href="https://www.space.com/space-exploration/launches-spacecraft/whatever-russia-is-testing-its-sophisticated-2-russian-satellites-get-within-10-feet-of-each-other-in-orbit">'Whatever Russia is testing, it's sophisticated': 2 Russian satellites get within 10 feet of each other in orbit | Space</a></li>
-<li><a href="https://theconversation.com/how-russia-is-intercepting-communications-from-european-satellites-276094">How Russia is intercepting communications from European satellites</a></li>
+<li><a href="https://cryptobriefing.com/google-gemini-omni-ai-video-generation/">Google unveils Gemini Omni, a multimodal AI model that generates video from text, images, and audio</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/">Introducing Gemini Omni</a></li>
+<li><a href="https://aimlapi.com/blog/what-is-gemini-omni-googles-any-to-any-multimodal-ai">What Is Gemini Omni? Google's Any-to-Any Multimodal AI — AI/ML API Blog</a></li>
 
 </ul>
 </details>
 
-**标签**: `#space security`, `#satellites`, `#geopolitics`, `#defense`, `#radar`
+**标签**: `#AI`, `#multimodal`, `#Google Gemini`, `#deepfake`, `#video generation`
 
 ---
 
 <a id="item-32"></a>
-## [埃博拉疫情成为有记录以来第三大疫情](https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/) ⭐️ 8.0/10
+## [中国拟对富途控股罚没 18.5 亿元，老虎证券罚没 4.11 亿元](https://t.me/zaihuapd/41539) ⭐️ 7.0/10
 
-此次埃博拉疫情已升级为有记录以来第三大疫情，病例数接近 750 例，死亡 177 人，风险等级随之提高。 疫情的迅速升级对全球公共卫生构成严重威胁，可能压垮当地医疗系统，并增加国际传播的风险。 此次疫情已记录近 750 例病例和 177 例死亡，由于传播迅速，卫生当局已提高风险等级。
+中国监管机构拟对富途控股处以约 18.5 亿元罚款，并对老虎证券子公司罚没约 4.11 亿元，因其在中国境内无牌照开展证券、基金及期货业务。 这一标志性监管行动针对中国主要金融科技公司的跨境证券业务模式，表明证券法将得到严格执行，并可能重塑海外券商服务内地投资者的方式。 富途创始人兼首席执行官李华还面临个人罚款 125 万元。这些处罚仍需经过后续程序及中国证监会的最终决定。
 
-rss · Ars Technica · May 22, 22:24
+telegram · zaihuapd · May 23, 10:58
 
-**背景**: 埃博拉是一种严重且常致命的病毒性疾病，通过直接接触体液传播。以往的重大疫情，如 2014-2016 年西非疫情，导致数千人死亡，凸显了快速国际应对的必要性。
-
-**标签**: `#Ebola`, `#public health`, `#outbreak`, `#infectious disease`, `#global health`
-
----
-
-<a id="item-33"></a>
-## [npm Sigstore 来源验证被窃取账户绕过](https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026) ⭐️ 8.0/10
-
-2025 年 5 月 19 日，攻击者利用被攻破的维护者账户生成有效签名证书，发布了 633 个恶意 npm 包版本，这些版本通过了 Sigstore 来源验证。此外，Nx Console VS Code 扩展也在 5 月 18 日被窃取的凭证入侵，约 6000 次激活在 40 分钟内受到影响。 这揭示了 npm 最后一个自动信任信号的严重缺陷：Sigstore 只验证技术正确性（有效证书、CI 构建），但无法验证授权，使来源验证成为攻击者的伪装。该事件暴露了开发者工具验证模型的系统性失败，影响数百万开发者及整个软件供应链。 Mini Shai-Hulud 活动单波涉及 323 个独立包中的 639 个被篡改版本，总计在 npm、PyPI 和 Composer 上发现 502 个包中的 1055 个恶意版本。Nx Console 的有效载荷窃取了 Claude Code 配置文件、AWS 密钥、GitHub 令牌、npm 令牌、1Password 保险库内容和 Kubernetes 服务账户令牌。
-
-rss · VentureBeat · May 22, 22:21
-
-**背景**: Sigstore 是一个开源项目，提供透明且安全的软件供应链基础设施，将所有签名记录在名为 Rekor 的公共、仅追加的透明日志中。npm 来源验证允许包发布者生成声明，公开建立包的构建位置和发布者身份，旨在提高供应链安全性。然而，该系统仅验证使用了有效证书且构建发生在 CI 环境中，不验证证书持有者是否被授权发布。
+**背景**: 自 2021 年以来，中国证监会多次警告富途控股和老虎证券，其向内地投资者提供的跨境证券服务违反了中国证券法。2021 年 10 月，证监会公开表示此类活动非法，并于同年 11 月对两家公司高管进行了监管约谈。拟议的罚款标志着这一长期执法行动的最终结果。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://docs.npmjs.com/generating-provenance-statements/">Generating provenance statements | npm Docs</a></li>
-<li><a href="https://blog.sigstore.dev/privacy-in-sigstore-57cac15af0d0/">Privacy in Sigstore - Sigstore Blog</a></li>
-<li><a href="https://leechael.org/posts/2025/npm-trusted-publishers-the-complete-guide/">npm Trusted Publishers: The Complete Guide</a></li>
+<li><a href="https://www.csrc.gov.cn/csrc/c100028/c6940083/content.shtml">中国证监会推进富途控股、老虎证券非法跨境展业整治工作_中国证券监督管理委员会</a></li>
+<li><a href="https://news.sina.cn/2026-05-22/detail-inhyuwef7514481.d.html?vt=4&cid=56261&node_id=56261">非法跨境展业遭重拳整治：中国证监会拟对富途罚款18.5亿，老虎证券罚没4.112亿|富途控股|人民币|客户|监管|账户_手机新浪网</a></li>
 
 </ul>
 </details>
 
-**标签**: `#npm`, `#supply chain security`, `#Sigstore`, `#provenance`, `#compromised accounts`
-
----
-
-<a id="item-34"></a>
-## [微软大规模推广 Claude Code，鼓励非技术人员使用 AI 编程](https://t.me/zaihuapd/41535) ⭐️ 8.0/10
-
-微软正在其核心工程团队中广泛部署 Anthropic 的 Claude Code，包括 CoreAI 团队以及负责 Windows、Microsoft 365 和 Outlook 的体验与设备部门。公司还要求软件工程师同时使用 Claude Code 和 GitHub Copilot，并提供对比反馈。 此举标志着微软 AI 辅助开发战略的重大转变——它在使用自家 GitHub Copilot 的同时，还采用了竞争对手的工具，这可能重塑 AI 编程助手市场。鼓励非技术人员使用 AI 进行原型设计，也可能扩大 AI 辅助开发在整个组织中的影响力。 微软甚至向没有编程经验的员工推广 Claude Code，用于原型设计。工程师需要安装 Claude Code，并与 GitHub Copilot 进行比较，提供对两款工具的反馈。
-
-telegram · zaihuapd · May 23, 06:05
-
-**背景**: Claude Code 是一款基于 Anthropic 的 Claude 大语言模型的 AI 辅助软件开发工具，采用名为“宪法 AI”的技术来提升伦理和法律合规性。GitHub Copilot 由 GitHub 和 OpenAI 开发，是一款广泛使用的代码补全和 AI 助手，可集成到 Visual Studio Code、JetBrains 等主流 IDE 中。微软拥有 GitHub 并大力投资 OpenAI，因此其采用 Anthropic 的 Claude Code 是一个引人注目的竞争举措。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_Code">Claude Code</a></li>
-<li><a href="https://en.wikipedia.org/wiki/GitHub_Copilot">GitHub Copilot</a></li>
-<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI-assisted development`, `#Microsoft`, `#Claude Code`, `#GitHub Copilot`, `#software engineering`
-
----
-
-<a id="item-35"></a>
-## [向乌干达难民营寄送一台笔记本电脑的经历](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) ⭐️ 7.0/10
-
-一篇详细的个人叙述描述了向乌干达难民营寄送笔记本电脑时遇到的官僚主义和腐败障碍，包括延误、意外费用以及最终采用的当地变通办法。 这个故事凸显了发展中国家的系统性腐败和物流挑战，提供了第一手视角，可帮助援助工作者、企业和政策制定者了解现实障碍和实用解决方案。 作者尝试使用普通邮政服务和 DHL、FedEx 等高端快递，但遭遇严重延误和索贿；笔记本电脑最终通过一位乌干达联系人推荐的当地灰色市场货运代理送达。
-
-hackernews · lexandstuff · May 22, 21:36
-
-**背景**: 乌干达是非洲最大的难民收容国之一，许多难民生活在依赖外部援助的难民营中。向这些偏远地区运送货物通常需要应对复杂的海关程序和腐败，官员可能利用系统谋取私利。
-
-**社区讨论**: 评论者大多证实了作者的经历，一位乌干达用户确认系统已崩溃且腐败者从中受益。几位评论者建议使用灰色市场货运代理或亲自乘机携带物品作为更可靠的替代方案，同时指出作者最初的方法显示出一定程度的傲慢，即假设西方方法会奏效。
-
-**标签**: `#logistics`, `#corruption`, `#developing-countries`, `#refugee-aid`, `#Uganda`
-
----
-
-<a id="item-36"></a>
-## [AI 从频谱图重建遇难飞行员声音](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/) ⭐️ 7.0/10
-
-有人利用 AI 从 NTSB 公开的 UPS2976 航班频谱图图像中重建了驾驶舱音频，导致 NTSB 暂时封锁了其档案系统的访问权限。 这一事件凸显了 AI 从公开数据中提取敏感信息的能力与现有数据治理政策之间的紧张关系，引发了关于隐私、同意以及公共记录边界的紧迫伦理和法律问题。 重建所用的频谱图图像来自路易斯维尔坠毁的 UPS2976 航班的驾驶舱语音记录器。NTSB 不公开实际的驾驶舱音频，但频谱图图像足以让 AI 重建遇难飞行员的声音。
-
-rss · TechCrunch · May 22, 23:03
-
-**背景**: 频谱图是声音频率随时间变化的可视化表示，常用于音频分析。经过音频数据训练的 AI 模型可以将频谱图逆向还原为可听语音。NTSB 的公开档案系统提供调查文件和证据，但驾驶舱录音通常不予公开，以尊重逝者及其家属。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/">AI is being used to resurrect the voices of dead pilots ...</a></li>
-<li><a href="https://sebertech.com/news/2026/05/23/ai-recreates-dead-pilots-voices-from-public-ntsb-files/">AI Recreates Dead Pilots’ Voices From Public NTSB Files</a></li>
-<li><a href="https://aitoolly.com/ai-news/article/2026-05-23-ai-reconstructs-deceased-pilots-voices-from-spectrograms-prompting-ntsb-to-block-public-docket-acces">AI Reconstructs Pilot Voices: NTSB Blocks Docket Access</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#forensics`, `#ethics`, `#data governance`, `#NTSB`
-
----
-
-<a id="item-37"></a>
-## [SpaceX 首次发射星舰 V3，助推器返回时丢失](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/) ⭐️ 7.0/10
-
-SpaceX 于 2026 年 5 月 22 日首次发射升级版星舰 V3，成功将飞行器送入太空并部署测试载荷，但超重型助推器在返回着陆尝试中丢失。 此次发射标志着 SpaceX 星舰项目的重要里程碑，星舰 V3 是迄今最大、最强大的版本，对未来的月球着陆和火星探索任务至关重要。部分失败凸显了可重复使用火箭着陆技术持续面临的挑战，而该技术对降低发射成本至关重要。 星舰 V3 相比前代进行了多项升级，包括更大的尺寸和推力，本次测试飞行尝试了超重型助推器和飞船的水上着陆与溅落。助推器丢失发生之前，今年早些时候一次猎鹰 9 号着陆失败已打破了连续 267 次成功回收的纪录。
-
-rss · TechCrunch · May 22, 22:55
-
-**背景**: 星舰是 SpaceX 的全可重复使用超重型运载火箭，旨在将人员和货物送往月球、火星及更远的地方。星舰 V3 是最新、最大的型号，配备了升级的发动机和结构以支持更高的有效载荷能力。超重型助推器是火箭的第一级，在发射后返回地球以重复使用，这是降低航天成本的关键技术。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-22-2026">SpaceX Starship Flight 12 launch updates: Starship V 3 Ship ... | Space</a></li>
-<li><a href="https://interestingengineering.com/space/spacex-starship-v3-first-flight-splashdown">Starship V 3 , Elon Musk's most powerful rocket, aces first flight</a></li>
-<li><a href="https://en.wikipedia.org/wiki/List_of_Starship_launches">List of Starship launches - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#spacex`, `#starship`, `#aerospace`, `#launch`, `#engineering`
-
----
-
-<a id="item-38"></a>
-## [Waymo 因洪水事件暂停六城服务](https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html) ⭐️ 7.0/10
-
-Waymo 在周三亚特兰大出现两辆自动驾驶出租车被困在积水道路的视频后，暂时暂停了六个城市的自动驾驶出租车服务。 这一运营挫折凸显了自动驾驶汽车在恶劣天气下的关键安全与可靠性挑战，可能削弱公众信任并减缓行业普及。 Waymo 此前在 2026 年 5 月因洪水检测故障导致一辆车被冲走，对近 4000 辆机器人出租车发布了软件召回，而新事件表明修复可能未完全解决问题。
-
-rss · NYTimes Technology · May 22, 21:24
-
-**背景**: Waymo 的自动驾驶汽车依赖 LiDAR、雷达和摄像头的组合来感知环境，但大雨和积水道路可能混淆这些传感器。公司使用详细数字地图和 AI 训练来处理各种天气条件，但洪水检测仍是已知弱点。美国国家公路交通安全管理局（NHTSA）已参与监督 Waymo 的召回工作。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.msn.com/en-us/news/technology/waymo-issues-recall-over-flood-detection-failure/ar-AA2368lu">Waymo issues recall over flood detection failure - MSN</a></li>
-<li><a href="https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/">Waymo issues recall to deal with a flooding problem - TechCrunch</a></li>
-<li><a href="https://www.sfchronicle.com/sf/article/waymo-robotaxis-storms-20067357.php">Here’s how Waymo robotaxis handle driving in storms</a></li>
-
-</ul>
-</details>
-
-**标签**: `#autonomous vehicles`, `#Waymo`, `#safety`, `#AI failures`, `#transportation`
+**标签**: `#regulatory`, `#fintech`, `#securities`, `#China`, `#cross-border`
 
 ---
