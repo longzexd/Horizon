@@ -5,616 +5,573 @@ date: 2026-05-25
 lang: zh
 ---
 
-> 从 59 条内容中筛选出 33 条重点信息（政治/金融 28，科技 5）
+> 从 71 条内容中筛选出 31 条重点信息（政治/金融 23，科技 8）
 
 ---
 
 ## 政治与金融
 
 <a id="item-1"></a>
-## [伊朗否认即将达成霍尔木兹海峡协议](https://www.bloomberg.com/news/videos/2026-05-25/the-opening-trade-5-25-2026-video) ⭐️ 9.0/10
+## [伊朗战争导致印度天然气发电量降至六年新低](https://www.bloomberg.com/news/articles/2026-05-25/iran-war-squeezes-india-s-gas-power-supply-as-demand-hits-record) ⭐️ 9.0/10
 
-伊朗外交部发言人伊斯梅尔·巴加埃表示，重新开放霍尔木兹海峡的协议并非迫在眉睫，这与美国官员称华盛顿和德黑兰即将达成协议的说法相矛盾。这一矛盾信号导致石油市场波动。 霍尔木兹海峡是全球石油运输的关键咽喉，其状态的任何不确定性或中断都会直接影响能源价格和供应链。美伊官员的矛盾声明加剧了市场参与者面临的地缘政治风险。 此前，在美国高级官员（包括国务卿马可·鲁比奥）暗示协议最早可能于周一达成后，油价下跌。然而，伊朗发言人指出，虽然就许多议题达成了共识，但没有人能声称签署协议已迫在眉睫。
+由于伊朗战争扰乱了燃料运输，印度天然气发电量已降至至少六年来的最低水平，而此时酷暑正将电力需求推至历史新高。 这场危机威胁到印度的能源安全和经济稳定，因为该国依赖天然气发电来满足极端高温期间的峰值需求，供应紧缩可能导致大面积停电和工业中断。 伊朗战争导致了全球石油市场历史上最大的供应中断，同时也扰乱了天然气流动，波斯湾的液化天然气油轮为避免被发现而关闭信号，进一步挤压了印度的天然气进口。
 
-rss · Bloomberg Markets · May 25, 09:28
+rss · Bloomberg Markets · May 25, 11:54
 
-**背景**: 霍尔木兹海峡是伊朗和阿曼之间的一条狭窄水道，全球约 20-30%的海运石油经过此处。美国和伊朗在 2026 年处于战争状态，双方于 2026 年 4 月同意停火两周，但永久协议的谈判仍存在争议。
+**背景**: 印度约 6%的电力来自天然气发电，其液化天然气进口的很大一部分来自波斯湾地区。正在进行的伊朗战争扰乱了通过霍尔木兹海峡的航运路线，霍尔木兹海峡是全球能源贸易的关键咽喉要道，导致印度液化天然气供应减少和价格上涨。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz - Wikipedia</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-05-25/iran-war-squeezes-india-s-gas-power-supply-as-demand-hits-record">Iran War Squeezes India ’s Gas Power Supply as... - Bloomberg</a></li>
 <li><a href="https://en.wikipedia.org/wiki/2026_Iran_war">2026 Iran war - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire">2026 Iran war ceasefire - Wikipedia</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-05-16/adnoc-keeps-loading-lng-onto-tankers-gone-dark-in-persian-gulf">Persian Gulf LNG Shipments Continue With Vessels... - Bloomberg</a></li>
 
 </ul>
 </details>
 
-**标签**: `#geopolitics`, `#oil markets`, `#Iran`, `#Strait of Hormuz`, `#energy security`
+**标签**: `#geopolitics`, `#energy security`, `#India`, `#Iran war`, `#electricity demand`
 
 ---
 
 <a id="item-2"></a>
-## [中国严厉打击非法跨境交易](https://www.bloomberg.com/news/videos/2026-05-25/china-cracks-down-on-illegal-cross-border-trading-video) ⭐️ 9.0/10
+## [美伊或达成协议重开霍尔木兹海峡，油价暴跌](https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories) ⭐️ 9.0/10
 
-中国发起了一场前所未有的打击非法跨境股票交易的行动，威胁对热门券商处以严厉处罚，并要求在两年内清算不合规账户。 此次打击旨在遏制创纪录的资本外流并维护中国金融稳定，对全球市场以及一直利用离岸券商交易海外股票的中国投资者具有重大影响。 此次打击特别针对老虎证券、富途证券和长桥证券等券商，这些券商因非法为国内投资者提供海外证券交易渠道而受到处罚。清算令可能影响约 1.04 万亿美元的资产。
+据报道，美国和伊朗即将达成协议以结束战争并重新开放战略要道霍尔木兹海峡，尽管伊朗否认协议即将达成且特朗普总统表示不急于求成，油价仍大幅下跌。 这一进展可能显著改变全球石油供应格局，因为霍尔木兹海峡是全球约 20%石油运输的关键咽喉要道，达成协议有望降低能源价格并减少地区地缘政治风险。 美国国务卿马可·鲁比奥表示协议最早可能于周一达成，但伊朗外交部发言人伊斯梅尔·巴加埃指出，虽然许多议题已达成共识，但无人能声称签署在即。
 
-rss · Bloomberg Markets · May 25, 08:09
+rss · MarketWatch Top Stories · May 25, 19:40
 
-**背景**: 中国长期以来维持资本管制以管理资本流动并支持其有管理的浮动汇率制度。近年来，自由化措施导致资本外流激增，内地投资者积极购买香港资产，促使政府收紧监管以防止金融不稳定。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-22/china-cracks-down-on-illegal-cross-border-securities-trading">China Launches Major Crackdown on Cross-Border Stock Trading - Bloomberg</a></li>
-<li><a href="https://www.scmp.com/business/china-business/article/3354543/china-regulator-punishes-brokerages-offering-illegal-access-overseas-stocks">China cracks down on Tiger, Futu and Long Bridge for illegal cross-border stock trading | South China Morning Post</a></li>
-<li><a href="https://www.theedgesingapore.com/news/china/china-launches-major-crackdown-cross-border-stock-trading">China launches major crackdown on cross-border stock trading | The Edge Singapore</a></li>
-
-</ul>
-</details>
-
-**标签**: `#China`, `#capital controls`, `#financial regulation`, `#cross-border trading`, `#geopolitics`
-
----
-
-<a id="item-3"></a>
-## [阿布扎比国家石油公司悄然通过霍尔木兹海峡运输石油](https://www.bloomberg.com/news/articles/2026-05-25/adnoc-s-tankers-are-slipping-oil-gas-and-fuel-through-hormuz) ⭐️ 9.0/10
-
-阿布扎比国家石油公司（ADNOC）正利用其自有油轮船队，秘密通过霍尔木兹海峡运输石油和天然气，绕过伊朗海军封锁和美国军舰，将能源运往需求迫切的市场。 这一进展表明，在美伊紧张局势加剧之际，一家大型国有石油公司有能力穿越全球关键咽喉要道，直接影响全球石油市场、供应链和地区稳定。 据报道，ADNOC 采用了包括暗航和私人控制船只在内的隐蔽航运手段，通过霍尔木兹海峡运输石油和天然气；自 2026 年 2 月底美以空袭以来，该海峡实际上已被伊朗封锁。
-
-rss · Bloomberg Markets · May 25, 04:54
-
-**背景**: 霍尔木兹海峡是一条狭窄的海上咽喉要道，全球约五分之一的石油每日经此运输。自 2026 年 2 月 28 日美国与以色列对伊朗发动空袭并刺杀其最高领袖以来，该海峡的航运基本被伊朗封锁。ADNOC 是阿布扎比国有石油公司，日产量超过 400 万桶。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">2026 Strait of Hormuz crisis - Wikipedia</a></li>
-<li><a href="https://yogyapost.com/2026/05/25/adnoc-uses-dark-tanker-transits-to-move-oil-and-gas-through-strait-of-hormuz/">Adnoc uses dark tanker transits to move oil and gas... - The Yogya Post</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Abu_Dhabi_National_Oil_Company">Abu Dhabi National Oil Company - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#geopolitics`, `#energy security`, `#Strait of Hormuz`, `#oil markets`, `#Middle East`
-
----
-
-<a id="item-4"></a>
-## [高油价抵消沙特出口量损失](https://www.bloomberg.com/news/videos/2026-05-25/high-oil-price-offsets-saudi-s-export-volume-loss-video) ⭐️ 9.0/10
-
-与伊朗的持续战争严重扰乱了中东能源出口和贸易路线，导致沙特阿拉伯出口量下降，但高油价部分抵消了这一损失。 彭博经济首席新兴市场经济学家 Ziad Daoud 讨论了这对沙特经济的影响，强调高油价有助于缓解出口量减少带来的收入损失。
-
-rss · Bloomberg Markets · May 25, 06:36
-
-**背景**: 石油美元循环是指将石油收入再投资于股票和债券等金融资产，通常通过主权财富基金进行。沙特阿拉伯的主权财富基金一直在海外大举投资，包括视频游戏和物流领域，并计划向阿拉伯国家投资 240 亿美元。与伊朗的战争通过减少出口量扰乱了这一流动，尽管高油价提供了缓冲。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Petrodollar_recycling">Petrodollar recycling - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/p/petrodollars.asp">Understanding Petrodollars: Definition, History, and Global Impact</a></li>
-<li><a href="https://www.ft.com/content/fefe4857-10b8-497b-9904-da86daf5c7bb?syn-25a6b1a6=1">Saudi wealth fund targets $24bn investment in Arab states</a></li>
-
-</ul>
-</details>
-
-**标签**: `#geopolitics`, `#oil markets`, `#Saudi Arabia`, `#Iran conflict`, `#global economy`
-
----
-
-<a id="item-5"></a>
-## [特朗普任性行为引发共和党中期选举担忧](https://www.nytimes.com/2026/05/25/us/politics/trump-gop-fears-midterms.html) ⭐️ 8.0/10
-
-一位即将退休的共和党参议员公开批评唐纳德·特朗普的行为是“愚蠢的事情”，正在“扼杀我们在中期选举中的机会”，凸显了共和党内部日益增长的担忧。 这种内部批评表明共和党的选举前景面临系统性风险，因为特朗普的行为可能疏远温和选民并激发民主党在中期选举中的投票率。 这句话出自一位即将退休的参议员，表明即使是忠诚的党内成员也在失去耐心。《纽约时报》的报道强调，特朗普的任性行为正在加深共和党对选举失利的担忧。
-
-rss · NYTimes Politics · May 25, 09:03
-
-**背景**: 中期选举在总统任期中期举行，通常被视为对执政党的一次公投。共和党目前正在应对特朗普派系与传统保守派系之间的内部分歧，这可能会影响选民投票率和联盟建设。
-
-**标签**: `#US politics`, `#midterm elections`, `#Republican Party`, `#Donald Trump`, `#election strategy`
-
----
-
-<a id="item-6"></a>
-## [AI 涌入法院，低质自诉案件激增](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) ⭐️ 8.0/10
-
-《纽约时报》报道指出，AI 工具正促使自诉当事人大量提交低质量的自行生成诉讼，导致法院案件积压，司法资源不堪重负。 这一趋势威胁司法效率和诉诸司法的机会，法院需筛选无意义诉讼，而正当案件面临延误，同时引发关于 AI 监管和法律伦理的紧迫问题。 AI 生成的诉状常包含虚假引用和错误，一些司法管辖区正考虑要求标注或验证 AI 辅助提交的文件。由于自诉当事人缺乏法律培训，而 AI 使其能生成大量文件，这一激增尤为棘手。
-
-rss · NYTimes Politics · May 25, 09:00
-
-**背景**: 自诉（Pro se）指个人在法庭上自行代理，无需律师。历史上法院欢迎此类案件，但数量受限于法律程序的复杂性。生成式 AI 如今大幅降低了这一门槛，使任何人都能轻松制作法律文件，导致低质量诉讼泛滥，压垮法院系统。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Pro_se_litigation">Pro se litigation</a></li>
-<li><a href="https://www.fastcompany.com/91539168/ai-is-flooding-the-courts-with-more-cases-more-filings-and-more-fake-citations">AI is flooding the courts with more cases, more filings ... - Fast Company</a></li>
-<li><a href="https://www.webpronews.com/the-courtroom-is-cracking-how-ai-generated-legal-filings-are-turning-american-courts-into-a-minefield/">The Courtroom Is Cracking: How AI - Generated Legal Filings Are...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#artificial intelligence`, `#legal system`, `#public policy`, `#court administration`, `#access to justice`
-
----
-
-<a id="item-7"></a>
-## [鲁比奥在美印贸易与移民紧张之际安抚印度](https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html) ⭐️ 8.0/10
-
-美国国务卿马可·鲁比奥访问新德里，试图安抚印度，强调双边关系依然牢固，尽管特朗普总统的激进贸易和移民政策引发了摩擦。 这一外交努力意义重大，因为它旨在缓解与主要战略伙伴印度之间因贸易和移民政策产生的紧张关系，这些政策影响全球贸易和在美印度移民的生活，具有广泛的地缘政治和经济影响。 鲁比奥此次访问正值特朗普政府实施关税和更严格的移民规则，这些措施激怒了印度。国务卿试图解释这些政策，同时重申两国伙伴关系。
-
-rss · NYTimes Politics · May 25, 04:03
-
-**背景**: 美印关系几十年来通过贸易、防务和共同战略利益不断加强。然而，特朗普总统的“美国优先”政策，包括对印度商品加征关税和限制 H-1B 签证，近期造成了紧张。鲁比奥国务卿的访问旨在管理这些紧张关系并维持合作。
-
-**标签**: `#U.S.-India relations`, `#diplomacy`, `#trade policy`, `#immigration`, `#geopolitics`
-
----
-
-<a id="item-8"></a>
-## [枪手在白宫附近开火后被击毙](https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html) ⭐️ 8.0/10
-
-一名美国特勤局已知的枪手在白宫附近开火，并在与特勤局特工的交火中被击毙。事发时，特朗普总统正在白宫内部。 这一事件代表了美国最高政府机构附近的一次直接安全漏洞，凸显了白宫及总统面临的持续威胁。它强调了特勤局在保护国家领导人方面的关键作用，并可能促使安全规程的审查。 枪手在袭击前已被特勤局知晓，但此前知晓的具体性质尚未披露。交火发生在特朗普总统在白宫内部时，但未报告总统或其他官员受伤。
-
-rss · NYTimes Politics · May 25, 02:32
-
-**背景**: 白宫是世界上安保最严密的建筑之一，由美国特勤局负责保护，该机构负责总统及总统府邸的安全。白宫附近的枪击事件虽然罕见，但过去也曾发生，导致安保措施加强和偶尔的封锁。
-
-**标签**: `#White House security`, `#Secret Service`, `#shooting`, `#national security`, `#Trump`
-
----
-
-<a id="item-9"></a>
-## [印度 5 月第四次上调燃油价格](https://www.bloomberg.com/news/articles/2026-05-25/india-raises-diesel-gasoline-prices-for-fourth-time-this-month) ⭐️ 8.0/10
-
-印度国有燃油零售商在 5 月第四次上调汽油和柴油价格，以应对全球能源市场的动荡。 这些连续的价格上调可能加剧印度经济的通胀压力，进而影响这个主要新兴市场的家庭支出和财政政策。 这些价格上调在 10 天内发生，反映了全球能源动荡对印度国内燃油成本的快速传导。
-
-rss · Bloomberg Markets · May 25, 02:11
-
-**背景**: 印度是原油主要进口国，因此国内燃油价格对全球石油市场波动高度敏感。国有零售商会定期调整价格，以反映国际基准油价和汇率变化。
-
-**标签**: `#India`, `#energy policy`, `#inflation`, `#fuel prices`, `#emerging markets`
-
----
-
-<a id="item-10"></a>
-## [美伊协议希望推动新兴市场资产上涨](https://www.bloomberg.com/news/articles/2026-05-25/emerging-market-assets-rise-as-oil-drops-on-us-iran-deal-hopes) ⭐️ 8.0/10
-
-随着美国和伊朗接近达成重新开放霍尔木兹海峡的协议迹象出现，新兴市场股票和货币上涨，油价跌破每桶 100 美元，风险偏好得到提振。 这一进展可能显著降低全球油价，减轻全球通胀压力，并改善对能源成本和地缘政治稳定性高度敏感的新兴市场资产的风险情绪。 霍尔木兹海峡是一个关键瓶颈，全球约 40%的石油通过该海峡运输，伊朗在 2025 年初关闭该海峡曾导致油价飙升至每桶 100 美元以上。
-
-rss · Bloomberg Markets · May 25, 04:28
-
-**背景**: 霍尔木兹海峡是连接波斯湾与开阔海洋的狭窄水道，是全球最具战略重要性的海上咽喉之一。2025 年 6 月，伊朗议会投票决定关闭该海峡，以回应美国对伊朗核设施的侵略，这扰乱了全球石油流动并推高了能源价格。美伊之间可能达成的重新开放海峡的协议将恢复这一关键贸易路线，缓解供应担忧。
+**背景**: 霍尔木兹海峡是位于伊朗和阿曼之间的狭窄水道，是波斯湾原油的主要出口通道。该海峡航运的任何中断都可能导致全球油价大幅波动，使其成为能源市场的关键战略咽喉。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz - Wikipedia</a></li>
-<li><a href="https://www.researchgate.net/publication/352329955_The_Strategic_Importance_of_the_Strait_of_Hormuz_and_Its_Impact_on_the_Iranian_-American_Conflict">(PDF) The Strategic Importance of the Strait of Hormuz and Its Impact on the Iranian -American Conflict</a></li>
-<li><a href="https://www.bbc.com/news/articles/c78n6p09pzno">Iran war: What is the Strait of Hormuz and why does it matter?</a></li>
+<li><a href="https://www.linkedin.com/pulse/why-strait-hormuz-strategically-crucial-energy-global-ahmmad-phd-w9dpf">Why the Strait of Hormuz is Strategically Crucial for Energy Security...</a></li>
+<li><a href="https://vajiramandravi.com/current-affairs/strait-of-hormuz-explained/">Strategic Importance of Strait of Hormuz - Explained</a></li>
 
 </ul>
 </details>
 
-**标签**: `#geopolitics`, `#emerging markets`, `#oil prices`, `#US-Iran relations`, `#macroeconomics`
+**标签**: `#geopolitics`, `#oil prices`, `#Iran`, `#Strait of Hormuz`, `#energy markets`
+
+---
+
+<a id="item-3"></a>
+## [前苏格兰民族党首席执行官因挪用 40 万英镑被判入狱](https://www.bbc.com/news/articles/c4g4q7yl3kno?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
+
+苏格兰民族党前首席执行官、前首席大臣尼古拉·斯特金的分居丈夫彼得·默雷尔，在承认从党内挪用 40 万英镑后被还押候审。 这一备受关注的定罪严重打击了苏格兰民族党的声誉和公众对苏格兰政治领导层的信任，因为涉案者是党内财务核心的高级人物。该案还对正在进行的政党资金和治理调查产生重大影响。 默雷尔承认挪用了 40 万英镑，自五年前警方开始调查以来，此案一直被形容为笼罩苏格兰民族党的“毒云”。他是前首席大臣尼古拉·斯特金的分居丈夫，这为政治丑闻增添了深刻的个人层面。
+
+rss · BBC Politics · May 25, 13:08
+
+**背景**: 苏格兰民族党十多年来一直是苏格兰的主导政治力量，主张苏格兰独立。彼得·默雷尔担任其首席执行官多年，并与 2014 年至 2023 年担任首席大臣的尼古拉·斯特金结婚。这起挪用公款案是警方对苏格兰民族党财务更广泛调查的一部分，该调查给该党的领导层和运作蒙上了阴影。
+
+**标签**: `#Scottish politics`, `#embezzlement`, `#SNP`, `#political scandal`, `#UK politics`
+
+---
+
+<a id="item-4"></a>
+## [特朗普任性行为危及共和党中期选举](https://www.nytimes.com/2026/05/25/us/politics/trump-gop-fears-midterms.html) ⭐️ 8.0/10
+
+一位即将退休的共和党参议员匿名表达担忧，称唐纳德·特朗普的任性行为正在损害该党在即将到来的中期选举中的胜算，并表示‘这些愚蠢的事情正在毁掉我们的机会’。 这一内部批评凸显了共和党内日益增长的不安，即特朗普的行为可能导致该党失去对国会的控制，从而可能改变权力平衡并影响未来的政策方向。 该言论来自一位即将退休的共和党参议员，为这一担忧增添了内部可信度，但该报道基于匿名担忧而非具体民调数据。
+
+rss · NYTimes Politics · May 25, 09:03
+
+**背景**: 中期选举在总统选举两年后举行，通常被视为对现任总统所在政党的公投。共和党目前正在捍卫其在国会中的微弱多数席位，任何内部不和都可能削弱其选举前景。
+
+**标签**: `#US Politics`, `#Midterm Elections`, `#Republican Party`, `#Donald Trump`, `#Election Strategy`
+
+---
+
+<a id="item-5"></a>
+## [AI 生成诉讼淹没美国法院](https://www.nytimes.com/2026/05/25/us/politics/artificial-intelliegence-courts.html) ⭐️ 8.0/10
+
+越来越多的自我代理诉讼当事人使用 AI 工具生成并提交诉讼，导致法院案件量激增，给司法资源带来压力。 这一趋势威胁司法效率，可能迫使法院实施新的程序保障或法规来管理 AI 生成文件的涌入。 《纽约时报》报道称，曾经欢迎自我代理诉讼当事人案件的法院，现在面临大量 AI 生成的投诉，消耗了大量司法带宽。
+
+rss · NYTimes Politics · May 25, 09:00
+
+**背景**: 自我代理诉讼当事人（也称为 pro se）是指没有律师代理而自行处理案件的当事人。AI 工具现在使这些人能够轻松起草法律文件，导致缺乏实质内容或适当法律依据的诉讼案件急剧增加。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Self-represented_litigant">Self-represented litigant</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pro_se_legal_representation_in_the_United_States">Pro se legal representation in the United States - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#artificial intelligence`, `#legal system`, `#public policy`, `#judicial efficiency`, `#technology regulation`
+
+---
+
+<a id="item-6"></a>
+## [匈牙利预计 5 月 28 日与欧盟达成解冻资金协议](https://www.bloomberg.com/news/articles/2026-05-25/hungary-sees-may-28-deal-with-eu-on-frozen-funds-pm-magyar-says) ⭐️ 8.0/10
+
+匈牙利总理彼得·毛焦尔宣布，他将于 5 月 28 日与欧盟委员会签署一项政治协议，以解冻被冻结的数十亿欧元欧盟资金。 该协议可能解决匈牙利与欧盟之间长期存在的法治争端，为匈牙利经济释放关键资金，并标志着欧盟与匈牙利关系的潜在转变。 该协议是与欧盟委员会达成的政治协议，但具体释放的资金金额及附加条件尚未披露。
+
+rss · Bloomberg Markets · May 25, 18:09
+
+**背景**: 欧盟因担忧匈牙利民主倒退和违反法治原则，冻结了对其数十亿欧元的资金，包括对匈牙利预算和基础设施项目至关重要的凝聚基金和复苏基金。这一争端多年来一直使布达佩斯与布鲁塞尔之间的关系紧张。
+
+**标签**: `#EU-Hungary relations`, `#frozen funds`, `#rule of law`, `#European Union`, `#Hungary politics`
+
+---
+
+<a id="item-7"></a>
+## [几内亚将于六月宣布铝土矿出口管制](https://www.bloomberg.com/news/articles/2026-05-25/top-bauxite-producer-guinea-to-unveil-export-controls-in-june) ⭐️ 8.0/10
+
+全球最大铝土矿生产国几内亚计划于 2026 年 6 月公布出口管制措施，以稳定并提升矿石价格，此举可能重塑全球铝供应链。 这一政策转变可能对全球铝市场产生重大影响，因为几内亚供应了全球大部分铝土矿，从而影响汽车和建筑等下游行业的价格。 管制措施的具体机制（如配额或出口税）尚未明确，但此举旨在应对铝土矿价格下跌，并鼓励国内加工成氧化铝。
+
+rss · Bloomberg Markets · May 25, 14:19
+
+**背景**: 铝土矿是生产铝的主要矿石，几内亚拥有全球最大的储量。印度尼西亚等其他国家曾使用原材料出口管制来促进国内加工并增加国家收入，但这也可能扰乱全球供应链并引发贸易争端。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.alcircle.com/news/guinea-weighs-bauxite-export-controls-to-stabilise-prices-amid-global-market-volatility-117673">Guinea weighs bauxite export controls to stabilise prices amid global...</a></li>
+<li><a href="https://www.kompas.id/artikel/en-larangan-ekspor-bauksit-berpotensi-timbulakan-proteksionisme-negara-mitra-dagang-indonesia">Ban on Bauxite Export Potentially Causes Protectionism in Other...</a></li>
+<li><a href="https://www.kloecknermetals.com/blog/factors-affecting-aluminum-pricing/">The Price of Aluminum : What Affects Aluminum Pricing</a></li>
+
+</ul>
+</details>
+
+**标签**: `#commodities`, `#trade policy`, `#geopolitics`, `#aluminum`, `#Guinea`
+
+---
+
+<a id="item-8"></a>
+## [斯塔默对强奸少女案男孩免刑表示愤慨](https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
+
+英国首相基尔·斯塔默对两名强奸 12 岁女孩的青少年男孩未被判监禁表示愤慨，并要求紧急审查相关判决。 此案引发了关于性侵案件量刑宽松及公众对司法系统信任的全国性讨论，首相的直接干预预示着可能的政策调整。 两名男孩被判强奸两名 12 岁女孩，但未获监禁刑罚，斯塔默称此案“令人震惊”，并要求紧急审查。
+
+rss · BBC Politics · May 25, 10:14
+
+**背景**: 在英国，量刑由独立法官决定，但首相可以表达关切并要求审查。近年来，公众对性犯罪量刑偏轻的呼声日益高涨，引发了关于司法裁量权和法律改革的讨论。
+
+**标签**: `#UK politics`, `#criminal justice`, `#sentencing policy`, `#sexual assault`, `#public trust`
+
+---
+
+<a id="item-9"></a>
+## [特朗普敦促更多国家在伊朗协议中与以色列关系正常化](https://www.nytimes.com/2026/05/25/us/politics/trump-israel-iran-abraham-accords.html) ⭐️ 7.0/10
+
+特朗普总统呼吁更多中东国家与以色列关系正常化，作为与伊朗更广泛和平协议的一部分，但分析人士认为这不太可能。 这一推动可能通过将《亚伯拉罕协议》的扩展与伊朗协议联系起来，重塑中东外交，可能影响地区安全和美国外交政策。然而，分析人士的怀疑表明仍存在重大障碍。 《亚伯拉罕协议》最初于 2020 年签署，实现了以色列与包括阿联酋、巴林、苏丹和摩洛哥在内的几个阿拉伯国家的关系正常化。特朗普政府一直在寻求将协议扩展至包括叙利亚、黎巴嫩和沙特阿拉伯。
+
+rss · NYTimes Politics · May 25, 17:57
+
+**背景**: 《亚伯拉罕协议》源于 2010 年代以色列与逊尼派阿拉伯国家之间日益增长的非官方合作，这种合作由对伊朗的共同担忧驱动。该协议正式确立了经济、外交和安全合作，但由于以色列-巴勒斯坦冲突缺乏进展，许多阿拉伯国家的公众舆论仍然反对。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Abraham_Accords">Abraham Accords</a></li>
+
+</ul>
+</details>
+
+**标签**: `#geopolitics`, `#Middle East`, `#Israel`, `#Iran`, `#U.S. foreign policy`
+
+---
+
+<a id="item-10"></a>
+## [德克萨斯州共和党参议员决选：科宁对阵帕克斯顿](https://www.nytimes.com/2026/05/25/us/politics/texas-cornyn-paxton-senate-campaign.html) ⭐️ 7.0/10
+
+德克萨斯州共和党参议员初选决选将于 2026 年 5 月 25 日星期二结束，现任参议员约翰·科宁与挑战者肯·帕克斯顿之间的竞争结果可能决定美国参议院的控制权归属。 这场竞选意义重大，因为德克萨斯州是一个大州，帕克斯顿的胜利可能使参议院向更强硬的保守派立场倾斜，而科宁的胜利则将维持建制派共和党的影响力；结果还将预示全国共和党的方向。 决选是在 3 月初选中无人获得多数票后触发的；科宁是连任三届的现任参议员，拥有强大的建制派支持，而州总检察长帕克斯顿则得到前总统唐纳德·特朗普和草根保守派的支持。
+
+rss · NYTimes Politics · May 25, 11:19
+
+**背景**: 在德克萨斯州，如果初选中没有候选人获得超过 50%的选票，就会进行决选。2026 年中期选举中，德克萨斯州参议员竞选是一个关键战场，共和党正捍卫其在参议院的微弱多数。这场竞选凸显了党内建制派与特朗普派系之间的分歧。
+
+**标签**: `#US politics`, `#Texas`, `#Senate election`, `#primary runoff`, `#Republican Party`
 
 ---
 
 <a id="item-11"></a>
-## [中国券商大亨一日损失 17 亿美元](https://www.bloomberg.com/news/articles/2026-05-25/china-trading-tycoon-loses-1-7-billion-in-one-day-after-curbs) ⭐️ 8.0/10
+## [欧洲央行维勒鲁瓦：能源价格飙升尚未引发第二轮效应](https://www.bloomberg.com/news/articles/2026-05-25/vigilant-ecb-hasn-t-yet-seen-second-round-effects-villeroy-says) ⭐️ 7.0/10
 
-一位中国在线券商大亨在一天之内损失了 17 亿美元，超过其财富的四分之一，此前北京方面为收紧资本外流管控而打击跨境股票交易。 这一巨额个人财富损失凸显了中国对跨境交易监管打击的严厉程度，直接影响了投资者信心和资本流动的稳定性。这向参与海外证券交易的券商和投资者发出了监管风险加剧的信号。 此次打击行动于 2026 年 5 月 22 日宣布，针对老虎证券和富途证券等券商，因其非法向国内投资者提供海外股票交易渠道，不合规账户被要求在两年内清盘。这位大亨的损失发生在限制措施生效当天，反映了市场的即时反应。
+即将离任的欧洲央行管理委员会委员弗朗索瓦·维勒鲁瓦·德·加洛表示，近期能源成本飙升尚未在欧元区经济中引发第二轮效应。 这一声明及时揭示了欧洲央行对能源驱动通胀是否正在扩大的看法，直接影响欧元区的货币政策预期和市场状况。 第二轮效应指企业将更高的投入成本转嫁出去，导致其他行业价格上涨；如果这种效应持续，通胀可能比最初的能源冲击更持久。
 
-rss · Bloomberg Markets · May 25, 07:14
+rss · Bloomberg Markets · May 25, 17:53
 
-**背景**: 中国长期以来实行严格的资本管制，以管理资金进出，包括公民每年 5 万美元的外汇额度。此次打击是自去年 11 月以来为遏制资本外流、支撑疲软人民币而采取的更广泛措施的一部分。通过在线券商进行跨境股票交易已成为中国投资者规避这些管制的流行方式。
+**背景**: 通胀中的第二轮效应主要涉及工资对供给冲击的反应，如果通胀预期失控，可能引发工资-价格螺旋。欧洲央行管理委员会是欧元区货币政策的主要决策机构，其成员的声明受到密切关注以获取政策信号。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-05-22/china-cracks-down-on-illegal-cross-border-securities-trading">China Launches Major Crackdown on Cross-Border Stock Trading - Bloomberg</a></li>
-<li><a href="https://www.scmp.com/business/china-business/article/3354543/china-regulator-punishes-brokerages-offering-illegal-access-overseas-stocks">China cracks down on Tiger, Futu and Long Bridge for illegal cross-border stock trading | South China Morning Post</a></li>
-<li><a href="https://www.reuters.com/world/asia-pacific/china-crack-down-illegal-cross-border-securities-activities-2026-05-22/">China to crack down on 'illegal' cross-border securities | Reuters</a></li>
+<li><a href="https://cepr.org/voxeu/columns/high-inflation-would-amplify-second-round-effects-need-not-prolong-them">High inflation would amplify second-round effects but need not prolong them | CEPR</a></li>
+<li><a href="https://www.caixabankresearch.com/en/economics-markets/inflation/second-round-effects-inflationary-shock">The second-round effects of the inflationary shock</a></li>
+<li><a href="https://www.ecb.europa.eu/ecb/decisions/govc/html/index.en.html">Governing Council - European Central Bank</a></li>
 
 </ul>
 </details>
 
-**标签**: `#China`, `#capital controls`, `#regulatory crackdown`, `#wealth loss`, `#cross-border trading`
+**标签**: `#ECB`, `#monetary policy`, `#eurozone inflation`, `#energy costs`, `#central bank`
 
 ---
 
 <a id="item-12"></a>
-## [斯塔默对强奸少女免刑案表示愤慨](https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
+## [加纳将大型金矿强制购金比例提高至 30%](https://www.bloomberg.com/news/articles/2026-05-25/ghana-to-start-buying-30-of-large-gold-mines-ouput-from-june) ⭐️ 7.0/10
 
-英国首相基尔·斯塔默对两名少年强奸少女后免于监禁的判决表示愤慨，并要求紧急审查相关量刑。 首相的直接干预表明，针对严重性犯罪的量刑可能迎来政策或司法改革，并凸显了性别暴力受害者司法公正方面的系统性问题。 首相表示对量刑进行紧急审查是“正确的”，但尚未公布审查的具体时间表或范围。
+加纳中央银行宣布，自 6 月 1 日起，将大型金矿企业强制出售的黄金比例从之前的 20%提高至 30%。 这一政策转变可能大幅增加加纳的外汇储备并减少对美元的依赖，同时也会影响全球黄金供应以及在加纳运营的矿业公司的盈利能力。 新规仅适用于大型黄金生产商，央行将从 6 月 1 日起开始执行 30%的强制购金要求，此前比例为 20%。
 
-rss · BBC Politics · May 25, 10:14
+rss · Bloomberg Markets · May 25, 17:07
 
-**背景**: 在英国，强奸等严重犯罪的量刑通常由法官根据法律指南决定，但高关注度案件可能引发政府审查。首相对具体判决提出批评的情况罕见，且具有重大政治影响力。
+**背景**: 加纳是非洲最大的黄金生产国，其央行一直推行增加黄金储备的政策，以实现外汇储备多元化并稳定本币。该购金计划最初于 2021 年推出，是增强外汇储备和缓解通胀压力的更广泛举措的一部分。
 
-**标签**: `#UK politics`, `#criminal justice`, `#sentencing`, `#public policy`, `#gender-based violence`
+**标签**: `#gold`, `#central bank policy`, `#Ghana`, `#mining`, `#commodities`
 
 ---
 
 <a id="item-13"></a>
-## [德州共和党参议员决选：科宁对阵帕克斯顿](https://www.nytimes.com/2026/05/25/us/politics/texas-cornyn-paxton-senate-campaign.html) ⭐️ 7.0/10
+## [意大利股市 26 年来首创新高](https://www.bloomberg.com/news/articles/2026-05-25/italian-stocks-hit-first-record-in-26-years-led-by-energy-chips) ⭐️ 7.0/10
 
-德克萨斯州共和党参议员初选决选将于 2026 年 5 月 26 日（周二）结束，现任参议员约翰·科宁与挑战者肯·帕克斯顿之间的竞争成为中期选举周期中最受关注的选战之一。 这场决选将决定德克萨斯州一个关键参议员席位的共和党提名人，而该州可能对哪个政党控制美国参议院起到决定性作用；其结果也将表明共和党在建制派与民粹派之间的方向选择。 决选是在 3 月初选中无人获得多数票后触发的，竞选过程中双方进行了激烈的人身攻击；州总检察长帕克斯顿将自己定位为保守派局外人，挑战长期在任的科宁。
+意大利基准股指突破了 2000 年创下的历史收盘高点，受能源和芯片股上涨推动。 这一里程碑标志着投资者对意大利股市的信心重燃，并反映了欧洲能源和半导体领域的更广泛行业趋势。 该历史新高于 2026 年 5 月 25 日达成，是意大利股市 26 年来首次创下收盘纪录高点。
 
-rss · NYTimes Politics · May 25, 11:19
+rss · Bloomberg Markets · May 25, 11:50
 
-**背景**: 约翰·科宁自 2002 年起担任德克萨斯州联邦参议员，是共和党资深领导人；肯·帕克斯顿是该州总检察长，因其法律斗争和与前总统唐纳德·特朗普的结盟而获得全国关注。这场竞选反映了共和党内部建制派与更倾向民粹主义、与特朗普结盟的候选人之间的全国性分歧。
+**背景**: 自 2000 年互联网泡沫峰值以来，意大利基准指数一直未创新高。近期涨势主要由能源公司（受益于油价上涨）和半导体公司（受益于全球芯片需求）带动。
 
-**标签**: `#U.S. politics`, `#elections`, `#Texas`, `#Senate race`, `#Republican Party`
+**标签**: `#Italian stocks`, `#equity markets`, `#energy`, `#semiconductors`, `#Europe`
 
 ---
 
 <a id="item-14"></a>
 ## [Zepto 计划 6 月提交 10 亿美元印度 IPO 申请](https://www.bloomberg.com/news/articles/2026-05-25/zepto-said-to-plan-june-public-filing-for-1-billion-india-ipo) ⭐️ 7.0/10
 
-印度即时配送公司 Zepto Ltd.计划在 6 月上旬提交首次公开募股申请，此次 IPO 可能筹集高达 10 亿美元。 此次 IPO 将成为印度即时配送行业的一个里程碑事件，表明投资者对快速配送模式及更广泛创业生态系统的强烈信心。它也可能为其他考虑上市的印度即时配送公司树立先例。 据知情人士透露，文件预计在 6 月上旬提交，公司可能筹集高达 10 亿美元。具体估值和时间表将取决于监管批准和市场状况。
+印度即时电商公司 Zepto Ltd.正准备在 6 月上旬提交首次公开募股（IPO）申请，募资额可能高达 10 亿美元。 这将是印度即时电商领域规模最大的 IPO 之一，标志着投资者对超快配送模式的强劲信心，也凸显了印度创业生态系统的日益成熟。 此次 IPO 预计募资高达 10 亿美元，该公司采用库存驱动模式，依托密集的暗店网络实现分钟级配送。
 
 rss · Bloomberg Markets · May 25, 10:23
 
-**背景**: 即时配送是一种电子商务模式，通过本地仓库和暗店在几分钟内（通常 15 分钟以内）配送杂货和家庭必需品等商品。在印度，即时配送市场增长迅速，Zepto、Blinkit 和 Swiggy Instamart 等公司正在争夺市场份额。IPO（首次公开募股）是私营公司首次向公众发行股票并在证券交易所上市的过程。在印度，该过程包括向 SEBI 等监管机构提交招股说明书并接收其反馈意见。
+**背景**: 即时电商（q-commerce）指在几分钟内极速配送生鲜和家庭必需品的服务。自 2019 年以来，该行业快速增长，企业利用本地仓库（暗店）缩短配送时间。Zepto 成立于 2020 年，原名 Kiranakart Technologies Pvt Ltd，是印度该领域的主要参与者。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Q-commerce">Q-commerce - Wikipedia</a></li>
-<li><a href="https://www.channelsight.com/blog/quick-commerce">Quick Commerce: What is Quick Commerce and What does it mean?</a></li>
-<li><a href="https://economictimes.indiatimes.com/definition/quick-commerce?from=mdr">What is Quick Commerce? Definition of Quick Commerce, Quick Commerce Meaning - The Economic Times</a></li>
+<li><a href="https://www.sharescart.com/unlisted-shares/company/zepto-limited/">Zepto Unlisted Share Price : Buy/Sell Online In India</a></li>
 
 </ul>
 </details>
 
-**标签**: `#IPO`, `#India`, `#quick-commerce`, `#capital markets`, `#startups`
+**标签**: `#IPO`, `#India`, `#e-commerce`, `#capital markets`, `#startups`
 
 ---
 
 <a id="item-15"></a>
-## [意大利增持支付公司 Nexi 股份，加强政府控制](https://www.bloomberg.com/news/articles/2026-05-25/italy-s-cassa-depositi-plans-to-raise-nexi-stake-up-to-29-9) ⭐️ 7.0/10
+## [瑞士贸易商从伊拉克石油经霍尔木兹海峡运输中获利](https://www.bloomberg.com/news/articles/2026-05-25/swiss-trader-had-lucrative-role-getting-iraqi-oil-through-hormuz) ⭐️ 7.0/10
 
-意大利国有银行 Cassa Depositi e Prestiti（CDP）计划将其在支付公司 Nexi 的持股比例提高至 29.9%，从而加强对这一战略性金融资产的控制。 此举标志着在总理乔治娅·梅洛尼领导下，意大利对金融基础设施的国家干预加强，可能影响市场竞争和欧洲支付行业的整体格局。 由意大利经济和财政部控制的 CDP 是该国资产规模第二大银行，已持有 Nexi 大量股份。将持股比例提高至 30%以下，可避免触发意大利法律规定的强制收购要约。
+一家鲜为人知的瑞士贸易公司在协助一艘伊拉克超级油轮通过霍尔木兹海峡的运输中发挥了获利丰厚的作用，这一旅程在本月初曾吸引石油市场的关注。 这一事件凸显了石油市场中不透明的交易行为以及霍尔木兹海峡周边的地缘政治风险——全球约 20%的石油供应经过这一咽喉要道，可能对石油市场稳定和制裁执行产生影响。 这艘超级油轮走走停停的旅程引起了广泛关注，而一家鲜为人知的瑞士贸易商的参与凸显了不透明实体如何在地缘政治敏感地区运营。霍尔木兹海峡位于阿曼和伊朗之间，是合法石油贸易和非法走私的主要通道。
 
-rss · Bloomberg Markets · May 25, 05:44
+rss · Bloomberg Markets · May 25, 08:49
 
-**背景**: Cassa Depositi e Prestiti（CDP）是一家成立于 1850 年的意大利著名公共开发银行，最初为道路和水利等公共工程提供融资。它由经济和财政部控制，促进国家增长并管理邮政储蓄。Nexi 是欧洲主要的支付公司，控制该公司被视为对意大利金融主权具有战略意义。
+**背景**: 霍尔木兹海峡是连接波斯湾与公海的关键海上咽喉要道，全球约 20%的石油供应和 20%的海运天然气油轮经过此处。该海峡一旦中断将立即对全球定价产生影响，尤其是对接收大部分过境石油的亚洲市场。该地区还以跨海峡非法贸易闻名，阿曼穆桑代姆半岛的哈萨卜市是主要枢纽。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Cassa_Depositi_e_Prestiti">Cassa Depositi e Prestiti - Wikipedia</a></li>
-<li><a href="https://www.cdp.it/sitointernet/it/homepage.page">Cassa Depositi e Prestiti | CDP</a></li>
-<li><a href="https://thebanks.eu/banks/15884">Cassa Depositi e Prestiti SpA In Forma Abbreviata Cdp S.p.a.</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz - Wikipedia</a></li>
+<li><a href="https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz">Strait of Hormuz - About - IEA</a></li>
+<li><a href="https://www.theguardian.com/business/2026/mar/01/us-israel-strikes-iran-oil-price">What is the strait of Hormuz and why is it crucial for oil ... | The Guardian</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Italy`, `#state intervention`, `#payments`, `#financial infrastructure`, `#geopolitics`
+**标签**: `#geopolitics`, `#oil markets`, `#Strait of Hormuz`, `#commodities trading`, `#sanctions risk`
 
 ---
 
 <a id="item-16"></a>
-## [瑞士贸易商在伊拉克石油经霍尔木兹海峡运输中扮演关键角色](https://www.bloomberg.com/news/articles/2026-05-25/swiss-trader-had-lucrative-role-getting-iraqi-oil-through-hormuz) ⭐️ 7.0/10
+## [标普 500 盈利增长扩大至科技巨头之外](https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-一家鲜为人知的瑞士贸易公司促成了一艘巨型油轮通过霍尔木兹海峡的运输，这一旅程在本月初吸引了石油市场的关注。 这一事件凸显了中介机构在应对霍尔木兹海峡地缘政治风险中的关键作用，该海峡承载着全球约 25%的海运石油贸易，并强调了在 2026 年危机中持续的供应安全问题。 该瑞士贸易商的参与发生在海峡航运量从战前的每天 125-140 艘降至约 10 艘的时期，油轮装载的是运往亚洲市场的伊拉克原油。
+标普 500 指数的盈利增长已达到近五年来最快速度，这越来越得益于七大科技巨头之外的 493 家公司，此前这些巨头主导了利润扩张。 盈利增长的扩大标志着市场更加健康和多元化，降低了对少数科技股过度集中的风险，并为投资者支持潜在的板块轮动。 过去三年多来，七大科技公司一直是标普 500 盈利增长的主要推动力，但现在其他 493 家指数成员正越来越多地为整体利润增长做出贡献。
 
-rss · Bloomberg Markets · May 25, 08:49
+rss · MarketWatch Top Stories · May 25, 19:50
 
-**背景**: 霍尔木兹海峡是伊朗和阿曼之间的一条狭窄水道，每天约有 2000 万桶石油通过，是全球能源贸易的关键咽喉。自 2026 年 2 月以来，美国和以色列对伊朗发动的空战基本封锁了海峡航运，造成了严重的供应中断。这艘伊拉克油轮的成功过境代表了一次罕见的突破封锁，由一家鲜为人知的贸易公司促成。
+**背景**: 标普 500 指数包含 500 家美国大型公司，其中七大科技巨头（苹果、微软、Alphabet、亚马逊、英伟达、Meta 和特斯拉）因其巨大的市值而对指数回报具有不成比例的影响。盈利增长是衡量企业健康状况的关键指标，也是股价的主要驱动因素。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">2026 Strait of Hormuz crisis - Wikipedia</a></li>
-<li><a href="https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz">Strait of Hormuz - About - IEA</a></li>
-<li><a href="https://www.reuters.com/business/energy/chinese-tankers-exit-strait-hormuz-with-4-million-barrels-crude-oil-data-shows-2026-05-20/">Tankers exit Strait of Hormuz with 6 million barrels of crude oil | Reuters</a></li>
-
-</ul>
-</details>
-
-**标签**: `#oil markets`, `#geopolitics`, `#Strait of Hormuz`, `#energy security`, `#Iraq`
+**标签**: `#S&P 500`, `#earnings growth`, `#market breadth`, `#corporate profits`, `#sector rotation`
 
 ---
 
 <a id="item-17"></a>
-## [贝莱德认为沃什领导下的美联储有理由降息](https://www.bloomberg.com/news/articles/2026-05-25/blackrock-says-there-are-sufficient-factors-to-justify-fed-cut-mpkxuynr) ⭐️ 7.0/10
+## [英国将调查隐藏的育儿费用](https://www.bbc.com/news/articles/c4g7d6ngjldo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-全球最大资产管理公司贝莱德表示，在新任主席凯文·沃什领导下，美联储有充分理由降息而非加息。 这一来自主要市场参与者的信号可能改变投资者预期，并影响实际货币政策方向，尤其是在新任美联储主席带来不确定性的背景下。 该评论来自贝莱德的 Saigal，由彭博社于 2026 年 5 月 25 日报道，但可用内容中未详细说明所引用的具体经济因素。
+英国教育大臣布里奇特·菲利普森将要求竞争监管机构调查家庭在政府资助的育儿服务中面临的隐藏费用。 此举可能提高费用透明度、降低家庭开支，从而缓解英国家庭在育儿体系中的关键经济负担。 调查将重点关注政府资助后仍存在的费用，例如强制性附加项目或补贴未覆盖的费用。
 
-rss · Bloomberg Markets · May 25, 08:22
+rss · BBC Politics · May 25, 14:36
 
-**背景**: 美联储通过设定利率来管理通胀和就业。降息通常旨在刺激经济增长，而加息则用于为过热的经济降温。凯文·沃什近期成为美联储主席，其政策立场正受到市场密切关注。
+**背景**: 英国政府为符合条件的家庭提供免费育儿时段，但许多家长反映存在意外附加费用。这些隐藏收费可能包括餐费、尿布费或活动费，削弱了政策本应带来的经济缓解效果。
 
-**标签**: `#Federal Reserve`, `#monetary policy`, `#interest rates`, `#BlackRock`, `#Kevin Warsh`
+**标签**: `#UK politics`, `#childcare policy`, `#consumer protection`, `#government regulation`
 
 ---
 
 <a id="item-18"></a>
-## [中国太阳能装机量连续第四个月下降](https://www.bloomberg.com/news/articles/2026-05-25/china-s-solar-installations-fall-for-fourth-straight-month) ⭐️ 7.0/10
+## [AOC 前幕僚长竞选佩洛西席位](https://www.nytimes.com/2026/05/25/us/politics/saikat-chakrabarti-aoc-sf-pelosi-seat.html) ⭐️ 6.0/10
 
-据彭博社报道，中国 4 月新增太阳能装机量连续第四个月下降，凸显国内需求持续疲软。 作为全球最大太阳能市场，装机量的持续下降可能预示着可再生能源推广的放缓，进而影响全球太阳能供应链和清洁能源投资趋势。 这是连续第四个月下降，报告未提供具体数字，但趋势表明这是持续疲软而非暂时波动。
+亚历山大·奥卡西奥-科尔特斯的前幕僚长赛卡特·查克拉巴蒂正在旧金山竞选国会议员，以接替即将退休的众议员南希·佩洛西。 这场初选突显了民主党内部进步派（以奥卡西奥-科尔特斯为代表）与温和派建制派（以佩洛西为代表）之间的紧张关系。 查克拉巴蒂七年前曾因一条煽动性推文激怒佩洛西，而奥卡西奥-科尔特斯尚未公开支持他参选。
 
-rss · Bloomberg Markets · May 25, 07:58
+rss · NYTimes Politics · May 25, 09:01
 
-**背景**: 中国是全球最大的太阳能市场，占全球太阳能装机量的很大份额。国内需求持续下滑可能导致全球市场供应过剩，给太阳能电池板价格带来下行压力，并影响全球制造商。
+**背景**: 南希·佩洛西是长期担任民主党领袖的前众议院议长，即将从旧金山国会席位退休。赛卡特·查克拉巴蒂曾是进步派明星亚历山大·奥卡西奥-科尔特斯的关键助手，并共同创立了挑战温和派现任议员的“正义民主党”组织。
 
-**标签**: `#China`, `#solar energy`, `#renewable energy`, `#energy markets`, `#economic indicators`
+**标签**: `#US politics`, `#Congressional race`, `#Democratic Party`, `#San Francisco`
 
 ---
 
 <a id="item-19"></a>
-## [印度卢比因油价下跌及央行估值言论走强](https://www.bloomberg.com/news/articles/2026-05-25/india-rupee-climbs-on-oil-relief-central-bank-valuation-comment) ⭐️ 7.0/10
+## [Cox 集团利用过桥贷款收购 Iberdrola 墨西哥资产](https://www.bloomberg.com/news/articles/2026-05-25/cox-group-took-54-bridge-loan-for-deal-to-buy-iberdrola-mexico) ⭐️ 6.0/10
 
-2026 年 5 月 25 日，印度卢比走强，原因是市场对美伊协议抱有希望导致油价下跌，且印度储备银行（RBI）行长暗示卢比可能被低估。 卢比走强有助于印度减少原油进口支出，缓解通胀压力并改善贸易平衡；同时央行对估值的评论暗示政策可能转向，这会影响外汇市场和外国投资。 卢比上涨由两个因素驱动：美伊协议前景导致全球油价下跌，以及 RBI 行长称卢比可能被低估，这可能鼓励进一步升值或干预。行长未提供具体目标或时间表。
+西班牙公用事业公司 Cox ABG Group SA 获得了一笔过桥贷款，用于部分资助其以 42 亿美元收购 Iberdrola 墨西哥资产的交易，并以自身股份作为抵押。 这种融资结构凸显了大型跨境能源收购如何通过以股权为抵押的短期贷款获得临时资金，为买方在安排长期融资期间提供了灵活性。这也突显了全球能源行业（尤其是墨西哥电力市场）持续整合的趋势。 过桥贷款是一种短期融资工具，通常持续两周至三年，旨在填补长期资金到位前的缺口。通过质押股份作为抵押，Cox 集团降低了贷款方的风险，但如果其股价下跌，则可能面临追加保证金的要求。
 
-rss · Bloomberg Markets · May 25, 03:35
+rss · Bloomberg Markets · May 25, 16:11
 
-**背景**: 印度是主要石油进口国，因此油价下跌直接降低其进口成本并改善经常账户赤字。RBI 经常干预外汇市场以管理波动，而行长公开评论估值较为罕见，可能预示着政策立场的转变。
+**背景**: 过桥贷款是一种短期贷款，用于在过渡期提供即时现金流，例如公司收购另一家企业时，在安排长期融资前需要资金。在收购融资中，通常以收购方的股份或目标公司的资产等作为抵押品来担保贷款，以保护贷款方在借款人违约时的利益。这笔交易涉及西班牙公用事业公司 Cox ABG Group 从西班牙大型能源公司 Iberdrola 手中收购其在墨西哥电力市场的资产。
 
-**标签**: `#India`, `#currency`, `#central bank`, `#oil prices`, `#geopolitics`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bridge_loan">Bridge loan - Wikipedia</a></li>
+<li><a href="https://www.rocketmortgage.com/learn/bridge-loan">What is a bridge loan & how does it work? | Rocket Mortgage</a></li>
+<li><a href="https://www.bankrate.com/mortgages/bridge-loan/">What Is A Bridge Loan And How Does It Work? | Bankrate</a></li>
+
+</ul>
+</details>
+
+**标签**: `#corporate finance`, `#energy M&A`, `#Mexico`, `#bridge loan`, `#utilities`
 
 ---
 
 <a id="item-20"></a>
-## [伊朗协议预期提振南非兰特](https://www.bloomberg.com/news/videos/2026-05-25/iran-reescalation-risk-can-spike-rand-levels-video) ⭐️ 7.0/10
+## [捷克总理呼吁降息，通胀风险上升](https://www.bloomberg.com/news/articles/2026-05-25/czech-premier-urges-interest-rate-cut-as-inflation-risks-grow) ⭐️ 6.0/10
 
-交易员正密切关注南非兰特，因有迹象显示美国与伊朗可能达成协议重新开放霍尔木兹海峡，这使得兰特在 14 种主要货币中对美元表现最佳。 这一地缘政治动态意义重大，因为霍尔木兹海峡是全球能源贸易的关键咽喉，其重新开放可能降低油价并减少风险溢价，从而利好兰特等新兴市场货币。 霍尔木兹海峡每年承载全球约 20%的液化天然气和 25%的海运石油贸易，其在 2026 年伊朗战争期间的关闭曾导致严重供应中断。兰特的走强反映了投资者对地缘政治风险降低的乐观情绪。
+捷克总理彼得·菲亚拉公开敦促央行降息，加大了要求降低借贷成本的政治压力，尽管该国正面临能源价格上涨带来的日益严重的通胀风险。 这一干预凸显了政治领袖与独立央行之间在货币政策上日益紧张的关系，可能为中东欧地区政治影响利率决定开创先例。这也表明捷克政府优先考虑经济增长而非控制通胀，可能影响投资者信心和捷克克朗的稳定。 尽管捷克面临加剧的通胀风险（尤其是能源价格上涨），通常需要收紧而非放松货币政策，总理仍发出了降息呼吁。央行尚未对此请求作出回应，其独立性是维持物价稳定的关键因素。
 
-rss · Bloomberg Markets · May 25, 06:36
+rss · Bloomberg Markets · May 25, 14:22
 
-**背景**: 霍尔木兹海峡是伊朗与阿拉伯半岛之间的一条狭窄水道，是波斯湾通往公海的唯一海上通道。它是全球最具战略意义的咽喉要道之一，任何中断都可能导致全球能源市场以及与大宗商品价格挂钩的货币（如南非兰特）出现剧烈波动。
+**背景**: 许多国家的央行在法律上独立制定利率，不受政治干预，这一原则旨在防止短期政治周期破坏长期物价稳定。在捷克，央行一直在应对由全球能源市场动荡和国内需求推动的通胀。政府寻求在选举前或经济放缓期间刺激增长时，往往会施加降息的政治压力，但这种压力可能与央行控制通胀的职责相冲突。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz</a></li>
-<li><a href="https://www.bbc.com/news/articles/c78n6p09pzno">Iran war: What is the Strait of Hormuz and why does it matter?</a></li>
-<li><a href="https://www.marketwatch.com/investing/currency/USDZAR">USDZAR | South African Rand Overview | MarketWatch</a></li>
-
-</ul>
-</details>
-
-**标签**: `#geopolitics`, `#currency markets`, `#Iran`, `#South Africa`, `#energy`
+**标签**: `#monetary policy`, `#Czech Republic`, `#inflation`, `#interest rates`, `#political pressure`
 
 ---
 
 <a id="item-21"></a>
-## [英国将审查隐性育儿成本](https://www.bbc.com/news/articles/c4g7d6ngjldo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+## [尼日利亚一季度 GDP 因石油行业下滑而放缓](https://www.bloomberg.com/news/articles/2026-05-25/nigeria-s-first-quarter-growth-eases-on-slowdown-in-oil-sector) ⭐️ 6.0/10
 
-英国教育大臣布里奇特·菲利普森将要求竞争监管机构审查家庭在政府资助的育儿服务中仍面临的隐性成本。 此次审查可能提高透明度并降低家庭成本，解决英国育儿体系中一项重大的经济负担。 审查将重点关注尽管有政府资助但仍存在的成本，例如未明确披露的强制性附加费用或收费。
+尼日利亚第一季度 GDP 增速放缓幅度超过预期，主要由于石油和非石油行业均出现下滑。 这一放缓是非洲最大经济体的关键指标，可能影响区域市场情绪并促使政策调整。 该报告涵盖 2026 年第一季度，石油和非石油行业增长均放缓，但摘要中未提供具体百分比数据。
 
-rss · BBC Politics · May 25, 08:13
+rss · Bloomberg Markets · May 25, 13:35
 
-**背景**: 英国政府为符合条件的家庭提供资助的育儿时长，但许多家长报告称在餐食、尿布或活动等项目上遭遇意外收费。这些隐性成本可能削弱预期的经济减负效果。
+**背景**: 尼日利亚是主要石油生产国和非洲最大经济体。GDP 增长作为经济健康指标备受关注，石油行业历来扮演重要角色。经济放缓可能预示着更广泛的经济挑战，包括财政压力和投资减少。
 
-**标签**: `#UK politics`, `#childcare policy`, `#consumer protection`, `#regulation`
+**标签**: `#Nigeria`, `#GDP`, `#oil`, `#economic growth`, `#Africa`
 
 ---
 
 <a id="item-22"></a>
-## [AOC 前幕僚长竞选佩洛西席位](https://www.nytimes.com/2026/05/25/us/politics/saikat-chakrabarti-aoc-sf-pelosi-seat.html) ⭐️ 6.0/10
+## [非洲最大交易所将收紧算法交易与市场准入规则](https://www.bloomberg.com/news/articles/2026-05-25/top-africa-bourse-to-tighten-algo-trading-market-access-rules) ⭐️ 6.0/10
 
-亚历山大·奥卡西奥-科尔特斯的前幕僚长赛卡特·查克拉巴蒂正在旧金山竞选国会议员，以接替众议员南希·佩洛西的席位。 这场竞选凸显了进步派与温和派民主党人之间持续的紧张关系，查克拉巴蒂过去对佩洛西的批评可能成为核心议题。 查克拉巴蒂七年前曾因一条煽动性推文激怒佩洛西，而奥卡西奥-科尔特斯并未公开支持他的竞选。
+非洲最大的证券交易所运营商正在加强对经纪商和交易公司进入交易所方式的监管，旨在降低由失控算法和交易错误可能扰乱市场的风险。 这一监管更新对非洲最大交易所的市场稳定具有重要意义，将影响算法交易实践，并可能降低破坏性交易错误的发生概率。它标志着当地规则向全球标准靠拢的更广泛趋势，将对经纪商、交易公司和投资者产生影响。 该运营商计划收紧算法交易和市场准入规则，特别针对未经筛选或“裸”赞助访问的风险，类似于 FINRA 市场准入规则等法规。这些变化对市场参与者具有时效性，他们必须适应新的合规要求。
 
-rss · NYTimes Politics · May 25, 09:01
+rss · Bloomberg Markets · May 25, 13:30
 
-**背景**: 南希·佩洛西是长期担任民主党领袖的前众议院议长，代表旧金山一个深蓝选区。赛卡特·查克拉巴蒂曾是进步派明星亚历山大·奥卡西奥-科尔特斯的关键助手，并协助创立了正义民主党团体。这场竞选被视为进步派在深蓝城市实力的一次考验。
+**背景**: 算法交易使用计算机程序高速执行交易，有时可能发生故障并导致市场混乱。市场准入规则，如美国 FINRA 执行的规则，要求经纪商实施交易前风险控制，以防止失控算法引发错误。非洲最大的交易所现在正跟随这一全球趋势，以增强市场稳定性。
 
-**标签**: `#US politics`, `#Congressional race`, `#Democratic Party`, `#progressive movement`, `#Nancy Pelosi`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.finra.org/rules-guidance/key-topics/market-access">Market Access | FINRA.org</a></li>
+<li><a href="https://www.technapp.com/algorithmic-trading-regulations-and-compliance-in-south-africa/">Algorithmic Trading Regulations and Compliance in South Africa ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#financial regulation`, `#algorithmic trading`, `#Africa`, `#stock exchange`, `#market stability`
 
 ---
 
 <a id="item-23"></a>
-## [软银通过零售日元债券融资 16 亿美元](https://www.bloomberg.com/news/articles/2026-05-25/softbank-taps-retail-investors-with-1-6-billion-yen-bond-deal) ⭐️ 6.0/10
+## [NAR 裁决后，经纪人会降低 6%佣金吗？](https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories) ⭐️ 6.0/10
 
-软银集团计划通过面向个人投资者的次级债券发行筹集 2600 亿日元（约 16 亿美元），这是其两个月内第二次此类零售债券发行。 此次债券发行凸显了软银在高杠杆背景下持续依赖零售投资者融资，同时也反映了日本企业债券发行因零售参与而创下历史新高的更广泛趋势。 这些债券属于次级债券，即在破产情况下其偿付顺序低于优先债务，并且面向个人投资者，与软银约两个月前的发行类似。
+一位在夏威夷毛伊岛出售价值 100 万美元房产的房主质疑，在全国房地产经纪人协会（NAR）裁决将买方和卖方经纪人费用分离后，房地产经纪人是否会收取低于传统 6%的佣金。 这个问题反映了房地产市场的广泛变化，因为 NAR 和解协议（自 2024 年 8 月 17 日起生效）取消了强制性的 6%佣金模式，可能降低卖房成本并增加经纪人之间的竞争。 NAR 和解协议要求卖家不再通过 MLS 列表同时补偿自己的经纪人和买方经纪人，允许单独谈判并可能带来更具竞争力的费率，尽管 6%在实践中仍然常见。
 
-rss · Bloomberg Markets · May 25, 05:56
+rss · MarketWatch Top Stories · May 25, 13:45
 
-**背景**: 次级债务是一种在清算或破产时资产索赔权低于优先贷款或证券的债券。在日本，零售投资者对企业债券的需求强劲，推动截至 2026 年 3 月的财年企业债券发行量达到创纪录的 15.8 万亿日元。
+**背景**: 传统上，房屋卖家支付 6%的佣金，由挂牌经纪人和买方经纪人平分。2024 年 3 月，NAR 达成和解协议，同意支付 4.18 亿美元并改变政策以分离这些费用，自 2024 年 8 月 17 日起生效，使卖家有更多灵活性来协商更低的费率。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Subordinated_debt">Subordinated debt - Wikipedia</a></li>
-<li><a href="https://asia.nikkei.com/business/markets/bonds/japan-s-corporate-bond-issuance-hits-record-high-on-retail-investors">Japan's corporate bond issuance hits record high on retail investors - Nikkei Asia</a></li>
+<li><a href="https://www.apslaw.com/its-your-business/2024/12/02/the-future-of-realtor-commissions-understanding-the-nar-settlement/">The Future of Realtor Commissions: Understanding the NAR Settlement | It’s Your Business</a></li>
+<li><a href="https://listwithclever.com/real-estate-blog/6-percent-real-estate-commission-explained/">6% Real Estate Commission: 2026 Rates & How to Pay Less</a></li>
+<li><a href="https://anytimeestimate.com/6-percent-commission-realtors-explained/">6% Real Estate Commission (2026): Is It Still the Standard?</a></li>
 
 </ul>
 </details>
 
-**标签**: `#corporate finance`, `#Japan`, `#bond market`, `#SoftBank`, `#retail investors`
-
----
-
-<a id="item-24"></a>
-## [印度债券投资者利用互换利率提升回报](https://www.bloomberg.com/news/articles/2026-05-25/india-bond-investors-tap-soaring-swap-rates-to-juice-returns) ⭐️ 6.0/10
-
-印度债券基金经理正利用多年高位的互换利率进行交易，以提升固定收益回报。 这一策略使投资者在低收益环境中提升回报，反映了更广泛的货币政策动态，并为印度固定收益投资组合优化提供了新途径。 这些交易涉及利用利率互换将固定利率债券敞口转换为浮动利率敞口，从而利用高互换利率产生额外收益。
-
-rss · Bloomberg Markets · May 25, 01:30
-
-**背景**: 利率互换是一种衍生品合约，用于交换固定利率和浮动利率的利息支付，常用于对冲或投机。在印度，受货币政策收紧预期和全球利率趋势推动，互换利率已升至多年高位。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Interest_rate_swap">Interest rate swap - Wikipedia</a></li>
-<li><a href="https://www.pimco.com/us/en/resources/education/understanding-interest-rate-swaps">Understanding Interest Rate Swaps - PIMCO</a></li>
-<li><a href="https://www.business-standard.com/markets/news/rising-swap-rates-open-fresh-return-opportunities-for-india-bond-investors-126052500101_1.html">Rising swap rates open fresh return opportunities for India bond ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#India`, `#bond market`, `#swap rates`, `#fixed income`, `#monetary policy`
-
----
-
-<a id="item-25"></a>
-## [伦敦酒吧业折射英国经济趋势](https://www.bloomberg.com/news/videos/2026-05-25/what-it-takes-to-run-one-of-london-s-most-popular-pubs-video) ⭐️ 6.0/10
-
-彭博 Odd Lots 节目通过伦敦知名酒吧 The Devonshire 探讨酒吧行业如何反映宏观经济趋势，指出 2026 年第一季度英格兰每天约有 2 家酒吧关闭。 这一分析之所以重要，是因为酒吧是英国整体经济状况的缩影，反映了消费者信心、大宗商品成本和劳动力市场压力，为观察酒店业及更广泛经济的健康度提供了实时视角。 该节目邀请了 The Devonshire 的联合创始人 Oisin Rogers 和 Ashley Palmer-Watts，讨论了优质与劣质酒吧的区别、'gastropub'一词的含义以及室内禁烟令对酒吧文化的影响。
-
-rss · Bloomberg Markets · May 25, 08:17
-
-**背景**: 酒吧是英国社交生活的重要组成部分，但近年来该行业面临重大挑战，包括通货膨胀、消费者习惯变化以及运营成本上升。英国啤酒与酒吧协会报告称，全英约有 45,000 家酒吧，自 2019 年以来减少了约 2,000 家。Gastropub（美食酒吧）是指提供高品质食物的酒吧，该术语于 1990 年代在英国出现。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/British_Beer_and_Pub_Association">British Beer and Pub Association</a></li>
-<li><a href="https://www.nytimes.com/2025/02/05/travel/british-pub-overnight-stays.html">Pub Stays in Britain: Food, Lodging and Hanging Out With Locals - The...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Gastropub">Gastropub - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#UK economy`, `#hospitality industry`, `#consumer confidence`, `#commodity costs`, `#labor market`
-
----
-
-<a id="item-26"></a>
-## [富时罗素剔除印尼豪门关联股票](https://www.bloomberg.com/news/articles/2026-05-25/ftse-cut-hits-stock-tied-to-one-of-indonesia-s-richest-families) ⭐️ 6.0/10
-
-由于股权集中，富时罗素在上周末将一家与印尼最富有家族之一有关联的公司从其全球指数中剔除，导致该公司股价下跌。 这一事件凸显了新兴市场公司治理受到的日益严格的审视，指数提供商对股权集中度执行更严格的规定，可能影响投资者信心和股票流动性。 此次剔除是由富时罗素关于股权集中的规则触发的，该规则限制将少数股东持有大量股权的股票纳入指数。股价下跌反映了市场对失去指数纳入资格的即时反应。
-
-rss · Bloomberg Markets · May 25, 03:29
-
-**背景**: 股权集中是指一小部分股东（通常是创始人或家族）持有公司大部分股权的情况。富时罗素等指数提供商定期调整其指数以确保符合市场标准，股权过度集中的股票可能被剔除，以保护少数投资者和指数完整性。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://wingspanlegacy.com/power-and-responsibility-trade-offs-concentrated-ownership/">The Trade-Offs of Concentrated Ownership</a></li>
-<li><a href="https://www.forbes.com/advisor/investing/russell-index-rebalancing/">Russell Rebalancing : What You Need To Know – Forbes Advisor</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Indonesia`, `#FTSE Russell`, `#index rebalancing`, `#corporate governance`, `#emerging markets`
-
----
-
-<a id="item-27"></a>
-## [日本国债反弹料难持久](https://www.bloomberg.com/news/videos/2026-05-25/respite-for-jgbs-won-t-last-long-3-minutes-mliv-video) ⭐️ 6.0/10
-
-彭博的一则视频分析指出，日本国债近期的平静只是暂时的，随后可能面临新一轮抛售压力。 这之所以重要，是因为日本国债是全球固定收益市场的基石，新一轮抛售可能影响收益率、日本央行的政策路径以及全球投资者情绪。 该分析由 Joumanna Bercetche、Tom Mackenzie 和 Ven Ram 在彭博节目“开盘交易”中提出，但该片段未提供具体数据或证据来支持其观点。
-
-rss · Bloomberg Markets · May 25, 07:13
-
-**背景**: 日本国债是日本政府发行的债务证券，其收益率被视作全球借贷成本的基准。日本央行的货币政策，包括收益率曲线控制，对日本国债价格有重大影响。
-
-**标签**: `#JGBs`, `#fixed income`, `#Japan`, `#macro`, `#markets`
-
----
-
-<a id="item-28"></a>
-## [油价因协议希望下跌：彭博节目](https://www.bloomberg.com/news/videos/2026-05-25/insight-with-haslinda-amin-5-25-2026-video) ⭐️ 6.0/10
-
-2026 年 5 月 25 日，彭博新闻节目《Insight with Haslinda Amin》讨论了石油市场走势及可能影响价格的协议前景，表明对解决方案的希望正推动油价下跌。 这很重要，因为油价波动影响全球能源市场、通胀和地缘政治稳定，任何潜在协议都可能重塑供应动态和投资者情绪。 该节目包含对商业、金融、政治和文化领域知名领袖的深度采访和分析，但描述中未提供协议或价格变动的具体细节。
-
-rss · Bloomberg Markets · May 25, 06:33
-
-**背景**: 石油市场对地缘政治事件和供应协议（如 OPEC+或主要产油国的协议）高度敏感。“协议”可能指减产、制裁解除或影响供需的外交解决方案。对这类协议的希望常导致投机交易和价格下跌。
-
-**标签**: `#oil`, `#energy markets`, `#geopolitics`, `#commodities`
+**标签**: `#real estate`, `#commissions`, `#NAR ruling`, `#housing market`, `#consumer finance`
 
 ---
 
 ## 科技
 
-<a id="item-29"></a>
-## [华为提出“韬定律”探索半导体新路径](https://www.peopleapp.com/column/30052220655-500007509895) ⭐️ 8.0/10
+<a id="item-24"></a>
+## [加州提议将 Linux 从年龄验证法中豁免](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) ⭐️ 8.0/10
 
-在上海举行的 2026 国际电路与系统研讨会上，华为宣布了“韬定律”（τ定律），这是一项以时间缩微替代几何缩微的新半导体演进原则。过去六年，华为已据此设计量产了 381 款芯片，今年秋季将推出首款采用逻辑折叠技术的全新麒麟芯片。 “韬定律”为在摩尔定律逼近物理极限后延续芯片性能提升提供了潜在路径。如果得到验证，这一方法可能将行业焦点从缩小晶体管尺寸转向优化信号传播延迟，从而重塑半导体产业，影响未来多年的芯片设计、制造和系统架构。 华为预计，到 2031 年，基于“韬定律”的高端芯片晶体管密度将达到 1.4 纳米制程的同等水平。即将推出的麒麟 2026 芯片将首次完整实施逻辑折叠技术，将逻辑设计从单层扩展至双层，大幅提升晶体管密度和性能。
+加州在遭到开源社区强烈反对后，提出修正案 AB-1856，将 Linux 发行版从其年龄验证法 AB 2273 中豁免。该修正案明确排除了以允许复制、再分发和修改的开源许可证分发的操作系统。 此举解决了原法律可能迫使开源操作系统收集用户年龄的担忧，这侵犯了隐私并违背了开源精神。若通过，将为儿童安全立法如何在不施加不当负担的情况下适应开源软件树立先例。 修正案 AB-1856 目前正在委员会审查中，可能于 6 月由加州州议会投票表决。该修正案由起草原 AB 2273 的同一立法者提出，直接回应了社区的强烈反对。
 
-telegram · zaihuapd · May 25, 01:35
+hackernews · rbanffy · May 25, 18:19
 
-**背景**: 摩尔定律是数十年来芯片晶体管数量大约每两年翻一番的观察结论，但随着微型化达到物理极限，其速度正在放缓。传统的缩放依赖于缩小晶体管的几何尺寸（几何缩微）。而“韬定律”则专注于系统性降低时间常数（τ）——即信号在电路中传播所需的时间——通过优化器件、互连和系统架构，从而在不单纯依赖更小特征尺寸的情况下提升性能和密度。
+**背景**: 加州 AB 2273 于 2022 年颁布，要求可能被儿童使用的在线服务以合理确定性估算用户年龄。批评者认为，其宽泛措辞可能被解释为包括 Linux 等操作系统，迫使它们实施年龄验证。开源社区和隐私倡导者警告，这将侵犯用户隐私并阻碍软件分发。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://user.guancha.cn/main/content?id=1657682">如何理解华为发表的“ 韬 定 律 ”？_ 风闻</a></li>
-<li><a href="https://www.dramx.com/News/made-sealing/20260525-40480.html">华为发表 半 导 体 韬 定 律 -全球 半 导 体 观察</a></li>
-<li><a href="https://www.21jingji.com/article/20260525/herald/1573642c437a5e4e76a15fc1c40f0a35.html">华为提出的“ 韬 定 律 ”是什么？ 跟摩尔 定 律 有什么不同？ - 21经济网</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Social_media_age_verification_laws_in_the_United_States">Social media age verification laws in the United States - Wikipedia</a></li>
+<li><a href="https://www.phoronix.com/news/California-AB-1856">California's Age Verification Law May End Up Exempting ... - Phoronix</a></li>
+<li><a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB2273">Bill Text - AB-2273 The California Age-Appropriate Design Code Act.</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#Huawei`, `#Moore's Law`, `#chip design`, `#hardware`
+**社区讨论**: 社区评论表达了深深的怀疑，用户如 shevy-java 怀疑存在由大型科技公司资助的全球性推动年龄嗅探强制令的模式。其他人如 softwaredoug 认为，该法律将负担转嫁给了消费者而非监管公司。Layer8 指出，豁免不仅限于 Linux，而是针对任何开源操作系统。
+
+**标签**: `#linux`, `#internet legislation`, `#privacy`, `#open source`, `#tech policy`
+
+---
+
+<a id="item-25"></a>
+## [教宗良十四世首道通谕聚焦科技伦理](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) ⭐️ 8.0/10
+
+教宗良十四世于 2026 年 5 月 15 日发布其首道通谕《壮丽人性》，指出技术绝非中立，并呼吁技术构建者思考其创造的伦理与精神影响。 这道通谕标志着重要机构声音加入科技伦理辩论，敦促科技行业反思设计选择如何塑造社会并集中权力。 文件强调“每一个设计选择都反映了一种人性愿景”，并警告人工智能、生物技术和核能等技术可能赋予控制者“令人瞩目的支配力”。
+
+hackernews · theletterf · May 25, 10:11
+
+**背景**: 通谕是教宗写给教会和世界的正式信函，常阐述关键道德教导。良十四世的首道通谕延续了其前任方济各的传统，后者也曾探讨技术对社会和权力结构的影响。
+
+**社区讨论**: Hacker News 上的评论者展开了实质性辩论，有人质疑技术是否曾为公共利益而被驯服，也有人赞扬梵蒂冈在科技伦理上的细致视角。讨论突出了历史类比和对权力集中的担忧。
+
+**标签**: `#technology ethics`, `#AI ethics`, `#societal impact`, `#philosophy of technology`, `#Vatican`
+
+---
+
+<a id="item-26"></a>
+## [ClickUp 裁员预示 AI 驱动的劳动力变革](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/) ⭐️ 8.0/10
+
+成立九年的初创公司 ClickUp 裁减了数百名员工，并计划用数千个 AI 代理（包括其新开发的 Super Agents）来替代他们。 此举凸显了一个日益增长的趋势：公司（尤其是初创企业）正积极采用 AI 来减少人力，可能重塑未来工作模式，并引发对岗位替代的担忧。 ClickUp 的 AI 代理（称为 Super Agents）旨在工作空间中自主运行，以类人交互方式处理自动化、项目管理等任务。
+
+rss · TechCrunch · May 25, 16:00
+
+**背景**: ClickUp 是一家项目管理软件公司，一直致力于开发 AI 驱动的工具来自动化工作流程。此次裁员反映了初创企业利用 AI 削减成本、避免招聘的更广泛趋势，类似 Block 和 Atlassian 等公司。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://help.clickup.com/hc/en-us/articles/31010910371991-What-are-Super-Agents">What are Super Agents? – ClickUp Help</a></li>
+<li><a href="https://time.com/article/2026/05/14/ai-small-businesses-layoffs/">The Small Businesses Already Replacing Workers With AI</a></li>
+<li><a href="https://fortune.com/2026/03/22/ai-entrepreneurs-startups-layoffs-block-jack-dorsey-american-workers-future-of-work/">AI may be helping more people start their own businesses, but without many employees | Fortune</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#future of work`, `#layoffs`, `#startups`, `#automation`
+
+---
+
+<a id="item-27"></a>
+## [教宗良十四世首份通谕警告 AI 权力集中](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-encyclical-magnifica-humanitas-ai.html) ⭐️ 8.0/10
+
+2026 年 5 月 25 日，教宗良十四世发布了首份通谕《人类的伟大》（Magnifica humanitas），呼吁人工智能服务于共同利益，并警告权力不应被少数人垄断。梵蒂冈在发布仪式上邀请了 Anthropic 联合创始人克里斯托弗·奥拉，这是与硅谷 AI 领袖的一次罕见的直接接触。 这份通谕代表天主教这一重要机构进入全球 AI 伦理辩论，直接挑战了埃隆·马斯克和彼得·蒂尔等科技领袖推崇的超人类主义愿景。它可能通过将 AI 发展定位为关乎人类尊严和共同利益的道德问题，影响公众讨论和政策制定。 通谕批评了 AI 研发中将特定人群判定为低效、无用和多余的精英主义倾向，并指出技术从来不是中立的。该通谕于 2026 年 5 月 25 日发布，拉丁文标题为 Magnifica humanitas（意为“人类的伟大”），副标题为“在人工智能时代守护人类个体”。
+
+telegram · zaihuapd · May 25, 13:00
+
+**背景**: 通谕是教宗向整个天主教会乃至全世界发布的正式信函，具有重要的道德权威。超人类主义是一场倡导利用技术增强人类身体和认知能力的运动，有时追求极端寿命延长或数字永生；它在硅谷部分领袖中具有一定影响力。Anthropic 是一家由前 OpenAI 成员创立的 AI 安全公司，以开发 Claude 系列大语言模型而闻名。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Magnifica_humanitas">Magnifica humanitas - Wikipedia</a></li>
+<li><a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html">Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas (15 May 2026)</a></li>
+<li><a href="https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html">Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25 - Vatican News</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI ethics`, `#technology policy`, `#religion and technology`, `#power concentration`, `#Anthropic`
+
+---
+
+<a id="item-28"></a>
+## [离体人脑被用于药物测试](https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing) ⭐️ 8.0/10
+
+一项利用部分复活的人类大脑进行药物测试的研究被发表，美国生物科技公司 Bexorg 借助 BrainEx 灌流系统，在死亡数小时后恢复捐献大脑的部分代谢与细胞活动，以测试阿尔茨海默病和帕金森病等神经疾病的药物。 这项研究挑战了传统的生命与死亡定义，可能通过提供比动物实验更准确的人脑模型来革新神经疾病的药物开发，但同时也引发了关于意识、人格以及科学干预边界的深刻伦理问题。 研究团队强调，这些大脑并未恢复意识或产生完整的神经活动，但该技术使组织处于既非完全死亡、也非真正活着的状态，现有的伦理框架可能无法充分应对这一情况。
+
+telegram · zaihuapd · May 25, 14:57
+
+**背景**: BrainEx 灌流系统是一项最初为恢复死后动物大脑的循环和部分细胞功能而开发的技术。Bexorg 是一家于 2021 年从耶鲁大学分拆出来的科技生物公司，它将该系统应用于人类脑组织，以创建一个中枢神经系统药物发现平台。使用这种“半存活”的人类脑组织进行测试，与依赖动物模型或细胞培养的传统方法有显著不同，并迫使人们重新评估涉及人类神经组织研究的伦理指南。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Cerebral_circulation">Cerebral circulation - Wikipedia</a></li>
+<li><a href="https://www.linkedin.com/company/bexorg-inc">Bexorg , Inc. | LinkedIn</a></li>
+<li><a href="https://www.huxiu.com/article/242162.html">取出体外的大脑存活成功，“他”还有身份或合法权利吗？-虎嗅网</a></li>
+
+</ul>
+</details>
+
+**标签**: `#neuroscience`, `#bioethics`, `#drug testing`, `#consciousness`, `#organ donation`
+
+---
+
+<a id="item-29"></a>
+## [美国量子计算投资面临法律质疑](https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/) ⭐️ 7.0/10
+
+Ars Technica 的一篇文章质疑美国政府向量子计算公司投资 20 亿美元的合法性，认为国会可能未授权这笔支出。文章还提到首家量子代工公司的成立，并对其必要性提出疑问。 这很重要，因为此类大规模联邦投资的合法性可能为美国政府支持量子计算等新兴技术树立先例。如果这些投资被认定未经授权，可能扰乱关键研发的资金支持，影响美国在量子技术领域的国家竞争力。 文章特别提到对量子计算公司 20 亿美元的投资，其中包括与特朗普政府有关的团体。文章还指出首家量子代工公司的成立，但质疑在现有能力下是否真正需要这样的设施。
+
+rss · Ars Technica · May 25, 12:00
+
+**背景**: 量子计算利用量子比特执行超越经典计算机的复杂计算，在密码学、药物发现和材料科学等领域有潜在应用。美国政府一直在大力投资量子技术以保持竞争优势，但关于此类支出是否获得国会适当授权的法律问题随之出现。量子代工厂是制造量子组件的设施，类似于半导体代工厂。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/">US 's big bet on quantum computing may not be entirely legal</a></li>
+<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lKbXFLWkVSSG5SU19YSFdWOVlTZ0FQAQ?hl=en-GH&gl=GH&ceid=GH:en">Google News - US awards $2 billion to quantum computing firms...</a></li>
+<li><a href="https://quantumfoundry.ai/">About Us | Quantum Foundry</a></li>
+
+</ul>
+</details>
+
+**标签**: `#quantum computing`, `#tech policy`, `#legal issues`, `#semiconductors`
 
 ---
 
 <a id="item-30"></a>
-## [Epic 公布虚幻引擎 6，首款展示游戏为《Rocket League》](https://www.pcgamer.com/gaming-industry/epic-reveals-first-unreal-engine-6-game-and-its-not-fortnite/) ⭐️ 8.0/10
+## [Cox Media 因虚假宣称 AI 手机窃听被罚](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine) ⭐️ 7.0/10
 
-Epic Games 在巴黎 Rocket League 冠军系列赛上宣布了虚幻引擎 6，并确认《Rocket League》将直接从虚幻引擎 3 升级至虚幻引擎 6，完全跳过 UE4 和 UE5。 这一宣布标志着《Rocket League》自 2015 年运行 UE3 以来的重大代际飞跃，也表明 Epic 持续推进引擎与《堡垒之夜》技术栈统一以支持元宇宙。 从 UE3 到 UE6 的升级对《Rocket League》来说是一次巨大变革，可能带来更多类似《堡垒之夜》的季节性内容和显著的视觉提升；UE6 的早期预览版预计在 2026 年底推出，稳定版约在 2027 年底发布。
+美国联邦贸易委员会（FTC）对 Cox Media Group、MindSift 和 1010 Digital Works 合计罚款 93 万美元，原因是它们虚假推销一项声称可通过智能设备监听消费者对话以进行定向广告的 AI 服务。 此案为追究公司对 AI 监控虚假宣传的责任树立了先例，强化了消费者隐私保护，并展示了 FTC 对科技行业误导性营销的执法力度。 Cox Media Group 承担了最高罚款 88 万美元，MindSift 和 1010 Digital Works 也受到处罚。FTC 未发现这些公司实际拥有其所宣称的通过手机麦克风窃听的技术。
 
-telegram · zaihuapd · May 25, 02:20
+rss · The Verge · May 25, 18:28
 
-**背景**: 虚幻引擎是 Epic Games 开发的一款流行的 3D 游戏引擎和创作软件，广泛应用于电子游戏设计和视觉效果。《Rocket League》自 2015 年发布以来一直使用虚幻引擎 3，尽管此前已确认引擎升级在开发中，但直到现在才公开脱离 UE3。四年前发布的虚幻引擎 5 在 PC 端因优化问题受到批评，部分玩家呼吁先修复 UE5 再推出新版本。
+**背景**: 这些公司推销一种“主动监听”服务，声称利用 AI 分析智能设备的环境音频，并根据现实对话投放定向广告。这引发了严重的隐私担忧，但 FTC 认定这些说法是捏造的。此案凸显了监管机构对 AI 驱动营销和消费者监控的持续关注。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://kitbash3d.com/a/blog/unreal-engine-6-everything-you-need-to-know">Unreal Engine 6: Everything You Need to Know [Article + Images] – KitBash3D</a></li>
-<li><a href="https://practicetestgeeks.com/unreal/unreal-engine-6">Unreal Engine 6: Release Date, Features, UE5 vs UE6</a></li>
-<li><a href="https://overclock3d.net/news/software/rocket-league-confirms-unreal-engine-6-upgrade/">Rocket League confirms Unreal Engine 6 upgrade - OC3D - Overclock3D</a></li>
+<li><a href="https://captaincompliance.com/education/ftc-cox-media-group-active-listening-ai-fine/">The FTC 's $930,000 Active Listening Smackdown: What the Cox ...</a></li>
+<li><a href="https://ppc.land/ftc-orders-cox-media-group-to-pay-880-000-over-fake-ai-listening-ad-service/">FTC orders Cox Media Group to pay $880,000 over fake AI listening...</a></li>
+<li><a href="https://finance.yahoo.com/sectors/technology/articles/cox-media-fined-claiming-used-194828085.html">Cox Media fined for claiming it used AI to track consumer conversations</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Unreal Engine`, `#Game Development`, `#Epic Games`, `#Rocket League`, `#Metaverse`
+**标签**: `#privacy`, `#FTC`, `#surveillance`, `#AI`, `#regulation`
 
 ---
 
 <a id="item-31"></a>
-## [人工智能时代网络安全专家需求激增](https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html) ⭐️ 8.0/10
+## [AI 加速漏洞猎捕军备竞赛](https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/) ⭐️ 7.0/10
 
-《纽约时报》报道称，2026 年第一季度网络安全岗位招聘量同比增长 11%，高管职位的猎头需求较去年秋季增加了五到七倍，部分原因在于 AI 生成的代码膨胀以及 Anthropic 的 Mythos 等模型带来的新型威胁。 这一趋势标志着网络安全格局的根本性转变：随着 AI 模型既能生成代码又能发现漏洞，企业迫切需要既懂安全技术又理解 AI 复杂性的领导者，高级安全岗位的薪酬包现已高达七八百万美元。 部分猎头公司因合格候选人短缺而拒绝接单，安全工程师也必须补充 AI 技能才能在就业市场中保持竞争力。
-
-telegram · zaihuapd · May 25, 06:21
-
-**背景**: AI 生成的代码（例如 GitHub Copilot 等工具产生的代码）常常包含漏洞，因为这些模型是在包含不安全代码的公共代码库上训练的。与此同时，Anthropic 的 Mythos 等先进 AI 模型已展现出发现和利用软件漏洞的能力，这创造了一类传统安全方法可能无法完全应对的新型威胁。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.bbc.com/news/articles/crk1py1jgzko">What is Anthopic's Claude Mythos and what risks does it pose?</a></li>
-<li><a href="https://cset.georgetown.edu/publication/cybersecurity-risks-of-ai-generated-code/">Cybersecurity Risks of AI-Generated Code | Center for Security and Emerging Technology</a></li>
-
-</ul>
-</details>
-
-**标签**: `#cybersecurity`, `#AI`, `#hiring trends`, `#Anthropic`, `#software vulnerabilities`
-
----
-
-<a id="item-32"></a>
-## [AI 时代引发漏洞猎捕军备竞赛](https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/) ⭐️ 7.0/10
-
-文章指出，人工智能的兴起正在加速软件漏洞利用的开发，同时也推动了对高级漏洞猎捕技术的需求，从而在网络安全领域引发了一场新的军备竞赛。 这一转变从根本上改变了网络安全格局，因为攻击者现在可以利用 AI 自动化和加速漏洞利用的开发，迫使防御者采用同样先进的工具和方法来跟上步伐。 最近的研究表明，ChatGPT 4 能够利用 CVE 数据库中 87%的已知漏洞，攻击者还在暗网论坛上使用 DeepExploit 和 PWnagotchi 等工具来增强其能力。
+攻击者越来越多地利用 AI 开发漏洞利用程序，而防御者也在调整其漏洞搜索方法以应对，这正在网络安全领域形成一场快速演变的军备竞赛。 这一转变可能大幅缩短从漏洞发现到被利用的时间，可能压垮传统防御机制，并重塑整个漏洞赏金生态系统。 根据 VulnCheck 的数据，2024 年漏洞被利用的中位时间为 192 天，但像 Auto Exploit 这样的 AI 驱动工具现在可以在数小时内生成概念验证代码，而不是数月。
 
 rss · WIRED · May 25, 10:30
 
-**背景**: 在计算机安全领域，漏洞是指可能被利用来破坏系统机密性、完整性或可用性的缺陷。漏洞猎捕是通过漏洞赏金计划等方式发现并报告此类漏洞的过程。AI 的兴起引入了新的攻击向量，例如利用 AI 模型的问题解决本能来执行远程载荷。
+**背景**: 漏洞赏金计划允许白帽黑客发现并报告软件漏洞以换取奖励，帮助公司在漏洞被利用前修复问题。AI 在漏洞利用开发中的兴起正在加速这一过程的双方：攻击者使用生成式 AI 分析代码并比以往更快地制作漏洞利用程序。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.ibm.com/think/insights/chatgpt-4-exploits-87-percent-one-day-vulnerabilities">ChatGPT 4 can exploit 87% of one-day vulnerabilities | IBM</a></li>
+<li><a href="https://www.darkreading.com/vulnerabilities-threats/proof-concept-15-minutes-ai-turbocharges-exploitation">PoC Code in 15 Minutes? AI Turbocharges Exploitation</a></li>
 <li><a href="https://developer.nvidia.com/blog/how-hackers-exploit-ais-problem-solving-instincts/">How Hackers Exploit AI’s Problem-Solving Instincts | NVIDIA Technical Blog</a></li>
-<li><a href="https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/exploiting-ai-how-cybercriminals-misuse-abuse-ai-and-ml">Exploiting AI: How Cybercriminals Misuse and Abuse AI and ML | Trend Micro (US)</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#cybersecurity`, `#bug hunting`, `#exploit development`, `#vulnerability research`
-
----
-
-<a id="item-33"></a>
-## [马斯克宣布 Grok V9-Medium 模型训练完成](https://x.com/elonmusk/status/2058787384364265734) ⭐️ 7.0/10
-
-埃隆·马斯克宣布，拥有 1.5 万亿参数的 Grok V9-Medium 基础模型已完成训练，评估结果良好，团队正在进行微调并准备强化学习，预计在 2-3 周内向公众发布。 此次更新将模型参数从 0.5T 大幅提升至 1.5T，并引入了 Cursor 数据以增强复杂编程任务的处理能力，可能使 Grok 在 AI 辅助编程和通用推理领域成为更具竞争力的选手。 该模型参数规模是当前 Grok 4.2 版本（0.5T 参数）的三倍，并且在补充训练中加入了大量 Cursor 数据，预计相比目前线上运行的 v8-small 模型，在处理复杂编程任务时将有显著提升。
-
-telegram · zaihuapd · May 25, 07:07
-
-**背景**: Grok 是由埃隆·马斯克的 xAI 公司开发的大型语言模型，旨在与 GPT 和 Claude 等模型竞争。'V9-Medium' 表示 V9 代中的中等规模变体，'1.5T' 指 1.5 万亿参数，是衡量模型复杂度的指标。Cursor 是一款 AI 驱动的代码编辑器，提供了丰富的编程数据，xAI 利用这些数据来增强 Grok 的编程能力。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.kucoin.com/news/flash/musk-s-xai-completes-grok-v9-medium-training-focuses-on-complex-programming">Musk's xAI Completes Training on Grok V 9 - Medium ... | KuCoin</a></li>
-<li><a href="https://www.kucoin.com/news/flash/musk-announces-grok-v9-medium-1-5t-model-to-launch-in-2-3-weeks">Musk announces the launch of the Grok V 9 - Medium ( 1 . 5 T ) model in...</a></li>
-<li><a href="https://digg.com/ai/2xkcq9ut?rank=28">xAI completes training run for Grok V 9 model · Digg</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#Grok`, `#machine learning`, `#Elon Musk`, `#coding`
+**标签**: `#cybersecurity`, `#AI`, `#vulnerability research`, `#bug bounty`, `#exploit development`
 
 ---
