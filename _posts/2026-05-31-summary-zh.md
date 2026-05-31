@@ -5,315 +5,584 @@ date: 2026-05-31
 lang: zh
 ---
 
-> 从 39 条内容中筛选出 20 条重点信息（政治/金融 19，科技 1）
+> 从 95 条内容中筛选出 37 条重点信息（政治/金融 32，科技 5）
 
 ---
 
 ## 政治与金融
 
 <a id="item-1"></a>
-## [特朗普秘密与国税局达成协议，撤销 100 亿美元诉讼](https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html) ⭐️ 9.0/10
+## [特朗普向伊朗发送更强硬和平提案](https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html) ⭐️ 9.0/10
 
-特朗普总统的法律团队秘密与国税局谈判，达成协议撤销针对他的 100 亿美元诉讼，据报道，白宫高级官员在协议形成时感到措手不及。 这一事件揭示了政府最高层可能存在的系统性利益冲突，总统可能利用其政府撤销针对自己的巨额诉讼，引发了对法治、税收执法和行政问责的严重担忧。 这些讨论在忠于总统的律师之间秘密进行，随着协议的推进，一些白宫高级官员感到措手不及，表明缺乏透明度和内部监督。
+特朗普政府已向伊朗发回了更强硬的和平提案，此举可能旨在施压德黑兰接受当前的停火协议框架。 这一进展可能重塑中东稳定、全球能源市场和核不扩散格局，因为它涉及特朗普政府高风险的政策转变。 特朗普总统表示，他正在对延长与伊朗停火的初步协议做出“最终决定”，但双方发出的混杂信息仍使前景不明。
 
-rss · NYTimes Politics · May 30, 23:55
+rss · NYTimes Politics · May 31, 14:21
 
-**背景**: 国税局通常独立执行税法，对在任总统提起 100 亿美元的诉讼将是极为罕见的。据报道的秘密协议表明正常程序可能被违反，并存在潜在的权力滥用，因为总统的个人法律利益可能与其官方职责发生冲突。
+**背景**: 美国与伊朗多年来一直进行核外交，特朗普政府寻求以新框架取代 2015 年的伊朗核协议。当前提案旨在解决核问题及地区安全关切。
 
-**标签**: `#Trump`, `#IRS`, `#conflict of interest`, `#rule of law`, `#ethics`
+**标签**: `#geopolitics`, `#US-Iran relations`, `#nuclear diplomacy`, `#Middle East`, `#foreign policy`
 
 ---
 
 <a id="item-2"></a>
-## [中国 5 月工厂活动放缓，发出经济疲软信号](https://www.bloomberg.com/news/articles/2026-05-31/china-factory-activity-worsens-in-warning-sign-for-economy) ⭐️ 9.0/10
+## [华尔街风险资产涨势无视伊朗战争僵局](https://www.bloomberg.com/news/articles/2026-05-31/wall-street-risk-rally-powers-past-war-stalemate-markets-wrap) ⭐️ 9.0/10
 
-2026 年 5 月，受五天假期干扰以及中东冲突对全球需求和投入成本持续施压的影响，中国工厂活动出现放缓。 作为全球第二大经济体的中国出现放缓，预示着全球供应链疲软和大宗商品需求下降，可能影响全球贸易政策和市场情绪。 彭博社的报道指出，五天假期打乱了生产计划，而中东冲突则对投入成本和全球需求增加了压力。
+尽管与伊朗的战争已持续三个月，全球风险资产市场仍在持续上涨，这表明市场正在对地缘政治风险进行根本性的重新定价。 这一持续上涨表明金融市场正与地缘政治风险发生历史性的脱钩，对资产配置、央行政策以及投资者如何为地缘政治事件定价具有广泛影响。 看涨情绪表现出惊人的韧性，即使在重大冲突持续期间，也难以抑制风险偏好。这一转变对投资者和政策制定者而言具有时效性和可操作性。
 
-rss · Bloomberg Markets · May 31, 01:54
+rss · Bloomberg Markets · May 31, 19:29
 
-**背景**: 中国的工厂活动是衡量该国经济健康状况和全球贸易流动的关键指标。财新制造业采购经理人指数（PMI）是广泛关注的指标，读数低于 50 表示收缩。中东冲突一直扰乱航运路线并推高能源价格，进而影响全球制造业成本。
+**背景**: 地缘政治风险通常促使投资者转向黄金和政府债券等避险资产，同时远离股票和其他风险资产。当前在战争期间风险资产反而上涨，打破了这一历史模式，表明市场可能认为冲突是可控的，或者其经济影响比最初担心的要小。
 
-**标签**: `#China economy`, `#manufacturing`, `#global trade`, `#economic indicators`, `#geopolitical risk`
+**标签**: `#geopolitical risk`, `#financial markets`, `#risk rally`, `#Iran war`, `#macroeconomics`
 
 ---
 
 <a id="item-3"></a>
-## [超万名联邦律师离开特朗普政府](https://www.nytimes.com/2026/05/31/us/politics/trump-administration-exodus-of-lawyers.html) ⭐️ 8.0/10
+## [英国脱欧：英国、欧洲和西方的历史转折点](https://www.bloomberg.com/news/videos/2026-05-31/how-britain-europe-and-the-west-were-changed-by-brexit-video) ⭐️ 9.0/10
 
-超过一万名联邦律师已离开特朗普政府，导致多个机构出现人员短缺，同时增强了各州总检察长办公室和倡导团体的力量。 这一人才流失削弱了联邦政府在监管执行和诉讼方面的法律能力，同时将法律专长转移到州和倡导团体，改变了联邦与州之间的权力平衡，具有重大的治理和政策影响。 这些离职导致一些联邦机构缺乏足够人手处理法律工作，而各州总检察长办公室和倡导团体则获得了经验丰富的律师，能够更有效地挑战联邦政策。
+彭博观点专栏作家阿德里安·伍尔德里奇在彭博本周末节目中表示，英国脱欧已成为一个历史转折点，从根本上改变了英国、欧洲和西方，其重要性堪比波士顿倾茶事件或斐迪南大公遇刺等事件。 这一表述将英国脱欧从政治或经济事件提升为系统性转变，重塑了整个西方世界的国际关系、贸易和国内政治，将在未来几十年影响政策制定者、企业和公民。 该讨论发生在彭博本周末节目中，由大卫·古拉和克里斯蒂娜·鲁菲尼主持，并于 2026 年 5 月 31 日以视频形式发布在彭博网站上。伍尔德里奇特别将英国脱欧与波士顿倾茶事件（1773 年）、萨拉热窝遇刺事件（1914 年）以及列宁抵达芬兰站（1917 年）相提并论。
 
-rss · NYTimes Politics · May 31, 09:01
+rss · Bloomberg Markets · May 31, 15:36
 
-**背景**: 联邦律师在执行法规、在法庭上为政府行为辩护以及向机构提供法律建议方面发挥着关键作用。特朗普政府推行了激进的政策变革，法律人才的流失可能阻碍其执行和捍卫这些政策的能力。
+**背景**: 英国脱欧指的是英国于 2016 年公投后，在 2020 年 1 月 31 日正式退出欧盟。这一决定对贸易、移民、北爱尔兰地位以及英国的全球角色产生了深远且持续的影响，同时也影响了欧洲各地的民粹主义运动和欧盟内部动态。
 
-**标签**: `#Trump administration`, `#federal workforce`, `#legal talent`, `#governance`, `#policy impact`
+**标签**: `#Brexit`, `#European Union`, `#Geopolitics`, `#UK Politics`, `#International Relations`
 
 ---
 
 <a id="item-4"></a>
-## [特朗普在伊朗和平框架中提出更强硬条件](https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html) ⭐️ 8.0/10
+## [特朗普外交政策在加沙、乌克兰、伊朗陷入僵局](https://www.nytimes.com/2026/05/31/us/politics/trump-iran-stalemate-ukraine-gaza.html) ⭐️ 8.0/10
 
-特朗普政府向伊朗发送了更强硬的和平框架条款，一名官员表示，这些修改旨在施压德黑兰接受当前协议。 美国条款的强硬化可能加剧与伊朗的紧张关系，有可能破坏核谈判，并影响中东稳定和全球能源市场。 这些更强硬的条款是对拟议协议的修改而发送的，一名官员指出，它们可能旨在通过迫使伊朗对现有框架做出决定来加速进程。
+据《纽约时报》2026 年 5 月 31 日报道，特朗普总统在乌克兰、加沙和伊朗的外交干预已从早期的乐观和宣称的轻松胜利转变为长期僵局。 这一横跨三大地缘政治战场的模式挑战了政府关于快速胜利的叙事，并对美国信誉、地区稳定和全球市场产生重大影响。 该分析涵盖了特朗普在乌克兰、加沙和伊朗的干预行动，指出在每个案例中，早期宣称的轻松胜利都已让位于严峻的现实。
 
-rss · NYTimes Politics · May 31, 00:10
+rss · NYTimes Politics · May 31, 20:34
 
-**背景**: 美国与伊朗就伊朗核计划和地区影响力进行了断断续续的谈判。和平框架将概述更广泛协议的基本条款，但之前的谈判因制裁解除和铀浓缩等问题而陷入僵局。
+**背景**: 特朗普总统推行了一种强调快速、决定性结果的外交政策方针，经常在冲突早期就宣布胜利。然而，乌克兰、加沙和伊朗复杂的地缘政治现实已被证明难以通过简单方案解决，导致了损害政府信誉的长期僵局。
 
-**标签**: `#geopolitics`, `#Iran`, `#US foreign policy`, `#nuclear negotiations`, `#Middle East`
+**标签**: `#geopolitics`, `#foreign policy`, `#Ukraine`, `#Gaza`, `#Iran`
 
 ---
 
 <a id="item-5"></a>
-## [中情局官员携金条被捕 曾与五角大楼高层有联系](https://www.nytimes.com/2026/05/30/us/politics/cia-gold-bars-stephen-feinberg.html) ⭐️ 8.0/10
+## [纽约时报时间线：特朗普重返白宫后的军事部署](https://www.nytimes.com/2026/05/31/us/politics/trumps-military-wars.html) ⭐️ 8.0/10
 
-资深中情局官员大卫·拉什（David Rush）在携带金条时被捕，且调查发现他曾与特朗普首任期内五角大楼二号人物斯蒂芬·A·范伯格（Stephen A. Feinberg）有过接触。 此次逮捕引发了严重的国家安全担忧，因为它暗示了一起可能涉及中情局官员与五角大楼高级官员的间谍或腐败案件，威胁到情报界的信任和监督机制。 官员表示两人关系并不密切，但鉴于其职务的敏感性，中情局官员与五角大楼二号人物之间存在任何接触本身就意义重大。
+《纽约时报》发布了一份详细的时间线，梳理了特朗普总统重返白宫以来在哪些国际冲突中部署了美国军队。 这份时间线揭示了特朗普总统重返白宫后美国军事介入的显著模式，具有直接的地缘政治和安全影响，改变了全球风险前景。 这篇报道来自可信来源，具有高影响力，记录了特朗普总统重返白宫以来在全球范围内的多次军事行动，且由于事件的新近性而具有时效性。
 
-rss · NYTimes Politics · May 30, 22:40
+rss · NYTimes Politics · May 31, 17:06
 
-**背景**: 中情局和五角大楼是美国最敏感的两个国家安全机构，其人员之间的任何未经授权的接触都可能引发警觉。金条通常与非法交易或间谍活动相关联，因为它们难以追踪。此事件发生在情报界诚信受到高度审视的背景下。
+**背景**: 美国历届总统都有在海外部署军队的长期历史。这份时间线特别聚焦于特朗普总统重返白宫后的时期，系统性地记录了他的政府在处理国际冲突时动用军事力量的情况。
 
-**标签**: `#national security`, `#intelligence`, `#espionage`, `#Pentagon`, `#CIA`
+**标签**: `#geopolitics`, `#military`, `#US foreign policy`, `#Trump administration`, `#security`
 
 ---
 
 <a id="item-6"></a>
-## [印尼推进出口集中化计划，不确定性犹存](https://www.bloomberg.com/news/articles/2026-05-31/indonesia-advances-export-control-plan-despite-uncertainty) ⭐️ 8.0/10
+## [超万名联邦律师离开特朗普政府](https://www.nytimes.com/2026/05/31/us/politics/trump-administration-exodus-of-lawyers.html) ⭐️ 8.0/10
 
-印尼正推进一项计划，自 6 月 1 日起集中管理关键大宗商品的出口，这给自然资源生产商带来了监管不确定性。 该政策可能扰乱镍、煤炭和棕榈油的全球供应链，影响全球价格和投资决策。它增加了在印尼运营的生产商和贸易商的监管风险，印尼是大宗商品的主要出口国。 该计划于 6 月 1 日生效，但具体实施细节仍不明确，导致生产商对合规要求感到不确定。集中化旨在让政府更好地控制出口收入和资源管理。
+超过一万名联邦律师已离开特朗普政府，导致多个机构出现严重人员短缺，同时却充实了各州总检察长办公室和倡导团体的法律团队。 这一大规模离职潮削弱了联邦政府执行政策和在法庭上捍卫法规的能力，同时使州级和倡导组织能够更有效地挑战联邦行动。这标志着法律权力从联邦向州和非政府部门的重大转移。 这些离职使一些联邦机构缺乏足够的法律人员来处理工作负荷，可能延误监管行动和法律程序。与此同时，州总检察长和倡导团体获得了经验丰富的律师，他们现在可以从政府外部反对联邦政策。
+
+rss · NYTimes Politics · May 31, 14:19
+
+**背景**: 联邦律师在起草法规、代表政府参与诉讼以及为机构提供法律建议方面发挥着关键作用。特朗普政府推行了激进的政策变革，这些变革常常面临法律挑战，因此经验丰富的法律人员至关重要。此类人才的持续流失可能会削弱政府实施其议程并在法庭上为其辩护的能力。
+
+**标签**: `#Trump administration`, `#federal workforce`, `#legal talent`, `#government staffing`, `#policy enforcement`
+
+---
+
+<a id="item-7"></a>
+## [中情局官员携金被捕 曾与五角大楼高层有联系](https://www.nytimes.com/2026/05/30/us/politics/cia-gold-bars-stephen-feinberg.html) ⭐️ 8.0/10
+
+长期任职于中情局的官员大卫·拉什（David Rush）因持有金条被捕，调查发现他曾与特朗普第一任期内的五角大楼二号人物斯蒂芬·范伯格（Stephen Feinberg）有过接触，但官员表示两人关系并不密切。 此案涉及中情局官员与五角大楼高层，引发严重的国家安全与道德担忧，可能损害公众对情报与国防领导层的信任。 拉什与范伯格之间联系的具体性质尚不明确，官员们淡化了两人的亲密程度。逮捕涉及金条，这对中情局官员来说是极不寻常的资产形式。
+
+rss · NYTimes Politics · May 31, 16:25
+
+**背景**: 中情局是美国主要的对外情报机构，其官员须遵守严格的道德与安全标准。斯蒂芬·范伯格于 2019 年至 2021 年担任国防部副部长，是五角大楼的第二号人物。情报官员持有金条通常引发对非法金融活动或外国影响的怀疑。
+
+**标签**: `#national security`, `#intelligence`, `#Pentagon`, `#ethics`, `#Trump administration`
+
+---
+
+<a id="item-8"></a>
+## [特朗普计划控制其总统图书馆文件](https://www.nytimes.com/2026/05/30/us/politics/trump-library.html) ⭐️ 8.0/10
+
+前总统唐纳德·特朗普计划亲自掌控其未来总统图书馆中的所有文件，旨在保护其政府内部运作免受公众审查。 此举挑战了总统图书馆透明度的传统，可能开创先例，削弱公众问责和历史研究。它可能限制研究人员、记者和公众获取关键记录。 《纽约时报》报道称，特朗普决心拥有并控制其图书馆中的每一份文件，这将偏离将材料捐赠给国家档案馆的标准做法。这可能会阻止敏感内部沟通和决策记录的公开。
+
+rss · NYTimes Politics · May 31, 17:47
+
+**背景**: 美国的总统图书馆通常由国家档案与记录管理局（NARA）运营，存放官方记录和个人文件，这些文件会随着时间的推移向公众开放。特朗普计划保留个人控制权将打破这一惯例，引发对历史真相保存和政府透明度的担忧。
+
+**标签**: `#Trump`, `#presidential library`, `#transparency`, `#historical record`, `#accountability`
+
+---
+
+<a id="item-9"></a>
+## [债券交易员关注就业数据以验证美联储加息押注](https://www.bloomberg.com/news/articles/2026-05-31/bond-trader-bets-on-fed-hike-poised-for-gut-check-from-jobs-data) ⭐️ 8.0/10
+
+债券交易员本周正等待一份关键的美国就业报告，以验证他们押注经济将迫使美联储在明年加息的判断。 这份就业报告可能引发美联储货币政策的重大转向，影响全球市场、通胀预期和经济增长。其结果将直接影响债券收益率、股票价格和全球投资者的策略。 该报告预计将显示美国劳动力市场是否足够强劲，以维持可能证明加息合理的通胀压力。债券交易员已消化了明年加息概率上升的预期，强劲的就业数据可能巩固这些预期。
+
+rss · Bloomberg Markets · May 31, 19:00
+
+**背景**: 美联储通过设定短期利率来管理通胀和就业。当经济强劲且通胀高企时，美联储通常会加息以给经济降温。债券交易员密切关注就业报告等经济数据，以预测美联储的行动并相应调整投资组合。
+
+**标签**: `#Federal Reserve`, `#monetary policy`, `#interest rates`, `#US economy`, `#jobs report`
+
+---
+
+<a id="item-10"></a>
+## [SpaceX 将 IPO 估值下调至 1.8 万亿美元](https://www.bloomberg.com/news/videos/2026-05-31/spacex-cuts-valuation-to-1-8-trillion-from-2-trillion-video) ⭐️ 8.0/10
+
+SpaceX 正为其即将进行的首次公开募股（IPO）寻求至少 1.8 万亿美元的估值，低于 2026 年 4 月报道的 2 万亿美元目标。 即便估值下调，此次 IPO 仍将成为全球规模最大的上市交易，为私人资本市场和航天工业树立历史性里程碑，并影响全球投资流向和行业格局。 彭博新闻社在 2026 年 4 月报道称，SpaceX 的目标估值超过 2 万亿美元；目前至少 1.8 万亿美元的目标意味着估值下调约 10%，但仍远超以往任何 IPO。
+
+rss · Bloomberg Markets · May 31, 15:49
+
+**背景**: SpaceX 由埃隆·马斯克创立，是一家私营航空航天制造商和太空运输公司。IPO（首次公开募股）是指私营公司首次在证券交易所向公众出售股票。公司估值是其估计的总价值，通常基于投资者需求和财务表现。
+
+**标签**: `#SpaceX`, `#IPO`, `#valuation`, `#capital markets`, `#space industry`
+
+---
+
+<a id="item-11"></a>
+## [走进刚果（金）埃博拉疫情中心](https://www.bloomberg.com/news/videos/2026-05-31/a-look-inside-the-epicenter-of-the-ebola-outbreak-video) ⭐️ 8.0/10
+
+《纽约时报》首席非洲记者 Declan Walsh 在《彭博周末》节目中分享了他从刚果民主共和国蒙布瓦卢的埃博拉治疗病房发回的一线报道。 这一报道从疫情中心提供了可信且及时的信息，对于制定全球卫生政策、风险评估和人道主义应对至关重要，因为埃博拉病毒具有跨境传播和经济破坏的潜力。 该采访在《彭博周末》节目中播出，由 David Gura 和 Christina Ruffini 主持，Walsh 分享了他在当前疫情中心蒙布瓦卢治疗病房的一手见闻。
+
+rss · Bloomberg Markets · May 31, 15:46
+
+**背景**: 埃博拉是一种严重且常致命的病毒性疾病，会导致出血热，并通过直接接触体液传播。刚果民主共和国已多次暴发埃博拉疫情，当前疫情因潜在的跨境传播风险以及对当地医疗基础设施的压力，对全球卫生安全构成重大威胁。
+
+**标签**: `#Ebola`, `#Global Health`, `#DRC`, `#Infectious Disease`, `#Public Health`
+
+---
+
+<a id="item-12"></a>
+## [乌克兰无人机战争重塑战场格局](https://www.bloomberg.com/news/videos/2026-05-31/ukraine-s-drone-warfare-redefines-battlefield-dynamics-video) ⭐️ 8.0/10
+
+乌克兰每天部署约 1 万架无人机，造成俄军 90%的伤亡，并使传统装甲车在战线附近失效。近期一次无人机侵入罗马尼亚领空的事件引发了欧洲安全担忧。 这标志着现代战争的根本性转变，低成本无人机正在超越昂贵的坦克和装甲车。侵入北约领空的事件也加剧了地区紧张局势，并对欧洲防空能力构成挑战。 彭博社首席欧洲记者 Oliver Crook 在《Bloomberg This Weekend》节目中讨论了这些进展，强调了乌克兰无人机行动的规模。侵入罗马尼亚的无人机是俄罗斯无人机入侵北约领土模式的一部分，自入侵开始以来至少发生了 13 起此类事件。
+
+rss · Bloomberg Markets · May 31, 15:13
+
+**背景**: 自 2022 年 2 月俄罗斯全面入侵乌克兰以来，无人机已成为双方的关键工具，用于侦察、火炮瞄准和直接攻击。乌克兰迅速扩大了国内无人机的生产和采购，实现了高频率的每日出击。事实证明，无人机对移动缓慢或静止的装甲车辆特别有效，这些车辆容易受到来自上方的精确打击。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnn.com/2026/05/28/europe/romania-ukraine-russia-drone-intl-hnk">NATO members condemn Russia after drone slams into Romania apartment building, wounding two | CNN</a></li>
+<li><a href="https://www.reuters.com/world/romania-scrambles-fighter-jets-after-drones-breach-its-airspace-2025-11-25/">NATO scrambles jets after deepest drone breach yet into Romania | Reuters</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Ukraine`, `#drone warfare`, `#geopolitics`, `#European security`, `#military technology`
+
+---
+
+<a id="item-13"></a>
+## [伊朗谈判陷入僵局，特朗普要求修改协议](https://www.bloomberg.com/news/videos/2026-05-31/no-breakthrough-in-iran-talks-as-red-lines-remain-firm-video) ⭐️ 8.0/10
+
+据报道，特朗普总统介入伊朗核谈判，要求对其特使与伊朗政权谈判达成的协议进行多处修改，导致谈判陷入僵局，未能取得突破。 这一事态凸显了美国与伊朗之间的深刻分歧，可能对中东地区稳定和全球能源市场产生影响。总统直接介入表明美国不愿在关键红线问题上妥协，延长了不确定性。 据彭博新闻社报道，这些修改要求是在一次战情室会议上提出的，双方都坚持各自的红线，阻碍了最终协议的达成。谈判涉及铀浓缩水平和制裁解除等复杂问题。
+
+rss · Bloomberg Markets · May 31, 15:11
+
+**背景**: 伊朗核谈判旨在恢复或取代 2015 年的《联合全面行动计划》（JCPOA），该计划以限制伊朗核计划换取制裁解除。美国于 2018 年在特朗普总统领导下退出该协议，随后的谈判因浓缩能力和核查措施等问题分歧重重。
+
+**标签**: `#geopolitics`, `#Iran nuclear deal`, `#U.S. foreign policy`, `#Middle East`, `#negotiations`
+
+---
+
+<a id="item-14"></a>
+## [欧洲央行被敦促尽早行动应对持续通胀](https://www.bloomberg.com/news/articles/2026-05-31/ecb-should-act-sooner-rather-than-later-pereira-tells-negocios) ⭐️ 8.0/10
+
+欧洲央行管理委员会成员阿尔瓦罗·桑托斯·佩雷拉公开敦促央行尽早而非推迟采取行动，理由是欧元区消费者价格压力持续存在。 这一表态暗示可能提前转向货币紧缩，可能影响欧元区利率、债券市场和货币估值，对投资者和政策制定者产生重要影响。 佩雷拉在接受《Negócios》采访时发表了上述言论，并强调消费者价格压力高企，政策行动几乎没有拖延余地。
+
+rss · Bloomberg Markets · May 31, 13:18
+
+**背景**: 欧洲央行负责制定欧元区货币政策，主要目标是控制通胀。通胀持续高于 2%的目标，引发了政策制定者关于何时调整利率的辩论。
+
+**标签**: `#ECB`, `#monetary policy`, `#inflation`, `#eurozone`, `#central bank`
+
+---
+
+<a id="item-15"></a>
+## [铝供应冲击波及全球经济](https://www.bloomberg.com/news/videos/2026-05-31/the-aluminum-shock-hitting-the-global-economy-video) ⭐️ 8.0/10
+
+全球铝市场正因中东冲突和美国关税上升而面临严重的供应紧缩，生产和运输中断，推高了全球制造商的成本。 这一双重冲击可能加剧通胀，扰乱依赖铝的行业（从汽车到建筑）的供应链，并可能减缓全球经济增长。 行业高管警告称，海湾地区的运输受阻和冶炼厂受损尚未完全影响北美，而亚洲市场面临更大的实物供应风险；像 Wolf Tooth Components 这样的制造商报告称，关税、中断和 AI 数据中心需求导致成本飙升。
+
+rss · Bloomberg Markets · May 31, 14:04
+
+**背景**: 铝是一种关键的工业金属，用于运输、包装和建筑。中东是主要生产中心，而美国对铝进口的关税不断上升，形成了供应限制和价格上涨的完美风暴。
+
+**标签**: `#aluminum`, `#supply chain`, `#tariffs`, `#geopolitics`, `#manufacturing`
+
+---
+
+<a id="item-16"></a>
+## [芯片股飙升加剧 AI 泡沫争论](https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic) ⭐️ 8.0/10
+
+芯片股的历史性上涨加剧了关于人工智能市场是否正经历可能破裂的投机泡沫的争论。 这场争论对投资者、科技板块估值以及更广泛的经济稳定具有重大影响，因为潜在的泡沫破裂可能引发广泛的市场回调。 芯片制造商目前是市场上最热门的股票，其近期飙升使金融决策者关于 AI 泡沫的讨论变得更加紧迫。
+
+rss · Bloomberg Markets · May 31, 13:00
+
+**背景**: 人工智能行业经历了大规模投资和快速增长，推高了半导体等 AI 硬件相关公司的估值。“泡沫”一词指的是资产价格超过其内在价值的情况，通常会导致急剧回调。这场争论恰逢其时，因为市场参与者正在权衡当前 AI 热潮是否可持续。
+
+**标签**: `#AI`, `#stock market`, `#bubble`, `#semiconductors`, `#investing`
+
+---
+
+<a id="item-17"></a>
+## [刚果（金）将锂列为战略矿产，特许权使用费或翻三倍](https://www.bloomberg.com/news/articles/2026-05-31/congo-adds-lithium-to-strategic-minerals-in-higher-tax-bracket) ⭐️ 8.0/10
+
+刚果民主共和国政府已批准将锂列入其战略矿产清单，这可能导致矿商需支付当前三倍的特许权使用费。 这一政策转变可能显著提高刚果（金）锂矿商的生产成本，进而可能改变全球锂供应格局，并对能源转型和电池供应链产生影响。 根据刚果（金）矿业法，战略矿产适用 10%的特许权使用费率，而有色金属为 3.5%；钴、锗和钶钽铁矿此前已被列为战略矿产。
+
+rss · Bloomberg Markets · May 31, 12:39
+
+**背景**: 刚果民主共和国是全球主要的钴生产国，并拥有丰富的锂矿资源。2018 年，该国修订了矿业法，对战略矿产引入更高的特许权使用费率，旨在从其矿产资源中获取更多价值。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.mining.com/web/congo-adds-lithium-to-strategic-minerals-in-higher-tax-bracket/">Congo adds lithium to strategic minerals in higher tax bracket</a></li>
+<li><a href="https://mjgroup.africa/understanding-the-drc-mining-tax-code-royalties-incentives/">Understanding the DRC Mining Tax Code: Royalties & Incentives - M&J Group</a></li>
+<li><a href="https://in.investing.com/news/general-news/lithium-miners-in-congo-face-higher-royalties-after-strategic-mineral-designation-93CH-5433060">Lithium miners in Congo face higher royalties after strategic mineral designation By Investing.com</a></li>
+
+</ul>
+</details>
+
+**标签**: `#lithium`, `#mining policy`, `#Democratic Republic of Congo`, `#critical minerals`, `#supply chain`
+
+---
+
+<a id="item-18"></a>
+## [波兰成为欧洲增长领头羊，经济规模突破 1 万亿美元](https://www.bloomberg.com/news/videos/2026-05-31/how-poland-became-europe-s-growth-leader-video) ⭐️ 8.0/10
+
+波兰经济已突破 1 万亿美元大关，成为欧洲增长领头羊，这得益于数十年的改革、欧盟一体化、外国投资以及海外企业家回国潮。 这一里程碑凸显了波兰转型为欧洲主要经济体的成就，影响欧盟政策、吸引投资，并为其他后共产主义国家树立榜样，但其可持续性受到财政赤字、高额国防开支和人口下降的威胁。 财政部长 Andrzej Domański 将成功归功于改革、欧盟一体化和经济多元化，风险投资家 Aleksandra Pedraszewska 指出，华沙的科技行业如今提供了比十年前大得多的机遇。
+
+rss · Bloomberg Markets · May 31, 12:05
+
+**背景**: 波兰是一个拥有约 3800 万人口的中欧国家，于 2004 年加入欧盟，此后经历了快速经济增长，从后共产主义经济转型为多元化、市场驱动的经济体。其成功得益于结构性改革、欧盟资金、外国直接投资和熟练劳动力，但现在面临发达经济体常见的挑战，如人口老龄化和财政压力。
+
+**标签**: `#Poland`, `#economic growth`, `#EU integration`, `#demographics`, `#fiscal policy`
+
+---
+
+<a id="item-19"></a>
+## [印尼推进出口管制计划，尽管存在不确定性](https://www.bloomberg.com/news/articles/2026-05-31/indonesia-advances-export-control-plan-despite-uncertainty) ⭐️ 8.0/10
+
+印度尼西亚正推进一项计划，自 2026 年 6 月 1 日起集中管理关键大宗商品的出口，这给自然资源生产商带来了监管不确定性。 作为全球最大的棕榈油、动力煤和镍出口国，印尼的政策转变可能扰乱全球供应链，影响大宗商品价格，并改变贸易格局，直接影响生产商和投资者。 该计划最初涵盖煤炭、棕榈油和铁合金，设有三个月的过渡期，期间政府指定的实体将监控交易；每三个月可能增加更多大宗商品。
 
 rss · Bloomberg Markets · May 31, 09:11
 
-**背景**: 印尼是全球最大的镍出口国，也是煤炭和棕榈油的主要供应国。政府一直在推行政策，以增加原材料的国内加工，并从其自然资源中保留更多价值，包括此前禁止镍矿石出口。
+**背景**: 印尼总统普拉博沃·苏比安托宣布该计划，以应对低报发票和转让定价问题，声称该国 34 年来损失了高达 9080 亿美元的收入。出口机制将由主权财富基金 Danantara 旗下的新机构 Danantara Sumber Daya Indonesia（DSI）监督。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.reuters.com/world/asia-pacific/indonesia-plans-centralise-commodity-exports-through-state-agency-sources-say-2026-05-20/">Indonesia unveils plan to centralise control of commodity exports | Reuters</a></li>
+<li><a href="https://www.investing.com/news/economy-news/indonesia-to-bring-commodity-exports-under-centralised-control-president-says-4700776">Indonesia to bring commodity exports under centralised control, president says By Reuters</a></li>
+<li><a href="https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-economy-revenue-6135986">Prabowo’s export control move could boost Indonesia’s revenues, but experts worry about stronger state hand - CNA</a></li>
+
+</ul>
+</details>
 
 **标签**: `#Indonesia`, `#export controls`, `#commodities`, `#trade policy`, `#regulatory risk`
 
 ---
 
-<a id="item-7"></a>
-## [台湾誓言不被噤声，中国驱逐纽约时报记者](https://www.bloomberg.com/news/articles/2026-05-31/taiwan-vows-not-to-be-silenced-after-china-expels-nyt-reporter) ⭐️ 8.0/10
+<a id="item-20"></a>
+## [斯特金在采访中否认 SNP 丑闻罪行](https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
 
-中国驱逐了一名纽约时报记者，原因是该报采访了台湾领导人，台湾对此予以谴责，并誓言不会被噤声。 这一事件加剧了台海紧张局势，标志着新闻自由和国际外交的重大转变，可能影响媒体准入和中美关系。 此次驱逐发生在纽约时报采访台湾领导人之后，中国认为这侵犯了其主权。台湾政府表示，民主国家的总统阐述立场是常见做法。
+前苏格兰首席大臣妮古拉·斯特金在接受 BBC 记者劳拉·库恩斯伯格的动情采访时，否认参与 SNP 挪用公款丑闻，并表示自己正在为一项未犯下的罪行服刑。 这位前首席大臣直接而情绪化的否认可能显著影响苏格兰及英国公众舆论和政治格局，因为 SNP 挪用公款丑闻仍是一个重大政治议题。 在采访中，斯特金在被库恩斯伯格质问时难以抑制泪水，并明确声称自己正在为一项未犯下的罪行受到惩罚。
 
-rss · Bloomberg Markets · May 31, 05:39
+rss · BBC Politics · May 31, 12:13
 
-**背景**: 中国视台湾为一个分离的省份，反对任何外国与其领导人的官方接触。一个中国政策是中国外交政策的核心原则，中国经常限制外国媒体对台湾的报道以强化这一立场。
+**背景**: SNP 挪用公款丑闻涉及滥用政党资金的指控，导致调查和多名高级人物被捕。妮古拉·斯特金于 2014 年至 2023 年担任苏格兰首席大臣，因此案受到关注。
 
-**标签**: `#geopolitics`, `#Taiwan`, `#China`, `#press freedom`, `#US-China relations`
-
----
-
-<a id="item-8"></a>
-## [菲律宾深化与美国盟友军事合作以应对中国](https://www.bloomberg.com/news/videos/2026-05-31/philippines-seeks-closer-ties-with-china-s-adversaries-video) ⭐️ 8.0/10
-
-菲律宾国防部长吉尔伯托·特奥多罗在新加坡香格里拉对话会上宣布，菲律宾正在深化与美国盟友的军事合作，以加强对中国的威慑。 这标志着菲律宾安全立场向美国主导的联盟体系重大转变，直接影响印太地区的稳定和大国竞争。它可能重塑南海的威慑格局，并影响整个东南亚的防务、贸易和外交关系。 该声明是在香格里拉对话会期间宣布的，这是一年一度在新加坡举行的政府间安全会议，与会者包括亚太地区的国防部长和军事首长。特奥多罗强调了集体军事威慑的重要性，但未透露具体的新协议或部署。
-
-rss · Bloomberg Markets · May 31, 02:35
-
-**背景**: 香格里拉对话会是亚洲最重要的防务峰会，自 2002 年起由国际战略研究所（IISS）主办。菲律宾在应对中国在南海的灰色地带策略方面日益强硬，通过透明度和美国军事援助作为其威慑战略的一部分。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Shangri-La_Dialogue">Shangri-La Dialogue</a></li>
-<li><a href="https://www.iiss.org/events/shangri-la-dialogue/shangri-la-dialogue-2026/">IISS Shangri-La Dialogue 2026 | Singapore, 29–31 May</a></li>
-<li><a href="https://www.eurasiareview.com/07092025-balancing-china-in-the-west-philippine-sea-does-the-philippines-need-a-gray-zone-deterrence-strategy-analysis/">Balancing China In The West Philippine Sea: Does The Philippines ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#geopolitics`, `#defense`, `#Indo-Pacific`, `#Philippines`, `#China`
+**标签**: `#UK politics`, `#Scotland`, `#SNP scandal`, `#Nicola Sturgeon`, `#embezzlement`
 
 ---
 
-<a id="item-9"></a>
-## [IMF 总裁与委内瑞拉官员举行历史性会谈](https://www.bloomberg.com/news/articles/2026-05-30/imf-chief-venezuelan-officials-hold-talks-on-economic-stability) ⭐️ 8.0/10
+<a id="item-21"></a>
+## [斯特里廷与工党在国民保险削减和钻探政策上保持距离](https://www.bbc.com/news/articles/cy42z03r18xo?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
 
-国际货币基金组织总裁克里斯塔利娜·格奥尔基耶娃在华盛顿与委内瑞拉经济官员卡利克斯托·奥尔特加举行了首次面对面会谈，标志着 IMF 与委内瑞拉在多年有限接触后恢复正式接触。 此次会谈标志着委内瑞拉经济孤立可能发生转变，并为未来政策改革、债务重组或 IMF 的金融援助铺平道路，将对地区稳定、石油市场和全球金融产生重大影响。 此次会谈是 IMF 总裁自该基金上个月恢复与委内瑞拉正式接触以来，首次与该国当局进行面对面会晤，此前因委内瑞拉经济崩溃和政治孤立，双方多年接触有限。
-
-rss · Bloomberg Markets · May 30, 21:59
-
-**背景**: 过去十年，委内瑞拉经历了严重的经济危机，表现为恶性通货膨胀、石油产量急剧下降和政治动荡。在此期间，IMF 与该国的接触有限，但近期发展表明，随着委内瑞拉寻求应对经济挑战和债务义务，对话可能重新开启。
-
-**标签**: `#IMF`, `#Venezuela`, `#economic stability`, `#geopolitics`, `#debt restructuring`
-
----
-
-<a id="item-10"></a>
-## [斯特里廷在国民保险和钻探问题上与斯塔默保持距离](https://www.bbc.com/news/articles/cy42z03r18xo?at_medium=RSS&at_campaign=rss) ⭐️ 7.0/10
-
-前卫生大臣韦斯·斯特里廷建议削减国民保险并扩大北海钻探，公开与基尔·斯塔默爵士的现行政府政策保持距离。 这标志着工党内部可能出现分歧，可能影响英国未来的财政和能源政策方向。 这些言论出自一位前卫生大臣而非现任内阁成员，聚焦于两个有争议的领域：国民保险缴款和北海油气钻探。
+前卫生大臣韦斯·斯特里廷公开与工党政府的关键政策保持距离，具体建议削减国民保险并支持北海钻探。 一位工党资深人士的公开异议表明党内在经济和能源政策上可能出现裂痕，这可能会影响选民信心和下一次大选前的市场预期。 斯特里廷的言论特别针对国民保险削减和北海钻探，这两个领域是基尔·斯塔默爵士领导的现任政府持不同立场的方面。
 
 rss · BBC Politics · May 31, 09:49
 
-**背景**: 国民保险是英国对收入和雇主征收的税，用于资助社会保障福利。北海钻探指在英国大陆架开采石油和天然气，因气候问题而具有政治敏感性。斯塔默领导下的工党推行了与一些传统工党立场不同的政策，这位前大臣的公开分歧凸显了内部紧张局势。
+**背景**: 由基尔·斯塔默爵士领导的工党通常反对进一步北海钻探，并因财政限制对减税持谨慎态度。韦斯·斯特里廷作为前卫生大臣，在党内具有重要影响力，因此他的分歧引人注目。
 
-**标签**: `#UK politics`, `#fiscal policy`, `#energy policy`, `#Labour Party`
-
----
-
-<a id="item-11"></a>
-## [非洲开发银行拨款 6.5 亿美元用于乌干达铁路](https://www.bloomberg.com/news/articles/2026-05-31/african-development-bank-allots-650-million-for-uganda-railroad) ⭐️ 7.0/10
-
-非洲开发银行已初步拨款约 6.5 亿美元，用于部分资助连接乌干达首都坎帕拉与肯尼亚边境马拉巴的铁路建设。 这项投资对东非的区域贸易和经济一体化意义重大，因为它将改善乌干达与肯尼亚之间的物流并降低运输成本。该项目可能提升乌干达的出口竞争力，并加强更广泛的东非共同体基础设施网络。 6.5 亿美元的拨款是初步的，仅覆盖项目总成本的一部分，可能还需要其他资金来源。该铁路将连接坎帕拉与马拉巴，这是一个关键边境口岸，在此处将与肯尼亚现有的铁路网络相连。
-
-rss · Bloomberg Markets · May 31, 08:09
-
-**背景**: 乌干达是一个内陆国家，严重依赖肯尼亚的港口进行国际贸易，因此高效的铁路连接对其经济至关重要。非洲开发银行是一家主要的多边发展金融机构，为非洲大陆的基础设施项目提供资金，以促进可持续经济增长。
-
-**标签**: `#infrastructure`, `#development finance`, `#East Africa`, `#transportation`, `#African Development Bank`
+**标签**: `#UK politics`, `#Labour Party`, `#energy policy`, `#tax policy`, `#internal dissent`
 
 ---
 
-<a id="item-12"></a>
-## [德国防长称中国错失接触机会](https://www.bloomberg.com/news/videos/2026-05-31/china-missing-opportunity-to-engage-says-german-chief-video) ⭐️ 7.0/10
+<a id="item-22"></a>
+## [特朗普初选优势：中期选举胜利在望？](https://www.nytimes.com/2026/05/31/us/politics/trump-republican-primary-elections-midterms.html) ⭐️ 7.0/10
 
-德国联邦国防军总监察长卡斯滕·布罗伊尔将军表示，中国在 2026 年新加坡香格里拉对话会上错失了在政治和军事层面进行接触的机会。 一位欧洲高级防务官员的公开批评表明欧中关系摩擦加剧，可能重塑亚太地区的安全联盟和外交格局。 布罗伊尔是在香格里拉对话会期间接受彭博社采访时发表上述言论的；香格里拉对话会自 2002 年起每年在新加坡举行，是亚洲最重要的防务会议。
+《纽约时报》的一篇分析探讨了唐纳德·特朗普在共和党初选中的强劲表现是否能转化为共和党在 2026 年中期选举的胜利，并指出该党还需赢得对经济和伊朗战争不满的非基本盘选民的支持。 这个问题至关重要，因为中期选举的结果将决定国会的控制权和美国的政策方向，而特朗普能否将其吸引力扩大到核心支持者之外是一个关键因素。 分析强调，尽管特朗普在共和党初选中占据主导地位，但大选需要来自其基本盘之外选民的支持，其中许多人深为不满经济和持续的伊朗战争。
 
-rss · Bloomberg Markets · May 31, 05:33
+rss · NYTimes Politics · May 31, 18:44
 
-**背景**: 香格里拉对话会是一个重要的政府间安全论坛，亚太及其他地区的国防部长和军事首长在此讨论区域挑战。中国在此类论坛上的参与和接触被视为其外交政策立场的指标。卡斯滕·布罗伊尔将军是德国最高级别军官，此前曾就俄罗斯的威胁发出警告。
+**背景**: 美国的中期选举通常被视为对现任总统所在政党的公投。初选决定各党的候选人，候选人在初选中的表现并不总能预测大选的成功，因为初选选民在意识形态上比大选选民更为极端。
+
+**标签**: `#US politics`, `#midterm elections`, `#Donald Trump`, `#Republican Party`, `#election analysis`
+
+---
+
+<a id="item-23"></a>
+## [美联储理事称稳定币可扩大美国政策影响力](https://www.bloomberg.com/news/articles/2026-05-31/fed-s-waller-says-stablecoins-will-broaden-reach-of-us-policy) ⭐️ 7.0/10
+
+美联储理事克里斯托弗·沃勒表示，稳定币的全球普及可能增强美国央行政策的影响力，暗示与美元挂钩的稳定币可能将美国货币政策的影响范围扩展到传统边界之外。 这位美联储高官的言论标志着政策制定者对数字资产看法的重大转变，可能为更清晰的监管框架铺平道路，并承认稳定币是扩大美国货币政策全球影响力的工具。 沃勒的讲话仅代表一种政策视角，而非已确认的政策转变，它强调了理解稳定币（尤其是与美元挂钩的稳定币）如何与货币政策传导机制相互作用的必要性。
+
+rss · Bloomberg Markets · May 31, 13:29
+
+**背景**: 稳定币是一种加密货币，旨在通过与参考资产（最常见的是美元）挂钩来维持稳定价值。随着其在全球范围内作为支付和价值储存手段的使用增长，它们直接与传统货币竞争，引发了对货币政策传导影响的疑问。国际清算银行和法国央行等机构的研究已探讨稳定币是否会削弱或改变央行政策对整体经济的影响方式。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Shangri-La_Dialogue">Shangri-La Dialogue</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Carsten_Breuer">Carsten Breuer</a></li>
-<li><a href="https://www.iiss.org/events/shangri-la-dialogue/shangri-la-dialogue-2026/">IISS Shangri-La Dialogue 2026 | Singapore, 29–31 May</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Stablecoin">Stablecoin - Wikipedia</a></li>
+<li><a href="https://www.banque-france.fr/en/publications-and-statistics/publications/do-stablecoins-affect-monetary-policy-transmission">Do stablecoins affect monetary policy transmission ? | Banque de...</a></li>
+<li><a href="https://www.bis.org/publ/work905.pdf">Stablecoins : risks, potential and regulation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#geopolitics`, `#defense`, `#China`, `#Germany`, `#Shangri-La Dialogue`
+**标签**: `#Federal Reserve`, `#stablecoins`, `#monetary policy`, `#digital assets`, `#US policy`
 
 ---
 
-<a id="item-13"></a>
-## [OpenAI 和 SpaceX 融资热助推亚洲 AI 供应链投资](https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners) ⭐️ 7.0/10
+<a id="item-24"></a>
+## [新兴市场创纪录涨势导致两家对冲基金拒绝新投资者](https://www.bloomberg.com/news/articles/2026-05-31/em-s-record-rally-leads-two-hedge-funds-to-turn-away-investors) ⭐️ 7.0/10
 
-OpenAI、SpaceX 和 Anthropic 的大规模融资正吸引投资者关注亚洲 AI 供应链企业，可能带来约 7000 亿美元的新硬件组件支出。 这一趋势标志着投资焦点从台积电等核心芯片制造商向更广泛的亚洲硬件供应商转移，对追踪 AI 基础设施和供应链动态的投资者和政策制定者影响重大。 这些美国公司预计新增的 7000 亿美元支出，叠加主要云厂商已承诺的超过 7500 亿美元云资本支出，资金将流向服务器零部件、专用材料、散热组件和电力设备等领域。
+两家专注于新兴市场债务的对冲基金因创纪录的涨势和大量资金流入而停止接受新投资者。 这标志着全球资本流动的结构性转变，投资者积极寻求新兴市场更高收益，可能影响全球资产配置和风险偏好。 这些对冲基金专注于难以触及的债务，即流动性较差或更复杂的新兴市场债券，这一决定反映了大量资金涌入使得进一步投资变得困难。
 
-telegram · Bloomberg Markets · May 31, 06:22
+rss · Bloomberg Markets · May 31, 12:30
 
-**背景**: AI 发展依赖于涵盖硬件、云基础设施、训练数据、基础模型和应用的复杂供应链。随着算力需求激增，亚洲公司，尤其是半导体和硬件制造领域的企业，已成为 AI 热潮的主要受益者。
+**背景**: 新兴市场债务对冲基金在 2025 年上半年实现了近 13%的回报，因美元疲软和利差压缩而跑赢其他策略。涨势吸引了大量投资者资金，导致一些基金限制流入以避免稀释回报或承担过度风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://randtech.com/why-is-ai-causing-shortages-inside-the-data-center-surge-the-coming-edge-wave-and-how-rand-keeps-you-shipping/">AI Hardware Demand Outpaces Global Supply Chains - randtech.com</a></li>
-<li><a href="https://epoch.ai/latest/introducing-the-ai-chip-components-explorer">AI Chip Supply Chain Bottlenecks and Capacity | Epoch AI</a></li>
-<li><a href="https://www.bis.org/publ/bppdf/bispap154.pdf">The AI supply chain - Bank for International Settlements</a></li>
+<li><a href="https://medium.com/@navnoorbawa/how-em-debt-hedge-funds-beat-every-other-strategy-in-h1-2025-and-why-theyre-taking-profits-now-8a75b025b314">How EM Debt Hedge Funds Beat Every Other Strategy in... | Medium</a></li>
+<li><a href="https://economictimes.indiatimes.com/markets/bonds/em-debt-hedge-funds-play-safe-amid-rally/articleshow/122942480.cms">EM Debt Hedge Funds : EM debt hedge funds play safe amid rally...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI supply chain`, `#investment trends`, `#Asian markets`, `#hardware infrastructure`, `#capital flows`
+**标签**: `#emerging markets`, `#hedge funds`, `#capital flows`, `#debt markets`, `#investor demand`
 
 ---
 
-<a id="item-14"></a>
-## [斯特金否认 SNP 丑闻中的罪行](https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+<a id="item-25"></a>
+## [政府成为积极投资者，重塑投资组合](https://www.marketwatch.com/story/the-u-s-china-rivalry-is-killing-global-supply-chains-your-portfolio-needs-a-home-court-advantage-02870253?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-苏格兰前首席大臣尼古拉·斯特金在接受 BBC 采访时表示，她正在为一项自己没有犯下的罪行服刑，为自己在苏格兰民族党（SNP）挪用公款丑闻中的指控进行辩护，并在采访中一度难以抑制泪水。 这位前首席大臣的个人辩护凸显了 SNP 挪用公款丑闻带来的深刻情感和政治影响，可能影响苏格兰的公众舆论和党内团结。 此次采访由劳拉·库恩斯伯格主持，斯特金一度难以抑制泪水，强调了她对这些指控的情感痛苦。
+文章认为，美中竞争正在终结全球化，开创政府积极投资国内产业的新时代，要求投资者偏好本土市场资产。 从全球化转向国家支持的国内产业，这一转变对投资者和政策制定者意义重大，因为它改变了全球供应链和投资策略的基本结构。 文章强调，地缘政治权力集团正在取代全球化，投资者需要“主场优势”来应对这一新环境。
 
-rss · BBC Politics · May 31, 09:35
+rss · MarketWatch Top Stories · May 31, 20:02
 
-**背景**: SNP 挪用公款丑闻涉及对政党资金滥用的指控，引发了调查和逮捕。尼古拉·斯特金于 2014 年至 2023 年担任苏格兰首席大臣，她因该调查被问询，但坚称自己无罪。
+**背景**: 全球化指经济体通过贸易和投资日益相互关联。美中竞争导致贸易紧张和优先发展国内产业的政策，减少了跨境供应链。
 
-**标签**: `#Scotland`, `#SNP`, `#political scandal`, `#UK politics`, `#embezzlement`
-
----
-
-<a id="item-15"></a>
-## [斯特金在丈夫认罪后首次打破沉默](https://www.bbc.com/news/videos/c70vl59vd9vo?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
-
-苏格兰前首席大臣尼古拉·斯特金在其分居丈夫彼得·穆雷尔承认从苏格兰民族党（SNP）挪用了 40 万英镑后，首次接受采访。 这次采访标志着一场重大政治丑闻的关键时刻，该丑闻损害了苏格兰民族党的信誉，并引发了对斯特金的领导能力及其是否知晓挪用行为的质疑。 此次采访由 BBC 的劳拉·库恩斯伯格主持，是斯特金在穆雷尔认罪后的首次公开回应。被挪用的资金是在多年间从苏格兰民族党内部取走的。
-
-rss · BBC Politics · May 31, 08:17
-
-**背景**: 彼得·穆雷尔是斯特金的分居丈夫，曾任苏格兰民族党首席执行官。他承认从党内挪用了 40 万英镑，这一丑闻震动了苏格兰政坛，并引发了对斯特金是否知晓这一财务不当行为的质疑。
-
-**标签**: `#Scottish politics`, `#SNP`, `#political scandal`, `#Nicola Sturgeon`, `#embezzlement`
+**标签**: `#geopolitics`, `#globalization`, `#investment strategy`, `#US-China rivalry`, `#industrial policy`
 
 ---
 
-<a id="item-16"></a>
-## [Joby 在曼哈顿展示空中出租车，但尚不能乘坐](https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html) ⭐️ 6.0/10
+<a id="item-26"></a>
+## [曼德尔森第二批文件即将公布](https://www.bbc.com/news/articles/c98r664g865o?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-Joby Aviation 首次将其电动空中出租车从肯尼迪机场飞往曼哈顿，在主要城市环境中展示了垂直起降能力。但该飞行器仍需进行大量测试并获得美国联邦航空管理局（FAA）认证后才能对公众开放。 此次演示标志着在密集城市区域用更安静、零排放的电动飞机取代传统直升机迈出了重要一步。如果成功，它可能通过减少噪音污染和碳排放来改变城市交通，但监管和技术障碍仍然巨大。 此次飞行在 FAA 监督下进行，降落在曼哈顿西区的 Blade Air Mobility Lounge。Joby 已完成 FAA 型号认证五个阶段中的第三阶段，这意味着该飞行器距离商业运营仍需数年时间。
+英国政府宣布，与彼得·曼德尔森相关的第二批文件将于周一公布，并称这将是议会历史上规模最大的文件发布之一。 此次发布标志着政治透明度的重大进展，可能进一步揭示曼德尔森在政府中的角色，并影响公众对英国政治历史的理解。 政府发言人确认这些文件将是议会历史上规模最大的发布之一，但尚未透露具体内容或内幕。
 
-rss · NYTimes Politics · May 31, 09:00
+rss · BBC Politics · May 31, 19:58
 
-**背景**: 电动垂直起降（eVTOL）飞行器旨在结合直升机的便利性和电动推进的高效与安静。FAA 型号认证过程包括五个阶段以确保安全，Joby 是竞相将此类飞行器推向市场的几家公司之一。特朗普政府已表示支持用电动替代品取代直升机，但该技术必须首先通过严格的测试。
+**背景**: 彼得·曼德尔森是英国工党知名政治家，曾在托尼·布莱尔和戈登·布朗首相任内担任多个高级职务。第一批文件此前已公布，第二批文件的发布延续了政府记录公开的进程。
+
+**标签**: `#UK politics`, `#transparency`, `#government documents`, `#Peter Mandelson`
+
+---
+
+<a id="item-27"></a>
+## [威尔士工党因 20 英里限速面临生存危机](https://www.bbc.com/news/articles/cvgzyvmgv8po?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+
+一位前威尔士部长声称，在建成区实施有争议的 20 英里/小时限速政策，已导致威尔士工党面临生存危机。 来自党内的这一批评凸显了深刻的内部分歧，并表明该政策可能严重损害威尔士工党的选举前景和公众信任。 20 英里/小时限速政策在威尔士全境的建成区实施，引发了广泛的公众反弹，人们对其有效性及对日常生活的影响争论不休。
+
+rss · BBC Politics · May 31, 13:52
+
+**背景**: 威尔士工党是威尔士的主导政党，已领导威尔士政府数十年。在限制道路上默认实施 20 英里/小时限速是本届政府的标志性政策，旨在改善道路安全、减少事故。
+
+**标签**: `#Welsh politics`, `#Labour Party`, `#transport policy`, `#UK regional politics`
+
+---
+
+<a id="item-28"></a>
+## [斯特金在质询中情绪激动，疑问仍存](https://www.bbc.com/news/articles/c0e23rn5l7do?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
+
+前苏格兰首席大臣尼古拉·斯特金在正在进行的质询中作证时情绪激动，几乎落泪，但她仍面临关于其行为的未解疑问。 这次作证意义重大，因为它标志着斯特金公开态度的转变，表明质询正在对她个人造成影响，并继续塑造公众对她领导力及苏格兰政府问责制的看法。 文章指出，斯特金对自己权力和权威的信心似乎减弱，而质询尚未解决关于她任期的所有未决问题。
+
+rss · BBC Politics · May 31, 14:34
+
+**背景**: 尼古拉·斯特金于 2014 年至 2023 年担任苏格兰首席大臣，是苏格兰民族党的关键人物。此次质询是对她在任期间行为（特别是与治理和透明度相关）持续审查的一部分。
+
+**标签**: `#UK politics`, `#Scotland`, `#Nicola Sturgeon`, `#inquiry`
+
+---
+
+<a id="item-29"></a>
+## [Fibra MTY 以 17 亿美元收购 Fibra Macquarie](https://www.bloomberg.com/news/articles/2026-05-31/mexico-s-fibra-mty-to-buy-fibra-macquarie-in-1-7-billion-deal) ⭐️ 6.0/10
+
+墨西哥房地产投资信托基金 Fibra MTY 宣布，在获得 Fibra Macquarie 股东批准后，将以 17 亿美元收购同行 Fibra Macquarie。 此次收购是墨西哥 REIT 行业最大的并购交易之一，标志着拉丁美洲房地产市场可能出现整合，合并后的实体将拥有大量工业和零售物业。 Fibra Macquarie 是墨西哥工业和零售房地产的主要所有者，专注于稳定的创收物业，而 Fibra MTY 则专注于具有优质地段、强劲租赁协议和高租金收缴率的物业。
+
+rss · Bloomberg Markets · May 31, 20:11
+
+**背景**: Fibra MTY 和 Fibra Macquarie 都是墨西哥房地产投资信托基金（REIT），在当地被称为 FIBRA。这些信托允许投资者汇集资金来拥有和运营创收房地产，类似于其他市场的 REIT。墨西哥 REIT 行业显示出巨大的增长潜力，尤其是在工业和物流领域。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.jobyaviation.com/">Joby Aviation</a></li>
-<li><a href="https://www.jobyaviation.com/news/joby-completes-third-stage-faa-certification-process">Joby Completes Third Stage of FAA Certification Process | Joby Aviation</a></li>
-<li><a href="https://www.aol.com/articles/joby-aviation-completes-first-nyc-185130328.html">Joby Aviation completes first NYC test flight, sending electric air taxi ...</a></li>
+<li><a href="https://www.fibramty.com/en">Fibra Mty</a></li>
+<li><a href="https://www.fibramacquarie.com/en.html">FIBRA Macquarie</a></li>
+<li><a href="https://amefibra.com/en/main/">AMEFIBRA - Mexican Association of Real Estate FIBRAs (REITs) | AMEFIBRA</a></li>
 
 </ul>
 </details>
 
-**标签**: `#aviation`, `#electric vehicles`, `#urban mobility`, `#regulation`, `#technology`
+**标签**: `#M&A`, `#real estate`, `#Mexico`, `#REIT`, `#finance`
 
 ---
 
-<a id="item-17"></a>
-## [凯德集团在华裁员 10%应对房地产危机](https://www.bloomberg.com/news/articles/2026-05-31/singapore-s-capitaland-sheds-10-of-china-staff-amid-downturn) ⭐️ 6.0/10
+<a id="item-30"></a>
+## [彭博周末回顾：约翰·博尔顿亮相](https://www.bloomberg.com/news/videos/2026-05-31/bloomberg-this-weekend-5-31-2026-video) ⭐️ 6.0/10
 
-凯德投资有限公司在过去一年中将其在华员工人数削减了约 10%，即 365 人，原因是持续的中国房地产低迷。 这一裁员表明，即使是凯德这样的主要外国投资者也不得不在中国缩减业务，反映出该国房地产危机的深度和持续性。这也可能预示着国际资产管理公司在亚太地区更广泛的成本削减趋势。 此次裁员涉及 365 人，占凯德在华员工总数的 10%。该公司将亚洲最大经济体持续的房地产危机列为裁员的原因。
+彭博社于 2026 年 5 月 31 日播出了其周末新闻回顾节目，邀请了前国家安全顾问约翰·博尔顿等专家嘉宾讨论重大新闻。 该节目邀请知名嘉宾对本周关键事件进行精选总结，为观众提供背景和分析，有助于他们理解时事。 本期节目由 David Gura、Christina Ruffini 和 Lisa Mateo 在纽约现场主持，嘉宾包括 Declan Walsh、Gautam Mukunda、Matthew O'Neill 以及大使约翰·博尔顿。
+
+rss · Bloomberg Markets · May 31, 17:07
+
+**背景**: 《彭博周末》是一档常规节目，在市场休市时回顾本周重大新闻。它旨在为头条新闻提供清晰度和背景，经常邀请来自新闻界、学术界和政府的专家。
+
+**标签**: `#news recap`, `#geopolitics`, `#media`, `#current events`
+
+---
+
+<a id="item-31"></a>
+## [大型科技股扭曲小众股息期货市场](https://www.bloomberg.com/news/articles/2026-05-31/big-tech-is-suddenly-impacting-niche-market-for-us-dividends) ⭐️ 6.0/10
+
+大型科技股在标普 500 指数中日益增长的权重，正在扭曲原本小众的美国股息期货和期权市场。 这一发展改变了股息衍生品的定价和对冲动态，影响了投资者和市场结构观察者；该专业领域用于管理股息风险敞口。 这种扭曲源于少数科技巨头对标普 500 指数的支配地位，进而影响到在芝加哥商品交易所等交易所交易的股息期货和期权合约的定价。
+
+rss · Bloomberg Markets · May 31, 14:00
+
+**背景**: 股息期货和期权是金融衍生品，允许投资者对冲或投机于标普 500 等指数的未来股息支付。它们在芝加哥商品交易所等交易所交易，提供季度和年度合约。标普 500 指数是一个市值加权指数，意味着市值较大的公司对其走势影响更大。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dividend_future">Dividend future - Wikipedia</a></li>
+<li><a href="https://www.cmegroup.com/trading/equity-index/us-index/equity-index-dividend-futures.html">Equity Index Dividend futures and options</a></li>
+
+</ul>
+</details>
+
+**标签**: `#financial markets`, `#dividends`, `#Big Tech`, `#S&P 500`, `#derivatives`
+
+---
+
+<a id="item-32"></a>
+## [凯德集团在华裁员 10%应对市场低迷](https://www.bloomberg.com/news/articles/2026-05-31/singapore-s-capitaland-sheds-10-of-china-staff-amid-downturn) ⭐️ 6.0/10
+
+凯德投资有限公司去年将其在华员工人数削减了约 10%，即 365 人，这家资产管理公司仍在应对中国持续的房地产危机。 此举凸显了中国房地产低迷对主要外国投资者的深远影响，表明即使是资本雄厚的国际公司也不得不缩减规模。这反映了整个行业面临的企业重组压力。 裁员 365 人相当于凯德在华员工总数减少 10%，这一调整发生在去年全年。该公司是一家资产管理公司，正应对亚洲最大经济体的长期房地产危机。
 
 rss · Bloomberg Markets · May 31, 08:58
 
-**背景**: 自 2021 年以来，中国房地产行业持续低迷，表现为开发商违约、房价下跌和需求减少。凯德投资是一家总部位于新加坡的全球资产管理公司，在中国房地产市场有大量敞口，一直在调整其投资组合和运营以应对这些挑战。
+**背景**: 自 2021 年以来，中国房地产行业持续低迷，表现为开发商违约、房价下跌和投资减少。凯德投资是一家总部位于新加坡的全球房地产资产管理公司，在中国市场有大量业务。
 
-**标签**: `#China real estate`, `#CapitaLand`, `#workforce reduction`, `#economic downturn`
-
----
-
-<a id="item-18"></a>
-## [中国矿难致五人死亡，紧随山西爆炸事故](https://www.bloomberg.com/news/articles/2026-05-31/china-mine-collapse-kills-five-days-after-deadly-shanxi-blast) ⭐️ 6.0/10
-
-2026 年 5 月 31 日，中国西南部一处矿井发生坍塌，导致五名工人死亡，而就在几周前，山西一处煤矿瓦斯爆炸已造成至少 82 人死亡。 这起事件凸显了中国采矿业长期存在的安全隐患，再次引发对监管执行力度以及煤炭生产带来的人员伤亡代价的担忧。 坍塌发生在中国西南部，但具体矿井和省份尚未公布。此前，5 月初山西发生一起重大瓦斯爆炸，造成至少 82 人死亡，使该行业面临更严格的审查。
-
-rss · Bloomberg Markets · May 31, 08:13
-
-**背景**: 中国是全球最大的煤炭生产国和消费国，矿难历来是工业事故致死的主要原因。尽管近年来进行了安全改革，但由于安全措施不足或违规操作，瓦斯爆炸和坍塌等事故仍时有发生。
-
-**标签**: `#China`, `#mining safety`, `#industrial accidents`, `#coal industry`
-
----
-
-<a id="item-19"></a>
-## [沙特承包商寻求在利雅得 IPO 中融资 8 亿美元](https://www.bloomberg.com/news/articles/2026-05-31/saudi-contractor-s-owners-seek-up-to-800-million-in-riyadh-ipo) ⭐️ 6.0/10
-
-Mutlaq Al-Ghowairi Contracting Co.的股东计划在利雅得证券交易所进行首次公开募股，筹集高达 30 亿里亚尔（约 7.99 亿美元），这将是今年海湾地区首个大型上市项目。 此次 IPO 表明沙特阿拉伯及更广泛海湾地区的资本市场活动依然活跃，为投资者提供了承包领域的重大新机遇，并进一步巩固了利雅得作为区域金融中心的地位。 此次发行估值高达 8 亿美元，股东寻求出售现有股份而非发行新股。该公司是一家沙特承包商，这将是今年海湾地区的首个大型上市项目。
-
-rss · Bloomberg Markets · May 31, 06:49
-
-**背景**: 首次公开募股（IPO）是公司通过在证券交易所向公众出售股份来筹集资金的方式。沙特阿拉伯一直在积极推动其资本市场发展，作为“2030 愿景”经济多元化计划的一部分，以吸引本地和国际投资者。利雅得证券交易所（Tadawul）是中东地区最大的交易所。
-
-**标签**: `#Saudi Arabia`, `#IPO`, `#Capital Markets`, `#Gulf Economy`
+**标签**: `#real estate`, `#China economy`, `#corporate restructuring`, `#foreign investment`
 
 ---
 
 ## 科技
 
-<a id="item-20"></a>
-## [FROST 攻击利用 SSD 计时窥探用户活动](https://futurism.com/future-society/websites-spying-solid-state-drive) ⭐️ 8.0/10
+<a id="item-33"></a>
+## [Claude Mythos 揭示企业补丁流程漏洞](https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow) ⭐️ 9.0/10
 
-研究人员披露了一种名为 FROST 的无交互侧信道攻击，该攻击利用浏览器的 Origin Private File System (OPFS) API 来测量 SSD 的读写计时，从而推断用户正在访问的网站或使用的应用。该攻击识别访问网站的准确率达到 88.95%，识别运行应用的准确率达到 95.83%，且无需安装任何软件或用户交互。 该攻击揭示了现代浏览器中一个重大的隐私漏洞，因为它允许任何恶意网站以高精度静默监控用户的并发在线活动。这对用户隐私构成了严重威胁，可能被用于监视、画像或定向攻击，给浏览器厂商带来了重新审视 OPFS 等 API 安全影响压力。 FROST 攻击仅在 macOS 和 Linux 系统上进行了测试，但研究人员表示 Windows 系统并非免疫。用户在使用后关闭浏览器标签页可以降低风险，因为该攻击依赖于在受害者正常浏览时持续测量存储延迟。
+2026 年 4 月 7 日，Anthropic 宣布其 Claude Mythos Preview 模型能够自主发现并利用主流操作系统和浏览器中的数千个零日漏洞，消除了此前 AI 仅能利用已知漏洞的安全裕度。 这一突破大幅压缩了企业补丁修复的时间窗口，因为漏洞利用现在发生在补丁发布之前，迫使组织从根本上重新审视其漏洞管理流程。 在一次针对 OpenBSD 的 1000 次脚手架运行活动中，总计算成本不到 20,000 美元，该模型在 CyberGym 漏洞复现基准测试中得分 83.1%，展现了成本效益和高能力。
 
-telegram · zaihuapd · May 31, 01:55
+rss · VentureBeat · May 31, 16:30
 
-**背景**: 侧信道攻击利用系统间接泄露的信息（如计时或功耗）来推断敏感数据。Origin Private File System (OPFS) 是一种浏览器存储 API，为 Web 应用提供私有文件系统，所有现代浏览器均支持。FROST 使用竞争侧信道，通过测量多个进程争用 SSD 访问如何影响 I/O 计时来推断用户活动。
+**背景**: 零日漏洞是软件中未知的缺陷，攻击者可在开发者修复前加以利用。此前，像 GPT-4 这样的 AI 仅在获得描述时才能利用已知漏洞，提供了一定的安全裕度。Claude Mythos Preview 通过大规模自主发现新漏洞消除了这一裕度。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/">Websites have a new way to spy on visitors: Analyzing their SSD activity</a></li>
-<li><a href="https://www.helpnetsecurity.com/2026/05/29/website-tracking-ssd-activity-research/">Websites can spy on user activity by analyzing SSD ... - Help Net Security</a></li>
-<li><a href="https://cybersecuritynews.com/malicious-websites-track-ssd-timing/">Malicious Websites Track Visitors by Analyzing their SSD Timing Activity</a></li>
+<li><a href="https://labs.cloudsecurityalliance.org/research/ai-vuln-discovery-containment-claude-mythos-v1-0-csa-styled/">Claude Mythos: AI Vulnerability Discovery and Containment Failures – Lab Space</a></li>
+<li><a href="https://www.armorcode.com/learning-center/the-claude-mythos-security-playbook-operationalizing-ai-scale-vulnerability-discovery">The Claude Mythos Security Playbook: Operationalizing AI-Scale Vulnerability Discovery</a></li>
+<li><a href="https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities">Our evaluation of Claude Mythos Preview’s cyber capabilities | AISI Work</a></li>
 
 </ul>
 </details>
 
-**标签**: `#security`, `#side-channel attack`, `#browser privacy`, `#SSD`, `#FROST`
+**标签**: `#AI security`, `#zero-day vulnerabilities`, `#enterprise patching`, `#Claude Mythos`, `#cybersecurity`
+
+---
+
+<a id="item-34"></a>
+## [Cloudflare Turnstile 现在要求 WebGL 指纹识别](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) ⭐️ 8.0/10
+
+Cloudflare 的 Turnstile（一种 CAPTCHA 替代方案）已开始要求使用 WebGL 指纹识别来验证用户，这破坏了隐私保护并屏蔽了少数派浏览器。此更改影响缺乏 WebGL 支持或启用了隐私功能（如 Firefox 的 resistFingerprinting）的浏览器。 此举通过引入一种能唯一识别浏览器的指纹识别技术，损害了用户隐私，与 Turnstile 等工具的隐私保护目标相悖。它还导致少数派浏览器用户和注重隐私的用户面临可访问性问题，可能将他们排除在众多网站之外。 WebGL 指纹识别通过渲染隐藏的 3D 图形并从 GPU 提取设备特定数据来创建唯一标识符。此更改已被观察到影响 Konform 等少数派浏览器以及启用了 Firefox 的 privacy.resistFingerprinting 的用户，即使在严格隐私设置下也是如此。
+
+hackernews · HypnoticOcelot · May 31, 14:13
+
+**背景**: WebGL 指纹识别是一种浏览器指纹识别技术，它利用 WebGL API 渲染离屏图形并收集硬件特定细节（如 GPU 型号和驱动程序版本）来生成唯一标识符。Cloudflare Turnstile 是一种注重隐私的 CAPTCHA 替代方案，旨在无需用户交互即可验证人类用户，但这一新要求引入了一种可能损害匿名性的指纹识别方法。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://jonatron.github.io/webgl-fingerprinting/">WebGL Fingerprinting</a></li>
+<li><a href="https://browserleaks.com/webgl">WebGL Browser Report - WebGL Fingerprinting - BrowserLeaks</a></li>
+<li><a href="https://fingerprint.com/blog/browser-fingerprinting-techniques/">Browser Fingerprinting Techniques : 6 Top Methods Explained</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论表达了不同观点：一些人认为指纹识别对于机器人检测是必要的，而另一些人则批评它侵犯隐私，可能导致互联网变成围墙花园。一位少数派浏览器的维护者报告了实际用户影响，一位用户指出 Firefox 的 privacy.resistFingerprinting 设置即使在严格模式下也未默认启用，从而导致网站故障。
+
+**标签**: `#privacy`, `#fingerprinting`, `#cloudflare`, `#webgl`, `#browser`
+
+---
+
+<a id="item-35"></a>
+## [Dav2d：面向高复杂度 AV2 编码器的新解码器](https://jbkempf.com/blog/2026/dav2d/) ⭐️ 8.0/10
+
+Dav2d 是一个新开发的用于 AV2 视频编码器的解码器，其解码复杂度大约是 AV1 的五倍。该解码器旨在应对增加的复杂度，实现实时软件解码。 这一进展意义重大，因为 AV2 更高的复杂度对当前硬件上的实时软件解码构成了重大挑战。Dav2d 可能为 AV2 在流媒体、广播等领域的实际应用铺平道路，推动视频压缩效率的边界。 AV2 编码器的解码复杂度大约是 AV1 的五倍，需要针对特定架构进行仔细优化才能实现实时性能。Dav2d 是一个开源项目，继承了广泛使用的 AV1 解码器 dav1d 的遗产。
+
+hackernews · captain_bender · May 31, 11:44
+
+**背景**: 像 AV1 和 AV2 这样的视频编码器压缩视频数据以实现高效存储和流媒体传输，但解码需要大量的计算能力。AV2 是开放媒体联盟的下一代编码器，旨在以更高的解码复杂度为代价实现比 AV1 更好的压缩。像 dav1d（用于 AV1）和现在的 dav2d（用于 AV2）这样的软件解码器对于在没有专用硬件支持的设备上实现播放至关重要。
+
+**社区讨论**: 社区表现出浓厚兴趣，原始文章因流量过高而遭遇“拥抱死亡”。评论者指出 AV1 软件解码已经很密集，因此 AV2 解码基准测试备受期待，并强调了针对特定架构的优化对实时性能的重要性。
+
+**标签**: `#AV2`, `#video codec`, `#decoder`, `#performance`, `#open source`
+
+---
+
+<a id="item-36"></a>
+## [AV2 迈出第一步：参考编码器 1.0.0 发布](https://videocardz.com/newz/aomedias-av2-encoder-gets-first-1-0-0-release) ⭐️ 8.0/10
+
+开放媒体联盟（AOMedia）已在 GitHub 上为 AV2 参考编码器（AVM）标记了 1.0.0 版本，标志着这一下一代免版税视频编码格式的首个正式发布。 此次发布标志着 AV1 后继格式的实质性进展——AV1 已用于 YouTube 和 Netflix 等主流平台——AV2 承诺在同等质量下减少高达 40% 的带宽，有望重塑流媒体、广播和实时视频应用。 当前的 AVM 软件是用于定义和测试格式的参考实现，并非生产级编码器；编码速度仍然较慢，细节保留存在问题，且 AV2 规范仍处于草案阶段。
+
+telegram · zaihuapd · May 31, 14:08
+
+**背景**: AV2 是 AV1 的规划后继格式，AV1 是一种开放、免版税的视频编码格式，专为互联网视频传输而设计。AOMedia 已开发 AV2 超过五年，参考软件提交次数超过 2700 次，草案规范于 2026 年初发布。参考编码器用于在硬件和软件优化使其可广泛实用之前验证编解码器设计。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.cnx-software.com/2026/02/03/aomedia-av2-video-codec-draft-specification-release-and-a-quick-try-at-the-reference-implementation/">AOMedia AV 2 video codec draft specification release... - CNX Software</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AV1">AV1 - Wikipedia</a></li>
+<li><a href="https://tech-ish.com/2025/09/17/aomedia-av2-video-codec-launch/">AOMedia ’s New AV 2 Video Codec Is Coming, and... - Techish Kenya</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AV2`, `#video codec`, `#AOMedia`, `#open standard`, `#compression`
+
+---
+
+<a id="item-37"></a>
+## [AI 编码工具放大类似 ADHD 的行为](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything) ⭐️ 7.0/10
+
+David Wilson 反思了 AI 编码工具如何放大类似 ADHD 的行为，导致大量未完成的项目和浪费时间，并建议取消订阅可能是解决办法。 这一批评与许多因 AI 工具而注意力下降、生产力降低的开发者产生共鸣，引发了对 AI 对工作习惯影响的深刻反思。 David 列出了他使用 AI 工具启动的 16 多个项目，指出会话通常从一个简单请求开始，却以废弃的过度构建的解决方案结束。他将 AI 描述为‘热核 ADHD 放大器’，以最小投入产生廉价回报。
+
+rss · Simon Willison · May 31, 16:31
+
+**背景**: AI 编码工具（如 Claude 和其他代理）能从模糊想法快速生成代码，在一小时内创建带有测试和文档的精美项目。但这种易创建性可能导致大量废弃项目，因为用户难以保持专注和承诺。
+
+**社区讨论**: Hacker News 讨论串中，一些 ADHD 人士评论称 AI 代理帮助他们首次实现专注并完成副项目。一位用户将 AI 描述为‘心灵的慰藉’，另一位则指出它提供了超专注所需的刺激。
+
+**标签**: `#AI`, `#productivity`, `#developer-experience`, `#attention`, `#critique`
 
 ---
