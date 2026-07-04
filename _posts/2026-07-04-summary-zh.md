@@ -5,341 +5,479 @@ date: 2026-07-04
 lang: zh
 ---
 
-> 从 37 条内容中筛选出 19 条重点信息（政治/金融 14，科技 5）
+> 从 116 条内容中筛选出 27 条重点信息（政治/金融 19，科技 8）
 
 ---
 
 ## 政治与金融
 
 <a id="item-1"></a>
-## [特朗普赦免《清洁空气法》违规者及大额捐赠者](https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html) ⭐️ 9.0/10
+## [委内瑞拉地震死亡人数接近 3000](https://www.bloomberg.com/news/articles/2026-07-04/venezuela-quake-death-toll-climbs-to-nearly-3-000) ⭐️ 9.0/10
 
-特朗普总统动用赦免权，赦免了因违反《清洁空气法》而被定罪的人士，以及一名在涉及说客杰克·阿布拉莫夫的欺诈案中认罪的主要政治捐赠者。 此举系统性地削弱了联邦环境保护和法治，表明富有的捐赠者和违法者可以逃避问责。它为利用总统赦免权奖励政治盟友、削弱监管执法树立了危险先例。 赦免涉及多名因违反《清洁空气法》而被定罪的人士，但报道未披露具体姓名和案件细节。涉及的捐赠者与杰克·阿布拉莫夫游说丑闻有关，这是美国历史上最大的政治腐败案之一。
+截至 2026 年 7 月 4 日，委内瑞拉双震的官方死亡人数已升至近 3000 人，标志着一场灾难性的人道主义事件。 如此巨大的生命损失构成了一场具有系统性重要性的严重人道主义危机，对委内瑞拉本已脆弱的政治和经济稳定产生深远影响，并可能引发国际援助和政策回应。 这些地震是上周发生的双震事件，死亡人数持续上升，表明救援和恢复工作面临持续挑战。
 
-rss · NYTimes Politics · Jul 4, 02:06
+rss · Bloomberg Markets · Jul 4, 19:20
 
-**背景**: 《清洁空气法》是美国控制空气污染、保护公众健康的主要联邦法律。总统赦免权允许总统赦免联邦罪行，但利用该权力惠及政治捐赠者并削弱环境法律极具争议且罕见。
+**背景**: 委内瑞拉长期面临经济和政治危机，包括恶性通货膨胀、基本物资短缺以及医疗系统不堪重负。如此规模的自然灾害进一步压垮了该国本已有限的应对能力。
 
-**标签**: `#politics`, `#environmental policy`, `#clemency`, `#corruption`, `#Trump administration`
+**标签**: `#Venezuela`, `#earthquake`, `#humanitarian crisis`, `#natural disaster`, `#death toll`
 
 ---
 
 <a id="item-2"></a>
-## [特朗普派 260 名 FBI 分析师赴佐治亚州，动摇选举信任](https://www.nytimes.com/2026/07/03/us/politics/trump-georgia-doubt-election-integrity.html) ⭐️ 9.0/10
+## [美伊和平协议引发石油供应过剩担忧](https://www.bloomberg.com/news/articles/2026-07-04/oil-s-stunning-reversal-rekindles-fears-of-a-global-glut) ⭐️ 9.0/10
 
-特朗普总统已派遣 260 名 FBI 分析师前往佐治亚州，调查关于 2020 年选举欺诈的无根据指控，重复那些已被广泛驳斥的说法。 此举标志着联邦执法力量被前所未有地用于质疑州选举结果，威胁公众对民主进程的信心，并为未来选举树立危险先例。 此次部署涉及 260 名 FBI 分析师，是一项重大的联邦资源投入，目标指向佐治亚州——特朗普在 2020 年以微弱劣势输掉的关键摇摆州。批评者认为，调查基于无根据的指控，旨在散布怀疑而非揭露真正的欺诈。
+美国与伊朗达成和平协议，释放大量石油供应，导致需求被压垮、油价暴跌，重新引发全球供应过剩的担忧。 这一事态可能重塑全球石油市场，降低能源价格，缓解通胀压力，并给依赖石油的经济体带来财政压力，产生广泛的地缘政治和经济连锁反应。 美伊协议带来的供应激增压倒了买家需求，引发关于原油过剩的讨论，但报道中未提供具体的产量或出口数据。
 
-rss · NYTimes Politics · Jul 3, 23:31
+rss · Bloomberg Markets · Jul 4, 12:31
 
-**背景**: 2020 年总统大选后，唐纳德·特朗普及其盟友反复声称存在广泛的选民欺诈，尤其是在佐治亚州等州，尽管多次审计、重新计票和法院裁决均未发现重大欺诈证据。司法部和 FBI 通常避免介入选举争议，除非存在联邦犯罪的可靠证据。此次部署标志着对这一规范的严重背离，引发了对联邦执法政治化的担忧。
+**背景**: 石油市场对影响主要产油国供应的地缘政治变化高度敏感。美伊和平协议可能解除对伊朗石油出口的制裁，为已经面临需求不确定性的市场增加大量供应。历史上，全球供应过剩曾导致油价急剧下跌，影响能源公司、消费者以及依赖石油收入的经济体。
 
-**标签**: `#election integrity`, `#democracy`, `#Trump`, `#Georgia`, `#federal law enforcement`
+**标签**: `#oil`, `#geopolitics`, `#energy markets`, `#global economy`, `#US-Iran`
 
 ---
 
 <a id="item-3"></a>
-## [近百万投资者在特朗普迷因币上亏损 38 亿美元](https://www.nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html) ⭐️ 8.0/10
+## [油轮在霍尔木兹海峡掉头，伊朗紧张局势加剧](https://www.bloomberg.com/news/articles/2026-07-04/tankers-u-turn-in-hormuz-with-some-taking-iran-route-instead) ⭐️ 9.0/10
 
-一份加密货币分析报告显示，近百万散户投资者在特朗普迷因币（$TRUMP）上合计亏损 38 亿美元，而老练的交易者则从中获利。 这一巨额亏损凸显了政治主题迷因币的风险，并引发了对消费者保护、市场诚信以及涉及前总统金融活动的利益冲突的严重担忧。 特朗普迷因币于 2025 年 1 月 17 日在 Solana 区块链上推出，其中 2 亿枚向公众发行，8 亿枚由特朗普旗下公司持有；该币价格在推出后不久达到 75.35 美元的高点，但随后暴跌。
+至少八艘试图通过阿曼海岸离开波斯湾的油轮在周五至周六期间掉头，部分船只转而选择更靠近伊朗的航线。 霍尔木兹海峡是全球石油运输的关键咽喉，此次通行中断对能源市场、航运保险和全球供应链产生直接影响，因为伊朗正试图加强对该水道的控制。 油轮掉头事件发生之际，伊朗继续执行新的船只通行规则，包括审查和征税，尽管美国发出警告，且联合海事信息中心于 6 月 27 日宣布在阿曼附近开辟了一条更宽的替代航线。
 
-rss · NYTimes Politics · Jul 4, 09:01
+rss · Bloomberg Markets · Jul 4, 10:33
 
-**背景**: 迷因币是一种受互联网迷因或公众人物启发的加密货币，通常没有内在价值且波动性极高。特朗普迷因币在特朗普 2025 年就职前几天推出，市值迅速超过 270 亿美元，但此后价值暴跌，导致后期入场的散户投资者普遍亏损。
+**背景**: 霍尔木兹海峡是伊朗和阿曼之间的一条狭窄水道，全球约 20%的石油通过此处运输。自 2026 年 5 月以来，伊朗成立了一个新机构来控制航运，并实施了海事法专家认为违反国际法的规则，加剧了与美国及全球航运业的紧张关系。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Trump_memecoin">Trump memecoin</a></li>
-<li><a href="https://99bitcoins.com/news/altcoins/trump-crypto-profits-investors-losses/">Trump Crypto Profits: $2.3B Gained, $2.3B Lost by Investors</a></li>
-<li><a href="https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html">Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big - The New York Times</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">2026 Strait of Hormuz crisis - Wikipedia</a></li>
+<li><a href="https://www.pbs.org/newshour/world/iran-creates-new-agency-to-control-shipping-in-strait-of-hormuz-while-reviewing-peace-deal-with-u-s">Iran creates new agency to control shipping in Strait of Hormuz while reviewing peace deal with U.S. | PBS News</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cryptocurrency`, `#consumer protection`, `#regulation`, `#Trump`, `#financial loss`
+**标签**: `#geopolitics`, `#energy markets`, `#Strait of Hormuz`, `#Iran`, `#global trade`
 
 ---
 
 <a id="item-4"></a>
-## [无人机袭击圣彼得堡石油码头](https://www.bloomberg.com/news/articles/2026-07-04/oil-terminal-in-russia-s-st-petersburg-comes-under-drone-attack) ⭐️ 8.0/10
+## [近百万投资者在特朗普迷因币上损失 38 亿美元](https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html) ⭐️ 8.0/10
 
-据当地官员称，2026 年 7 月 4 日夜间，乌克兰军队用无人机袭击了俄罗斯第二大城市圣彼得堡的一个石油码头。作为对等升级，俄罗斯则打击了乌克兰的一处天然气生产设施。 此次袭击直接针对远离前线的主要俄罗斯城市的关键能源基础设施，标志着冲突的重大升级。它可能扰乱石油供应，影响全球能源市场，并加剧对俄罗斯城市中心的安全担忧。 袭击发生在拥有超过 500 万人口、且是俄罗斯能源出口主要枢纽的圣彼得堡。当地官员未立即报告人员伤亡或损失程度。
+加密货币分析公司 Nansen 的一份报告显示，截至 2026 年 6 月底，购买特朗普品牌迷因币（TRUMP）的近百万散户投资者合计损失了 38.1 亿美元，而老练的交易者则获利。 这一巨额亏损凸显了投机性迷因币投资的风险，尤其是当它与政治人物挂钩时，并引发了对散户投资者保护、潜在市场操纵以及现任总统从波动性加密资产中获利的伦理问题的严重担忧。 TRUMP 迷因币于 2025 年 1 月 17 日在 Solana 区块链上推出，通过首次代币发行（ICO）公开发行了 2 亿枚；另有 8 亿枚由特朗普拥有的两家公司持有。2025 年 3 月《金融时报》的分析发现，该项目通过代币销售和费用净赚至少 3.5 亿美元。
 
-rss · Bloomberg Markets · Jul 4, 08:07
+rss · NYTimes Politics · Jul 4, 10:28
 
-**背景**: 自 2022 年 2 月俄乌战争爆发以来，双方越来越多地攻击对方的能源基础设施，以扰乱供应链和经济稳定。圣彼得堡距离乌克兰边境约 800 公里，此前被认为相对安全，不易遭受直接攻击。石油码头对俄罗斯的石油出口至关重要，任何中断都可能对全球能源价格产生连锁反应。
+**背景**: 迷因币是一种没有内在价值的加密货币，通常基于网络迷因或公众人物。TRUMP 币印有唐纳德·特朗普的形象，在他第二次就职前几天推出，市值曾短暂超过 270 亿美元，但此后大幅下跌，导致大多数散户买家遭受重创。
 
-**标签**: `#geopolitics`, `#energy`, `#Russia-Ukraine war`, `#security`, `#infrastructure attack`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html">Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin - The New York Times</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Trump_memecoin">Trump memecoin</a></li>
+<li><a href="https://incrypted.com/en/nansen-estimated-investor-losses-in-the-trump-memecoin/">Nansen Estimated Investor Losses in the TRUMP Memecoin</a></li>
+
+</ul>
+</details>
+
+**标签**: `#cryptocurrency`, `#retail investors`, `#financial regulation`, `#political ethics`, `#market manipulation`
 
 ---
 
 <a id="item-5"></a>
-## [乌克兰否认俄军占领顿涅茨克重镇](https://www.bloomberg.com/news/articles/2026-07-04/russia-said-it-captured-key-ukraine-stronghold-in-donetsk-region) ⭐️ 8.0/10
+## [德国经济复苏取决于伊朗战争数据](https://www.bloomberg.com/news/articles/2026-07-04/germany-s-second-chance-for-growth-rebound-starts-now) ⭐️ 8.0/10
 
-乌克兰否认俄罗斯关于其军队已占领顿涅茨克地区关键后勤枢纽科斯强季尼夫卡的说法，坚称该市仍处于乌克兰控制之下。 对这一战略后勤枢纽的争议性声明可能影响军事行动及乌克兰东部战争的总体走向，因为控制科斯强季尼夫卡对补给线和区域防御至关重要。 科斯强季尼夫卡遭受了猛烈轰炸，乌克兰的否认凸显了持续的信息战，双方都试图塑造关于领土收益的叙事。
+德国将于下周发布经济数据，这些数据将揭示伊朗战争的累积影响，为政府推出新的刺激计划以重振欧洲最大经济体增长铺平道路。 这一进展意义重大，因为德国的经济健康状况直接影响欧元区和全球市场，而政府的应对措施可能为其他国家应对战争引发的经济冲击树立先例。 即将发布的数据将显示战争对德国工业和消费者信心的影响，而政府的刺激计划旨在唤醒“动物精神”——这一术语指代驱动经济活动的心理因素。
 
-rss · Bloomberg Markets · Jul 4, 04:21
+rss · Bloomberg Markets · Jul 4, 20:00
 
-**背景**: 科斯强季尼夫卡是顿涅茨克地区具有战略重要性的城市，是乌克兰军队的后勤枢纽。自 2022 年俄罗斯全面入侵以来，顿涅茨克地区一直是激烈战斗的焦点，双方经常就领土控制权提出相互矛盾的说法。
+**背景**: 伊朗战争是一场重大地缘政治冲突，扰乱了全球供应链和能源市场，对德国出口导向型经济打击尤为严重。作为欧洲最大经济体，德国一直面临增长乏力的问题，而战争加剧了这些挑战。政府的刺激计划是恢复信心和刺激投资的更广泛努力的一部分。
 
-**标签**: `#Ukraine war`, `#geopolitics`, `#Donetsk`, `#military conflict`, `#Russia`
+**标签**: `#Germany`, `#geopolitics`, `#economic policy`, `#Iran war`, `#Eurozone`
 
 ---
 
 <a id="item-6"></a>
-## [马克龙最终预算对决预示更多政治动荡](https://www.bloomberg.com/news/articles/2026-07-04/macron-s-budget-finale-augurs-more-political-chaos-in-france) ⭐️ 8.0/10
+## [莫迪誓言继续扩大印度炼油产能](https://www.bloomberg.com/news/articles/2026-07-04/modi-says-india-will-continue-to-expand-oil-refining-capacity) ⭐️ 8.0/10
 
-法国总统埃马纽埃尔·马克龙任期内的最终预算将成为十年来最具影响力的财政冲突，预示着潜在的政治和经济动荡。 鉴于法国作为欧元区主要经济体的地位，这场预算对决可能对欧盟财政政策和市场稳定产生系统性影响。其结果可能影响投资者信心，并为欧盟未来的财政治理树立先例。 该预算是马克龙总统任期结束前的最后一项财政方案，因此成为一场高风险的政治事件。这场冲突预计将加剧现有的政治分歧，并可能引发法国治理的进一步不稳定。
+印度总理纳伦德拉·莫迪宣布，即使西方国家正在关闭其炼油设施，印度仍将继续新建原油炼油厂，以确保供应链安全。 这一政策标志着印度与西方炼油厂关停的全球趋势形成战略分化，强化了印度作为新兴能源枢纽的地位，并可能重塑全球石油贸易流向和投资格局。 该声明于 2026 年 7 月 4 日发布，强调印度在地缘政治不确定性下对能源安全的重视，与欧洲和北美因能源转型政策而关闭炼油厂形成对比。
 
-rss · Bloomberg Markets · Jul 4, 07:00
+rss · Bloomberg Markets · Jul 4, 09:12
 
-**背景**: 在马克龙总统任期内，法国面临反复出现的政治和财政挑战，包括抗议活动和议会反对。最终预算被视为其政府在公共债务上升和欧盟财政规则背景下管理经济政策能力的考验。
+**背景**: 印度是全球第三大石油消费国，其原油需求严重依赖进口。扩大国内炼油能力有助于降低对全球供应中断的脆弱性，并支持该国不断增长的能源需求。
 
-**标签**: `#France`, `#fiscal policy`, `#EU politics`, `#Macron`, `#budget`
+**标签**: `#energy policy`, `#India`, `#oil refining`, `#supply chain security`, `#geopolitics`
 
 ---
 
 <a id="item-7"></a>
-## [埃博拉疫苗试验或于今年启动](https://www.bloomberg.com/news/videos/2026-07-04/ebola-vaccine-trials-could-start-this-year) ⭐️ 8.0/10
+## [阿利托大法官在保守派胜诉后无退休迹象](https://www.nytimes.com/2026/07/04/us/politics/justice-alito-influence-supreme-court.html) ⭐️ 7.0/10
 
-随着刚果和乌干达埃博拉病例增加，疫苗开发商正加速针对罕见 Bundibugyo 毒株的研发工作，IAVI 首席执行官 Mark Feinberg 表示，候选疫苗可能在年底前进入人体试验。 这一进展意义重大，因为 Bundibugyo 毒株是一种罕见且严重的埃博拉病毒类型，尚无获批疫苗，加速试验可提升大流行防范能力并在受影响地区挽救生命。 候选疫苗由最初专注于 HIV 研究的全球非营利组织 IAVI 开发，人体试验可能在 2026 年底前启动，此前于 2026 年 5 月宣布了最近的疫情。
+塞缪尔·阿利托大法官在最高法院本任期内在投票权、移民和枪支管制方面为保守派取得重大胜利后，未表现出任何退休的迹象。 阿利托继续留任巩固了最高法院的保守派多数，并影响未来关键议题的裁决，从而影响司法机构的意识形态平衡和美国的长期政策走向。 报道强调了阿利托在本任期推动保守派关键胜诉的作用，但未提供他可能退休的具体时间表或条件，使其未来计划仍不明朗。
 
-rss · Bloomberg Markets · Jul 4, 05:00
+rss · NYTimes Politics · Jul 4, 13:02
 
-**背景**: 埃博拉病是一种由正埃博拉病毒引起的严重且常致命的疾病，果蝠被怀疑是天然宿主。Bundibugyo 病毒于 2008 年首次发现，是多种病毒物种之一，可引起 Bundibugyo 病毒病（BVD）。2026 年 5 月 15 日，刚果民主共和国和乌干达在实验室检测确认 Bundibugyo 病毒感染后均宣布暴发疫情。
+**背景**: 阿利托大法官由乔治·W·布什总统于 2006 年任命，是最高法院保守派的主要代表。他的退休将给民主党总统任命更自由派继任者的机会，可能改变法院的意识形态平衡。目前最高法院以 6 比 3 的保守派多数构成，任何空缺都影响深远。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Bundibugyo_ebolavirus">Bundibugyo ebolavirus - Wikipedia</a></li>
-<li><a href="https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602">Ebola disease caused by Bundibugyo virus, Democratic Republic ...</a></li>
-<li><a href="https://www.cdc.gov/ebola/situation-summary/index.html">Ebola Outbreak: Current Situation | Ebola | CDC</a></li>
-
-</ul>
-</details>
-
-**标签**: `#public health`, `#vaccine development`, `#Ebola`, `#global health`, `#pandemic preparedness`
+**标签**: `#Supreme Court`, `#Judicial Politics`, `#Conservatism`, `#US Politics`
 
 ---
 
 <a id="item-8"></a>
-## [中国海警在台湾以东海域轮换巡逻编队](https://www.bloomberg.com/news/articles/2026-07-04/china-coast-guard-rotates-patrol-task-group-east-of-taiwan) ⭐️ 8.0/10
+## [选民转向 AI 聊天机器人寻求选举指导](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html) ⭐️ 7.0/10
 
-2026 年 7 月 4 日，中国海警在台湾以东海域轮换巡逻编队，由秀山舰接替岱山舰继续在该区域执行执法任务。 此次轮换表明中国在台湾附近海域持续展现强硬姿态，这是中美关系和地区安全的一个热点，可能加剧与台湾及其盟友的紧张局势。 该编队由中国海警秀山舰率领，根据中国海警声明，轮换于 2026 年 7 月 4 日星期六进行。
+据《纽约时报》2026 年 7 月报道，越来越多的选民开始使用 ChatGPT 和微软 Copilot 等 AI 聊天机器人来决定支持哪位候选人。 这一趋势引发了对错误信息传播和知情公民参与被削弱的严重担忧，因为 AI 工具可能生成关于候选人和选举的事实不准确或虚构的信息。 研究表明，微软 Copilot 等 AI 聊天机器人在瑞士和德国等国生成了不准确的选举信息，可能损害候选人声誉并抑制选民投票率。
 
-rss · Bloomberg Markets · Jul 4, 02:41
+rss · NYTimes Politics · Jul 4, 09:00
 
-**背景**: 中国海警一直在台湾以东海域进行定期执法巡逻，北京认为这些海域属于其领海。这些巡逻是中国主张对台湾主权的更广泛努力的一部分，中国宣称台湾是其领土。编队轮换是维持持续存在的常规操作程序。
+**背景**: AI 聊天机器人是基于海量互联网数据训练的大型语言模型，但它们缺乏实时验证能力，可能自信地呈现虚假信息。随着这些工具越来越易用，选民可能将其作为理解复杂政治问题的捷径，绕过新闻媒体或官方竞选材料等传统信息来源。
 
-**标签**: `#geopolitics`, `#Taiwan`, `#China`, `#security`, `#Asia Pacific`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://algorithmwatch.org/en/microsofts-bing-source-misinformation-elections/">Microsoft‘s Bing Chat : A source of misinformation on elections</a></li>
+<li><a href="https://www.toolify.ai/ai-news/aigenerated-misinformation-spotting-fake-news-in-elections-3466452">AI -Generated Misinformation : Spotting Fake News in Elections</a></li>
+<li><a href="https://www.ms.now/opinion/msnbc-opinion/ai-chatbot-misinformation-2024-elections-rcna92378">AI chatbot misinformation could complicate the 2024 elections</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#elections`, `#voter behavior`, `#misinformation`, `#democracy`
 
 ---
 
 <a id="item-9"></a>
-## [亚洲从伊朗危机中汲取能源安全教训](https://www.bloomberg.com/news/articles/2026-07-04/energy-hungry-asia-is-already-drawing-lessons-from-iran-crisis) ⭐️ 8.0/10
+## [特朗普在拉什莫尔山将对手称为“共产主义者”](https://www.nytimes.com/2026/07/03/us/politics/trump-mount-rushmore-america-250.html) ⭐️ 7.0/10
 
-据彭博社报道，能源需求旺盛的亚洲国家已从持续四个月的波斯湾冲突中汲取关键教训，认为需要更大的能源缓冲、更多元化的化石燃料供应商以及更优的整体电力结构。 这一思维转变意义重大，因为亚洲的能源安全战略直接影响全球能源市场、供应链和地缘政治稳定；政策制定者和投资者现在必须考虑到该地区可能长期向多元化和韧性方向转变。 文章指出，波斯湾尚未达成持久和平协议，这些教训来自四个月的战争；具体建议包括更大的缓冲、多元化的化石燃料供应商以及更优的电力来源组合。
+在 7 月 4 日前夕，特朗普总统在拉什莫尔山发表演讲，赞扬美国开国元勋，同时将政治对手称为“共产主义者”，为即将到来的 11 月大选定下对抗性基调。 此次演讲标志着政治言论的显著升级，使用“共产主义者”等激烈措辞来定义对手，可能加剧两极分化并影响选举中的选民投票率。 演讲于 7 月 4 日前夕在具有象征意义的国家纪念碑拉什莫尔山举行，被描述为 11 月竞选活动的预热，凸显了特朗普团结基本盘的战略。
 
-rss · Bloomberg Markets · Jul 4, 00:00
+rss · NYTimes Politics · Jul 4, 13:28
 
-**背景**: 波斯湾地区是全球石油和天然气供应的关键枢纽，该地区的任何长期冲突都可能扰乱对亚洲等进口依赖地区的能源流动。亚洲经济体，尤其是中国、印度和日本，严重依赖进口化石燃料来支撑其工业和增长。“能源缓冲”的概念指的是能够吸收供应冲击的战略储备或备用产能，而“电力结构”则描述了用于发电的不同能源（如煤炭、天然气、可再生能源、核能）的组合。
+**背景**: 拉什莫尔山雕刻了四位美国总统的头像，常被用作爱国活动的背景。特朗普总统经常对对手使用激烈言辞，但将其称为“共产主义者”在当前两极分化的政治气候中代表了尤为尖锐的攻击。
 
-**标签**: `#geopolitics`, `#energy security`, `#Asia`, `#Iran crisis`, `#fossil fuels`
+**标签**: `#politics`, `#election`, `#Trump`, `#rhetoric`, `#polarization`
 
 ---
 
 <a id="item-10"></a>
-## [选民转向 AI 聊天机器人寻求选举指导](https://www.nytimes.com/2026/07/04/us/politics/voters-ai-chatbots-elections.html) ⭐️ 7.0/10
+## [普京签署税收修正案以增加国内燃料供应](https://www.bloomberg.com/news/articles/2026-07-04/putin-signs-tax-amendments-aiming-to-boost-domestic-fuel-supply) ⭐️ 7.0/10
 
-根据《纽约时报》2026 年 7 月发布的一篇报道，越来越多的选民在投票前使用 AI 聊天机器人（如 ChatGPT）提问“我应该投票给谁？”。 这一趋势引发了对 AI 生成投票建议准确性和偏见的严重担忧，可能削弱知情的公民参与和对民主进程的信任。 荷兰监管机构已指出 AI 聊天机器人在投票建议方面存在不可靠和偏见问题，研究表明 AI 模型可能表现出基于语言的偏见——例如，当提示为西班牙语时会产生有偏见的回应。
+俄罗斯总统弗拉基米尔·普京签署了一项法律，引入税收修正案，旨在刺激汽油供应进入国内市场。 这一政策举措意义重大，因为它直接应对俄罗斯国内的燃料短缺和价格波动问题，可能对全球能源市场和地缘政治格局产生连锁反应。 该法律专门针对税收调整，以鼓励石油公司优先考虑国内供应而非出口，但公告中未详细说明具体的税率或门槛。
 
-rss · NYTimes Politics · Jul 4, 09:00
+rss · Bloomberg Markets · Jul 4, 15:42
 
-**背景**: 投票建议应用程序（VAA）是帮助选民将自己的观点与政党立场进行比较的交互工具，但 AI 聊天机器人更进一步，生成个性化答案。然而，AI 模型基于可能包含政治偏见的海量数据集训练，缺乏核实事实或理解地方选举细微差别的能力，使其成为选举指导的风险来源。
+**背景**: 近年来，俄罗斯因炼油厂维护和出口激励等因素，不时面临汽油价格飙升和供应紧张的问题。税收修正案是政府用来影响国内与国际市场之间燃料流动的常见工具。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lMNE1IbUR4RlBmNVcxM3dxVGd5Z0FQAQ?hl=en-PK&gl=PK&ceid=PK:en">Google News - News about chatbots • voters - Overview</a></li>
-<li><a href="https://em360tech.com/tech-articles/ai-models-show-us-election-bias-when-prompts-are-spanish">Election Queries on AI Models in Spanish Result in Bias Response</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12718359/">Chatbot Voting Advice Applications inform but seldom sway young...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#elections`, `#voter behavior`, `#democracy`, `#misinformation`
+**标签**: `#Russia`, `#energy policy`, `#tax amendments`, `#fuel supply`, `#geopolitics`
 
 ---
 
 <a id="item-11"></a>
-## [空军少校在国会弹劾抗议中被捕](https://www.nytimes.com/2026/07/03/us/politics/air-force-officer-arrested-trump-impeachment.html) ⭐️ 7.0/10
+## [法国农业信贷银行增持 BPM 股份，巩固意大利市场地位](https://www.bloomberg.com/news/articles/2026-07-04/credit-agricole-increases-bpm-stake-boosting-position-in-italy) ⭐️ 7.0/10
 
-美国空军少校杰森·沃森周三在国会大厦参加呼吁弹劾特朗普总统的抗议活动时，因身穿军装而被捕。 这一事件引发了关于军人参与政治抗议以及军人言论自由界限的严重问题，可能影响军民关系和政治话语。 该军官被捕时身穿军装，这是一个关键细节，因为军事法规通常限制穿军装时的政治活动。
+法国农业信贷银行增持了意大利银行 Banco BPM 的股份，表明其战略性地深化在意大利银行业的存在。 此举凸显了欧洲银行业持续的跨境整合趋势，可能重塑意大利的竞争格局，并在贸易不确定性中巩固法国农业信贷银行在欧元区第三大经济体的立足点。 报道未披露增持的具体规模，但此举正值欧元区经济展现出对全球贸易紧张局势的韧性，为战略投资提供了有利背景。
 
-rss · NYTimes Politics · Jul 4, 02:10
+rss · Bloomberg Markets · Jul 4, 11:38
 
-**背景**: 美国军方对军人参与政治活动有严格规定，尤其是穿军装时，以保持政治中立。针对特朗普总统的弹劾程序一直是美国政治中高度两极分化的问题。
+**背景**: 法国农业信贷银行是欧洲最大的银行集团之一，而 Banco BPM 是意大利主要的商业银行。跨境持股欧洲银行一直是大型银行寻求本土市场以外增长的关键策略，尤其是在分散的意大利银行业。
 
-**标签**: `#military`, `#politics`, `#civil-military relations`, `#protest`, `#impeachment`
+**标签**: `#banking`, `#europe`, `#mergers and acquisitions`, `#italy`, `#financial markets`
 
 ---
 
 <a id="item-12"></a>
-## [特朗普在拉什莫尔山：爱国与‘共产主义’言论](https://www.nytimes.com/2026/07/03/us/politics/trump-mount-rushmore-america-250.html) ⭐️ 7.0/10
+## [欧洲央行加息后通胀放缓，官员称形势良好](https://www.bloomberg.com/news/articles/2026-07-04/ecb-is-in-good-position-given-inflation-data-moulin-says) ⭐️ 7.0/10
 
-2026 年 7 月 4 日前夕，特朗普总统在拉什莫尔山发表演讲，颂扬美国开国元勋，同时将政治对手称为‘共产主义者’，为 11 月选举预热。 此次演讲将对手描绘为意识形态极端分子，可能加剧党派分歧，影响 2026 年中期选举前选民看法。 活动在象征美国遗产的拉什莫尔山举行，演讲融合爱国主题与尖锐攻击，将批评者称为‘共产主义者’，未提出具体政策。
+欧洲央行管理委员会成员埃马纽埃尔·穆兰表示，在近期加息以及油价下跌推动通胀放缓之后，央行处于“良好位置”。 这一表态表明欧洲央行对其当前货币政策立场充满信心，可能影响市场对未来利率决策的预期，并为欧元区的投资者和企业带来 reassurance。 该评论于 2026 年 7 月 4 日（周六）发表，提及上月实施的加息以及油价下跌导致通胀放缓的数据。
 
-rss · NYTimes Politics · Jul 4, 05:38
+rss · Bloomberg Markets · Jul 4, 10:05
 
-**背景**: 拉什莫尔山雕刻了四位美国总统头像，常用于爱国活动。特朗普此前曾使用类似言论，如称对手为‘社会主义者’或‘激进左派’，但‘共产主义者’一词带有更强的冷战色彩。2026 年选举将决定国会控制权，此次演讲是战略性竞选举措。
+**背景**: 欧洲央行（ECB）负责制定欧元区的货币政策，主要目标是控制通胀。加息是抑制通胀的工具之一，而油价下跌则会降低生产成本和消费价格，有助于缓解通胀。
 
-**标签**: `#politics`, `#2026 election`, `#Trump`, `#political rhetoric`, `#July 4`
+**标签**: `#ECB`, `#monetary policy`, `#inflation`, `#interest rates`, `#eurozone`
 
 ---
 
 <a id="item-13"></a>
-## [UPS 未指示检查员核查路易斯维尔坠机中的故障轴承](https://www.nytimes.com/2026/07/02/us/politics/ups-louisville-crash.html) ⭐️ 7.0/10
+## [道达尔 CEO：中东产油国急于抛售原油库存](https://www.bloomberg.com/news/articles/2026-07-04/total-ceo-sees-mideast-producers-desperate-to-sell-oil-stocks) ⭐️ 7.0/10
 
-UPS 未指示检查员核查波音此前已识别为故障的轴承，该轴承涉及路易斯维尔坠机事件。 这引发了对维护监督和问责制的严重质疑，可能涉及波音、美国联邦航空管理局和 UPS 的系统性失误，进而影响航空安全和公众信任。 波音已识别该轴承为故障，但 UPS 声称波音从未要求加强检查，凸显了制造商建议与运营商行动之间的差距。
+道达尔能源首席执行官 Patrick Pouyanné表示，中东产油国正急于出售近期波斯湾冲突期间囤积的原油，而汽油和柴油等成品油库存因持续的航运中断依然紧张。 这标志着全球石油供应格局可能发生转变，释放囤积的原油可能缓解价格压力，但持续的成品油短缺可能使能源市场保持波动，并影响全球消费者和工业。 这些原油库存是在 2026 年伊朗战争和霍尔木兹海峡危机期间积累的，该危机曾扰乱全球约 25%的海运石油贸易；然而，航运中断仍在制约成品油供应，例如马士基已调整紧急运费和燃油附加费。
 
-rss · NYTimes Politics · Jul 3, 21:53
+rss · Bloomberg Markets · Jul 4, 09:49
 
-**背景**: 在航空维护中，适航指令（AD）具有法律强制性，而服务通告（SB）仅为建议。区分这两种文件至关重要，混淆它们可能导致安全隐患。本案涉及飞机发动机轴承故障，这是一种已知的故障模式，若不处理可能引发灾难性事件。
+**背景**: 2026 年的伊朗战争导致霍尔木兹海峡关闭，这是全球石油和液化天然气运输的关键咽喉要道，造成大规模供应中断和价格飙升。中东产油国在冲突期间囤积了原油，现在冲突结束后正寻求出售这些库存。与此同时，由于持续的航运风险和炼油厂损坏，成品油市场依然紧张，例如俄罗斯削减出口以及全球燃料油溢价回升。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.aviationhunt.com/airworthiness-directives-vs-service-bulletins/">Airworthiness Directives (AD) vs . Service Bulletins ... - AviationHunt</a></li>
-<li><a href="https://legalclarity.org/aircraft-maintenance-manual-contents-format-and-regulations/">Aircraft Maintenance Manual: Contents, Format, and... - LegalClarity</a></li>
-<li><a href="https://aeroenginesafety.tugraz.at/doku.php?id=23:231:2312:2312">23.1.2 Failures of anti friction bearings [Aeroengine Safety]</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis">2026 Iran war fuel crisis - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">2026 Strait of Hormuz crisis - Wikipedia</a></li>
+<li><a href="https://internationalinvestment.biz/en/news/7503-ship-fuel-shortages-emerge.html">Ship Fuel Shortages Add Pressure to Global Trade</a></li>
 
 </ul>
 </details>
 
-**标签**: `#aviation safety`, `#regulatory oversight`, `#Boeing`, `#UPS`, `#transportation policy`
+**标签**: `#oil markets`, `#geopolitics`, `#energy supply`, `#Middle East`, `#shipping`
 
 ---
 
 <a id="item-14"></a>
-## [特朗普介入推动斯穆伦退出纽约众议院竞选](https://www.nytimes.com/2026/07/03/nyregion/trump-constantino-smullen-stefanik.html) ⭐️ 6.0/10
+## [新联邦规则允许保险公司将屋顶费用转嫁给房主](https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories) ⭐️ 7.0/10
 
-前总统唐纳德·特朗普介入，说服纽约州众议员罗伯特·斯穆伦放弃以保守党身份竞选由埃莉斯·斯特凡尼克空出的美国众议院席位，此前斯穆伦已在共和党初选中落败。 此举凸显了特朗普在共和党内部事务中的持续影响力，即使是在地方竞选中也不例外，并反映了为巩固党内对首选候选人的支持而进行的战略操作。 斯穆伦在共和党初选中失利，但曾计划以保守党身份继续竞选，这是纽约选举中常见的第三方途径。特朗普的介入使他完全退出竞选。
+一项新的联邦规则允许保险公司将屋顶更换费用转嫁给房主，这意味着投保人可能不得不自掏腰包支付维修费用，或者因提出索赔而面临保费上涨。 这一变化显著增加了房主的经济负担，尤其是在冰雹和飓风季节来临之际，可能使数百万家庭面临艰难选择：要么提出昂贵的索赔，要么自费进行昂贵的维修。 房主现在面临两难境地：提出保险索赔可能导致保费上涨，而自费更换屋顶对许多人来说可能在经济上不可行。
 
-rss · NYTimes Politics · Jul 4, 01:03
+rss · MarketWatch Top Stories · Jul 4, 18:19
 
-**背景**: 埃莉斯·斯特凡尼克是一位知名的众议院共和党人，她因在特朗普政府任职而空出了席位。接替她的竞选引起了广泛关注，特朗普支持特定候选人以确保党内团结并与其议程保持一致。
+**背景**: 房主保险通常覆盖风暴造成的屋顶损坏，但保险公司一直在寻求降低成本的方法。这项新的联邦规则似乎将更多财务责任转移给投保人，改变了传统的保险模式。
 
-**标签**: `#US politics`, `#New York`, `#House race`, `#Trump`, `#Republican primary`
+**标签**: `#insurance`, `#housing`, `#regulation`, `#consumer finance`, `#disaster preparedness`
+
+---
+
+<a id="item-15"></a>
+## [西部多镇因野火风险取消烟花表演](https://www.nytimes.com/2026/07/04/us/politics/fireworks-canceled-wildfire-danger.html) ⭐️ 6.0/10
+
+由于野火风险加剧，多个西部城镇的地方官员已取消国庆日烟花庆祝活动，目前多州正遭受火灾侵袭。 此次取消凸显了传统节日庆祝活动与气候驱动的野火风险加剧之间的紧张关系，影响社区安全和地方政策决策。 取消烟花表演是对当前野火威胁的常规季节性应对，但突显了火灾多发西部地区的持续公共安全挑战。
+
+rss · NYTimes Politics · Jul 4, 19:31
+
+**背景**: 野火是美国西部地区的持续威胁，尤其在干燥的夏季月份。烟花容易引燃干燥植被，因此在火灾风险高时通常会被限制或禁止，以防止人为火灾。
+
+**标签**: `#wildfire`, `#public safety`, `#local policy`, `#climate risk`
+
+---
+
+<a id="item-16"></a>
+## [巴西财长杜里甘：信贷额度不会影响货币政策](https://www.bloomberg.com/news/articles/2026-07-04/brazil-s-durigan-says-credit-lines-won-t-affect-monetary-policy) ⭐️ 6.0/10
+
+巴西财政部长达里奥·杜里甘在 2026 年 7 月 4 日接受 G1 采访时表示，政府信贷额度不会削弱货币政策，旨在安抚市场对政策一致性的担忧。 这一表态回应了财政信贷扩张与货币政策可信度之间的关键矛盾，对巴西的通胀预期和央行独立性至关重要。 该采访于 2026 年 7 月 4 日（周六）发布，未公布任何新数据或政策变化，因此纯属口头安抚。
+
+rss · Bloomberg Markets · Jul 4, 17:56
+
+**背景**: 巴西长期面临卢拉总统扩张性财政政策与央行通过高利率控制通胀之间的紧张关系。国有银行的信贷额度可能刺激需求，从而给货币紧缩带来复杂性。杜里甘的言论旨在表明财政与货币当局仍保持协调一致。
+
+**标签**: `#Brazil`, `#monetary policy`, `#fiscal policy`, `#central bank independence`
+
+---
+
+<a id="item-17"></a>
+## [内幕交易案落幕：司法部判刑寥寥无几](https://www.bloomberg.com/news/articles/2026-07-04/insider-trading-cases-end-as-doj-dud-with-few-prison-sentences) ⭐️ 6.0/10
+
+前 Moelis & Co.银行家 Benjamin Taylor 从法国返回美国，面临内幕交易指控，凸显了美国司法部在此类案件中争取监禁判决的成败参半记录。 此案凸显了美国当局在起诉白领犯罪时面临的挑战，尤其是当被告逃往国外时，并引发了对司法部执法在震慑内幕交易方面有效性的质疑。 Taylor 面临最高五年的监禁，但司法部历来在内幕交易案件中难以争取到长期监禁，往往以认罪协议或较短刑期告终。
+
+rss · Bloomberg Markets · Jul 4, 13:00
+
+**背景**: 内幕交易是指基于重大非公开信息交易上市公司股票，在美国属于违法行为。司法部和证券交易委员会负责执行这些法律，但高调案件有时以罚款或缓刑而非监禁告终，尤其是在被告配合或潜逃的情况下。
+
+**标签**: `#insider trading`, `#DOJ enforcement`, `#financial regulation`, `#white-collar crime`
+
+---
+
+<a id="item-18"></a>
+## [六月就业与通胀数据预示债券看涨前景](https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories) ⭐️ 6.0/10
+
+六月份的就业报告比许多人意识到的更糟糕，加上通胀数据，表明债券市场前景看涨。 这一转变可能影响投资者策略和美联储的政策决策，可能导致债券收益率下降，并影响更广泛的金融市场。 分析聚焦于就业市场感知强度与实际强度之间的差异，弱于预期的数据支撑了债券上涨。
+
+rss · MarketWatch Top Stories · Jul 4, 18:37
+
+**背景**: 债券是支付固定利息的债务证券，其价格与收益率呈反向变动。债券看涨前景意味着价格预计上涨，这通常由疲软的经济数据推动，促使央行放松货币政策。
+
+**标签**: `#bonds`, `#jobs report`, `#inflation`, `#market analysis`
+
+---
+
+<a id="item-19"></a>
+## [财政部明确特朗普账户可投资的指数基金](https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories) ⭐️ 6.0/10
+
+美国财政部已明确哪些低成本指数基金可用于“特朗普账户”的投资，这是由国会共和党人授权的一种面向儿童的新储蓄工具。 这一澄清为希望使用特朗普账户的父母和投资者提供了具体指导，确保他们能够选择符合法律要求的低成本指数基金。 根据法律，特朗普账户中的资金必须投资于低成本指数基金，且账户在孩子年满 18 岁时自动转换为 IRA，允许用于大学教育、购房或退休等目的的取款。
+
+rss · MarketWatch Top Stories · Jul 4, 17:59
+
+**背景**: 特朗普账户是以特朗普总统命名的储蓄工具，由国会共和党人授权，计划于 2026 年 7 月上线。它为美国父母提供了一种新的储蓄方式，通过投资于华尔街主要公司管理的基金来为孩子存钱，关键要求是投资必须为低成本指数基金。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html">Many Children Don’t Have ‘ Trump Accounts .’ Some Are Missing Out...</a></li>
+<li><a href="https://www.theguardian.com/us-news/2026/jul/04/trump-accounts-savings">‘ Trump accounts ’: Wall Street-backed investment funds for children ...</a></li>
+<li><a href="https://www.grifin.com/post/trump-childrens-investment-accounts-explained">Trump Children ’s Investment Accounts Explained: What... | Grifin</a></li>
+
+</ul>
+</details>
+
+**标签**: `#personal finance`, `#investing`, `#policy`, `#529 plans`, `#Treasury`
 
 ---
 
 ## 科技
 
-<a id="item-15"></a>
-## [Mistral 发布 Leanstral 1.5，用于形式化证明生成](https://mistral.ai/news/leanstral-1-5/) ⭐️ 8.0/10
+<a id="item-20"></a>
+## [YouTube AI 回复功能泄露私密视频标题](https://javoriuski.com/post/youtube) ⭐️ 8.0/10
 
-Mistral AI 发布了 Leanstral 1.5，这是一个为 Lean 定理证明器微调的小型专用模型，能够生成形式化证明并发现代码中的错误。 此次发布表明，小型高效模型能够在形式化验证等专业领域提供高质量结果，使形式化证明生成在软件验证任务中更易用且更具成本效益。 Leanstral 1.5 是一个专注于 Lean 定理证明器的小型模型，它声称能发现测试和模糊测试通常遗漏的错误，例如 datrs/varinteger 库中 zigzag 解码符号函数的一个溢出错误。
+一名安全研究人员发现，YouTube 的 AI 驱动评论回复建议功能存在提示注入漏洞，攻击者可以借此泄露创作者私密视频的标题和元数据。该攻击通过在评论中嵌入恶意指令实现，当创作者在 YouTube Studio 中点击 AI 建议回复时，指令会执行并窃取私密数据。 该漏洞削弱了用户对 AI 辅助内容审核的信任，可能暴露数百万 YouTube 创作者未发布的敏感内容。它凸显了在面向用户的平台中集成大语言模型时，若缺乏充分的输入清理，会带来广泛的安全风险。 该攻击要求攻击者在创作者有权访问的视频上留言，且创作者必须在 YouTube Studio 中点击 AI 建议的回复。研究人员指出，YouTube 未将提示注入视为漏洞，这引发了安全社区的批评。
 
-hackernews · programLyrique · Jul 3, 22:33
+hackernews · javxfps · Jul 4, 16:45
 
-**背景**: Lean 定理证明器是一个证明助手和函数式编程语言，用于形式化验证，通过机器可检查的证明确保数学和软件的正确性。Mistral AI 此前发布了 Leanstral 的早期版本，此次更新延续了他们为特定能力创建小型高效模型的策略。
+**背景**: 提示注入是一种网络安全利用手段，通过恶意输入使 AI 模型产生意外行为，绕过安全防护。YouTube 的评论回复建议功能使用大语言模型生成回复，但未能区分开发者指令和用户提供的内容，从而使得攻击成为可能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Lean_theorem_prover">Lean theorem prover</a></li>
-<li><a href="https://mistral.ai/news/leanstral/">Leanstral : Open-Source foundation for trustworthy... | Mistral AI</a></li>
-<li><a href="https://huggingface.co/mistralai/Leanstral-2603">mistralai/ Leanstral -2603 · Hugging Face</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prompt_injection_attack">Prompt injection attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Prompt_injection">Prompt injection - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论反应不一：一些人称赞 Mistral 以低成本在小型模型中提供特定能力的策略，而另一些人则批评其错误发现示例是一个标准测试就能捕捉到的简单边界情况，并指出对比基准使用的是半年前的模型。
+**社区讨论**: 社区评论反应不一：一位前谷歌工程师解释了可能导致修复延迟的内部分类难题，而其他人则认为该攻击需要事先访问私密视频，降低了其严重性。部分用户成功测试了该漏洞，另一些用户则发现无效，许多人批评 YouTube 将提示注入视为非漏洞的做法。
 
-**标签**: `#AI/ML`, `#formal verification`, `#theorem proving`, `#Mistral`, `#software engineering`
+**标签**: `#security`, `#prompt injection`, `#YouTube`, `#AI safety`, `#vulnerability disclosure`
 
 ---
 
-<a id="item-16"></a>
-## [开源 AI 差距图发布](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) ⭐️ 8.0/10
+<a id="item-21"></a>
+## [用户报告 LLM API 间存在会话/缓存泄漏风险](https://github.com/anthropics/claude-code/issues/74066) ⭐️ 8.0/10
 
-Current AI（一个在 2025 年 2 月巴黎 AI 行动峰会上成立的资金充足的非营利组织）发布了 Gap Map v0.1，该地图索引了 421 个开源 AI 产品，涵盖软件、模型、数据集和硬件，以识别生态系统中的空白。 这一举措提供了开源 AI 领域的结构化概览，帮助开发者、投资者和政策制定者了解应在何处构建、投资以及填补关键空白，从而加强开源 AI 生态系统。 该地图详细列出了来自 228 个组织的 266 个软件工具、85 个模型、50 个数据集和 20 个硬件项目，按堆栈的三个层次分为 14 个类别，另有 24,400 个未分类的工件被跟踪但未评分。
+Anthropic Claude Code 仓库中的一个 GitHub 问题报告了主要 LLM API（包括 Claude、GPT 和 Gemini）可能存在跨账户响应泄漏，Anthropic 已确认该报告并正在调查。 这很重要，因为它突显了 AI 基础设施中可能存在的安全漏洞，可能导致用户数据跨账户泄露，影响对 LLM 服务的信任，并促使提供商加强缓存和会话管理。 该报告包括使用 Claude 和 GPT 时响应交换的第一手记录，其中一家提供商将问题归因于 API 网关错误处理 HTTP 100 状态码，导致差一错误。Anthropic Claude Code 团队的 Thariq 表示他们确信这是幻觉，但正在认真调查。
 
-rss · Simon Willison · Jul 3, 22:04
+hackernews · chatmasta · Jul 4, 14:03
 
-**背景**: Current AI 是一个全球非营利合作伙伴关系，已承诺投入超过 4 亿美元，旨在构建 AI 的公共选项。Gap Map 基于哥伦比亚会议、MOF、Hugging Face 等专家的成果，从开放性、能力和采用率方面评估项目。
+**背景**: LLM API 通常使用缓存和会话管理来提高性能并降低成本，但配置错误可能导致用户间数据泄漏。跨账户响应泄漏发生在一个用户的请求无意中收到本应发给另一个用户的响应时，可能暴露私人信息。此问题类似于 Web 安全中的跨站点泄漏，其中侧信道可能跨源泄露数据。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/">Open Source AI Gap Map - simonwillison.net</a></li>
-<li><a href="https://map.currentai.org/">Current AI – Open Source AI Gap Map</a></li>
-<li><a href="https://www.currentai.org/blogs/introducing-the-gap-map-v0-1">Introducing the Gap Map v0.1 - currentai.org</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cross-site_leaks">Cross-site leaks - Wikipedia</a></li>
+<li><a href="https://securiti.ai/llm-data-leakage/">LLM Data Leakage: Definition, Risks & Best Practices To Prevent It - Securiti</a></li>
+<li><a href="https://docs.litellm.ai/docs/proxy/caching">Caching | liteLLM</a></li>
 
 </ul>
 </details>
 
-**标签**: `#open source`, `#AI`, `#ecosystem mapping`, `#non-profit`, `#infrastructure`
+**社区讨论**: 社区意见分歧：一些用户提供了跨多个提供商的响应交换的可信第一手记录，而其他人（包括 Anthropic 团队成员）则认为更可能是幻觉。怀疑者指出，LLM 可能产生听起来合理但错误的输出，尤其是在大上下文窗口下，并警告在没有具体证据的情况下不要急于下结论。
+
+**标签**: `#LLM`, `#security`, `#cache-leakage`, `#AI-infrastructure`, `#privacy`
 
 ---
 
-<a id="item-17"></a>
-## [华为提出“韬定律”：以时间缩微替代几何缩微](https://t.me/zaihuapd/42346) ⭐️ 8.0/10
+<a id="item-22"></a>
+## [iOS 27 将引入 Trust Insights 反诈功能](https://www.cultofmac.com/news/ios-27-trust-insights-feature) ⭐️ 8.0/10
 
-在上海举行的 2026 国际电路与系统研讨会上，华为发表了“韬定律”，提出以“时间缩微”替代“几何缩微”作为半导体演进的新原则。华为还透露，过去六年已据此设计量产了 381 款芯片，今年秋季将推出采用逻辑折叠技术的新麒麟手机芯片。 “韬定律”为逼近物理和经济极限的摩尔定律提供了一条潜在的新路径，其核心是通过降低信号延迟而非缩小晶体管尺寸来提升性能。如果得到验证，这种方法可能延长半导体的性能演进轨迹，并影响整个芯片行业，尤其是那些在先进制程上受限的公司。 该定律依赖于“逻辑折叠”技术，这是一种三维集成电路和先进封装技术，通过压缩多层电路间的信号传播时延来实现性能提升。华为预计，到 2031 年，基于该定律的芯片晶体管密度可达 1.4 纳米制程同等水平。
+Apple 将在 iOS 27 中加入 Trust Insights 功能，在设备端分析用户的操作模式、时机、上下文和传感器数据，识别疑似被诈骗电话诱导的行为，并可在应用中触发警告、短暂延迟或额外身份验证。 这标志着一种新颖且以隐私为先的移动设备实时社会工程攻击检测方法，有望为数百万用户减少诈骗损失，同时在不牺牲个人数据的前提下为设备端安全树立新标准。 Trust Insights 不会读取信息、邮件或照片内容，原始数据会立即删除，仅向 Apple 服务器发送单一输出值。该功能可关闭，但设有冷却期，防止诈骗分子在通话中诱导用户立刻关闭。
 
-telegram · zaihuapd · Jul 4, 04:56
+telegram · zaihuapd · Jul 4, 14:30
 
-**背景**: 摩尔定律——芯片上晶体管数量大约每两年翻一番的观察——几十年来一直推动着半导体进步，但现在正因物理极限和成本上升而放缓。几何缩微（即缩小晶体管尺寸）一直是主要方法，而“韬定律”提出以“时间缩微”（τ缩微）作为替代方案，通过降低时间常数，实现从器件、电路、芯片到系统的多层级协同优化。
+**背景**: 社会工程诈骗——诈骗者冒充可信实体诱骗受害者转账或泄露凭证——已变得日益复杂。传统的欺诈检测常依赖服务器端分析或侵入性数据收集，引发隐私担忧。Apple 的设备端方法旨在实时检测此类攻击，同时保护用户数据隐私。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://news.pedaily.cn/202605/564396.shtml">详解 华 为 “ 韬 定 律 ”：对 半 导 体 行业究竟意味着什么？_ 投资界</a></li>
-<li><a href="https://www.eeo.com.cn/2026/0525/890334.shtml">eeo.com.cn/2026/0525/890334.shtml</a></li>
-<li><a href="https://baike.baidu.com/item/逻辑折叠技术/67870423">逻辑折叠技术_百度百科</a></li>
+<li><a href="https://www.newsy-today.com/real-time-social-engineering-detection-how-trust-insights-stops-fraud-before-it-starts/">Real-Time Social Engineering Detection : How Trust Insights Stops...</a></li>
+<li><a href="https://gizmodo.com/apple-s-using-your-call-and-text-data-to-figure-out-whe-1829151990">Apple ’s Using Your Call and Text Data to Figure Out Whether to ‘ Trust ...</a></li>
+<li><a href="https://fingerprint.com/blog/local-device-fingerprint-ios/">Overview of iOS fraud detection APIs and device fingerprinting</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#Huawei`, `#Moore's Law`, `#chip design`, `#hardware`
+**标签**: `#iOS`, `#fraud detection`, `#privacy`, `#Apple`, `#on-device AI`
 
 ---
 
-<a id="item-18"></a>
-## [AMD 与 Nvidia AI 硬件：每美元性能之争](https://www.wafer.ai/blog/glm52-amd) ⭐️ 7.0/10
+<a id="item-23"></a>
+## [阿里巴巴禁止员工使用 Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) ⭐️ 7.0/10
 
-Wafer.ai 上的一篇博客文章比较了 AMD 和 Nvidia AI 硬件的每美元性能，引发了社区关于 FP4 量化基准有效性的争论，以及对每瓦性能指标的需求。 这一讨论凸显了当前 AI 硬件基准测试的关键缺陷，因为实际部署需要准确的量化和能效，而不仅仅是每美元的原始吞吐量。 社区评论指出，FP4 量化通常会导致显著的精度下降，而每瓦性能是数据中心决策中缺失的关键指标，尤其对于难以采购 Nvidia 硬件的美国以外公司而言。
+据报道，阿里巴巴已将 Anthropic 的 AI 编码工具 Claude Code 列为高风险软件，并禁止员工使用。 此举反映了出于安全和合规考虑，企业对外部 AI 编码工具的限制日益严格，可能影响软件工程工作流程和企业 AI 的采用。 将其列为高风险软件表明阿里巴巴认为 Claude Code 存在重大潜在风险，但禁令的具体原因尚未披露。
 
-hackernews · latchkey · Jul 3, 21:49
+rss · TechCrunch · Jul 4, 16:32
 
-**背景**: 量化通过降低 AI 模型精度（例如从 FP16 降至 FP4）来加速推理并降低成本，但较低精度可能损害模型准确性。每瓦性能衡量能效，对于数据中心的大规模 AI 部署日益重要。
+**背景**: Claude Code 是 Anthropic 开发的一款 AI 编码代理，能够读取代码库、编辑文件并在终端和 IDE 中运行命令。它基于 Anthropic 的 Claude 大语言模型，该模型采用宪法 AI 技术以确保伦理合规。高风险分类通常用于医疗设备软件等可能因故障造成伤害的领域，但此次被应用于企业环境中的 AI 编码工具。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/quantization-ai-techniques-benefits-trade-offs-modern-kerhalkar-cagnc">Quantization in AI: Techniques, Benefits, Trade-offs & Modern ...</a></li>
-<li><a href="https://inferensys.com/glossary/on-device-model-compression/energy-efficient-inference/performance-per-watt">Performance-Per-Watt: AI Efficiency Metric Explained</a></li>
-<li><a href="https://semiengineering.com/the-criticality-of-performance-per-watt-optimization-for-ai-chip-development/">The Criticality of Performance per Watt Optimization for AI ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_Code">Claude Code</a></li>
+<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Software_safety_classification">Software safety classification - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者对 FP4 量化表示怀疑，指出广告中的高吞吐量往往伴随着“功能阉割”的模型，失去了前沿质量。多位用户要求提供每瓦性能指标，并呼吁在标题中强制披露量化信息。
-
-**标签**: `#AI hardware`, `#AMD vs Nvidia`, `#quantization`, `#performance benchmarking`, `#data center`
+**标签**: `#AI`, `#enterprise`, `#regulation`, `#software engineering`, `#Claude Code`
 
 ---
 
-<a id="item-19"></a>
-## [谷歌 Chrome 新规禁止 AI 越狱与预测市场扩展](https://developer.chrome.com/blog/cws-policy-updates-2026) ⭐️ 7.0/10
+<a id="item-24"></a>
+## [NASA 启动紧急任务拯救斯威夫特天文台](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies) ⭐️ 7.0/10
 
-谷歌于 2026 年 7 月 1 日宣布更新 Chrome Web Store 开发者政策，自 2026 年 8 月 1 日起生效，禁止用于 AI 越狱和涉及真实货币交易的预测市场类扩展，并要求严格的数据最小化与披露。 该政策直接影响所有 Chrome 扩展开发者，尤其是涉及 AI 安全和金融预测市场的开发者，并强化了谷歌对用户隐私和平台完整性的承诺。 扩展只能收集与其声明用途严格必要的数据，且必须显著披露所有数据收集行为；若安装后数据处理方式发生变化，开发者须主动告知用户。违规扩展可能面临下架处罚。
+NASA 已启动一项紧急任务，利用 Katalyst Space Technologies 公司的 Link 航天器拦截并提升斯威夫特天文台的轨道，该天文台因近期太阳风暴面临坠入地球大气层烧毁的风险。 这项任务意义重大，因为它代表了首次在轨服务尝试，旨在拯救价值 5 亿美元的宝贵科学天文台，可能延长其寿命，并展示可能惠及更广泛航天业的新型卫星救援技术。 Link 航天器在短短八个月内以 3000 万美元的成本建造完成，配备三个机械臂用于捕获并提升斯威夫特的轨道；该任务被描述为高风险、高回报，预计约一个月后实现拦截。
 
-telegram · zaihuapd · Jul 4, 06:30
+rss · The Verge · Jul 4, 19:06
 
-**背景**: AI 越狱扩展是旨在绕过 GPT、Gemini 或 Claude 等 AI 模型安全护栏的工具，通常通过精心设计的提示词解锁受限功能。预测市场扩展允许用户使用真实货币对真实世界事件的结果进行交易，这引发了监管和赌博方面的担忧。谷歌 Chrome Web Store 长期以来一直有禁止欺骗性和有害扩展的政策，此次更新明确并扩展了这些限制。
+**背景**: 斯威夫特天文台于 2004 年发射，是 NASA 的一台空间望远镜，用于研究伽马射线暴和宇宙现象。近期太阳活动增强导致地球高层大气膨胀，对低地球轨道卫星产生更大阻力，使斯威夫特的轨道衰减速度快于预期，面临今年晚些时候烧毁的风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/ShadowHackrs/Jailbreaks-GPT-Gemini-deepseek-">ShadowHackrs/Jailbreaks-GPT-Gemini-deepseek- - GitHub</a></li>
-<li><a href="https://polymarket.com/">Polymarket | The World's Largest Prediction Market</a></li>
+<li><a href="https://en.topwar.ru/285683-katalyst-zapustila-apparat-dlja-spasenija-observatorii-swift-ot-padenija-na-zemlju.html">Catalyst launched a spacecraft to save the Swift observatory from...</a></li>
+<li><a href="https://www.dw.com/en/nasa-launches-spacecraft-to-recover-sinking-telescope/a-77826514">NASA launches spacecraft to recover sinking telescope</a></li>
+<li><a href="https://www.axios.com/2026/07/03/nasa-swift-rescue-mission">It's a $30 million gambit to save the Neil Gehrels Swift Observatory .</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Chrome`, `#policy`, `#privacy`, `#AI safety`, `#web extensions`
+**标签**: `#space`, `#NASA`, `#satellite servicing`, `#astronomy`, `#spacecraft`
+
+---
+
+<a id="item-25"></a>
+## [Trunk Tools 用专用 AI 堆栈将文档审查从 60 天缩短至 10 天](https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models) ⭐️ 7.0/10
+
+建筑项目管理公司 Trunk Tools 构建了一个三层 AI 堆栈——感知层、语义层和代理层——该堆栈基于高度详细的建筑数据训练，将文档审查周期从 60 天缩短至仅 10 天。 这表明，在建筑等数据杂乱且需要领域特定推理的利基行业中，专用垂直 AI 模型可以显著优于通用大语言模型，并可能为其他垂直领域提供可借鉴的蓝图。 该三层堆栈包括：用于从杂乱文档中提取数据的感知层、使用基于本体的知识图谱的语义层，以及用于自主推理的代理层；所有层均在获得明确许可并使用自动标注的客户数据上进行训练。
+
+rss · VentureBeat · Jul 4, 14:34
+
+**背景**: 通用大语言模型（LLM）针对广泛任务进行训练，在处理建筑等行业常见的术语密集、缩写繁多且格式特定的数据时往往表现不佳。相比之下，垂直 AI 是为特定领域量身打造的，通过微调模型和领域特定数据实现更高的准确性和可靠性。Trunk Tools 的方法将感知、语义和代理层与知识图谱相结合，以结构化方式处理并对数百万页建筑文档进行推理。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://worldnl.com/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models-426134.html">Trunk Tools' stack cut document review from 60... - WorldNL Magazine</a></li>
+<li><a href="https://www.linkedin.com/posts/bharathkurapati_artificialintelligence-verticalai-aifounders-activity-7422684997746270208-OkRh">Vertical AI vs General Purpose Models : Differentiation Key... | LinkedIn</a></li>
+<li><a href="https://intellihuman.ai/resources/comparisons/vertical-ai-vs-general-llms">Vertical AI vs General LLMs: Complete Comparison | IntelliHuman</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#document review`, `#vertical AI`, `#construction tech`, `#knowledge graph`
+
+---
+
+<a id="item-26"></a>
+## [韩国拟投 800 万亿韩元建半导体集群，DRAM 产量五年翻倍](https://t.me/zaihuapd/42357) ⭐️ 7.0/10
+
+韩国产业通商部长官金正宽宣布了一项全国半导体集群计划，将在西南圈打造第二半导体生产基地，吸引企业投资 800 万亿韩元（约 3.52 万亿元人民币）建设 4 座内存晶圆厂。政府预计全球内存市场将在未来五年内实现四倍以上的增长，并计划在此期间将 DRAM 产量翻倍。 这一巨额投资凸显了韩国在全球半导体行业（尤其是 DRAM 等内存芯片领域）保持领先地位的决心，这些芯片对人工智能、数据中心和消费电子至关重要。该计划可能重塑全球供应链，并加剧与台湾、美国等其他芯片制造中心的竞争。 该计划包括在西南圈建设 4 座内存晶圆厂，总投资达 800 万亿韩元。此外，韩国政府将在未来 15 年内投入 30 万亿韩元（约 1321.2 亿元人民币）以支持半导体生态系统。
+
+telegram · zaihuapd · Jul 4, 15:15
+
+**背景**: DRAM（动态随机存取存储器）是一种易失性半导体存储器，广泛用作计算机、显卡和便携设备的主内存。它通过电容器存储数据，需要定期刷新，其生产由三星电子、SK 海力士和美光科技三大供应商主导。晶圆厂是在硅晶圆上制造集成电路的工厂，由于需要先进设备和洁净室环境，建设成本高达数十亿美元。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DRAM">DRAM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Random-access_memory">Random - access memory - Wikipedia</a></li>
+<li><a href="http://www.aie-tec.com/?news_7/844.html">如何建一个200亿美元的 晶 圆 厂 ？ -行业资讯-昆山润石智能科技有限公司</a></li>
+
+</ul>
+</details>
+
+**标签**: `#semiconductors`, `#DRAM`, `#South Korea`, `#government policy`, `#manufacturing`
+
+---
+
+<a id="item-27"></a>
+## [Linux 登顶 2026 CVE 榜单，维护者称这是好事](https://linuxiac.com/linux-tops-2026-cve-charts/) ⭐️ 7.0/10
+
+2026 年上半年，Linux 以 2308 个 CVE 漏洞数量位居所有厂商之首，领先 Google（1752）、微软（843）和苹果（284）。长期内核维护者 Greg Kroah-Hartman 表示，这反映了开源社区更完整、更透明的漏洞报告机制。 这一现象挑战了“CVE 数量多等于安全性差”的常见误解，揭示了开源与商业软件在漏洞报告透明度上的差异。它可能促使专有软件厂商采用更全面的披露实践。 Greg 指出，苹果、微软等商业厂商通常只上报被归类为“高危”的漏洞，而开源项目因无法预知下游使用场景，必须报告所有问题。Linux 内核运行在数十亿台设备上，包括服务器、手机、嵌入式系统和云基础设施，每个漏洞的影响因场景而异。
+
+telegram · zaihuapd · Jul 4, 16:00
+
+**背景**: CVE（Common Vulnerabilities and Exposures）是一个公开的网络安全漏洞列表，帮助组织识别和优先处理漏洞。Greg Kroah-Hartman 是 Linux 内核的主要开发者，负责维护稳定版内核分支。Linux 内核是 Linux 操作系统的核心组件，管理硬件和系统资源。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Greg_Kroah-Hartman">Greg Kroah - Hartman - Wikipedia</a></li>
+<li><a href="https://www.redhat.com/en/topics/security/what-is-cve">What is a CVE ?</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Linux`, `#CVE`, `#open source`, `#security`, `#vulnerability reporting`
 
 ---
