@@ -5,635 +5,670 @@ date: 2026-07-11
 lang: zh
 ---
 
-> 从 66 条内容中筛选出 36 条重点信息（政治/金融 22，科技 14）
+> 从 87 条内容中筛选出 39 条重点信息（政治/金融 26，科技 13）
 
 ---
 
 ## 政治与金融
 
 <a id="item-1"></a>
-## [司法部传唤《纽约时报》记者，涉及空军一号报道](https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html) ⭐️ 9.0/10
+## [马可·鲁比奥遥控委内瑞拉](https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html) ⭐️ 9.0/10
 
-美国司法部传唤了报道新空军一号的《纽约时报》记者，要求他们就消息来源作证。《纽约时报》谴责此举是对新闻自由的“公然侵犯”。 此次传唤标志着行政权力对媒体施压的重大升级，直接威胁第一修正案保护和民主规范。它开创了一个危险先例，可能抑制调查性新闻，并损害公众的知情权。 传票针对的是报道新空军一号采购和开发过程的记者。司法部的这一行动是特朗普政府利用法律工具向新闻机构施压的更广泛模式的一部分。
+《纽约时报》的一篇报道披露，美国国务卿马可·鲁比奥从华盛顿有效控制了委内瑞拉的财政、自然资源和政府，这标志着特朗普时代美国对一个主权国家施加了前所未有的直接影响力。 这代表了美国外交政策的重大地缘政治转变，展示了特朗普政府如何直接控制一个关键的拉丁美洲国家，对全球能源市场、地区稳定以及西半球的权力平衡具有深远影响。 报道详细说明，鲁比奥的控制范围涵盖委内瑞拉的财政、自然资源分配以及政府运作，这成为特朗普时代美国权力的生动体现。
 
-rss · NYTimes Politics · Jul 11, 04:10
+rss · NYTimes Politics · Jul 11, 19:33
 
-**背景**: 美国宪法第一修正案保护新闻自由，司法部历来不愿传唤记者以获取其消息来源。因政府合同的常规报道而传唤记者，是对这一传统的严重背离，并引发了对政府越权的严重担忧。
+**背景**: 委内瑞拉长期处于政治和经济危机之中，美国于 2019 年承认反对派领导人胡安·瓜伊多为临时总统。特朗普政府对委内瑞拉的石油行业和政府实施了严厉制裁，旨在迫使总统尼古拉斯·马杜罗下台。这篇报道表明，美国已超越制裁层面，开始远程有效管理该国事务。
 
-**标签**: `#media freedom`, `#First Amendment`, `#Trump administration`, `#Justice Department`, `#press subpoenas`
+**标签**: `#foreign policy`, `#Venezuela`, `#Marco Rubio`, `#geopolitics`, `#Trump administration`
 
 ---
 
 <a id="item-2"></a>
-## [霍尔木兹海峡即将宣布对所有船只开放](https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html) ⭐️ 9.0/10
+## [司法部传唤《纽约时报》记者，涉空军一号报道](https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html) ⭐️ 9.0/10
 
-美国官员表示，霍尔木兹海峡将很快被宣布对所有船只开放，伊朗谈判代表将近期船只袭击事件归咎于 rogue 军事单位，而非中央政府。 这一进展标志着全球关键能源咽喉地带的紧张局势可能缓和，有助于稳定石油和天然气市场，并降低该地区的航运风险。 该声明预计将由美国官员发布，伊朗将袭击归咎于 rogue 部队表明外交窗口正在打开，但具体时间表和条件尚未明确。
+美国司法部传唤《纽约时报》记者，要求他们就关于新空军一号的报道作证，《纽约时报》称此举为‘厚颜无耻的行为’。 行政当局对媒体施压的升级威胁新闻自由和民主问责，为政府与媒体关系树立了危险的法律先例。 传票针对报道空军一号项目国家安全方面的记者，司法部试图强迫他们透露消息来源和内部编辑流程。
 
-rss · NYTimes Politics · Jul 10, 22:32
+rss · NYTimes Politics · Jul 11, 15:56
 
-**背景**: 霍尔木兹海峡是伊朗与阿曼之间的狭窄水道，全球约 20%的石油经此运输。近期该区域商船遭袭引发了更广泛冲突的担忧，并扰乱了全球航运。宣布开放通行将标志着近期紧张局势的重大逆转。
+**背景**: 《纽约时报》是美国最著名的新闻机构之一，其对空军一号项目的报道涉及机密或敏感的国家安全信息。因这类报道传唤记者极为罕见，标志着对第一修正案下传统新闻保护的重大背离。
 
-**标签**: `#geopolitics`, `#energy security`, `#Iran`, `#Strait of Hormuz`, `#U.S. foreign policy`
+**标签**: `#press freedom`, `#justice department`, `#trump administration`, `#media law`, `#national security`
 
 ---
 
 <a id="item-3"></a>
-## [美国打击伊朗 170 多个目标，谈判仍在继续](https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html) ⭐️ 9.0/10
+## [沃什证词与通胀数据将影响 7 月美联储决策](https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision) ⭐️ 9.0/10
 
-美国升级了对伊朗的军事打击，袭击了超过 170 个目标，包括防空系统、无人机和导弹储存设施以及军用快艇，同时特朗普总统表示与伊朗的谈判将继续进行。 这一重大军事升级与持续的外交谈判相结合，造成了不稳定的局势，可能影响全球安全、石油市场和国际关系，尤其是在中东地区。 打击行动针对超过 170 个地点，重点是防空系统、无人机和导弹储存设施以及军用快艇，表明这是一场旨在削弱伊朗军事能力的广泛行动。
+美联储主席凯文·沃什将首次在国会作证，期间美国将发布新的通胀数据，为 7 月货币政策决策提供关键背景。 这标志着一项系统性事件：新任美联储主席首次国会亮相，结合最新通胀数据，将直接影响全球利率预期和市场情绪。 证词将持续两天，为立法者和市场提供充足时间评估沃什的政策立场。市场将结合通胀数据和他的言论，判断 7 月利率调整的可能性。
 
-rss · NYTimes Politics · Jul 11, 03:48
+rss · Bloomberg Markets · Jul 11, 20:00
 
-**背景**: 美国与伊朗在伊朗核计划和地区影响力等问题上长期存在紧张关系。此次升级是在此前多轮打击和谈判之后发生的，美国试图在施压伊朗的同时保持外交渠道畅通。
+**背景**: 美联储制定货币政策以管理通胀和就业。主席的国会证词是传达政策方向的关键沟通事件。新的通胀数据提供价格压力的实时快照，对美联储决策至关重要。
 
-**标签**: `#geopolitics`, `#Iran`, `#U.S. foreign policy`, `#military escalation`, `#Middle East`
+**标签**: `#Federal Reserve`, `#monetary policy`, `#inflation`, `#Kevin Warsh`, `#US economy`
 
 ---
 
 <a id="item-4"></a>
-## [美国雇主被告知将解雇数千名 TPS 工人](https://www.nytimes.com/2026/07/10/us/politics/tps-workers-dismissals.html) ⭐️ 8.0/10
+## [霍尔木兹海峡重启面临高昂障碍](https://www.bloomberg.com/news/videos/2026-07-11/hormuz-reopening-faces-costly-hurdles-video) ⭐️ 9.0/10
 
-美国国土安全部已终止对海地的临时保护身份（TPS），自 2026 年起生效，迫使雇主解雇数千名工作许可即将到期的海地及其他移民工人。 这一政策转变给依赖 TPS 工人的企业（尤其是建筑和酒店行业）带来严重的劳动力中断，并因不断变化的截止日期和法律挑战而增加了混乱。 该终止决定由国土安全部部长 Kristi Noem 于 2025 年 2 月 5 日宣布，并于 2026 年 5 月 28 日在《联邦公报》上公布，工作许可到期前有 60 天的过渡期。
+美国外交关系协会高级研究员 Clara Gillespie 指出，霍尔木兹海峡的重启受到基础设施受损、航运中断以及美伊紧张局势持续的阻碍，航运水平仍低于战前水平。 这一事态威胁全球能源复苏，因为霍尔木兹海峡是石油和天然气流动的关键咽喉，可能影响全球供应、价格和能源安全。 生产商正在努力清理船只、调运油轮、重启停产产能并修复炼油厂、液化天然气设施和港口的损坏，但美国对伊朗的压力使恢复安全通行的努力复杂化。
 
-rss · NYTimes Politics · Jul 11, 01:19
+rss · Bloomberg Markets · Jul 11, 13:57
 
-**背景**: 临时保护身份（TPS）是一项人道主义计划，允许来自因武装冲突、环境灾难或其他特殊条件而被指定国家的国民在美国临时居住和工作。它不导致永久居留权。终止海地 TPS 的决定是基于国土安全部的审查，认为该国状况不再符合指定条件。
+**背景**: 霍尔木兹海峡是伊朗与阿曼之间的一条狭窄水道，全球约 20%的石油经此运输。它一直是地缘政治紧张局势的爆发点，近期的冲突对该地区的能源基础设施造成了严重破坏。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.uscis.gov/humanitarian/temporary-protected-status">Temporary Protected Status | USCIS</a></li>
-<li><a href="https://forumtogether.org/article/temporary-protected-status-fact-sheet/">Temporary Protected Status (TPS): Fact Sheet - National Immigration Forum</a></li>
-
-</ul>
-</details>
-
-**标签**: `#immigration`, `#labor market`, `#policy`, `#business impact`, `#Temporary Protected Status`
+**标签**: `#geopolitics`, `#energy markets`, `#Strait of Hormuz`, `#oil and gas`, `#US-Iran relations`
 
 ---
 
 <a id="item-5"></a>
-## [格雷厄姆·普拉特纳退出缅因州参议员竞选](https://www.nytimes.com/2026/07/10/us/politics/graham-platner-maine-senate-withdraw.html) ⭐️ 8.0/10
+## [中国要求炼油商维持高产量以应对伊朗战争](https://www.bloomberg.com/news/articles/2026-07-11/china-tells-refiners-to-keep-fuel-output-high-as-iran-war-drags) ⭐️ 9.0/10
 
-格雷厄姆·普拉特纳已提交文件退出缅因州参议员竞选，这使得民主党能够挑选新的候选人，以挑战现任参议员苏珊·柯林斯。 这一进展意义重大，因为缅因州参议员竞选被视为控制美国参议院的关键，民主党候选人的更换可能重塑竞选格局。 退选消息于 2026 年 7 月 10 日公布，两党均视此竞选为控制参议院的关键。民主党现在有机会选择新的旗手来挑战柯林斯。
+中国已指示一些主要炼油商维持高燃料产量，以保护国内消费者免受伊朗战争中波斯湾持续袭击导致的供应中断影响。 这一指令标志着对地缘政治危机的重大政策回应，对全球能源市场、通胀和供应链具有直接影响，因为中国试图保护其经济免受海湾地区中断的影响。 该指令针对主要炼油商，旨在尽管原油供应可能受限的情况下维持燃料产量，突显了中国在冲突期间管理国内能源安全的积极态度。
 
-rss · NYTimes Politics · Jul 11, 01:00
+rss · Bloomberg Markets · Jul 11, 09:00
 
-**背景**: 苏珊·柯林斯是一位温和派共和党人，自 1997 年以来一直担任参议员。2026 年选举周期竞争激烈，两党都在争夺每一个席位，以决定参议院的多数控制权。
+**背景**: 伊朗战争导致波斯湾地区发生袭击，威胁石油运输并引发全球供应担忧。中国作为主要石油进口国，严重依赖海湾原油，这一指令是其稳定国内燃料价格和供应策略的一部分。
 
-**标签**: `#US politics`, `#Senate race`, `#Maine`, `#election 2026`, `#Susan Collins`
+**标签**: `#geopolitics`, `#energy policy`, `#China`, `#oil markets`, `#Iran conflict`
 
 ---
 
 <a id="item-6"></a>
-## [两党住房法案未经特朗普签署自动生效](https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html) ⭐️ 8.0/10
+## [法官不情愿地驳回骄傲男孩案](https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html) ⭐️ 8.0/10
 
-一项两党住房法案在 2026 年 7 月 10 日午夜自动成为法律，此前特朗普总统拒绝签署，而宪法规定的 10 天期限已过。 这标志着重要的政策与政治动态——一项重大两党法案在总统反对下仍成为法律，凸显了特朗普总统与参议院共和党人在住房政策和立法优先事项上的分歧日益加深。 该法案在国会获得两党支持通过，但特朗普总统选择不签署，使其在宪法规定的 10 天期限后自动生效。这反映了总统与参议院共和党人在关键国内议题上的分歧正在加深。
+特朗普任命的法官蒂莫西·J·凯利不情愿地批准驳回针对“骄傲男孩”的煽动叛乱案，称他别无选择，只能接受特朗普政府终止起诉的指令。 这一驳回表明特朗普政府下司法部可能政治化，影响 1 月 6 日起诉的先例，并引发对法治和行政权力的担忧。 凯利法官指出，他在法律上别无选择，只能遵从政府的请求，这突显了在高调政治案件中司法独立与行政权力之间的紧张关系。
 
-rss · NYTimes Politics · Jul 11, 04:01
+rss · NYTimes Politics · Jul 11, 15:06
 
-**背景**: 根据美国宪法，如果总统在国会会期内 10 天（不含周日）内不签署或否决法案，该法案将自动成为法律。这一机制在国会休会时称为“搁置否决”，而在此情况下导致法案未经总统批准即生效。该住房法案涉及经济适用房供应和租金援助等问题，这些是两党日益关注的领域。
+**背景**: “骄傲男孩”是一个极右翼极端组织，其成员因参与 2021 年 1 月 6 日美国国会大厦袭击事件而被判犯有煽动叛乱罪。此案是与国会骚乱相关的最重要起诉之一，而由特朗普任命的法官应政府要求驳回此案，标志着法律问责的重大转变。
 
-**标签**: `#housing policy`, `#bipartisan legislation`, `#presidential rift`, `#Congress`, `#political dynamics`
+**标签**: `#politics`, `#legal`, `#January 6`, `#executive power`, `#rule of law`
 
 ---
 
 <a id="item-7"></a>
-## [中国用电负荷创早期新高，数据中心与电动汽车需求推动](https://www.bloomberg.com/news/articles/2026-07-11/china-power-load-hits-early-record-as-data-ev-demand-rises) ⭐️ 8.0/10
+## [银行创纪录债券空头引发市场担忧](https://www.bloomberg.com/news/articles/2026-07-11/banks-record-bond-short-sparks-quest-for-answers-credit-weekly) ⭐️ 8.0/10
 
-根据国家能源局的数据，7 月 10 日，中国全国用电负荷达到 15.18 亿千瓦，创下年度新高，且是历年最早达到这一纪录的时间点。 这一激增反映了数据中心和电动汽车对中国能源电网的加速影响，预示着基础设施可能面临压力，并对能源政策和全球大宗商品市场产生深远影响。 国家能源局通过其官方微信公众号宣布了这一 15.18 亿千瓦的纪录，标志着今年首次如此早地达到峰值。
+近期历史上首次，一级交易商对美国国债持有净空头头寸，这与它们传统的多头持仓截然不同。这一前所未有的举动由彭博社于 2026 年 7 月 11 日报道，并引发了关于市场动态和风险的疑问。 这一转变标志着关键金融中介机构市场情绪的显著变化，可能减少债券市场的流动性并增加波动性。它还可能对金融稳定和政府借贷成本产生更广泛的影响。 一级交易商是直接与美联储交易并参与美国国债拍卖的金融机构。它们的净空头头寸意味着它们押注债券价格下跌，这对债务市场来说是一个看跌信号。
 
-rss · Bloomberg Markets · Jul 11, 07:29
+rss · Bloomberg Markets · Jul 11, 19:00
 
-**背景**: 中国的用电负荷通常在夏季因空调使用而达到峰值，但数据中心和电动汽车的需求增长正使电网提前承压。数据中心需要大量电力用于计算和冷却，而电动汽车的普及则增加了充电负荷。这一趋势凸显了数字化和电气化对能源需求的持续增长。
+**背景**: 一级交易商是获授权直接从政府购买政府证券并充当做市商的机构，确保债券市场的流动性。历史上，它们对政府债务持有净多头头寸，反映了对价格稳定或上涨的普遍预期。净空头头寸很少见，表明市场集体预期价格下跌或收益率上升。
 
-**标签**: `#China`, `#energy`, `#electricity demand`, `#EV`, `#data centers`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Primary_dealer">Primary dealer</a></li>
+<li><a href="https://www.newyorkfed.org/markets/primarydealers">Primary Dealers - Federal Reserve Bank of New York</a></li>
+<li><a href="https://home.treasury.gov/policy-issues/financing-the-government/quarterly-refunding/primary-dealers">Primary Dealers | U.S. Department of the Treasury</a></li>
+
+</ul>
+</details>
+
+**标签**: `#bond markets`, `#financial stability`, `#primary dealers`, `#market sentiment`, `#risk`
 
 ---
 
 <a id="item-8"></a>
-## [大众 CEO 因工会反对面临重组计划受阻](https://www.bloomberg.com/news/articles/2026-07-11/vw-ceo-under-pressure-as-labor-unions-torpedo-turnaround-plan) ⭐️ 8.0/10
+## [爱国者供应紧张影响乌克兰援助](https://www.bloomberg.com/news/videos/2026-07-11/patriot-supply-strains-shape-ukraine-aid-video) ⭐️ 8.0/10
 
-大众汽车 CEO 奥利弗·布鲁姆因工会反对未能获得监事会对重组计划的初步支持，其领导地位面临压力。 大众作为德国工业旗舰的这场冲突凸显了德国制造业的系统性风险，可能延迟该公司向电动汽车和成本削减的关键转型，影响整个汽车行业和德国工业政策。 监事会缺乏支持意味着布鲁姆的重组计划（可能包括裁员和重组）面临重大障碍；由于德国的共同决策法，工会在大众拥有重大影响力。
+唐纳德·特朗普总统提议授予乌克兰在国内生产爱国者导弹拦截器的许可证，但制造、许可和技术障碍使得这一方案不太可能满足基辅当前的防空需求。 这凸显了国防工业能力的关键缺口，并引发了关于盟友如何在持续冲突中维持乌克兰防空的更广泛问题，同时乌克兰快速的无人机创新正在重塑现代战争思维。 爱国者系统由美国国防承包商雷神公司制造，此前只有另外两个国家（德国和日本）被授权生产。乌克兰的无人机创新，包括人工智能辅助瞄准，已将前线变成了经济高效、可扩展能力的实验室。
 
-rss · Bloomberg Markets · Jul 11, 05:00
+rss · Bloomberg Markets · Jul 11, 16:58
 
-**背景**: 大众汽车是全球最大的汽车制造商之一，其 CEO 奥利弗·布鲁姆一直在推动一项重组计划，以解决高成本问题并加速向电动汽车转型。德国工会凭借共同决策法在监事会中拥有强大代表权，经常抵制威胁就业的措施。这场对峙反映了德国工业部门在竞争力与劳动保护之间的更广泛紧张关系。
+**背景**: MIM-104 爱国者是一种地对空导弹系统，用于美国陆军及盟国，主要用于防空。自 2022 年以来，乌克兰依赖爱国者系统应对俄罗斯导弹袭击，但先进拦截器持续短缺。与此同时，乌克兰迅速发展无人机技术，融合人工智能和电子战，展示了传统采购周期之外的国防创新新模式。
 
-**标签**: `#Volkswagen`, `#labor unions`, `#automotive industry`, `#Germany`, `#corporate restructuring`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2026/07/09/world/europe/germany-japan-ukraine-patriot-missiles.html">For Ukraine, Other Patriot Makers Are a Cautionary Tale</a></li>
+<li><a href="https://cryptobriefing.com/us-ukraine-patriot-missile-license/">US grants Ukraine license to manufacture Patriot missile...</a></li>
+<li><a href="https://www.military.com/daily-news/2026/03/22/how-ukraines-front-line-became-laboratory-drone-innovation.html">How Ukraine's Front Line Became a Laboratory for Drone Innovation</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Ukraine aid`, `#defense industrial base`, `#Patriot missiles`, `#geopolitics`, `#military technology`
 
 ---
 
 <a id="item-9"></a>
-## [习近平重申中朝同盟坚定不移](https://www.bloomberg.com/news/articles/2026-07-11/xi-says-china-s-backing-for-kim-and-north-korea-won-t-change) ⭐️ 8.0/10
+## [麦考尔呼吁深化美乌防务合作](https://www.bloomberg.com/news/videos/2026-07-11/mccaul-backs-deeper-us-ukraine-defense-ties-video) ⭐️ 8.0/10
 
-据新华社 2026 年 7 月 11 日报道，习近平主席宣布，中国对朝鲜的友谊、对金正恩领导的支持以及维护共同利益的决心不会改变。 这一高层重申表明，在围绕无核化及中美竞争的持续紧张局势中，中国继续与朝鲜保持战略一致，可能使国际社会遏制平壤核计划的努力复杂化。 该声明由习近平发表，并由官方新华社报道，但现有内容未提供触发这一表态的具体背景或事件。
+众议员迈克尔·麦考尔呼吁扩大美乌防务合作，包括授权生产爱国者导弹和联合开发无人机，以应对俄罗斯的导弹袭击。 一位美国资深议员的这一倡导可能标志着美国政策向与乌克兰更深层次的军事援助和工业伙伴关系转变，可能减少乌克兰对美国库存的依赖，并增强其长期防御能力。 麦考尔特别提到需要更多的爱国者拦截弹和更强的防空能力，认为持续的军事压力是与俄罗斯谈判的最佳途径。
 
-rss · Bloomberg Markets · Jul 11, 03:19
+rss · Bloomberg Markets · Jul 11, 15:45
 
-**背景**: 中国与朝鲜拥有长期同盟关系，其基础是 1961 年签署的《中朝友好合作互助条约》。北京历来是平壤最重要的经济与外交支持者，经常在联合国制裁中为其提供保护。在全球对朝鲜武器计划的压力依然高涨之际，习近平的最新表态强化了这一关系。
+**背景**: MIM-104 爱国者是一种移动式地对空导弹系统，用于美国和盟友的防空和导弹防御。2026 年，特朗普总统宣布授权乌克兰在国内生产爱国者拦截弹，旨在对抗俄罗斯的弹道导弹袭击并减轻美国供应压力。
 
-**标签**: `#geopolitics`, `#China-North Korea relations`, `#foreign policy`, `#Kim Jong Un`, `#Xi Jinping`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Patriot_missile_system">Patriot missile system</a></li>
+<li><a href="https://americancoalitionforukraine.org/2026/07/08/ukrainian-production-of-patriot-interceptors/">Ukrainian Production of Patriot Interceptors - American ...</a></li>
+<li><a href="https://www.armyrecognition.com/news/army-news/2026/trump-ukraine-patriot-missile-license-nato-summit">Trump grants Ukraine license to build US Patriot missiles at ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Ukraine`, `#U.S. foreign policy`, `#defense`, `#geopolitics`, `#military aid`
 
 ---
 
 <a id="item-10"></a>
-## [SK 海力士美国 IPO 首日涨 13%，押注 AI 需求](https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle) ⭐️ 8.0/10
+## [美伊核谈判仍陷僵局](https://www.bloomberg.com/news/videos/2026-07-11/us-iran-talks-face-persistent-impasse-video) ⭐️ 8.0/10
 
-SK 海力士完成了史上最大规模的外国公司美国 IPO，首日股价飙升 13%。 此次上市表明投资者坚信，AI 驱动的内存芯片需求可能从根本上打破行业传统的繁荣-萧条周期，从而重塑资本流动和半导体市场格局。 此次 IPO 募资 140 亿美元，首日 13%的涨幅反映了市场对 SK 海力士作为关键 AI 内存供应商（尤其是用于 AI 加速器的高带宽内存 HBM）的高度信心。
+彭博经济分析师指出，美伊在核谈判关键问题上仍分歧巨大，间歇性打击与谈判预计将持续。围绕霍尔木兹海峡、制裁及谅解备忘录执行的分歧阻碍了进展。 鉴于霍尔木兹海峡承载全球约 40%石油运输的咽喉地位，这一持续僵局给全球能源市场带来持续风险，同时也影响地区安全与美国制裁政策的可信度。 关于伊朗核计划的技术性会谈被视为建设性步骤，但制裁解除的范围与持久性以及长期核限制仍未解决。谅解备忘录未涉及对伊朗大规模投资等关键问题。
 
-rss · Bloomberg Markets · Jul 10, 21:52
+rss · Bloomberg Markets · Jul 11, 15:09
 
-**背景**: 内存芯片行业长期以来以繁荣-萧条周期为特征，原因是产品类似大宗商品、定价竞争激烈，SK 海力士、三星和美光之间竞争尤为突出。然而，AI 对 HBM 等专用内存的需求激增，使许多观察人士认为这种周期性模式可能正在发生根本性改变。
+**背景**: 霍尔木兹海峡是全球最重要的石油运输咽喉，美国自 1979 年起对伊朗实施制裁。近期在瑞士举行的高级别谈判未达成最终协议，调解方巴基斯坦和卡塔尔表示技术性会谈将继续进行。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.geninnov.ai/blog/of-memory-and-monopolies-the-markets-unrecognized-winds-of-change?trk=article-ssr-frontend-pulse_little-text-block">Of Memory and Monopolies: The Market’s Unrecognized... | GenInnov</a></li>
-<li><a href="https://financhill.com/blog/investing/is-the-boom-bust-period-gone-for-micron-stock">Is The Boom - Bust Period Gone for Micron Stock?</a></li>
-<li><a href="https://cryptorank.io/news/feed/7f828-sk-hynix-us-ipo-rammageddon">SK hynix US IPO : The $14 Billion Gamble to End RAMmageddon and...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz - Wikipedia</a></li>
+<li><a href="https://apnews.com/article/iran-vance-trump-nuclear-negotiations-2edf9268aae550883252080014013963">US-Iran negotiations end, technical talks will continue after ...</a></li>
+<li><a href="https://www.hsfkramer.com/notes/sanctions/2026-posts/emerging-us-iran-memorandum-of-understanding-and-implications-for-sanctions-and-nuclear-negotiations">Emerging U.S. Iran Memorandum of Understanding and ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#AI`, `#IPOs`, `#capital markets`, `#technology`
+**标签**: `#geopolitics`, `#US-Iran relations`, `#nuclear negotiations`, `#sanctions`, `#energy security`
 
 ---
 
 <a id="item-11"></a>
-## [普拉特纳候选人身份重燃民主党性别辩论](https://www.nytimes.com/2026/07/10/us/politics/platner-democrats-women-double-standard.html) ⭐️ 7.0/10
+## [税收制度能否跟上万亿富豪的步伐？](https://www.bloomberg.com/news/videos/2026-07-11/can-the-tax-system-keep-up-with-trillionaires-video) ⭐️ 8.0/10
 
-一位名叫普拉特纳的男性民主党候选人的参选，重新引发了党内关于性别双重标准以及如何吸引工薪阶层选民的辩论。 这场辩论凸显了民主党内在性别动态和选举策略上的持续紧张关系，对党内团结和选民拓展具有影响。 文章特别指出，普拉特纳的候选资格加剧了关于性别以及如何赢回工薪阶层选民的紧张局势，但未提供其政纲或具体事件的更多细节。
+埃隆·马斯克在 SpaceX 创纪录的首次公开募股后成为全球首位万亿富豪，这促使保罗·克鲁格曼和娜塔莎·萨林等经济学家指出，现行税收制度设计于一个多世纪前，无法有效对快速增值的资产财富征税。 这一里程碑重新引发了关于不平等、政治影响力以及资本主义能否在不扩大最富者与其他人群差距的情况下继续奖励创新的辩论，并可能影响联邦和州层面的税收政策改革。 彭博社记者本·斯特弗曼指出，尽管美国此前曾出现过具有类似经济影响力的财富，但当今科技领域的财富集中程度前所未有，而诸如加州亿万富翁税倡议和伊丽莎白·沃伦的超百万富翁税等提案面临宪法和实际执行上的挑战。
 
-rss · NYTimes Politics · Jul 10, 21:47
+rss · Bloomberg Markets · Jul 11, 14:03
 
-**标签**: `#Democratic Party`, `#gender politics`, `#working-class voters`, `#electoral strategy`, `#internal party debate`
+**背景**: 现代美国税收制度设计于 20 世纪初，主要对收入和已实现的资本利得征税，而非未实现的资产增值。这意味着，依靠股票或私营公司股权等快速增值资产积累的财富，在出售前基本无需纳税，从而允许极端财富集中。首位万亿富豪的出现凸显了这一结构性缺陷，因为马斯克的财富与尚未出售的 SpaceX 和特斯拉股票挂钩。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/2026_California_billionaire_tax_initiative">2026 California billionaire tax initiative - Wikipedia</a></li>
+<li><a href="https://elizabethwarren.com/plans/ultra-millionaire-tax">Ultra-Millionaire Tax | Elizabeth Warren</a></li>
+<li><a href="https://prospect.org/2026/02/24/tax-billionaires-california-income-inequality-trump-billionaires-trillionaires/">How to Tax Billionaires - The American Prospect</a></li>
+
+</ul>
+</details>
+
+**标签**: `#tax policy`, `#wealth inequality`, `#Elon Musk`, `#capitalism`, `#economic policy`
 
 ---
 
 <a id="item-12"></a>
-## [印度与新西兰提升为战略伙伴关系](https://www.bloomberg.com/news/articles/2026-07-11/india-nz-plan-strategic-partnership-including-maratime-security) ⭐️ 7.0/10
+## [霍尔木兹争端使美伊外交紧张](https://www.bloomberg.com/news/videos/2026-07-11/hormuz-dispute-clouds-us-iran-diplomacy-video) ⭐️ 8.0/10
 
-印度和新西兰宣布计划将双边关系提升为战略伙伴关系，重点加强贸易和海上安全合作。 这一发展标志着印太地区重要的地缘政治调整，可能重塑志同道合国家间的贸易和安全格局。 该声明于 2026 年 7 月 11 日发布，但关于伙伴关系范围的具体细节，包括任何正式协议或时间表，仍然很少。
+彭博社报道称，美伊谈判仍聚焦于确保霍尔木兹海峡的航行自由，尽管停火脆弱，伊朗若保持对该水道的控制，可能获得更大的战略杠杆。 霍尔木兹海峡是全球最重要的石油运输咽喉，承载约 40%的全球石油运输，因此任何争端都可能威胁全球能源市场和经济稳定。 报道指出，伊朗领导层仍不透明，近期对商船的袭击是指挥失误还是蓄意策略尚存疑问，而特朗普总统不断升级的言论凸显了停火的脆弱性。
 
-rss · Bloomberg Markets · Jul 11, 01:03
+rss · Bloomberg Markets · Jul 11, 13:57
 
-**背景**: 战略伙伴关系是两国之间加强合作的正式框架，通常涵盖防务、贸易和外交协调。在印太背景下，由于领土主张竞争和航运路线脆弱性，海上安全是一个关键问题。
+**背景**: 霍尔木兹海峡是伊朗与阿曼之间的一条狭窄水道，连接波斯湾与开阔海洋。它是全球石油运输的关键咽喉，美国长期视其安全为世界经济的关键。当前紧张局势源于 2025-2026 年的冲突，包括美国对伊朗核设施的打击，该冲突于 2025 年 6 月以临时停火告终。
 
-**标签**: `#geopolitics`, `#Indo-Pacific`, `#maritime security`, `#India`, `#New Zealand`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Strait_of_Hormuz">Strait of Hormuz - Wikipedia</a></li>
+<li><a href="https://www.strausscenter.org/strait-of-hormuz-about-the-strait/">Strait of Hormuz - About the Strait - Strauss Center</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2025–2026_Iran–United_States_negotiations">2025–2026 Iran–United States negotiations - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#geopolitics`, `#energy`, `#US-Iran relations`, `#Strait of Hormuz`, `#global trade`
 
 ---
 
 <a id="item-13"></a>
-## [根斯勒：大交易预示高估值市场](https://www.bloomberg.com/news/videos/2026-07-10/gensler-big-deals-a-sign-of-high-valuation-market-video) ⭐️ 7.0/10
+## [原油价格下跌，燃油价格反涨](https://www.bloomberg.com/news/articles/2026-07-11/fuel-prices-are-slamming-consumers-even-as-crude-crisis-fades) ⭐️ 8.0/10
 
-前美国证券交易委员会主席加里·根斯勒在彭博社评论称，近期的大型 IPO 和融资活动，包括 SK 海力士 265 亿美元的美国上市、谷歌 850 亿美元的融资以及 SpaceX 的 IPO，都是高估值市场的信号。 这位前最高监管机构的评论揭示了当前市场状况，表明高估值正在推动创纪录的资本市场活动，这可能影响投资者情绪和监管政策。 SK 海力士以 265 亿美元融资额创下美国历史上最大外国公司上市纪录，而 SpaceX 在 2026 年 6 月的 IPO 以 1.77 万亿美元估值成为史上最大，谷歌则通过融资筹集了 850 亿美元。
+尽管原油成本下降，汽油、柴油和航空燃油价格却出现上涨，这种罕见的分化现象增加了旺季旅行者的成本，并可能危及特朗普总统在中期选举前遏制通胀的承诺。 这种价格分化直接冲击消费者钱包，并削弱了总统在通胀问题上的关键承诺，使其成为具有明确选举影响的高风险政治经济议题。 燃油价格在原油市场趋缓的背景下反弹，表明炼油利润率、供应限制或季节性需求等其他因素正在推动价格上涨。
 
-rss · Bloomberg Markets · Jul 10, 22:25
+rss · Bloomberg Markets · Jul 11, 13:30
 
-**背景**: 高估值市场是指资产价格相对于盈利等基本面因素偏高的情况。加里·根斯勒在 2021 年至 2025 年担任美国证券交易委员会主席，现任麻省理工学院斯隆管理学院教授，他对市场状况的看法具有影响力。
+**背景**: 燃油价格通常与原油价格同步波动，因为原油是汽油、柴油和航空燃油的主要原料。当燃油价格独立于原油上涨时，表明炼油、分销或需求动态出现了问题。这种情况在夏季旅游旺季和中期选举前夕尤为引人注目，因为高燃油成本可能成为重大的政治负担。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=fmajiKLOXvA">SK Hynix's mega US$26.5b IPO: Analyst warns AI-fuelled ... - YouTube</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Initial_public_offering_of_SpaceX">Initial public offering of SpaceX - Wikipedia</a></li>
-<li><a href="https://finance.yahoo.com/video/sk-hynix-makes-us-debut-what-sets-it-apart-from-spacexs-mega-ipo-135622273.html">SK Hynix makes US debut: What sets it apart from SpaceX's mega-IPO</a></li>
-
-</ul>
-</details>
-
-**标签**: `#IPOs`, `#market valuation`, `#SEC`, `#capital markets`, `#Gary Gensler`
+**标签**: `#fuel prices`, `#inflation`, `#midterm elections`, `#energy markets`, `#consumer impact`
 
 ---
 
 <a id="item-14"></a>
-## [Holtec 核电提交 IPO 申请，乘核能上市热潮](https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush) ⭐️ 7.0/10
+## [埃隆·马斯克成为全球首位万亿富翁](https://www.bloomberg.com/news/newsletters/2026-07-11/the-world-s-first-trillionaire-and-the-company-he-won-t-let-go) ⭐️ 8.0/10
 
-核能服务公司 Holtec Nuclear Corp.已向美国提交首次公开募股（IPO）申请，加入了一波核能公司上市热潮，这些公司旨在利用数据中心日益增长的电力需求。 此次 IPO 申请表明投资者对核能作为数据中心电力解决方案的信心日益增强，可能加速小型模块化反应堆（SMR）的部署，并重塑人工智能基础设施的能源格局。 Holtec 的 SMR-300 是一种先进的、具有被动安全特性的压水反应堆，额定净电输出为 300 兆瓦。该公司的技术设计可在全球部署，无需依赖当地电网。
+据彭博社 2026 年 7 月报道，埃隆·马斯克已成为全球首位万亿富翁，这是财富集中历史上的一个里程碑。 这一事件凸显了前所未有的财富不平等，以及特斯拉和 SpaceX 等紧密控股公司的巨大影响力，引发了关于市场动态和公共政策的紧迫讨论。 这一里程碑基于彭博社的分析，而马斯克不愿放弃其公司控制权，表明他将保留对其巨额财富的重大掌控。
 
-rss · Bloomberg Markets · Jul 10, 21:40
+rss · Bloomberg Markets · Jul 11, 12:00
 
-**背景**: 小型模块化反应堆（SMR）是比传统核电站占地面积更小的先进核反应堆，具有被动安全特性和灵活部署能力。数据中心，尤其是为人工智能提供动力的数据中心，需要稳定、全天候的电力，核能正成为满足这一前所未有的需求增长的关键解决方案。其他核能初创公司如 X-energy 已通过 IPO 筹集了大量资金，同样受到数据中心需求的推动。
+**背景**: 万亿富翁是指净资产超过一万亿美元的人，这是此前从未达到的财富水平。马斯克的财富主要来自他在特斯拉、SpaceX 及其他企业的持股，这些公司的估值大幅增长。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nrc.gov/reactors/new-reactors/advanced/who-were-working-with/pre-application-activities/holtec/smr300">SMR-300 | Nuclear Regulatory Commission - NRC</a></li>
-<li><a href="https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/">Nuclear startup X-energy raises $1B in data center-driven IPO | TechCrunch</a></li>
-<li><a href="https://holtecinternational.com/products-and-services/smr/">Small Modular Reactor - Holtec International</a></li>
-
-</ul>
-</details>
-
-**标签**: `#nuclear energy`, `#IPO`, `#data centers`, `#energy policy`, `#capital markets`
+**标签**: `#wealth inequality`, `#Elon Musk`, `#trillionaire`, `#economics`, `#finance`
 
 ---
 
 <a id="item-15"></a>
-## [罗德岛监狱运营商申请破产以削减债券债务](https://www.bloomberg.com/news/articles/2026-07-10/rhode-island-jail-operator-files-bankruptcy-to-cut-bond-debt) ⭐️ 7.0/10
+## [埃尼 CEO 警告能源危机短期内可能恶化](https://www.bloomberg.com/news/articles/2026-07-11/eni-s-descalzi-says-energy-crisis-may-worsen-in-short-term-sole) ⭐️ 8.0/10
 
-运营罗德岛一所关押 ICE 拘留者的监狱的 Central Falls Detention Facility Corp.于 2026 年 7 月 10 日申请第 11 章破产，理由是无法偿还超过 1.67 亿美元的债券债务。 此次破产可能扰乱联邦移民执法行动，并对市政债券持有人和地方政府财政产生重大影响，凸显了私人拘留设施的财务风险。 该案件在罗德岛地区法院以案号 26-10628 提交，由法官 John A. Dorsey Jr.审理。该设施关押着被美国移民和海关执法局（ICE）逮捕的人员。
+埃尼集团首席执行官克劳迪奥·德斯卡尔齐向意大利《24 小时太阳报》表示，由于石油库存下降和供应竞争加剧，全球能源危机短期内可能进一步恶化。 来自一家大型石油公司 CEO 的警告预示着短期内可能出现价格压力和地缘政治风险加剧，这可能影响全球能源市场、政策决策和消费者。 德斯卡尔齐特别指出石油库存下降和能源供应竞争加剧是潜在恶化的关键驱动因素，但他未提供具体数据或时间表。
 
-rss · Bloomberg Markets · Jul 10, 21:37
+rss · Bloomberg Markets · Jul 11, 08:45
 
-**背景**: 私营公司通常通过与 ICE 签订合同来运营拘留设施，并通过市政债券为建设和运营融资。当这些设施面临财务困境时，可能影响移民政策和债券市场。Central Falls 设施是全美 137 个 ICE 拘留设施之一。
+**背景**: 始于 2021 年的全球能源危机由疫情后需求复苏、供应链中断以及俄乌冲突等地缘政治紧张局势等因素驱动。石油库存是市场紧张程度的关键指标；库存下降时，价格往往上涨。埃尼是全球最大的石油和天然气公司之一，其 CEO 的观点在能源市场具有重要分量。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.bkalerts.com/recent-bankruptcy-cases/rhode-island-bankruptcy-court/1:26-bk-10628/bankruptcy-case-central-falls-detention-facility-corporation">Case number: 1:26-bk-10628 - Central Falls Detention Facility ...</a></li>
-<li><a href="https://www.rib.uscourts.gov/central-falls-detention-facility-corporation">Central Falls Detention Facility Corporation | District of ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#bankruptcy`, `#immigration`, `#municipal finance`, `#public policy`, `#bond debt`
+**标签**: `#energy crisis`, `#oil markets`, `#geopolitics`, `#supply chain`, `#commodities`
 
 ---
 
 <a id="item-16"></a>
-## [苹果起诉 OpenAI 窃取机密信息](https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories) ⭐️ 7.0/10
+## [特朗普关于索马里学童的帖子引发愤怒](https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html) ⭐️ 7.0/10
 
-苹果公司已对 OpenAI 提起诉讼，指控其窃取机密信息，并声称该公司领导层将不当行为正常化并作为典范。 这起诉讼可能为大型科技公司与领先 AI 公司之间的知识产权纠纷树立先例，并可能影响 AI 监管和行业竞争。 苹果的诉状称，被指控的不当行为只是‘冰山一角’，暗示 OpenAI 存在系统性问题，但尚未披露被窃取的机密信息的具体细节。
+特朗普总统转发了一段展示戴头巾的索马里女童的幼儿园毕业典礼视频，并附有贬损性评论，引发了明尼苏达州穆斯林和索马里社区的广泛愤慨。 这一事件凸显了针对宗教和少数族裔的煽动性言论的持续使用，可能加剧社会紧张局势，并影响明尼苏达州这一关键摇摆州的选举动态。 该视频展示了一场幼儿园毕业典礼，总统的评论特别提到了女童的头巾，因针对弱势群体而受到批评。
 
-rss · MarketWatch Top Stories · Jul 10, 23:06
+rss · NYTimes Politics · Jul 11, 17:55
 
-**背景**: 苹果和 OpenAI 是科技行业最具影响力的两家公司，苹果以其硬件和软件生态系统闻名，而 OpenAI 则以其 GPT 等先进 AI 模型著称。这类巨头之间的知识产权盗窃指控可能带来重大的法律和财务后果。
+**背景**: 明尼苏达州是美国最大的索马里社区所在地之一，拥有大量穆斯林人口。前总统特朗普曾多次发表关于移民和宗教少数群体的争议性言论，这些言论经常引发关于公民权利和社会凝聚力的辩论。
 
-**标签**: `#Apple`, `#OpenAI`, `#lawsuit`, `#intellectual property`, `#AI regulation`
+**标签**: `#politics`, `#civil rights`, `#immigration`, `#religion`, `#Minnesota`
 
 ---
 
 <a id="item-17"></a>
-## [SK 海力士 ADR 在纳斯达克首日上涨 13%](https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories) ⭐️ 7.0/10
+## [罗·卡纳在西岸被以色列定居者阻拦](https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html) ⭐️ 7.0/10
 
-SK 海力士的美国存托凭证（ADR）于周五在纳斯达克开始交易，股价飙升近 13%，标志着其强势进入美国市场。 此次上市表明投资者对 SK 海力士（英伟达等 AI 巨头的重要内存芯片供应商）需求强劲，并凸显了内存芯片在全球 AI 供应链中的战略重要性。 ADR 开盘价为每股 170 美元，较 149 美元的发行价上涨 14%，此前 SK 海力士通过美国历史上最大的外国公司上市筹集了约 265 亿美元。
+2026 年 7 月 11 日，民主党总统候选人罗·卡纳在西岸被以色列定居者阻拦 90 分钟，无法离开该地区。 这一事件凸显了民主党总统候选人在处理以巴冲突上的代际转变，从传统的支持以色列转向采取批评立场，以迎合进步派选民。 封锁持续了 90 分钟，据报道卡纳此行是为了巩固其作为以色列政策批评者的形象，这与过去美国领导人访问该地区以示支持以色列的做法形成对比。
 
-rss · MarketWatch Top Stories · Jul 10, 22:18
+rss · NYTimes Politics · Jul 11, 18:08
 
-**背景**: 美国存托凭证（ADR）是一种可转让证券，代表外国公司的股份，并允许这些股份在美国证券交易所交易。ADR 以美元计价，可像普通股票一样交易，简化了跨境投资。SK 海力士是一家韩国内存芯片制造商，是英伟达和苹果等公司的关键供应商。
+**背景**: 西岸是以色列自 1967 年以来占领的争议领土，国际法视以色列定居点为非法。罗·卡纳是来自加利福尼亚州的进步派民主党众议员，也是潜在的总统候选人，以对以色列政策的批评立场著称。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html">SK Hynix rises 13% in Nasdaq debut. Chairman says ... - CNBC SpaceX makes its Nasdaq debut after the largest public ... SK Hynix Nasdaq debut: ADR opens at $170 after $26.5B offering Nasdaq debut Crossword Clue - Wordplays.com SK Hynix Nasdaq debut: $26.5 billion ADR listing sets record SK Hynix’s $26.5 billion Nasdaq debut explained: what ... SpaceX Surges Past $2 Trillion In Nasdaq Debut, Closes In On ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/American_depositary_receipt">American depositary receipt</a></li>
-
-</ul>
-</details>
-
-**标签**: `#semiconductors`, `#stock market`, `#South Korea`, `#memory chips`, `#IPO`
+**标签**: `#U.S. politics`, `#Israel-Palestine`, `#foreign policy`, `#Democratic Party`, `#West Bank`
 
 ---
 
 <a id="item-18"></a>
-## [SK 海力士创纪录美国发行后股价上涨](https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video) ⭐️ 6.0/10
+## [《纽约时报》编辑详述参议员候选人指控报道过程](https://www.nytimes.com/2026/07/11/insider/11-insider-platner-main-rape-allegation-reporting.html) ⭐️ 7.0/10
 
-据彭博社 2026 年 7 月 10 日《收盘》节目报道，SK 海力士在完成创纪录的美国股票发行后股价上涨。 这标志着 SK 海力士的一个重要里程碑，可能为其扩张提供资金，并显示投资者对半导体行业的强劲信心。 本期节目邀请了多位嘉宾，包括前美国证券交易委员会主席加里·根斯勒以及穆迪、标普全球和道明证券的分析师，讨论市场走势和政策影响。
+《纽约时报》高级编辑于 2026 年 7 月 11 日发布内部报道，说明记者在调查缅因州领先的民主党参议员候选人 Graham Platner 面临的性侵指控时所遇到的挑战。 这篇报道意义重大，因为它揭示了主要新闻机构如何处理针对知名政治人物的敏感指控，直接影响公众对媒体以及一场竞争激烈的参议员选举公正性的信任。 编辑们讨论了追踪指控的艰难过程以及随后出现的问题，但文章侧重于报道方法而非指控本身的实质内容。
 
-rss · Bloomberg Markets · Jul 10, 23:56
+rss · NYTimes Politics · Jul 11, 09:03
 
-**背景**: SK 海力士是韩国主要的半导体制造商。创纪录的美国发行指的是在美国市场大规模出售股票，通常用于为投资（如新工厂或技术开发）筹集资金。
+**背景**: Graham Platner 是缅因州美国参议员选举中领先的民主党候选人，这使得该事件成为一个高风险的政治新闻。《纽约时报》决定发布其报道过程的内部说明并不寻常，表明此案具有高度敏感性并受到公众密切关注。
 
-**标签**: `#financial markets`, `#equity offering`, `#market commentary`, `#Bloomberg`
+**标签**: `#politics`, `#elections`, `#media`, `#Maine`, `#sexual assault allegations`
 
 ---
 
 <a id="item-19"></a>
-## [MGM Resorts 与巴里·迪勒进行收购谈判](https://www.bloomberg.com/news/articles/2026-07-10/mgm-resorts-engaged-in-deal-talks-with-diller-wsj-says) ⭐️ 6.0/10
+## [美国海军司令呼吁增加军舰并加速建造](https://www.bloomberg.com/news/videos/2026-07-11/navy-chief-says-us-needs-more-warships-video) ⭐️ 7.0/10
 
-据《华尔街日报》报道，MGM Resorts International 正在与巴里·迪勒的 People Inc.进行交易谈判，后者提出收购其尚未持有的这家赌场公司的剩余股份。 这笔潜在收购可能通过将大型赌场运营商与媒体大亨的影响力相结合，重塑博彩和娱乐行业格局，标志着该行业进一步整合的趋势。同时，它也凸显了媒体与博彩行业日益交叉的趋势。 谈判尚处于初步阶段，未披露任何确认细节，包括具体报价或时间表。巴里·迪勒已通过其投资工具 People Inc.持有 MGM Resorts 的大量股份。
+美国海军作战部长达里尔·考德尔上将表示，美国海军需要更大的舰队、更快的造船速度以及扩大的弹药生产，以满足全球需求并维持战备状态。 这一声明标志着美国国防政策的重大战略优先事项，对国防开支、工业基础和地缘政治姿态具有深远影响。它凸显了海军在繁重作战任务与长期战备之间取得平衡的需求。 考德尔上将指出，尽管作战任务繁重，海军仍保持战备状态，并提到创纪录的招募和留任率是积极信号。他认为重建美国工业基础对长期国家安全至关重要。
 
-rss · Bloomberg Markets · Jul 10, 23:02
+rss · Bloomberg Markets · Jul 11, 15:21
 
-**背景**: MGM Resorts International 是一家全球领先的赌场和娱乐公司，在拉斯维加斯经营着贝拉吉奥和 MGM Grand 等标志性物业。巴里·迪勒是知名媒体大亨，也是 IAC/InterActiveCorp 的董事长，在娱乐和科技领域有战略性投资的历史。此次谈判正值博彩行业整合时期，各公司正寻求扩大其数字和媒体业务版图。
+**背景**: 美国海军面临日益增长的全球需求，包括印太和中东地区的紧张局势，而其舰队规模在过去几十年中有所下降。美国的造船能力也已缩减，引发了对维持更大海军能力的担忧。海军作战部长是美国海军最高级别军官，负责制定该军种的战略方向。
 
-**标签**: `#M&A`, `#gaming`, `#entertainment`, `#corporate finance`
+**标签**: `#defense policy`, `#national security`, `#industrial base`, `#shipbuilding`, `#US Navy`
 
 ---
 
 <a id="item-20"></a>
-## [彭博财经节目邀请克罗斯纳与道森](https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-money-7-10-2026-video) ⭐️ 6.0/10
+## [高估值股票面临盈利考验](https://www.bloomberg.com/news/articles/2026-07-11/stocks-priced-for-sunshine-and-rainbows-now-face-earnings-test) ⭐️ 7.0/10
 
-2026 年 7 月 10 日，彭博财经节目《Bloomberg Money》播出，邀请前美联储理事兰德尔·克罗斯纳和新边缘财富首席投资官卡梅伦·道森讨论金融生活与市场。 本期节目汇集了前央行官员和顶级财富管理专家的观点，为观众理解当前经济形势和投资策略提供了宝贵背景。 该节目是彭博常规财经新闻的一部分，依托其全球新闻编辑室的报道。摘要中未披露具体讨论主题或市场动态。
+华尔街预期即将迎来接近历史纪录的财报季，投资者正在质疑企业利润能否支撑当前高企的股票估值。 本次财报季是对股市的关键考验，高估值使得市场几乎没有容错空间；若业绩不佳，可能引发大幅回调并改变投资者情绪。 文章指出，股票定价已反映“阳光与彩虹”般的乐观预期，这意味着任何盈利不及预期都可能引发急剧抛售。
 
-rss · Bloomberg Markets · Jul 10, 22:00
+rss · Bloomberg Markets · Jul 11, 13:00
 
-**背景**: 《Bloomberg Money》是一档财经新闻节目，旨在通过讨论市场趋势和经济政策帮助观众管理个人财务。兰德尔·克罗斯纳曾在 2008 年金融危机期间担任美联储理事，卡梅伦·道森则是新边缘财富（一家注册投资顾问公司）的首席投资官。
+**背景**: 股票估值通过市盈率（P/E）等指标衡量，该指标比较公司股价与每股收益。当估值偏高时，意味着投资者为未来盈利支付了溢价，这使得市场在财报季更容易受到负面意外的影响。
 
-**标签**: `#economics`, `#finance`, `#central banking`, `#markets`
+**标签**: `#earnings season`, `#stock market`, `#valuation`, `#investor sentiment`, `#macro risk`
 
 ---
 
 <a id="item-21"></a>
-## [Apnimed 提交 IPO 申请，为睡眠呼吸暂停药物筹资](https://www.bloomberg.com/news/articles/2026-07-10/shionogi-backed-apnimed-files-for-ipo-to-fund-sleep-apnea-drug) ⭐️ 6.0/10
+## [易捷航空罕见吸引私募股权兴趣](https://www.bloomberg.com/news/articles/2026-07-11/easyjet-has-private-equity-firms-going-out-of-their-comfort-zone) ⭐️ 7.0/10
 
-由 Shionogi 支持的 Apnimed 公司已向美国提交首次公开募股申请，为其即将商业化的口服阻塞性睡眠呼吸暂停药物筹集资金。 此次 IPO 申请标志着睡眠呼吸暂停治疗可能从 CPAP 呼吸机等设备转向口服药物，为患者提供更便捷的选择。同时，它也凸显了投资者对瞄准大型未满足市场的生物技术公司日益增长的兴趣。 该药物是一种用于治疗阻塞性睡眠呼吸暂停的口服药物，而目前该病症主要依赖 CPAP 呼吸机。Apnimed 尚未披露拟议的 IPO 价格或股票数量。
+两家美国私募股权公司正在竞购易捷航空，标志着它们罕见地涉足波动大、利润率低的航空业。 这场竞购表明私募股权对航空业的兴趣可能发生转变，该行业因周期性强和利润率低而历来被回避。其结果可能影响航空公司的估值和未来的行业交易。 两家美国基金对易捷航空的竞购之所以引人注目，是因为航空业务通常被认为对财务买家来说风险过高。这笔交易反映了私募股权罕见地将目标对准一家欧洲主要低成本航空公司。
 
-rss · Bloomberg Markets · Jul 10, 21:27
+rss · Bloomberg Markets · Jul 11, 11:00
 
-**背景**: 阻塞性睡眠呼吸暂停是一种常见疾病，患者在睡眠时喉部肌肉松弛并阻塞气道，通常通过提供持续气压的 CPAP 呼吸机治疗。Apnimed 的口服药物旨在提供一种药物替代方案，可能提高患者依从性。日本制药公司 Shionogi 是 Apnimed 的主要支持者。
+**背景**: 私募股权公司通常避免投资航空业，因为该行业资本需求高、燃料成本波动大且对经济周期敏感。易捷航空是一家英国低成本航空公司，在竞争激烈且利润率微薄的市场中运营，因此成为财务投资者的非传统目标。
 
-**标签**: `#biotech`, `#IPO`, `#sleep apnea`, `#pharmaceuticals`, `#healthcare`
+**标签**: `#private equity`, `#aviation`, `#M&A`, `#EasyJet`, `#airline industry`
 
 ---
 
 <a id="item-22"></a>
-## [Meta 股价因低价 AI 策略飙升](https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories) ⭐️ 6.0/10
+## [里夫斯要求伯纳姆制定完善治理计划](https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss) ⭐️ 6.0/10
 
-Meta 的股票录得多年来最佳周度表现，原因是投资者对其低价 AI 定价和基础设施扩张计划持乐观态度。 这一上涨表明市场对 Meta 通过成本领先在 AI 领域竞争的能力信心增强，可能给竞争对手带来压力并重塑 AI 定价趋势。 股价上涨归因于 Meta 新的低价 AI 定价模型及其雄心勃勃的基础设施投资，但报道中未披露具体的财务数据或时间表。
+财政大臣雷切尔·里夫斯告诉 BBC，安迪·伯纳姆需要一份完善的计划才能从一开始就有效治理，并承诺将向新任首相移交稳定的经济。 这一表态揭示了工党内部的动态，并强调了权力交接中经济管理的重要性，可能影响未来的领导权竞争和政策方向。 该评论是在接受劳拉·库恩斯伯格采访时作出的，反映了财政大臣对其经济管理的信心，同时为潜在继任者设定了期望。
 
-rss · MarketWatch Top Stories · Jul 10, 22:24
+rss · BBC Politics · Jul 11, 12:00
 
-**背景**: Meta（前身为 Facebook）一直在大力投资人工智能以推动增长，而整个科技行业正转向 AI。低价 AI 定价有助于 Meta 吸引更多开发者和广告商，从而提振其核心业务。
+**背景**: 雷切尔·里夫斯是英国财政大臣，负责经济和金融事务。安迪·伯纳姆是大曼彻斯特市长，也是工党知名人物，常被提及为未来可能的党领袖或首相。该声明强调了政治交接中明确治理计划的必要性。
 
-**标签**: `#Meta`, `#stock market`, `#AI`, `#technology`, `#investing`
+**标签**: `#UK Politics`, `#Economic Policy`, `#Labour Party`, `#Governance`
+
+---
+
+<a id="item-23"></a>
+## [特朗普用不实说辞为 20 亿美元收益辩护](https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html) ⭐️ 6.0/10
+
+特朗普总统发表不实言论，为其第二任期内个人获得的 20 亿美元收益辩护，称这笔意外之财来自股市繁荣，并声称自己是唯一捐出薪水的总统。 这引发了对现任总统关于个人财务状况言论准确性的担忧，对公众信任和总统道德标准具有影响。 《纽约时报》的报道指出特朗普的说法不准确，但所提供内容中未详细说明具体纠正或反证。20 亿美元的数字指的是他在第二任期内积累的财务收益。
+
+rss · NYTimes Politics · Jul 11, 09:02
+
+**背景**: 总统通常将个人财务与公务分开以避免利益冲突。捐出薪水是一种象征性姿态，多位现代总统都曾这样做，与特朗普声称自己是唯一一位的说法相反。
+
+**标签**: `#politics`, `#misinformation`, `#presidency`, `#ethics`, `#US`
+
+---
+
+<a id="item-24"></a>
+## [普拉特纳丑闻重燃“伯尼兄弟”不当行为辩论](https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html) ⭐️ 6.0/10
+
+格雷厄姆·普拉特纳在缅因州的参议员竞选因强奸指控而崩溃，重新引发批评称伯尼·桑德斯的政治运动对男性不当行为过于宽容。 这一事件凸显了进步运动中关于性别和问责制的持续紧张关系，可能影响选民信任以及桑德斯阵营候选人的未来。 该指控导致普拉特纳迅速垮台，但《纽约时报》的报道聚焦于更广泛的桑德斯运动如何反复面临关于其处理男性人物不当行为指控的质疑。
+
+rss · NYTimes Politics · Jul 11, 09:02
+
+**背景**: “伯尼兄弟”一词在桑德斯 2016 年总统竞选期间出现，用来描述其部分在网上进行激进或性别歧视行为的支持者。批评者认为，该运动的文化有时会为男性盟友的不当行为开脱或轻描淡写，而这一最新案例正是这种模式的体现。
+
+**标签**: `#politics`, `#gender`, `#elections`, `#Bernie Sanders`, `#misconduct`
+
+---
+
+<a id="item-25"></a>
+## [仅 5%美国成年人通过金融素养测试](https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories) ⭐️ 6.0/10
+
+一项最新的金融素养测试显示，仅有 5%的美国成年人能正确回答全部 8 道题，整体金融素养水平降至十年来的最低点。 金融素养下降可能导致个人做出糟糕的财务决策，比如高成本借贷或退休储蓄不足，从而影响数百万家庭的财务状况。 该测试包含 8 道题，涵盖利率、通货膨胀和风险分散等主题，极低的通过率凸显了广泛存在的知识缺口。
+
+rss · MarketWatch Top Stories · Jul 11, 16:00
+
+**背景**: 金融素养是指理解并有效运用各种金融技能的能力，包括个人财务管理、预算编制和投资。较高的金融素养通常与更好的财务结果相关，如较低的债务和更高的储蓄。
+
+**标签**: `#financial literacy`, `#personal finance`, `#economic trends`, `#consumer behavior`
+
+---
+
+<a id="item-26"></a>
+## [下一场金融危机或比互联网泡沫严重四倍](https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories) ⭐️ 6.0/10
+
+萨蒂亚吉特·达斯警告称，下一场全球金融危机已在展开，其规模可能比互联网泡沫严重四倍，后者曾抹去 5 万亿美元市值。 这一警告凸显了全球经济中不断升级的系统性风险，可能以远超以往危机的损失影响全球投资者、政策制定者和金融机构。 2000-2002 年的互联网泡沫被描述为一个 5 万亿美元的短暂事件，而达斯认为下一场危机可能严重四倍，但文章缺乏具体的时间敏感证据或可操作细节。
+
+rss · MarketWatch Top Stories · Jul 11, 16:00
+
+**背景**: 互联网泡沫是 21 世纪初由互联网公司投机驱动的一次重大股市泡沫破裂。金融危机通常源于累积的债务、资产泡沫或银行体系的系统性脆弱性。达斯是一位知名的金融评论员，经常就经济风险发出警告。
+
+**标签**: `#financial crisis`, `#economic risk`, `#global economy`, `#systemic risk`, `#market analysis`
 
 ---
 
 ## 科技
 
-<a id="item-23"></a>
-## [人形机器人完成全球首例活猪胆囊手术](https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/) ⭐️ 9.0/10
-
-外科医生远程操控宇树 G1 人形机器人，成功在活猪身上完成了全球首例微创胆囊切除手术，相关结果已发表在《自然》期刊。 这一突破表明，低成本通用人形机器人也能执行精细手术，有望让偏远地区、战场甚至太空等缺乏昂贵专用机器人的场景获得远程手术服务。 宇树 G1 基础款售价约 13500 美元，配备灵巧手后约 67000 美元，而达芬奇手术机器人售价在 50 万至数百万美元；该机器人高约 1.5 米、重约 27 公斤，由加州大学圣地亚哥分校的研究人员远程操控。
-
-telegram · zaihuapd · Jul 11, 02:29
-
-**背景**: 腹腔镜胆囊切除术是一种常见的微创手术，通过小切口切除胆囊。达芬奇等专用手术机器人虽已广泛应用，但售价超过 150 万美元，限制了其普及。宇树 G1 是一款原本面向研究与教育的通用人形机器人，此次用于手术是一次全新的跨界应用。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.unitree.com/g1/">Humanoid robot G 1 _ Humanoid Robot ... | Unitree Robotics</a></li>
-<li><a href="https://www.mayoclinic.org/tests-procedures/cholecystectomy/about/pac-20384818">Cholecystectomy (gallbladder removal) - Mayo Clinic</a></li>
-<li><a href="https://scienceinsights.org/how-much-is-a-da-vinci-robot-prices-across-all-models/">How Much Is a Da Vinci Robot? Prices Across All Models</a></li>
-
-</ul>
-</details>
-
-**标签**: `#robotics`, `#surgery`, `#humanoid robot`, `#medical technology`, `#remote operation`
-
----
-
-<a id="item-24"></a>
-## [SGLang v0.5.15 在 Blackwell GPU 上大幅提升 GLM-5.2 性能](https://github.com/sgl-project/sglang/releases/tag/v0.5.15) ⭐️ 8.0/10
-
-SGLang v0.5.15 在 Blackwell GPU 上为 GLM-5.2 带来了重大性能提升，在 8 块 B300 上实现每用户每秒超过 500 个 token，在 4 块 GB300 上达到每秒 450 个 token。该版本还默认启用了推测解码 V2，并引入了 IndexShare 多 token 预测技术，将草稿步骤成本降低高达 1.9 倍。 这些优化显著提高了生产环境中大语言模型的服务效率，特别是在长上下文和高吞吐量场景下。默认的推测解码 V2 和 IndexShare MTP 降低了延迟和计算开销，有利于大规模部署大型模型的开发者。 推测解码 V2 通过可 CUDA 图化的 DSA 草稿扩展和融合元数据操作实现零开销调度，端到端每秒 token 数提升 11%。IndexShare MTP 在草稿步骤间复用索引器 top-k，在长上下文中将草稿步骤成本降低高达 1.9 倍。
-
-github · Fridge003 · Jul 10, 22:58
-
-**背景**: 推测解码是一种推理加速技术，它使用较小的草稿模型预测多个 token，然后由主模型并行验证，从而减少延迟。多 token 预测 (MTP) 通过一次预测多个未来 token 来扩展这一技术，提高效率。NVFP4 是 NVIDIA 的 4 位浮点精度格式，性能优于标准 FP4 或 MXFP4，可在 Blackwell 硬件上实现更快的推理。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/">The next generation of speculative decoding: DFlash and Spec V2</a></li>
-<li><a href="https://earlyterms.com/term/indexshare">IndexShare — Inference Optimization | EarlyTerms</a></li>
-
-</ul>
-</details>
-
-**标签**: `#LLM serving`, `#speculative decoding`, `#performance optimization`, `#SGLang`, `#Blackwell`
-
----
-
-<a id="item-25"></a>
-## [相对论被证实主导重元素化学键](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) ⭐️ 8.0/10
-
-新的实验研究证实，爱因斯坦的相对论通过自旋-轨道耦合主导重元素的化学键合，验证了狄拉克方程。 这一发现加深了我们对化学和物理学的基本理解，解释了金子的颜色和铅的电池适用性等重元素的独特性质，并可能影响材料科学和量子化学。 该研究发表在《科学》杂志上，提供了重元素中自旋-轨道耦合效应的实验验证，其中电子以接近光速的速度运行。
-
-hackernews · hhs · Jul 10, 22:30
-
-**背景**: 在重元素中，较大的核质量使轨道电子加速到接近光速，此时爱因斯坦的相对论变得重要。这导致自旋-轨道耦合，即电子的自旋和轨道不再独立。保罗·狄拉克将狭义相对论纳入量子力学的方程预测了这些效应，但化学键合中的直接实验确认此前有限。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Spin–orbit_interaction">Spin–orbit interaction - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Dirac_equation">Dirac equation - Wikipedia</a></li>
-<li><a href="https://chem.libretexts.org/Courses/New_York_University/G25.2666:_Quantum_Chemistry_and_Dynamics/2:_General_theory_of_spin/2.5:_Introduction_to_the_Dirac_Equation">2.5: Introduction to the Dirac Equation - Chemistry LibreTexts</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论者指出，重元素的相对论效应（如金子的颜色）早已为人所知，但称赞这是对狄拉克方程的直接实验确认。一些人讨论了σ键和π键的区别，还有人询问玻姆力学是否也能预测这些效应。
-
-**标签**: `#physics`, `#chemistry`, `#relativity`, `#quantum mechanics`, `#materials science`
-
----
-
-<a id="item-26"></a>
-## [强化学习实现量子处理器持续校准](https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/) ⭐️ 8.0/10
-
-研究人员证明，强化学习可以利用错误信息持续校准量子处理器，从而在不中断操作的情况下改进量子纠错。 该方法解决了维持量子处理器稳定性的关键挑战，通过使纠错更具适应性和效率，可能加速容错量子计算机的进展。 强化学习模型根据观察到的错误模式实时调整控制算法，实现无需人工干预或系统停机的持续校准。
-
-rss · Ars Technica · Jul 10, 23:02
-
-**背景**: 量子计算机对环境噪声高度敏感，这会导致计算错误。量子纠错通常依赖静态编码方案，需要大量物理量子比特来编码一个逻辑量子比特，而维持稳定性往往需要频繁的手动校准。强化学习是一种通过试错学习最优动作的机器学习技术，非常适合此类动态控制任务。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://czischek-group.uottawa.ca/Research/Reinforcement-Learning-for-Quantum-Optimal-Control">APRIQuOt | Reinforcement Learning for Quantum Optimal Control</a></li>
-<li><a href="https://arxiv.org/html/2408.11989v3">Controlling nonergodicity in quantum many-body systems by...</a></li>
-<li><a href="https://www.tsinghua.edu.cn/en/info/1245/12790.htm">Protecting entanglement between logical qubits via quantum error ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#quantum computing`, `#error correction`, `#reinforcement learning`, `#machine learning`, `#systems research`
-
----
-
 <a id="item-27"></a>
-## [中国首次回收可重复使用火箭，采用网捕新技术](https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/) ⭐️ 8.0/10
+## [OpenAI 发布 GPT-5.6 系列：Sol、Terra、Luna 三档模型](https://t.me/zaihuapd/42497) ⭐️ 9.0/10
 
-中国成功回收了首枚可重复使用火箭——长征十号乙（Long March-10B），采用创新的海上网捕系统，而非 SpaceX 传统的着陆腿方式。这一里程碑事件发生在 2026 年 7 月，标志着中国可重复使用火箭技术的重要进展。 这一成就展示了中国在可重复使用火箭技术方面与 SpaceX 竞争的能力，有望降低发射成本并加速其太空计划。新颖的网捕方法提供了更灵活的回收方式，可能影响全球航空航天工程实践。 长征十号乙火箭采用海上网捕系统进行回收，这是首创的方法，不同于 SpaceX 的垂直着陆腿方式。发射在中国酒泉卫星发射中心进行，火箭在海上被回收，突显了独特的工程解决方案。
+OpenAI 正式发布 GPT-5.6 系列，包含三个模型层级：旗舰 Sol、平衡性能与成本的 Terra，以及面向高并发低成本的 Luna。该系列引入了 max/ultra 推理、多智能体协作和 Programmatic Tool Calling，并在代码、知识工作、设计、科研和网络安全方面有显著提升。 此次发布标志着 OpenAI 模型策略的重大进展，通过提供针对不同用例和预算的分层能力，可能使先进 AI 更易获取且更具成本效益。多智能体协作和程序化工具调用等新功能，有望在企业与研究环境中实现更复杂、更自主的工作流程。 GPT-5.6 将默认指向 Sol 模型。max 推理模式为单次模型调用分配更多计算资源，而 ultra 模式则并行协调多个子智能体，以获得更强结果和更快的实际运行时间。Programmatic Tool Calling 在工作流中增加代码执行步骤，从而改善 token 节省、延迟和准确性。
 
-rss · Ars Technica · Jul 10, 21:41
+telegram · zaihuapd · Jul 11, 13:34
 
-**背景**: 可重复使用火箭旨在发射后安全着陆以便再次飞行，从而大幅降低进入太空的成本。SpaceX 凭借其猎鹰 9 号火箭使用垂直着陆腿开创了先河，而中国则一直在开发自己的可重复使用技术，以在日益增长的太空行业中竞争。长征十号乙是中国建造可重复使用运载火箭更广泛努力的一部分，包括测试可重复使用航天器和其他组件。
+**背景**: 像 GPT-4 这样的大型语言模型传统上以单一智能体运行，但多智能体系统的最新进展允许专门的 AI 智能体协作完成复杂任务。程序化工具调用进一步扩展了这一点，使智能体能够编写和执行调用工具的代码，将动态代码生成与预定义工具相结合。GPT-5.6 系列基于这些趋势，提供分层推理能力和成本优化。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.scmp.com/news/china/science/article/3360069/china-recovers-long-march-10b-reusable-rocket-maiden-launch">Long March-10B: China’s net-capture rocket joins space race with edge on SpaceX | South China Morning Post</a></li>
-<li><a href="https://www.nytimes.com/2026/07/10/world/asia/china-space-reusable-rocket-launch-spacex.html">China Launches Reusable Rocket, Clearing a Key Hurdle in Race With SpaceX - The New York Times</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Reusable_launch_vehicle">Reusable launch vehicle - Wikipedia</a></li>
+<li><a href="https://www.toolcolumn.com/learn/gpt-5-6-max-vs-ultra">GPT-5.6 Max vs Ultra: What Actually Changes? | ToolColumn</a></li>
+<li><a href="https://www.digitalapplied.com/blog/gpt-5-6-sol-terra-luna-public-ga">GPT-5.6 Goes Public: GA Pricing, Ultra Mode and Access</a></li>
+<li><a href="https://goranstimac.com/blog/gpt-5-6-ultra-mode-max-reasoning/">GPT-5.6 Ultra Mode and Max Reasoning: When Subagents Actually Help</a></li>
 
 </ul>
 </details>
 
-**标签**: `#reusable rockets`, `#space technology`, `#China`, `#aerospace engineering`, `#SpaceX`
+**标签**: `#OpenAI`, `#GPT-5.6`, `#AI models`, `#machine learning`, `#announcement`
 
 ---
 
 <a id="item-28"></a>
-## [苹果起诉 OpenAI 涉嫌窃取硬件机密](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets) ⭐️ 8.0/10
+## [vLLM v0.25.0：Model Runner V2 成为默认，PagedAttention 被移除](https://github.com/vllm-project/vllm/releases/tag/v0.25.0) ⭐️ 8.0/10
 
-苹果已对 OpenAI 及 Jony Ive 的硬件初创公司 io Products 提起诉讼，指控前苹果工程师窃取商业机密以推进 OpenAI 的硬件计划。 这起诉讼标志着两大科技合作伙伴之间的重大升级，可能重塑 AI 硬件格局，并为行业内的商业机密保护树立先例。 该诉讼特别点名了 io Products（OpenAI 于 2025 年 5 月以约 65 亿美元收购），并指控包括 Tang Tan 在内的前苹果员工存在系统性窃取行为。
+vLLM v0.25.0 将 Model Runner V2 设为所有密集模型的默认执行路径，移除了旧的 PagedAttention 实现，并引入了新的 Streaming Parser Engine 用于工具调用和推理解析。该版本还新增了对 LLaVA-OneVision-2、GLM-5 和 MiniMax-M3 等模型的支持，并使 Transformers 建模后端的速度与原生 vLLM 相当。 此版本标志着 vLLM 的重大架构转变，精简了其核心推理引擎，提升了性能和可维护性。PagedAttention 的移除和 Model Runner V2 的默认采用表明该项目已趋于成熟，将使大量使用 vLLM 进行 LLM 服务的开发者和组织受益。 Model Runner V2 用 GPU 原生的 Triton 内核取代了基于 Python 的模型运行器，并通过异步调度将 CPU 调度与 GPU 执行分离，在基准测试中实现了高达 56% 的吞吐量提升。由于 V1/MRv2 后端已成为标准路径，旧的 PagedAttention 实现已被删除，Transformers 建模后端也获得了 FP8 MoE 支持和 CUDA 图修复。
 
-rss · The Verge · Jul 10, 21:36
+github · khluu · Jul 11, 20:06
 
-**背景**: 苹果与 OpenAI 于 2024 年签署合作协议，将 ChatGPT 集成到苹果的 Siri 中，作为 Apple Intelligence 的一部分。然而，双方关系恶化，苹果新的 Siri AI 现已改用谷歌的 Gemini 技术。io Products 由前苹果设计总监 Jony Ive 联合创立，后被 OpenAI 收购以主导其硬件开发。
+**背景**: vLLM 是一个用于大型语言模型的高吞吐量、内存高效的推理引擎，最初通过 PagedAttention 来管理 KV 缓存内存。Model Runner V2 (MRv2) 的开发旨在解决早期 V1 架构中的根本性设计错误和技术债务，提供了一个更简洁、更模块化、更高效的执行核心。移除 PagedAttention 反映了项目对较新的 V1/MRv2 后端作为服务标准路径的信心。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Io_(company)">io (company) - Wikipedia</a></li>
-<li><a href="https://qz.com/apple-sues-openai-trade-secrets-tang-tan-071026">Apple sues OpenAI , Tang Tan over alleged trade secret theft</a></li>
-<li><a href="https://techstory.in/openai-acquires-jony-ives-hardware-startup-in-6-5-billion-deal/">OpenAI Acquires Jony Ive's Hardware Startup in $6.5 Billion ...</a></li>
+<li><a href="https://vllm.ai/blog/2026-03-24-mrv2">Model Runner V2: A Modular and Faster Core for vLLM | vLLM Blog</a></li>
+<li><a href="https://docs.vllm.ai/en/v0.22.1/design/model_runner_v2/">Model Runner V2 Design Document - vLLM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/PagedAttention">PagedAttention - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#OpenAI`, `#lawsuit`, `#trade secrets`, `#hardware`
+**标签**: `#vLLM`, `#LLM inference`, `#open source`, `#release notes`, `#AI infrastructure`
 
 ---
 
 <a id="item-29"></a>
-## [OpenAI 安全负责人 Johannes Heidecke 离职](https://www.wired.com/story/openai-head-of-safety-leaving/) ⭐️ 8.0/10
+## [苹果起诉 OpenAI 涉嫌窃取商业机密](https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html) ⭐️ 8.0/10
 
-OpenAI 安全负责人 Johannes Heidecke 已离开公司，这是该公司重组研究团队与安全团队的一部分。 这一离职引发了对 OpenAI 安全文化承诺的担忧，并可能削弱公众对 AI 治理的信任，尤其是在公司将安全职能整合进研究部门的背景下。 Heidecke 的离职是 OpenAI 一系列安全相关高层离职事件的最新一例，此次重组旨在将安全监督与核心研究工作统一起来。
+苹果已对 OpenAI 提起诉讼，指控其窃取苹果的商业机密，这标志着双方 2024 年 AI 合作关系的急剧破裂。 这两家科技巨头之间的法律战可能会重塑 AI 行业，冷却未来的合作，并为 AI 合作中如何保护商业机密树立先例。 该诉讼源于 2024 年的一项协议，OpenAI 同意在苹果设备上提供 AI 服务，但此后合作关系恶化，最终导致了这些指控。
 
-rss · WIRED · Jul 11, 01:07
+rss · NYTimes Technology · Jul 11, 18:00
 
-**背景**: OpenAI 一直因其安全实践受到持续审视，尤其是在快速发布 GPT-4 等强大 AI 模型之后。一位高级安全负责人的离职，暗示了快速产品开发与严格安全规程之间可能存在的内部紧张关系。
+**背景**: 2024 年，苹果与 OpenAI 达成合作，将 OpenAI 的 AI 服务集成到苹果设备中。此类合作通常涉及共享敏感技术信息，若一方被指控滥用这些信息，就可能引发纠纷。
 
-**标签**: `#AI safety`, `#OpenAI`, `#leadership change`, `#AI governance`
+**标签**: `#Apple`, `#OpenAI`, `#lawsuit`, `#AI`, `#corporate secrets`
 
 ---
 
 <a id="item-30"></a>
-## [苹果起诉 OpenAI 窃取商业机密涉硬件业务](https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html) ⭐️ 8.0/10
+## [AI 发现 15 年之久的 Linux 内核 root 漏洞](https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/) ⭐️ 8.0/10
 
-2026 年 7 月 10 日，苹果在美国加州北区联邦法院起诉 OpenAI、两名前员工及 io Products，指控其系统性窃取与产品设计、制造工艺及供应链相关的商业机密，以推进 OpenAI 的硬件业务。 这起两大科技巨头之间的诉讼可能重塑 AI 硬件领域的竞争格局，OpenAI 通过收购 Jony Ive 创立的 io Products 而起步的设备业务面临严重的法律风险，可能导致其产品路线图延迟或受阻。 苹果指控前员工 Chang Liu 离职后仍访问内部网络并下载数十份硬件文件，而 OpenAI 硬件负责人 Tang Yew Tan 被指在离职前将供应商资料发送至个人邮箱，并要求求职者携带苹果零部件参加面试；苹果还声称目前有超过 400 名前员工在 OpenAI 工作。
+Nebula Security 的安全研究人员利用 AI 工具发现了 GhostLock（CVE-2026-43499），这是一个存在 15 年之久的 Linux 内核权限提升漏洞，允许任何已登录用户获得完全 root 控制权或逃逸容器。该漏洞自 2011 年以来一直存在于几乎所有主流 Linux 发行版中。 这一发现展示了 AI 在网络安全领域日益重要的作用，它找到了人类审查员十多年来都未能发现的严重漏洞。这凸显了 AI 辅助漏洞检测能够揭示基础软件中深藏的缺陷，从而可能防止大规模利用。 该漏洞位于 Linux 内核的 futex 和 rtmutex 优先级继承代码中，无特权的本地攻击者可以利用它获得 root 访问权限或逃逸容器。该漏洞编号为 CVE-2026-43499，自 2011 年以来默认存在于所有主要发行版中。
 
-telegram · zaihuapd · Jul 11, 03:14
+rss · WIRED · Jul 11, 10:30
 
-**背景**: OpenAI 以 ChatGPT 等 AI 模型闻名，近年来正拓展硬件业务。2025 年 5 月，它收购了由前苹果设计总监 Jony Ive 创立的 io Products，以主导消费级设备开发。首款设备原计划 2026 年发布，但因商标纠纷据报道已推迟至 2027 年。科技行业的商业秘密诉讼通常涉及员工将机密信息带至竞争对手的指控。
+**背景**: Linux 内核是操作系统的核心，负责管理硬件和系统资源。像 GhostLock 这样的权限提升漏洞允许普通用户获得管理员级别（root）的访问权限，可能导致系统完全被攻破。容器逃逸在多个容器共享同一内核的云环境中尤其危险。AI 工具正越来越多地被用于自动化检测大型代码库中的此类细微缺陷。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/">Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit - Engadget</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Io_(company)">io (company) - Wikipedia</a></li>
-<li><a href="https://builtin.com/articles/openai-device">OpenAI’s New Device: What We Know So Far | Built In</a></li>
+<li><a href="https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html">15-Year-Old GhostLock Flaw Enables Root and Container Escape ...</a></li>
+<li><a href="https://linuxiac.com/15-year-old-linux-kernel-ghostlock-flaw-lets-local-users-gain-root/">15-Year-Old Linux Kernel GhostLock Flaw Lets Local Users Gain ...</a></li>
+<li><a href="https://cyberpress.org/15-year-old-ghostlock-linux-kernel-flaw/">15-Year-Old GhostLock Linux Kernel Flaw Lets Attackers Gain ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#lawsuit`, `#trade secrets`, `#Apple`, `#OpenAI`, `#hardware`
+**标签**: `#AI`, `#Linux`, `#security`, `#vulnerability`, `#kernel`
 
 ---
 
 <a id="item-31"></a>
-## [U-Boot 引导程序漏洞可在系统启动前执行代码](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/) ⭐️ 8.0/10
+## [中国天问二号探测器抵达地球准卫星](https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/) ⭐️ 8.0/10
 
-固件安全公司 Binarly 披露了 U-Boot 引导程序 FIT 签名验证代码中的 6 个漏洞，其中 2 个可导致任意代码执行，4 个可造成设备崩溃，影响自 U-Boot 2013.07 版本以来的所有版本。 这些漏洞允许攻击者在操作系统和安全软件启动之前执行恶意代码，可能禁用固件安全功能、修改启动流程或植入持久性固件恶意软件，影响超过 50 个稳定版本及大量下游厂商分支。 这些漏洞（BRLY-2026-037 至 BRLY-2026-042）位于固件验证阶段，对于支持远程固件更新的 BMC 等系统，攻击者无需物理接触即可利用；补丁已提交并获 U-Boot 维护者接受，但修复需要硬件厂商集成到固件更新中才能分发。
+中国的天问二号太空探测器已与地球的准卫星 Kamo'oalewa 交会，并传回了该小行星的首批图像。下一步，该任务将尝试着陆其表面并采集样本返回地球。 这一里程碑使中国跻身少数几个能够执行小行星采样返回任务的国家之列，此前仅有美国和日本成功实现。该任务可能为地球准卫星的起源以及早期太阳系提供关键见解。 天问二号预计将从 Kamo'oalewa（编号 2016 HO3）采集样本，随后对主带彗星 311P 进行飞越探测。该探测器目前距地球约 300 万公里，状态良好。
 
-telegram · zaihuapd · Jul 11, 08:32
+rss · WIRED · Jul 11, 09:30
 
-**背景**: U-Boot 是嵌入式设备中广泛使用的开源引导程序，负责加载和验证操作系统。FIT（Flattened Image Tree）签名用于加密验证启动映像的完整性和真实性，确保只执行受信任的代码。这些漏洞绕过了这一验证，允许不受信任的代码在操作系统启动前运行。
+**背景**: Kamo'oalewa 在夏威夷语中意为“振荡的天体”，是一颗与地球同步绕太阳运行的准卫星。近期研究表明，它可能是数百万年前从月球上撞击飞溅出的碎片。天问系列任务以中国古典诗歌命名，代表中国的行星际探测计划。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://docs.u-boot-project.org/en/latest/usage/fit/signature.html">U - Boot FIT Signature Verification — Das U - Boot unknown version...</a></li>
-<li><a href="https://cybersecuritynews.com/u-boot-fit-signature-verification/">Six U - Boot FIT Signature Verification Flaws Enable Code Execution...</a></li>
-<li><a href="https://www.binarly.io/">Binary-Level Product Security for Shipped Software and Firmware</a></li>
+<li><a href="https://www.ecns.cn/news/sci-tech/2025-06-06/detail-ihesawyz5555840.shtml">Tianwen 2 mission in good condition, 3m km from Earth</a></li>
+<li><a href="https://english.news.cn/asiapacific/20250529/3f600ebf7ef44aae8f31a4e96e2a463b/c.html">Scientists in Australia watch closely as China launches Tianwen - 2 probe</a></li>
+<li><a href="https://room.eu.com/news/near-earth-asteroid-might-be-a-piece-of-the-moon">Near-Earth asteroid might be a piece of the Moon</a></li>
 
 </ul>
 </details>
 
-**标签**: `#security`, `#bootloader`, `#firmware`, `#vulnerability`, `#U-Boot`
+**标签**: `#space exploration`, `#asteroid`, `#China`, `#sample return`, `#planetary science`
 
 ---
 
 <a id="item-32"></a>
-## [CISA 在事件发生期间临时构建应急手册](https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/) ⭐️ 7.0/10
+## [Slopsquatting：AI 幻觉催生新型软件供应链攻击](https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools) ⭐️ 8.0/10
 
-在 GitGuardian 研究人员发现一名承包商将凭证暴露在公共 GitHub 仓库后，CISA 被迫实时制定其事件响应手册。 这暴露了美国最高网络安全机构的关键运营漏洞，损害了其公信力，并凸显了承包商凭证管理中的系统性风险，可能影响国家安全。 暴露的凭证由 CISA 承包商的一名员工上传，该事件最初由独立网络安全记者 Brian Krebs 于 2026 年 5 月报道。
+研究人员发现了一种名为 slopsquatting 的新型软件供应链攻击，网络犯罪分子利用 AI 编程助手的幻觉，将恶意代码注入开发流程。攻击者注册大语言模型经常虚构的软件包名称，然后用恶意软件填充这些包，使其被直接整合到开发者的代码库中。 这种威胁绕过了针对域名抢注的传统防护，因为幻觉生成的包名并非流行库的简单拼写错误。随着 AI 编程工具日益普及，slopsquatting 可能导致恶意软件在无数生产环境中长期潜伏数月甚至数年而不被发现。 一项研究分析了 10 种编程语言中 14,675 个包的 31,267 个漏洞，发现报告漏洞数量每年增长 98%，漏洞平均寿命增加 85%。例如，虽然注册中心会阻止像针对“cross-env”的“crossenv”这样的域名抢注，但无法识别像“cross-env-extended”这样的幻觉名称是否为威胁。
 
-rss · TechCrunch · Jul 11, 01:01
+rss · VentureBeat · Jul 11, 16:00
 
-**背景**: CISA（网络安全和基础设施安全局）是美国负责保护国家关键基础设施免受网络威胁的联邦机构。事件响应手册是组织在发生安全漏洞时遵循的预定义程序和指南集。在活跃事件期间不得不创建这样的手册表明缺乏准备。
+**背景**: 域名抢注是一种长期存在的攻击方式，网络犯罪分子注册流行域名或软件包名称的拼写错误版本以欺骗用户。AI 编程助手（如 GitHub Copilot 或 ChatGPT）可能会产生幻觉——生成虚假但听起来合理的信息，包括虚构的软件包名称。Slopsquatting 结合了这两个概念：攻击者利用 AI 幻觉，注册模型经常虚构的假包名，然后用恶意软件填充它们。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.gitguardian.com/">GitGuardian : Secrets Security and NHI Governance</a></li>
-<li><a href="https://www.cisa.gov/resources-tools/programs/Incident-Response-Training">Incident Response Training | CISA</a></li>
+<li><a href="https://www.linkedin.com/pulse/slopsquatting-typosquatting-new-software-supply-chain-dubois-y6afe">Slopsquatting , Typosquatting , and the New Software Supply Chain...</a></li>
+<li><a href="https://www.augmentcode.com/learn/slopsquatting">Slopsquatting : Stop AI-Generated Package Traps | Augment Code</a></li>
+<li><a href="https://xygeni.io/blog/slopsquatting-attack-prevention/">Slopsquatting Attacks : AI's New Supply Chain Threat | Xygeni</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cybersecurity`, `#CISA`, `#incident response`, `#credential exposure`, `#GitHub`
+**标签**: `#AI security`, `#supply chain attack`, `#LLM`, `#software engineering`, `#cybersecurity`
 
 ---
 
 <a id="item-33"></a>
-## [Phia 被指控通过 cookie stuffing 窃取联盟佣金](https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/) ⭐️ 7.0/10
+## [U-Boot 引导程序漏洞可导致操作系统启动前执行代码](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/) ⭐️ 8.0/10
 
-据彭博社调查，由比尔·盖茨之女菲比·盖茨和索菲亚·基安尼联合创立的购物初创公司 Phia 被指控使用“cookie stuffing”技术，在未实际促成销售的情况下欺诈性地获取联盟佣金。 此案凸显了联盟营销中严重的道德和技术违规行为，可能削弱行业信任，并引发对知名初创公司监管问题的质疑。同时，它也提醒人们关注联盟欺诈这一更广泛的问题，该问题每年给广告商造成数十亿美元的损失。 Cookie stuffing 是指在用户不知情或未点击合法链接的情况下，将联盟跟踪 cookie 植入用户浏览器，从而使欺诈者能够将未促成的销售归功于自己。据彭博社报道，Phia 的浏览器扩展和移动应用被指控从事了此类行为。
+固件安全公司 Binarly 披露了 U-Boot 的 FIT 签名验证代码中的六个漏洞，其中两个可导致任意代码执行，四个可造成设备崩溃，影响自 2013.07 版本以来的所有版本。 这些漏洞使攻击者能够在操作系统和安全软件启动之前执行恶意代码，可能禁用固件安全功能、修改启动流程或植入持久性固件恶意软件，影响数百万台设备。 这些漏洞影响超过 50 个 U-Boot 稳定版本及大量下游厂商分支，已停止支持的老旧设备可能永远无法获得修复。Binarly 已向 U-Boot 维护者提交补丁并获接受，但需要硬件厂商集成到固件更新后才能分发。
 
-rss · TechCrunch · Jul 11, 00:29
+telegram · zaihuapd · Jul 11, 08:32
 
-**背景**: 联盟营销是一种基于业绩的营销模式，发布商通过独特的跟踪链接为商家带来销售或流量，从而赚取佣金。Cookie 用于跟踪这些推荐。Cookie stuffing 是一种黑帽技术，联盟成员在没有真实推荐的情况下植入 cookie，从而窃取佣金。Phia 在 2026 年初筹集了 3500 万美元，定位为一款 AI 驱动的购物助手，帮助用户寻找二手替代品。
+**背景**: U-Boot 是嵌入式设备中广泛使用的开源引导程序，负责加载操作系统。FIT（扁平化镜像树）是一种标准文件格式，用于打包启动镜像并附带加密签名以进行完整性验证。这些漏洞存在于 FIT 签名验证在完成验证前处理不可信镜像的方式中，从而允许绕过安全启动链。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Cookie_stuffing">Cookie stuffing - Wikipedia</a></li>
-<li><a href="https://chargebacks911.com/cookie-stuffing/">How Cookie Stuffing Could Be Making Your Affiliate Marketing ... Top Stories Phia accused of 'cookie stuffing,' taking affiliate credit on ... Cookie Stuffing Explained: How It Works, and Why It Gets ... What Is Cookie Stuffing In Affiliate Marketing? (& How To ... Cookie Stuffing in Affiliate Marketing: How to Detect ... What Is Affiliate Cookie Stuffing? - affvertising.com</a></li>
-<li><a href="https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/">Phia accused of 'cookie stuffing,' taking affiliate credit on ...</a></li>
+<li><a href="https://docs.u-boot-project.org/en/latest/usage/fit/signature.html">U-Boot FIT Signature Verification</a></li>
+<li><a href="https://cybersecuritynews.com/u-boot-fit-signature-verification/">Six U-Boot FIT Signature Verification Flaws Enable Code ...</a></li>
+<li><a href="https://docs.u-boot-project.org/en/latest/usage/fit/index.html">Flat Image Tree (FIT) — Das U-Boot unknown version documentation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#affiliate marketing`, `#cookie stuffing`, `#fraud`, `#startup`, `#ethics`
+**标签**: `#security`, `#firmware`, `#U-Boot`, `#vulnerability`, `#bootloader`
 
 ---
 
 <a id="item-34"></a>
-## [Meta 因争议关闭 Instagram AI 深度伪造功能](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes) ⭐️ 7.0/10
+## [上海发布脑机接口行动计划，2027 年实现高质量脑控](https://t.me/zaihuapd/42501) ⭐️ 8.0/10
 
-Meta 已关闭 Instagram 上允许用户通过标记公共账户来生成基于其内容的 AI 图像的功能，此前该功能因隐私和版权问题引发强烈争议。 这一撤回凸显了 AI 创新与用户同意之间的紧张关系，尤其是在 Instagram 这样的主要平台上，公共内容容易被滥用。它为科技公司如何处理 AI 生成内容的伦理问题树立了先例。 该功能与 Meta 的新 AI 图像生成模型 Muse Image 一同推出，允许任何用户标记公共 Instagram 账户来创建 AI 图像，无需账户所有者许可。好莱坞经纪公司和用户提出了隐私和版权担忧，导致其被移除。
+上海市科学技术委员会印发了《上海市脑机接口未来产业培育行动方案（2025-2030 年）》，目标是在 2027 年前实现高质量脑控，半侵入式脑机接口产品在国内率先实现临床应用，并取得侵入式脑机接口研发突破。 这一政策标志着上海作为中国领先城市，正大力推动脑机接口技术从实验室走向临床，有望使上海成为全球神经技术中心。它可能加速开发针对瘫痪或失语患者的变革性疗法。 该计划明确要求推动 5 款以上侵入式和半侵入式脑机接口产品完成医疗器械型式检验和临床试验，旨在帮助失语和瘫痪患者恢复部分语言和运动功能。
 
-rss · The Verge · Jul 10, 23:49
+telegram · zaihuapd · Jul 11, 15:49
 
-**背景**: Muse Image 是 Meta 超级智能实验室推出的首个 AI 图像生成模型，通过调用搜索和编码工具来提高准确性，根据文本提示生成图像。Instagram 功能扩展了这一能力，允许用户基于现有公共资料生成图像，这立即引发了关于同意和数字肖像所有权的伦理问题。
+**背景**: 脑机接口（BCI）使大脑与外部设备之间能够直接通信。半侵入式脑机接口将电极置于头骨下但未进入脑组织，在信号质量和安全性之间取得平衡；而侵入式脑机接口需要通过手术将传感器植入大脑内部以获得最清晰的信号。该计划建立在中国国家层面推动新兴神经技术领域领先地位的更广泛战略之上。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/">Meta removes controversial AI feature on Instagram after ...</a></li>
-<li><a href="https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/">Introducing Muse Image: Image Generation Built for Your World</a></li>
-<li><a href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/">Introducing Muse Image and Muse Video</a></li>
+<li><a href="https://zh.wikipedia.org/zh-hans/脑机接口">脑机接口 - 维基百科，自由的百科全书</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/699343201">侵入式、半侵入式、非侵入式脑机接口，具体应该怎么选 - 知乎</a></li>
+<li><a href="https://www.guancha.cn/haoping/2025_01_14_762077.shtml">脑机接口竞赛：又一场典型的中美模式较量-好评</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI ethics`, `#Meta`, `#Instagram`, `#deepfakes`, `#privacy`
+**标签**: `#brain-computer interface`, `#neurotechnology`, `#government policy`, `#clinical application`, `#Shanghai`
 
 ---
 
 <a id="item-35"></a>
-## [微软碳排放量飙升 25%](https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/) ⭐️ 7.0/10
+## [Meta 因争议移除 Instagram AI 工具](https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html) ⭐️ 7.0/10
 
-微软披露，其碳排放量较 2020 年基准增长了 25%，主要原因是数据中心扩张导致电力消耗增加。 一家大型科技公司碳排放的显著增长，凸显了扩展 AI 和云基础设施所面临的环境挑战，可能影响整个行业的可持续发展目标和监管审查。 这一 25%的增长是基于微软 2020 年基准计算的，而该公司仍在大力投资数据中心容量以支持 Azure OpenAI 等 AI 服务。
+Meta 于 2026 年 7 月 10 日从其 Instagram 平台上移除了人工智能图像生成工具 Muse Image，该工具上线仅数日便因用户和好莱坞机构对隐私与版权的担忧而引发争议。 这一事件凸显了大型科技公司与创意产业之间在 AI 使用受版权保护材料方面日益加剧的紧张关系，并可能影响未来社交媒体平台上的 AI 监管和内容审核政策。 Muse Image 由 Meta Superintelligence Labs 开发，集成在 Meta 的 AI 聊天机器人中，允许用户以照片为输入进行图像编辑；在移除前，该功能还可在 WhatsApp 和 Meta AI 应用上使用。
 
-rss · WIRED · Jul 10, 23:16
+rss · NYTimes Technology · Jul 11, 12:34
 
-**背景**: 数据中心是为云计算和 AI 工作负载提供动力的高能耗设施。与其他科技巨头一样，微软已承诺到 2030 年实现碳负排放，但 AI 需求的快速增长正对这些目标构成压力。
-
-**标签**: `#sustainability`, `#data centers`, `#cloud computing`, `#carbon emissions`, `#Microsoft`
-
----
-
-<a id="item-36"></a>
-## [SK 海力士 CEO 预警 2027 年将迎史上最严重内存短缺](https://www.reuters.com/world/asia-pacific/sk-hynix-ceo-sees-worst-ever-memory-supply-shortage-2027-says-demand-outstrip-2026-07-10/) ⭐️ 7.0/10
-
-SK 海力士 CEO 郭鲁正警告称，全球内存行业将在 2027 年面临史上最严重的供应短缺，即便积极扩产，客户需求在 2030 年后仍将超过供应能力。这一警告发布当天，SK 海力士在纳斯达克首日交易，股价收涨 13.3%报 168.85 美元。 来自顶级内存制造商的这一警告预示着一次长期且严重的供应短缺，可能扰乱全球科技供应链，影响从 AI 数据中心到消费电子产品的各个领域。这凸显了 AI 驱动下对内存需求的激增与行业快速扩产能力有限之间的结构性失衡。 SK 海力士 2025 年营业利润达创纪录的 47 万亿韩元（约 310 亿美元），2026 年第二季度利润预计进一步增至 65.5 万亿韩元。该公司正在考虑在美国、日本及东南亚选址建设海外晶圆厂，将优先选择土地、电力和人力成本最具优势的地区。
-
-telegram · zaihuapd · Jul 11, 00:45
-
-**背景**: 内存芯片（包括 DRAM 和 NAND 闪存）是计算机、智能手机以及日益增长的 AI 服务器中的关键组件。半导体行业历史上经历过周期性的繁荣与萧条，但当前由人工智能驱动的需求激增正在造成前所未有的持续失衡。SK 海力士是全球最大的内存芯片制造商之一，与三星电子和美光科技齐名。
+**背景**: 像 Muse Image 这样的生成式 AI 工具可以根据用户提示创建或编辑图像，其训练数据常包含未经许可的受版权保护作品。好莱坞机构和工会对此类做法日益强烈反对，认为它们剥削了艺术家的作品并侵犯了知识产权。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://money.udn.com/money/story/5599/9179596">AI狂熱引爆新供應危機 記憶體 短 缺 恐續至 2027 ... | 經濟日報</a></li>
-<li><a href="https://3dnews.ru/1144950/glava-sk-hynix-zayavil-chto-defitsit-pamyati-dostignet-pika-v-2027-godu-no-sohranitsya-dage-v-sleduyushchem-desyatiletii">Глава SK hynix заявил, что дефицит памяти достигнет пика в 2027 ...</a></li>
-<li><a href="https://www.rlut.cn/news/xin-pian-zhi-zao-chang-xuan-zhi-fen-xi-biao-jie-shi-guan-jian-yin-su-di-yuan-zheng-zhi-yu-gong-ying.html">芯片制造厂选址分析表揭示关键因素 地缘政治与供应链安全如何影响决策...</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy">Meta ditches Muse Image AI feature because it... | The Guardian</a></li>
+<li><a href="https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/">Meta just launched a new AI generator, Muse Image ... | TechCrunch</a></li>
+<li><a href="https://www.cnbc.com/2025/10/09/caa-open-ai-sora-copyright-talent-agency.html">Top Hollywood agencies slam OpenAI's Sora as 'exploitation'</a></li>
 
 </ul>
 </details>
 
-**标签**: `#memory`, `#supply chain`, `#semiconductor`, `#SK Hynix`, `#industry forecast`
+**标签**: `#AI`, `#privacy`, `#copyright`, `#Meta`, `#Instagram`
+
+---
+
+<a id="item-36"></a>
+## [OpenAI 安全负责人因重组离职](https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization/) ⭐️ 7.0/10
+
+OpenAI 的安全负责人将离职，这是公司重组的一部分，重组后将研究团队和安全团队合并，由一位高管统一管理。 这一变动可能表明 OpenAI 对安全监督的优先级有所调整，进而影响整个 AI 行业在负责任开发和治理方面的做法。 离职的职位将由一位同时管理研究团队和安全团队的高管接替，从而将此前分开的职能合并。
+
+rss · Engadget · Jul 11, 15:39
+
+**背景**: OpenAI 一直面临如何平衡快速 AI 发展与安全预防措施的持续审视。此次重组正值行业就 AI 治理以及大型 AI 实验室中专门安全团队的角色展开更广泛辩论之际。
+
+**标签**: `#AI safety`, `#OpenAI`, `#organizational change`, `#AI governance`
+
+---
+
+<a id="item-37"></a>
+## [智谱创始人启动“摸高计划”聚焦 AGI](https://mp.weixin.qq.com/s/3CQSkf_kBnXiCDgS4L-Cgg) ⭐️ 7.0/10
+
+智谱创始人唐杰宣布启动“摸高计划”，这是一项优先考虑 AGI 研究而非短期商业化的内部倡议，并将在机械可解释性和安全性方面投入巨资。该公司 GLM-5.2 模型的能力已接近海外最前沿模型。 这标志着中国一家主要 AI 实验室战略转向长期 AGI 研究，可能加速 AI 安全性和可解释性方面的进展。它也凸显了机械可解释性作为通往安全 AGI 开发关键路径的日益重要性。 唐杰概述了需要翻越的四座高峰：长程任务、自治智能体系统、完全自我训练和极致安全治理。智谱计划投入百亿级资源攻坚机械可解释性，推动黑盒模型透明化。
+
+telegram · zaihuapd · Jul 11, 13:59
+
+**背景**: 机械可解释性是 AI 研究的一个子领域，旨在逆向工程神经网络的内部算法和电路，类似于调试软件。这种方法被视为确保 AI 安全和对齐的关键，因为它能提供对模型如何得出输出的细粒度、因果性理解。智谱 AI 以其开源 GLM 系列模型而闻名，这些模型在中国 AI 社区中被广泛使用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Mechanistic_interpretability">Mechanistic interpretability</a></li>
+<li><a href="https://arxiv.org/abs/2404.14082">[2404.14082] Mechanistic Interpretability for AI Safety -- A ...</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-agents">What Are AI Agents ? | IBM</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AGI`, `#AI safety`, `#mechanistic interpretability`, `#Zhipu AI`, `#open-source AI`
+
+---
+
+<a id="item-38"></a>
+## [谷歌反对欧洲网站屏蔽，美国反盗版立法加速](https://torrentfreak.com/google-opposes-site-blocking-in-europe-as-u-s-piracy-blocking-plans-gain-momentum/) ⭐️ 7.0/10
+
+谷歌向欧盟委员会提交文件，反对扩大网站屏蔽措施，称屏蔽 DNS 解析器、IP 地址和 VPN 的做法无效且不成比例。与此同时，美国国会正在推进类似的反盗版立法，众议员 Issa 计划提出网站屏蔽法案，众议员 Lofgren 也确认正在进行跨党派谈判。 这凸显了谷歌潜在的政策矛盾——它在欧洲反对网站屏蔽，却未对美国类似立法公开表态。结果可能影响全球互联网治理和版权执法，波及 DNS、VPN 和 CDN 服务。 谷歌的文件引用了误封案例，包括意大利的 Piracy Shield 系统误封 Google Drive 子域名以及托管 4200 万个域名的 Cloudflare IP 地址。谷歌主张通过提供更好的合法替代服务来解决盗版，而非扩大屏蔽措施。
+
+telegram · zaihuapd · Jul 11, 15:10
+
+**背景**: 网站屏蔽是一种常见的反盗版技术，当局要求互联网服务提供商或 DNS 解析器阻止访问与盗版相关的域名或 IP 地址。然而，这类措施可能导致误封，影响 Google Drive 和 Cloudflare 等合法服务。意大利的 Piracy Shield 系统自 2024 年初推出以来，因依赖自动化的粗放式 DNS 和 IP 层面拦截，屡次误封合法内容而引发争议。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://news.sina.cn/bignews/insight/2026-01-12/detail-inhfyxew7706872.d.html?vt=4">反盗版系统误封合法网站，用户维权为何如此艰难？ (含视频)|犯罪嫌疑...</a></li>
+<li><a href="https://www.sohu.com/a/853267578_100106801">意大利反盗版系统 Piracy Shield 引发争议，误封合法网站频发</a></li>
+<li><a href="https://post.smzdm.com/p/a4xvmlxw/">关于移动宽带擅自修改DNS解析屏蔽域名访问的逆天行为以及解决方案_路...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#internet governance`, `#copyright`, `#Google`, `#site blocking`, `#piracy`
+
+---
+
+<a id="item-39"></a>
+## [苹果起诉 OpenAI 窃取商业机密涉足硬件](https://t.me/zaihuapd/42502) ⭐️ 7.0/10
+
+2026 年 7 月 10 日，苹果在美国加州北区联邦法院对 OpenAI、两名前员工及 io Products 提起诉讼，指控 OpenAI 系统性窃取与产品设计、制造和供应链相关的商业机密，以加速其消费硬件业务。 这起诉讼凸显了苹果与 OpenAI 之间因后者进军硬件领域而加剧的紧张关系，可能重塑 AI 设备市场的竞争格局，并为科技行业的商业秘密保护树立法律先例。 苹果指控前员工 Chang Liu 在离职后仍访问内部网络并下载数十份硬件文件，而 OpenAI 硬件负责人 Tang Yew Tan 在离职前将供应商资料发送至个人邮箱，并要求求职者携带苹果零部件参加面试。
+
+telegram · zaihuapd · Jul 11, 16:29
+
+**背景**: OpenAI 主要以 ChatGPT 等 AI 软件闻名，自 2025 年 5 月收购由前苹果设计师 Jony Ive 联合创立的 io Products 以来，一直在构建硬件业务。苹果在法庭文件中称 OpenAI 的硬件业务“从核心开始腐烂”，依赖窃取的商业机密。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/">Apple Calls OpenAI 's Hardware Business 'Rotten To Its Core' In...</a></li>
+<li><a href="https://www.macrumors.com/2026/07/10/apple-sues-openai/">Apple Sues OpenAI for Stealing Trade Secrets to Build AI Hardware</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Io_Products">Io Products</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#OpenAI`, `#trade secrets`, `#lawsuit`, `#hardware`
 
 ---
